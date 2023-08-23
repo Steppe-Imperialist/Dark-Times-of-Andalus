@@ -1,0 +1,58 @@
+﻿MOL = {
+	battle_cruiser = {
+		prefix = ""
+		generic = { "Battlecruiser" }
+		unique = {
+			"Moldova" "Stefan cel Mare" "Mihail Sturdza" "Athleta Christi" "Baia" "Bogdan I" "Iuga" "Râul Prut" "Suceava" "Târgul Moldovei" "Vaslui" 
+		}
+	}
+
+	battleship = {
+		prefix = ""
+		generic = { "Battleship" }
+		unique = {
+			"Moldova" "Stefan cel Mare" "Mihail Sturdza" "Athleta Christi" "Baia" "Bogdan I" "Iuga" "Râul Prut" "Suceava" "Târgul Moldovei" "Vaslui" 
+		}
+	}
+
+	carrier = {
+		prefix = ""
+		generic = { "Carrier" }
+		unique = {
+			"Moldova" "Stefan cel Mare" "Mihail Sturdza" "Athleta Christi" "Baia" "Bogdan I" "Iuga" "Râul Prut" "Suceava" "Târgul Moldovei" "Vaslui" 
+		}
+	}
+
+	destroyer = {
+		prefix = ""
+		generic = { "Destroyer" }
+		unique = {
+			"Moldova" "Stefan cel Mare" "Mihail Sturdza" "Athleta Christi" "Baia" "Bogdan I" "Iuga" "Râul Prut" "Suceava" "Târgul Moldovei" "Vaslui" 
+		}
+	}
+
+	heavy_cruiser = {
+		prefix = ""
+		generic = { "Heavy Cruiser" }
+		unique = {
+			"Moldova" "Stefan cel Mare" "Mihail Sturdza" "Athleta Christi" "Baia" "Bogdan I" "Iuga" "Râul Prut" "Suceava" "Târgul Moldovei" "Vaslui" 
+		}
+	}
+
+	light_cruiser = {
+		prefix = ""
+		generic = { "Light Cruiser" }
+		unique = {
+			"Moldova" "Stefan cel Mare" "Mihail Sturdza" "Athleta Christi" "Baia" "Bogdan I" "Iuga" "Râul Prut" "Suceava" "Târgul Moldovei" "Vaslui" 
+		}
+	}
+
+	submarine = {
+		prefix = ""
+		generic = { "Submarine" }
+		unique = {
+			"Moldova" "Stefan cel Mare" "Mihail Sturdza" "Athleta Christi" "Baia" "Bogdan I" "Iuga" "Râul Prut" "Suceava" "Târgul Moldovei" "Vaslui" 
+		}
+	}
+
+}

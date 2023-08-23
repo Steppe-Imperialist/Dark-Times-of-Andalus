@@ -1,0 +1,58 @@
+﻿X47 = {
+	battle_cruiser = {
+		prefix = ""
+		generic = { "Battlecruiser" }
+		unique = {
+			"Pendet" "Legong" "Baris" "Topeng" "Barong" "Kecak" "Batur" "Catur" "Bratan" "Pohen" "Lesong" "Sangyang" "Batukaru" "Patas" "Musi" "Mesehe" "Agong" "Seraya" "Merbuk" "Sanglang" "Kelatakan" 
+		}
+	}
+
+	battleship = {
+		prefix = ""
+		generic = { "Battleship" }
+		unique = {
+			"Pendet" "Legong" "Baris" "Topeng" "Barong" "Kecak" "Batur" "Catur" "Bratan" "Pohen" "Lesong" "Sangyang" "Batukaru" "Patas" "Musi" "Mesehe" "Agong" "Seraya" "Merbuk" "Sanglang" "Kelatakan" 
+		}
+	}
+
+	carrier = {
+		prefix = ""
+		generic = { "Carrier" }
+		unique = {
+			"Pendet" "Legong" "Baris" "Topeng" "Barong" "Kecak" "Batur" "Catur" "Bratan" "Pohen" "Lesong" "Sangyang" "Batukaru" "Patas" "Musi" "Mesehe" "Agong" "Seraya" "Merbuk" "Sanglang" "Kelatakan" 
+		}
+	}
+
+	destroyer = {
+		prefix = ""
+		generic = { "Destroyer" }
+		unique = {
+			"Pendet" "Legong" "Baris" "Topeng" "Barong" "Kecak" "Batur" "Catur" "Bratan" "Pohen" "Lesong" "Sangyang" "Batukaru" "Patas" "Musi" "Mesehe" "Agong" "Seraya" "Merbuk" "Sanglang" "Kelatakan" 
+		}
+	}
+
+	heavy_cruiser = {
+		prefix = ""
+		generic = { "Heavy Cruiser" }
+		unique = {
+			"Pendet" "Legong" "Baris" "Topeng" "Barong" "Kecak" "Batur" "Catur" "Bratan" "Pohen" "Lesong" "Sangyang" "Batukaru" "Patas" "Musi" "Mesehe" "Agong" "Seraya" "Merbuk" "Sanglang" "Kelatakan" 
+		}
+	}
+
+	light_cruiser = {
+		prefix = ""
+		generic = { "Light Cruiser" }
+		unique = {
+			"Pendet" "Legong" "Baris" "Topeng" "Barong" "Kecak" "Batur" "Catur" "Bratan" "Pohen" "Lesong" "Sangyang" "Batukaru" "Patas" "Musi" "Mesehe" "Agong" "Seraya" "Merbuk" "Sanglang" "Kelatakan" 
+		}
+	}
+
+	submarine = {
+		prefix = ""
+		generic = { "Submarine" }
+		unique = {
+			"Pendet" "Legong" "Baris" "Topeng" "Barong" "Kecak" "Batur" "Catur" "Bratan" "Pohen" "Lesong" "Sangyang" "Batukaru" "Patas" "Musi" "Mesehe" "Agong" "Seraya" "Merbuk" "Sanglang" "Kelatakan" 
+		}
+	}
+
+}

@@ -1,0 +1,58 @@
+﻿W24 = {
+	battle_cruiser = {
+		prefix = ""
+		generic = { "Battlecruiser" }
+		unique = {
+			"Tokugawa" "Enomoto Takeaki" "Osaka" "Ryo" "Hakodate" "Goryokaku" "Otori Keisuke" "Matsudaira Taro" "Arai Ikunosuke" "Hijikata Toshizo" "Takenaka Shigekata" "Tokugawa Kamenosuke" "Kamenosuke" "Shinsegumi" "Yoshinobu" 
+		}
+	}
+
+	battleship = {
+		prefix = ""
+		generic = { "Battleship" }
+		unique = {
+			"Tokugawa" "Enomoto Takeaki" "Osaka" "Ryo" "Hakodate" "Goryokaku" "Otori Keisuke" "Matsudaira Taro" "Arai Ikunosuke" "Hijikata Toshizo" "Takenaka Shigekata" "Tokugawa Kamenosuke" "Kamenosuke" "Shinsegumi" "Yoshinobu" 
+		}
+	}
+
+	carrier = {
+		prefix = ""
+		generic = { "Carrier" }
+		unique = {
+			"Tokugawa" "Enomoto Takeaki" "Osaka" "Ryo" "Hakodate" "Goryokaku" "Otori Keisuke" "Matsudaira Taro" "Arai Ikunosuke" "Hijikata Toshizo" "Takenaka Shigekata" "Tokugawa Kamenosuke" "Kamenosuke" "Shinsegumi" "Yoshinobu" 
+		}
+	}
+
+	destroyer = {
+		prefix = ""
+		generic = { "Destroyer" }
+		unique = {
+			"Tokugawa" "Enomoto Takeaki" "Osaka" "Ryo" "Hakodate" "Goryokaku" "Otori Keisuke" "Matsudaira Taro" "Arai Ikunosuke" "Hijikata Toshizo" "Takenaka Shigekata" "Tokugawa Kamenosuke" "Kamenosuke" "Shinsegumi" "Yoshinobu" 
+		}
+	}
+
+	heavy_cruiser = {
+		prefix = ""
+		generic = { "Heavy Cruiser" }
+		unique = {
+			"Tokugawa" "Enomoto Takeaki" "Osaka" "Ryo" "Hakodate" "Goryokaku" "Otori Keisuke" "Matsudaira Taro" "Arai Ikunosuke" "Hijikata Toshizo" "Takenaka Shigekata" "Tokugawa Kamenosuke" "Kamenosuke" "Shinsegumi" "Yoshinobu" 
+		}
+	}
+
+	light_cruiser = {
+		prefix = ""
+		generic = { "Light Cruiser" }
+		unique = {
+			"Tokugawa" "Enomoto Takeaki" "Osaka" "Ryo" "Hakodate" "Goryokaku" "Otori Keisuke" "Matsudaira Taro" "Arai Ikunosuke" "Hijikata Toshizo" "Takenaka Shigekata" "Tokugawa Kamenosuke" "Kamenosuke" "Shinsegumi" "Yoshinobu" 
+		}
+	}
+
+	submarine = {
+		prefix = ""
+		generic = { "Submarine" }
+		unique = {
+			"Tokugawa" "Enomoto Takeaki" "Osaka" "Ryo" "Hakodate" "Goryokaku" "Otori Keisuke" "Matsudaira Taro" "Arai Ikunosuke" "Hijikata Toshizo" "Takenaka Shigekata" "Tokugawa Kamenosuke" "Kamenosuke" "Shinsegumi" "Yoshinobu" 
+		}
+	}
+
+}

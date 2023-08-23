@@ -1,0 +1,58 @@
+﻿PAR = {
+	battle_cruiser = {
+		prefix = ""
+		generic = { "Battlecruiser" }
+		unique = {
+			"General Yegros" "Jejuí" "Márquez de Olinda" "Paraguarí" "Pirabebé" "Francisco Solano López" "Salto" "Tacuarí" "Ygurey" "Yporá" 
+		}
+	}
+
+	battleship = {
+		prefix = ""
+		generic = { "Battleship" }
+		unique = {
+			"Capitán Cabral" "Capitán Ortíz" "Haumaitá" "Itaipú" "Nanawa" "Paraguya" "Rodríguez de Francia" "Tebicuary" "Teniente Fariña" "Yhaguy" 
+		}
+	}
+
+	carrier = {
+		prefix = ""
+		generic = { "Carrier" }
+		unique = {
+			"Carlos Antonio López" "Guaraní" "Jopará" "Nivaclé" "Paraná" "Pilcomayo" "Río Paraguay" "Salto de Guairá" "San Francisco Javier" "San Ignacio de Loyola" 
+		}
+	}
+
+	destroyer = {
+		prefix = ""
+		generic = { "Destroyer" }
+		unique = {
+			"Areguá" "Asunción" "Caaguazú" "Cerro Peró" "Ciudad del Este" "Concepción" "Fuerte Olimpo" "Itauguá" "Ñeembucú" "Villarica" 
+		}
+	}
+
+	heavy_cruiser = {
+		prefix = ""
+		generic = { "Heavy Cruiser" }
+		unique = {
+			"Encarnación" "San José" "San Juan" "San Juan Bautista" "San Lorenzo" "San Pedro" "Santa Ana" "Santa María" "Santa Marta" "Santísima Trinidad" 
+		}
+	}
+
+	light_cruiser = {
+		prefix = ""
+		generic = { "Light Cruiser" }
+		unique = {
+			"Azote" "Destructor" "Fervor" "Héroe" "Relámpago" "Tempestad" "Terror" "Triunfo" "Trueno" "Victoria" 
+		}
+	}
+
+	submarine = {
+		prefix = ""
+		generic = { "Submarine" }
+		unique = {
+			"Alto Paraguay" "Bajo Paraguay" "Boquerón" "Constitución" "Gran Chaco" "Independencia" "Libertad" "Patria Paraguaya" "Presidente Hayes" "República" 
+		}
+	}
+
+}

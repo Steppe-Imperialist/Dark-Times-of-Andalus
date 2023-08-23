@@ -1,0 +1,30 @@
+
+state={
+	id=790
+	name="STATE_790"
+
+	history={
+		owner = T44
+		victory_points = {
+			2152 10 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 6
+
+		}
+		add_core_of = PAR
+		add_claim_by = T44
+	}
+
+	provinces={
+		2152 2173 2194 11023 12901 
+	}
+	manpower=2841620
+	buildings_max_level_factor=1.000
+	state_category=large_town
+
+	local_supplies=10.0
+}

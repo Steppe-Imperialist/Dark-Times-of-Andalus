@@ -1,0 +1,32 @@
+
+state={
+	id=36
+	name="STATE_36"
+
+	history={
+		owner = ADU
+		victory_points = {
+			5023 0 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			5023 = {
+				naval_base = 1
+			}
+			air_base = 0
+
+		}
+		add_core_of = ECU
+	}
+
+	provinces={
+		5023 
+	}
+	manpower=276
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

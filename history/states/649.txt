@@ -1,0 +1,29 @@
+
+state={
+	id=649
+	name="STATE_649"
+
+	history={
+		owner = BOT
+		victory_points = {
+			8214 15 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 5
+
+		}
+		add_core_of = BOT
+	}
+
+	provinces={
+		1580 8214 10525 12940 12963 
+	}
+	manpower=86140
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

@@ -1,0 +1,58 @@
+﻿V41 = {
+	battle_cruiser = {
+		prefix = ""
+		generic = { "Battlecruiser" }
+		unique = {
+			"Worker" "Proletariat" "Peasant" "Soldier" "Rebel" 
+		}
+	}
+
+	battleship = {
+		prefix = ""
+		generic = { "Battleship" }
+		unique = {
+			"Hammer" "Sickle" "Socialism" "Spartacus" "Communism" 
+		}
+	}
+
+	carrier = {
+		prefix = ""
+		generic = { "Carrier" }
+		unique = {
+			"Europe" "Asia" "America" "Africa" "Australia" 
+		}
+	}
+
+	destroyer = {
+		prefix = ""
+		generic = { "Destroyer" }
+		unique = {
+			"Red Flag" "Red Star" "Red Wedge" "Red Fist" "Red Rose" 
+		}
+	}
+
+	heavy_cruiser = {
+		prefix = ""
+		generic = { "Heavy Cruiser" }
+		unique = {
+			"Revolutionary Wave" "Vanguard" "Union" "International" "Labour" 
+		}
+	}
+
+	light_cruiser = {
+		prefix = ""
+		generic = { "Light Cruiser" }
+		unique = {
+			"Justice" "Equality" "Solidarity" "Brotherhood" "Unity" 
+		}
+	}
+
+	submarine = {
+		prefix = ""
+		generic = { "Submarine" }
+		unique = {
+			"Rosa" "Karl" "Friedrich" "Eduard" "Claude Henri" 
+		}
+	}
+
+}

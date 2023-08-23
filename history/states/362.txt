@@ -1,0 +1,31 @@
+
+state={
+	id=362
+	name="STATE_362"
+
+	history={
+		owner = W97
+		victory_points = {
+			4616 1 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = BAN
+		add_core_of = W97
+		add_claim_by = RAJ
+	}
+
+	provinces={
+		4616 7662 10443 
+	}
+	manpower=2493052
+	buildings_max_level_factor=1.000
+	state_category=large_town
+
+	local_supplies=10.0
+}

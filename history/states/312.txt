@@ -1,0 +1,35 @@
+
+state={
+	id=312
+	name="STATE_312"
+	resources={
+		rubber=1.000
+	}
+
+	history={
+		owner = S21
+		victory_points = {
+			1992 10 
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 6
+
+		}
+		add_core_of = S21
+		add_core_of = V90
+		add_claim_by = NGA
+		add_claim_by = W58
+	}
+
+	provinces={
+		1992 
+	}
+	manpower=2524624
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

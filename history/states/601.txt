@@ -1,0 +1,33 @@
+
+state={
+	id=601
+	name="STATE_601"
+
+	history={
+		owner = SAX
+		victory_points = {
+			6418 15 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1
+			air_base = 6
+
+		}
+		add_core_of = CZE
+		add_core_of = T24
+		add_core_of = U41
+		add_core_of = W08
+		add_core_of = W09
+
+	}
+
+	provinces={
+		424 469 543 3418 3585 5283 6418 6440 6470 6592 7857 9414 9555 11401 11414 11432 
+	}
+	manpower=1798672
+	buildings_max_level_factor=1.000
+	state_category=large_town
+	local_supplies=10.000
+}

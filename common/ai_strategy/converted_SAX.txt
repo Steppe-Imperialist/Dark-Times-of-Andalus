@@ -1,0 +1,298 @@
+﻿converted_war_strategies_SAX = {
+	enable = {
+		tag = SAX
+		always = no
+	}
+	
+	ai_strategy = {
+		type = conquer
+		id = "W23"
+		value = 770
+	}
+	ai_strategy = {
+		type = conquer
+		id = "W09"
+		value = 437
+	}
+	ai_strategy = {
+		type = conquer
+		id = "HOL"
+		value = 283
+	}
+	ai_strategy = {
+		type = conquer
+		id = "V13"
+		value = 221
+	}
+	ai_strategy = {
+		type = conquer
+		id = "U34"
+		value = 192
+	}
+	ai_strategy = {
+		type = conquer
+		id = "X90"
+		value = 188
+	}
+	ai_strategy = {
+		type = conquer
+		id = "SIL"
+		value = 186
+	}
+	ai_strategy = {
+		type = conquer
+		id = "T65"
+		value = 182
+	}
+	ai_strategy = {
+		type = conquer
+		id = "V38"
+		value = 171
+	}
+	ai_strategy = {
+		type = conquer
+		id = "LIT"
+		value = 158
+	}
+	ai_strategy = {
+		type = conquer
+		id = "V45"
+		value = 143
+	}
+	ai_strategy = {
+		type = conquer
+		id = "FRA"
+		value = 123
+	}
+	ai_strategy = {
+		type = conquer
+		id = "SWI"
+		value = 109
+	}
+	ai_strategy = {
+		type = conquer
+		id = "U16"
+		value = 78
+	}
+	ai_strategy = {
+		type = conquer
+		id = "YUG"
+		value = 66
+	}
+	ai_strategy = {
+		type = conquer
+		id = "SOV"
+		value = 54
+	}
+	ai_strategy = {
+		type = conquer
+		id = "BLR"
+		value = 43
+	}
+	ai_strategy = {
+		type = conquer
+		id = "W42"
+		value = 42
+	}
+	ai_strategy = {
+		type = conquer
+		id = "ITA"
+		value = 40
+	}
+	ai_strategy = {
+		type = conquer
+		id = "U13"
+		value = 39
+	}
+	ai_strategy = {
+		type = conquer
+		id = "BEL"
+		value = 34
+	}
+	ai_strategy = {
+		type = conquer
+		id = "HUN"
+		value = 34
+	}
+}
+
+converted_diplo_strategies_SAX = {
+	enable = {
+		tag = SAX
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+	ai_strategy = {
+		type = contain
+		id = "ITA"
+		value = 400
+	}
+	ai_strategy = {
+		type = contain
+		id = "SOV"
+		value = 209
+	}
+	ai_strategy = {
+		type = contain
+		id = "YUG"
+		value = 136
+	}
+	ai_strategy = {
+		type = contain
+		id = "HUN"
+		value = 126
+	}
+	ai_strategy = {
+		type = contain
+		id = "USA"
+		value = 90
+	}
+	ai_strategy = {
+		type = contain
+		id = "FRA"
+		value = 76
+	}
+	ai_strategy = {
+		type = contain
+		id = "ENG"
+		value = 54
+	}
+	ai_strategy = {
+		type = contain
+		id = "GRE"
+		value = 15
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "W09"
+		value = 400
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "LIT"
+		value = 187
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "FRA"
+		value = 143
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "ITA"
+		value = 128
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "BLR"
+		value = 114
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "W42"
+		value = 113
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "U13"
+		value = 101
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "BEL"
+		value = 95
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "YUG"
+		value = 95
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "HUN"
+		value = 91
+	}
+	ai_strategy = {
+		type = alliance
+		id = "X77"
+		value = 200
+	}
+	ai_strategy = {
+		type = alliance
+		id = "T13"
+		value = 128
+	}
+	ai_strategy = {
+		type = alliance
+		id = "GRE"
+		value = 125
+	}
+	ai_strategy = {
+		type = alliance
+		id = "SIL"
+		value = 116
+	}
+	ai_strategy = {
+		type = protect
+		id = "X90"
+		value = 265
+	}
+	ai_strategy = {
+		type = protect
+		id = "V13"
+		value = 265
+	}
+	ai_strategy = {
+		type = protect
+		id = "V45"
+		value = 265
+	}
+	ai_strategy = {
+		type = protect
+		id = "U34"
+		value = 265
+	}
+	ai_strategy = {
+		type = protect
+		id = "T65"
+		value = 265
+	}
+	ai_strategy = {
+		type = protect
+		id = "W23"
+		value = 165
+	}
+	ai_strategy = {
+		type = protect
+		id = "BEL"
+		value = 65
+	}
+	ai_strategy = {
+		type = protect
+		id = "BLR"
+		value = 65
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "ITA"
+		value = 183
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "SOV"
+		value = 183
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "USA"
+		value = 59
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "YUG"
+		value = 42
+	}
+}

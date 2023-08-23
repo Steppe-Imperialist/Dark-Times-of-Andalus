@@ -1,0 +1,176 @@
+﻿U14_BB_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_BB
+
+	for_countries = { U14 }
+
+	type = ship
+	ship_types = { ship_hull_heavy battleship }
+
+	prefix = ""
+	fallback_name = "Battleship BB-%d"
+
+	unique = {
+		"Beas" "Chenab" "Devi" "Gayatri" "Guru" "Indus" "Jalsena" "Jhelum" "Lakshmi" "Nausena" "Nav ka Yudh" "Parvati" "Radha" "Ratri" "Ravi" "Sagar" "Sutlej" "Sarasvati" "Sita" 
+	}
+}
+
+U14_BC_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_BC
+
+	for_countries = { U14 }
+
+	type = ship
+	ship_types = { ship_hull_heavy battle_cruiser }
+
+	prefix = ""
+	fallback_name = "Battlecruiser BC-%d"
+
+	unique = {
+		"Beas" "Chenab" "Devi" "Gayatri" "Guru" "Indus" "Jalsena" "Jhelum" "Lakshmi" "Nausena" "Nav ka Yudh" "Parvati" "Radha" "Ratri" "Ravi" "Sagar" "Sutlej" "Sarasvati" "Sita" 
+	}
+}
+
+U14_CA_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CA
+
+	for_countries = { U14 }
+
+	type = ship
+	ship_types = { ship_hull_cruiser heavy_cruiser }
+
+	prefix = ""
+	fallback_name = "Heavy Cruiser CA-%d"
+
+	unique = {
+		"Beas" "Chenab" "Devi" "Gayatri" "Guru" "Indus" "Jalsena" "Jhelum" "Lakshmi" "Nausena" "Nav ka Yudh" "Parvati" "Radha" "Ratri" "Ravi" "Sagar" "Sutlej" "Sarasvati" "Sita" 
+	}
+}
+
+U14_CLAA_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CLAA
+
+	for_countries = { U14 }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser }
+
+	prefix = ""
+	fallback_name = "Light Cruiser CLAA-%d"
+
+	unique = {
+		"Beas" "Chenab" "Devi" "Gayatri" "Guru" "Indus" "Jalsena" "Jhelum" "Lakshmi" "Nausena" "Nav ka Yudh" "Parvati" "Radha" "Ratri" "Ravi" "Sagar" "Sutlej" "Sarasvati" "Sita" 
+	}
+}
+
+U14_CL_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CL
+
+	for_countries = { U14 }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser }
+
+	prefix = ""
+	fallback_name = "Light Cruiser CL-%d"
+
+	unique = {
+		"Beas" "Chenab" "Devi" "Gayatri" "Guru" "Indus" "Jalsena" "Jhelum" "Lakshmi" "Nausena" "Nav ka Yudh" "Parvati" "Radha" "Ratri" "Ravi" "Sagar" "Sutlej" "Sarasvati" "Sita" 
+	}
+}
+
+U14_CVL_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CVL
+
+	for_countries = { U14 }
+
+	type = ship
+	ship_types = { ship_hull_carrier carrier }
+
+	prefix = ""
+	fallback_name = "Carrier CVL-%d"
+
+	unique = {
+		"Beas" "Chenab" "Devi" "Gayatri" "Guru" "Indus" "Jalsena" "Jhelum" "Lakshmi" "Nausena" "Nav ka Yudh" "Parvati" "Radha" "Ratri" "Ravi" "Sagar" "Sutlej" "Sarasvati" "Sita" 
+	}
+}
+
+U14_CV_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CARRIERS
+
+	for_countries = { U14 }
+
+	type = ship
+	ship_types = { ship_hull_carrier carrier }
+
+	prefix = ""
+	fallback_name = "Carrier CV-%d"
+
+	unique = {
+		"Beas" "Chenab" "Devi" "Gayatri" "Guru" "Indus" "Jalsena" "Jhelum" "Lakshmi" "Nausena" "Nav ka Yudh" "Parvati" "Radha" "Ratri" "Ravi" "Sagar" "Sutlej" "Sarasvati" "Sita" 
+	}
+}
+
+U14_DD_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_DESTROYERS
+
+	for_countries = { U14 }
+
+	type = ship
+	ship_types = { ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Destroyer DD-%d"
+
+	unique = {
+		"Beas" "Chenab" "Devi" "Gayatri" "Guru" "Indus" "Jalsena" "Jhelum" "Lakshmi" "Nausena" "Nav ka Yudh" "Parvati" "Radha" "Ratri" "Ravi" "Sagar" "Sutlej" "Sarasvati" "Sita" 
+	}
+}
+
+U14_DE_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_DE
+
+	for_countries = { U14 }
+
+	type = ship
+	ship_types = { ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Destroyer Escort DE-%d"
+
+	unique = {
+		"Beas" "Chenab" "Devi" "Gayatri" "Guru" "Indus" "Jalsena" "Jhelum" "Lakshmi" "Nausena" "Nav ka Yudh" "Parvati" "Radha" "Ratri" "Ravi" "Sagar" "Sutlej" "Sarasvati" "Sita" 
+	}
+}
+
+U14_MINELAYERS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_MINELAYERS
+
+	for_countries = { U14 }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Minelayer CM-%d"
+
+	unique = {
+		"Beas" "Chenab" "Devi" "Gayatri" "Guru" "Indus" "Jalsena" "Jhelum" "Lakshmi" "Nausena" "Nav ka Yudh" "Parvati" "Radha" "Ratri" "Ravi" "Sagar" "Sutlej" "Sarasvati" "Sita" 
+	}
+}
+
+U14_SS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_SUBMARINES
+
+	for_countries = { U14 }
+
+	type = ship
+	ship_types = { ship_hull_submarine submarine }
+
+	prefix = ""
+	fallback_name = "Submarine SS-%d"
+
+	unique = {
+		"Beas" "Chenab" "Devi" "Gayatri" "Guru" "Indus" "Jalsena" "Jhelum" "Lakshmi" "Nausena" "Nav ka Yudh" "Parvati" "Radha" "Ratri" "Ravi" "Sagar" "Sutlej" "Sarasvati" "Sita" 
+	}
+}
+

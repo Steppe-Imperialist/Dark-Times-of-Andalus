@@ -1,0 +1,36 @@
+
+state={
+	id=677
+	name="STATE_677"
+
+	history={
+		owner = USA
+		victory_points = {
+			3957 50 
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 3
+			arms_factory = 0
+			dockyard = 1
+			3957 = {
+				naval_base = 4
+			}
+			air_base = 10
+
+		}
+		add_core_of = USA
+		add_claim_by = CSA
+		add_claim_by = T43
+		add_claim_by = X96
+	}
+
+	provinces={
+		3957 6823 6892 6929 6984 9758 9786 11892 
+	}
+	manpower=2775072
+	buildings_max_level_factor=1.000
+	state_category=large_town
+
+	local_supplies=10.0
+}

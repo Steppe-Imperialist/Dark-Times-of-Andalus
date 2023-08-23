@@ -1,0 +1,58 @@
+﻿U69 = {
+	battle_cruiser = {
+		prefix = ""
+		generic = { "Battlecruiser" }
+		unique = {
+			"Sulu" "Samandara" "Malik ul Salih" "Malik Al-Salih" "Teunom" "Peusangen" "Jamboaye" "Alas" "Tripa" "Simpang-kiri" "Peg Serbeulangit" "Peg Pusat" "Gunung Peuetsagoe" "Pulau we" "Pulau Breueh" 
+		}
+	}
+
+	battleship = {
+		prefix = ""
+		generic = { "Battleship" }
+		unique = {
+			"Sulu" "Samandara" "Malik ul Salih" "Malik Al-Salih" "Teunom" "Peusangen" "Jamboaye" "Alas" "Tripa" "Simpang-kiri" "Peg Serbeulangit" "Peg Pusat" "Gunung Peuetsagoe" "Pulau we" "Pulau Breueh" 
+		}
+	}
+
+	carrier = {
+		prefix = ""
+		generic = { "Carrier" }
+		unique = {
+			"Sulu" "Samandara" "Malik ul Salih" "Malik Al-Salih" "Teunom" "Peusangen" "Jamboaye" "Alas" "Tripa" "Simpang-kiri" "Peg Serbeulangit" "Peg Pusat" "Gunung Peuetsagoe" "Pulau we" "Pulau Breueh" 
+		}
+	}
+
+	destroyer = {
+		prefix = ""
+		generic = { "Destroyer" }
+		unique = {
+			"Sulu" "Samandara" "Malik ul Salih" "Malik Al-Salih" "Teunom" "Peusangen" "Jamboaye" "Alas" "Tripa" "Simpang-kiri" "Peg Serbeulangit" "Peg Pusat" "Gunung Peuetsagoe" "Pulau we" "Pulau Breueh" 
+		}
+	}
+
+	heavy_cruiser = {
+		prefix = ""
+		generic = { "Heavy Cruiser" }
+		unique = {
+			"Sulu" "Samandara" "Malik ul Salih" "Malik Al-Salih" "Teunom" "Peusangen" "Jamboaye" "Alas" "Tripa" "Simpang-kiri" "Peg Serbeulangit" "Peg Pusat" "Gunung Peuetsagoe" "Pulau we" "Pulau Breueh" 
+		}
+	}
+
+	light_cruiser = {
+		prefix = ""
+		generic = { "Light Cruiser" }
+		unique = {
+			"Sulu" "Samandara" "Malik ul Salih" "Malik Al-Salih" "Teunom" "Peusangen" "Jamboaye" "Alas" "Tripa" "Simpang-kiri" "Peg Serbeulangit" "Peg Pusat" "Gunung Peuetsagoe" "Pulau we" "Pulau Breueh" 
+		}
+	}
+
+	submarine = {
+		prefix = ""
+		generic = { "Submarine" }
+		unique = {
+			"Sulu" "Samandara" "Malik ul Salih" "Malik Al-Salih" "Teunom" "Peusangen" "Jamboaye" "Alas" "Tripa" "Simpang-kiri" "Peg Serbeulangit" "Peg Pusat" "Gunung Peuetsagoe" "Pulau we" "Pulau Breueh" 
+		}
+	}
+
+}

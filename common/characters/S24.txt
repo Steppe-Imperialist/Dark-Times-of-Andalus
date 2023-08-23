@@ -1,0 +1,16 @@
+characters={
+	S24_dmitriy_ostrovskiy={
+		name=S24_dmitriy_ostrovskiy
+		portraits={
+			civilian={
+				large="gfx/leaders/SOV/Portrait_Soviet_Generic_1.dds"
+			}
+		}
+		country_leader={
+			ideology=leninism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

@@ -1,0 +1,33 @@
+
+state={
+	id=422
+	name="STATE_422"
+
+	history={
+		owner = MAN
+		victory_points = {
+			998 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			998 = {
+				naval_base = 2
+			}
+			air_base = 0
+
+		}
+		add_core_of = JAP
+		add_core_of = MAN
+	}
+
+	provinces={
+		998 7102 10032 
+	}
+	manpower=1694004
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

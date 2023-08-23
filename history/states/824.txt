@@ -1,0 +1,36 @@
+
+state={
+	id=824
+	name="STATE_824"
+	resources={
+		oil=10.000
+	}
+
+	history={
+		owner = T66
+		victory_points = {
+			7661 10 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 5
+
+		}
+		add_core_of = AZR
+		add_core_of = T66
+		add_claim_by = DAG
+		add_claim_by = T49
+		add_claim_by = W54
+	}
+
+	provinces={
+		1536 1539 4458 4473 4477 4545 4614 6763 7495 7661 11645 11674 12434 
+	}
+	manpower=672580
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

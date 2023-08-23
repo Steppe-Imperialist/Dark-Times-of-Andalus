@@ -1,0 +1,29 @@
+
+state={
+	id=107
+	name="STATE_107"
+
+	history={
+		owner = CAR
+		victory_points = {
+			12830 15 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 6
+
+		}
+		add_core_of = CAR
+	}
+
+	provinces={
+		1974 3165 5084 8078 11012 11108 12719 12830 
+	}
+	manpower=754256
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

@@ -1,0 +1,36 @@
+
+state={
+	id=723
+	name="STATE_723"
+	resources={
+		steel=1.000
+	}
+
+	history={
+		owner = VEN
+		victory_points = {
+			10846 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+			7991 = {
+				naval_base = 6
+			}
+			air_base = 0
+
+		}
+		add_core_of = COL
+		add_core_of = VEN
+	}
+
+	provinces={
+		2079 7936 7991 10846 
+	}
+	manpower=2030620
+	buildings_max_level_factor=1.000
+	state_category=city
+
+	local_supplies=10.0
+}

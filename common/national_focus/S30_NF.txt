@@ -1,0 +1,15 @@
+focus_tree = {
+	id = S30_focus
+	
+	country = {
+		factor = 0
+		
+		modifier = {
+			add = 10
+			tag = S30
+		}
+	}
+	
+	default = no
+	
+}

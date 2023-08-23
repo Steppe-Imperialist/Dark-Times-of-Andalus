@@ -1,0 +1,30 @@
+
+state={
+	id=728
+	name="STATE_728"
+
+	history={
+		owner = VEN
+		victory_points = {
+			10849 1 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = T28
+		add_core_of = VEN
+	}
+
+	provinces={
+		5317 7915 8050 10736 10849 10879 
+	}
+	manpower=1942956
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

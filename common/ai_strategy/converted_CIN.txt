@@ -1,0 +1,18 @@
+﻿converted_war_strategies_CIN = {
+	enable = {
+		tag = CIN
+		always = no
+	}
+	
+}
+
+converted_diplo_strategies_CIN = {
+	enable = {
+		tag = CIN
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+}

@@ -1,0 +1,39 @@
+
+state={
+	id=735
+	name="STATE_735"
+	resources={
+		rubber=1.000
+	}
+
+	history={
+		owner = T27
+		victory_points = {
+			11020 10 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 3
+			arms_factory = 0
+			8252 = {
+				naval_base = 2
+			}
+			air_base = 10
+
+		}
+		add_core_of = ECU
+		add_core_of = T27
+		add_core_of = U25
+		add_claim_by = W77
+		add_claim_by = X75
+	}
+
+	provinces={
+		5051 5120 8075 8252 10888 11020 12798 
+	}
+	manpower=1848508
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

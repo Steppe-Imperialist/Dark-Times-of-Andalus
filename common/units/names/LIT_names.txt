@@ -1,0 +1,58 @@
+﻿LIT = {
+	battle_cruiser = {
+		prefix = ""
+		generic = { "Battlecruiser" }
+		unique = {
+			"Lietuva" "Mindaugas" "Vytautas Didysis" "Jogailaitis" "Zemaitija" "Kaunas" "Moletai" "Vilnius" "Siauliai" "Plunge" "Palanga" "Silute" "Taurage" "Jurbarkas" "Alytus" "Trakai" "Druskininkai" "Dzkas" "Slis" "Skalvis" 
+		}
+	}
+
+	battleship = {
+		prefix = ""
+		generic = { "Battleship" }
+		unique = {
+			"Lietuva" "Mindaugas" "Vytautas Didysis" "Jogailaitis" "Zemaitija" "Kaunas" "Moletai" "Vilnius" "Siauliai" "Plunge" "Palanga" "Silute" "Taurage" "Jurbarkas" "Alytus" "Trakai" "Druskininkai" "Dzkas" "Slis" "Skalvis" 
+		}
+	}
+
+	carrier = {
+		prefix = ""
+		generic = { "Carrier" }
+		unique = {
+			"Lietuva" "Mindaugas" "Vytautas Didysis" "Jogailaitis" "Zemaitija" "Kaunas" "Moletai" "Vilnius" "Siauliai" "Plunge" "Palanga" "Silute" "Taurage" "Jurbarkas" "Alytus" "Trakai" "Druskininkai" "Dzkas" "Slis" "Skalvis" 
+		}
+	}
+
+	destroyer = {
+		prefix = ""
+		generic = { "Destroyer" }
+		unique = {
+			"Lietuva" "Mindaugas" "Vytautas Didysis" "Jogailaitis" "Zemaitija" "Kaunas" "Moletai" "Vilnius" "Siauliai" "Plunge" "Palanga" "Silute" "Taurage" "Jurbarkas" "Alytus" "Trakai" "Druskininkai" "Dzkas" "Slis" "Skalvis" 
+		}
+	}
+
+	heavy_cruiser = {
+		prefix = ""
+		generic = { "Heavy Cruiser" }
+		unique = {
+			"Lietuva" "Mindaugas" "Vytautas Didysis" "Jogailaitis" "Zemaitija" "Kaunas" "Moletai" "Vilnius" "Siauliai" "Plunge" "Palanga" "Silute" "Taurage" "Jurbarkas" "Alytus" "Trakai" "Druskininkai" "Dzkas" "Slis" "Skalvis" 
+		}
+	}
+
+	light_cruiser = {
+		prefix = ""
+		generic = { "Light Cruiser" }
+		unique = {
+			"Lietuva" "Mindaugas" "Vytautas Didysis" "Jogailaitis" "Zemaitija" "Kaunas" "Moletai" "Vilnius" "Siauliai" "Plunge" "Palanga" "Silute" "Taurage" "Jurbarkas" "Alytus" "Trakai" "Druskininkai" "Dzkas" "Slis" "Skalvis" 
+		}
+	}
+
+	submarine = {
+		prefix = ""
+		generic = { "Submarine" }
+		unique = {
+			"Lietuva" "Mindaugas" "Vytautas Didysis" "Jogailaitis" "Zemaitija" "Kaunas" "Moletai" "Vilnius" "Siauliai" "Plunge" "Palanga" "Silute" "Taurage" "Jurbarkas" "Alytus" "Trakai" "Druskininkai" "Dzkas" "Slis" "Skalvis" 
+		}
+	}
+
+}

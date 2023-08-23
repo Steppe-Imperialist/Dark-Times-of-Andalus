@@ -1,0 +1,36 @@
+characters={
+	X09_makhmut_tinchurin={
+		name=X09_makhmut_tinchurin
+		portraits={
+			army={
+				large="GFX_OTT_Suleyman_Sefik"
+			}
+			army={
+				small="GFX_OTT_Suleyman_Sefik"
+			}
+		}
+		corps_commander={
+			skill=2
+			attack_skill=1
+			defense_skill=1
+			planning_skill=3
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X09_galiaskar_kamal={
+		name=X09_galiaskar_kamal
+		portraits={
+			civilian={
+				large="GFX_TUR_Hasan_Ali"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

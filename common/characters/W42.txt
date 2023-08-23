@@ -1,0 +1,36 @@
+characters={
+	W42_hans_chaudet={
+		name=W42_hans_chaudet
+		portraits={
+			army={
+				large="GFX_portrait_GER_erwin_von_witzleben"
+			}
+			army={
+				small="GFX_portrait_GER_erwin_von_witzleben"
+			}
+		}
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	W42_rudolf_naff={
+		name=W42_rudolf_naff
+		portraits={
+			civilian={
+				large="GFX_Germany_August_Mackensen_kr"
+			}
+		}
+		country_leader={
+			ideology=prussian_const
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

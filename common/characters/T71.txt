@@ -1,0 +1,16 @@
+characters={
+	T71_king_ludovico_ii={
+		name=T71_king_ludovico_ii
+		portraits={
+			civilian={
+				large="GFX_Canada_King_Edward_VIII"
+			}
+		}
+		country_leader={
+			ideology=absolute_monarchy
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

@@ -1,0 +1,76 @@
+characters={
+	W58_daud_al_hajj={
+		name=W58_daud_al_hajj
+		portraits={
+			army={
+				large="GFX_Ethiopia_Mulugeta_Yeggazu"
+			}
+			army={
+				small="GFX_Ethiopia_Mulugeta_Yeggazu"
+			}
+		}
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	W58_usman_al_hajj={
+		name=W58_usman_al_hajj
+		portraits={
+			army={
+				large="GFX_SUD_Ferik_Abboud"
+			}
+			army={
+				small="GFX_SUD_Ferik_Abboud"
+			}
+		}
+		corps_commander={
+			skill=4
+			attack_skill=6
+			defense_skill=2
+			planning_skill=1
+			logistics_skill=5
+			legacy_id=0
+		}
+	}
+
+	W58_daud_abasama={
+		name=W58_daud_abasama
+		portraits={
+			army={
+				large="GFX_SUD_Ali_Latif"
+			}
+			army={
+				small="GFX_SUD_Ali_Latif"
+			}
+		}
+		corps_commander={
+			skill=2
+			attack_skill=3
+			defense_skill=3
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	W58_king_abdullah_burja_ii={
+		name=W58_king_abdullah_burja_ii
+		portraits={
+			civilian={
+				large="gfx/leaders/ETH/Portrait_Ethiopia_Haile_Selassie.dds"
+			}
+		}
+		country_leader={
+			ideology=absolute_monarchy
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

@@ -1,0 +1,33 @@
+
+state={
+	id=48
+	name="STATE_48"
+
+	history={
+		owner = X17
+		victory_points = {
+			4718 15 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			1565 = {
+				naval_base = 1
+			}
+			air_base = 6
+
+		}
+		add_core_of = X17
+		add_claim_by = NZL
+	}
+
+	provinces={
+		1565 1713 1746 1801 4718 4748 7742 7783 7887 10609 10710 12362 12604 12664 
+	}
+	manpower=24076
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

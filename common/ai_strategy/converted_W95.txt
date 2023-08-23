@@ -1,0 +1,18 @@
+﻿converted_war_strategies_W95 = {
+	enable = {
+		tag = W95
+		always = no
+	}
+	
+}
+
+converted_diplo_strategies_W95 = {
+	enable = {
+		tag = W95
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+}

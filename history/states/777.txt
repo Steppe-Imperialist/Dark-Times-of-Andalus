@@ -1,0 +1,33 @@
+
+state={
+	id=777
+	name="STATE_777"
+
+	history={
+		owner = S27
+		victory_points = {
+			13052 0 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			13052 = {
+				naval_base = 2
+			}
+			air_base = 0
+
+		}
+		add_core_of = S27
+		add_claim_by = HAW
+	}
+
+	provinces={
+		13052 
+	}
+	manpower=53732
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

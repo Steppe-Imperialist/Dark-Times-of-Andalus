@@ -1,0 +1,176 @@
+﻿CRI_BB_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_BB
+
+	for_countries = { CRI }
+
+	type = ship
+	ship_types = { ship_hull_heavy battleship }
+
+	prefix = ""
+	fallback_name = "Battleship BB-%d"
+
+	unique = {
+		"Bakhchisaray" "Çürük Suv" "Chufut Kale" "Hansaray" "Haci Giray" "Meli I Giray" "Zincilri Medrese" "Kyrym" "Qirq Yer" "Cufut Qale" "Chingiz Khan" 
+	}
+}
+
+CRI_BC_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_BC
+
+	for_countries = { CRI }
+
+	type = ship
+	ship_types = { ship_hull_heavy battle_cruiser }
+
+	prefix = ""
+	fallback_name = "Battlecruiser BC-%d"
+
+	unique = {
+		"Bakhchisaray" "Çürük Suv" "Chufut Kale" "Hansaray" "Haci Giray" "Meli I Giray" "Zincilri Medrese" "Kyrym" "Qirq Yer" "Cufut Qale" "Chingiz Khan" 
+	}
+}
+
+CRI_CA_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CA
+
+	for_countries = { CRI }
+
+	type = ship
+	ship_types = { ship_hull_cruiser heavy_cruiser }
+
+	prefix = ""
+	fallback_name = "Heavy Cruiser CA-%d"
+
+	unique = {
+		"Bakhchisaray" "Çürük Suv" "Chufut Kale" "Hansaray" "Haci Giray" "Meli I Giray" "Zincilri Medrese" "Kyrym" "Qirq Yer" "Cufut Qale" "Chingiz Khan" 
+	}
+}
+
+CRI_CLAA_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CLAA
+
+	for_countries = { CRI }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser }
+
+	prefix = ""
+	fallback_name = "Light Cruiser CLAA-%d"
+
+	unique = {
+		"Bakhchisaray" "Çürük Suv" "Chufut Kale" "Hansaray" "Haci Giray" "Meli I Giray" "Zincilri Medrese" "Kyrym" "Qirq Yer" "Cufut Qale" "Chingiz Khan" 
+	}
+}
+
+CRI_CL_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CL
+
+	for_countries = { CRI }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser }
+
+	prefix = ""
+	fallback_name = "Light Cruiser CL-%d"
+
+	unique = {
+		"Bakhchisaray" "Çürük Suv" "Chufut Kale" "Hansaray" "Haci Giray" "Meli I Giray" "Zincilri Medrese" "Kyrym" "Qirq Yer" "Cufut Qale" "Chingiz Khan" 
+	}
+}
+
+CRI_CVL_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CVL
+
+	for_countries = { CRI }
+
+	type = ship
+	ship_types = { ship_hull_carrier carrier }
+
+	prefix = ""
+	fallback_name = "Carrier CVL-%d"
+
+	unique = {
+		"Bakhchisaray" "Çürük Suv" "Chufut Kale" "Hansaray" "Haci Giray" "Meli I Giray" "Zincilri Medrese" "Kyrym" "Qirq Yer" "Cufut Qale" "Chingiz Khan" 
+	}
+}
+
+CRI_CV_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CARRIERS
+
+	for_countries = { CRI }
+
+	type = ship
+	ship_types = { ship_hull_carrier carrier }
+
+	prefix = ""
+	fallback_name = "Carrier CV-%d"
+
+	unique = {
+		"Bakhchisaray" "Çürük Suv" "Chufut Kale" "Hansaray" "Haci Giray" "Meli I Giray" "Zincilri Medrese" "Kyrym" "Qirq Yer" "Cufut Qale" "Chingiz Khan" 
+	}
+}
+
+CRI_DD_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_DESTROYERS
+
+	for_countries = { CRI }
+
+	type = ship
+	ship_types = { ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Destroyer DD-%d"
+
+	unique = {
+		"Bakhchisaray" "Çürük Suv" "Chufut Kale" "Hansaray" "Haci Giray" "Meli I Giray" "Zincilri Medrese" "Kyrym" "Qirq Yer" "Cufut Qale" "Chingiz Khan" 
+	}
+}
+
+CRI_DE_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_DE
+
+	for_countries = { CRI }
+
+	type = ship
+	ship_types = { ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Destroyer Escort DE-%d"
+
+	unique = {
+		"Bakhchisaray" "Çürük Suv" "Chufut Kale" "Hansaray" "Haci Giray" "Meli I Giray" "Zincilri Medrese" "Kyrym" "Qirq Yer" "Cufut Qale" "Chingiz Khan" 
+	}
+}
+
+CRI_MINELAYERS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_MINELAYERS
+
+	for_countries = { CRI }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Minelayer CM-%d"
+
+	unique = {
+		"Bakhchisaray" "Çürük Suv" "Chufut Kale" "Hansaray" "Haci Giray" "Meli I Giray" "Zincilri Medrese" "Kyrym" "Qirq Yer" "Cufut Qale" "Chingiz Khan" 
+	}
+}
+
+CRI_SS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_SUBMARINES
+
+	for_countries = { CRI }
+
+	type = ship
+	ship_types = { ship_hull_submarine submarine }
+
+	prefix = ""
+	fallback_name = "Submarine SS-%d"
+
+	unique = {
+		"Bakhchisaray" "Çürük Suv" "Chufut Kale" "Hansaray" "Haci Giray" "Meli I Giray" "Zincilri Medrese" "Kyrym" "Qirq Yer" "Cufut Qale" "Chingiz Khan" 
+	}
+}
+

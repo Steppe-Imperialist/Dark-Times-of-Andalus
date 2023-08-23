@@ -1,0 +1,58 @@
+﻿JOR = {
+	battle_cruiser = {
+		prefix = ""
+		generic = { "Battlecruiser" }
+		unique = {
+			"Syriana" "Salah Al-Din" "Sultan Pasha al-Atrash" "al-Hattin" "al-Hirasa" "Tawfiq Bay" "Sham" "Halab" "Lattakia" "Homs" "Hama" "Palmyra" "Mu'aviyye" "Tartus" "Faisal I" "Sayf al-Sultan" "Zainab" "Minat al-Baida" "Baniyas" "Kadisia" "al-Assad" "Karrusa" "al-Abyad" "Al-Hakim Bi-Amrih" 
+		}
+	}
+
+	battleship = {
+		prefix = ""
+		generic = { "Battleship" }
+		unique = {
+			"Syriana" "Salah Al-Din" "Sultan Pasha al-Atrash" "al-Hattin" "al-Hirasa" "Tawfiq Bay" "Sham" "Halab" "Lattakia" "Homs" "Hama" "Palmyra" "Mu'aviyye" "Tartus" "Faisal I" "Sayf al-Sultan" "Zainab" "Minat al-Baida" "Baniyas" "Kadisia" "al-Assad" "Ibrahim Hananu" "Karrusa" "al-Abyad" "Al-Hakim Bi-Amrih" 
+		}
+	}
+
+	carrier = {
+		prefix = ""
+		generic = { "Carrier" }
+		unique = {
+			"Syriana" "Salah Al-Din" "Sultan Pasha al-Atrash" "al-Hattin" "al-Hirasa" "Tawfiq Bay" "Sham" "Halab" "Lattakia" "Homs" "Hama" "Palmyra" "Mu'aviyye" "Tartus" "Faisal I" "Sayf al-Sultan" "Zainab" "Minat al-Baida" "Baniyas" "Kadisia" "al-Assad" "Karrusa" "al-Abyad" "Al-Hakim Bi-Amrih" 
+		}
+	}
+
+	destroyer = {
+		prefix = ""
+		generic = { "Destroyer" }
+		unique = {
+			"Syriana" "Salah Al-Din" "Sultan Pasha al-Atrash" "al-Hattin" "al-Hirasa" "Tawfiq Bay" "Sham" "Halab" "Lattakia" "Homs" "Hama" "Palmyra" "Mu'aviyye" "Tartus" "Faisal I" "Sayf al-Sultan" "Zainab" "Minat al-Baida" "Baniyas" "Kadisia" "al-Assad" "Karrusa" "al-Abyad" "Al-Hakim Bi-Amrih" 
+		}
+	}
+
+	heavy_cruiser = {
+		prefix = ""
+		generic = { "Heavy Cruiser" }
+		unique = {
+			"Syriana" "Salah Al-Din" "Sultan Pasha al-Atrash" "al-Hattin" "al-Hirasa" "Tawfiq Bay" "Sham" "Halab" "Lattakia" "Homs" "Hama" "Palmyra" "Mu'aviyye" "Tartus" "Faisal I" "Sayf al-Sultan" "Zainab" "Minat al-Baida" "Baniyas" "Kadisia" "al-Assad" "Karrusa" "al-Abyad" "Al-Hakim Bi-Amrih" 
+		}
+	}
+
+	light_cruiser = {
+		prefix = ""
+		generic = { "Light Cruiser" }
+		unique = {
+			"Syriana" "Salah Al-Din" "Sultan Pasha al-Atrash" "al-Hattin" "al-Hirasa" "Tawfiq Bay" "Sham" "Halab" "Lattakia" "Homs" "Hama" "Palmyra" "Mu'aviyye" "Tartus" "Faisal I" "Sayf al-Sultan" "Zainab" "Minat al-Baida" "Baniyas" "Kadisia" "al-Assad" "Karrusa" "al-Abyad" "Al-Hakim Bi-Amrih" 
+		}
+	}
+
+	submarine = {
+		prefix = ""
+		generic = { "Submarine" }
+		unique = {
+			"Syriana" "Salah Al-Din" "Sultan Pasha al-Atrash" "al-Hattin" "al-Hirasa" "Tawfiq Bay" "Sham" "Halab" "Lattakia" "Homs" "Hama" "Palmyra" "Mu'aviyye" "Tartus" "Faisal I" "Sayf al-Sultan" "Zainab" "Minat al-Baida" "Baniyas" "Kadisia" "al-Assad" "Karrusa" "al-Abyad" "Al-Hakim Bi-Amrih" 
+		}
+	}
+
+}

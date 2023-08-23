@@ -1,0 +1,31 @@
+
+state={
+	id=118
+	name="STATE_118"
+
+	history={
+		owner = X77
+		victory_points = {
+			3430 1 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 1
+			air_base = 1
+
+		}
+		add_core_of = T15
+		add_core_of = X77
+		add_claim_by = W53
+	}
+
+	provinces={
+		462 572 3430 3457 3511 6429 6435 6509 6557 11543 
+	}
+	manpower=1634184
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

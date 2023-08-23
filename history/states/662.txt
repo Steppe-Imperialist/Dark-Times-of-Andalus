@@ -1,0 +1,33 @@
+
+state={
+	id=662
+	name="STATE_662"
+
+	history={
+		owner = TUN
+		victory_points = {
+			11969 15 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 0
+			dockyard = 1
+			11969 = {
+				naval_base = 6
+			}
+			air_base = 6
+
+		}
+		add_core_of = TUN
+	}
+
+	provinces={
+		1037 1046 1105 3987 4061 4129 4163 4992 7005 7077 7162 7180 9983 9994 10026 10082 10091 11921 11935 11957 11969 12000 
+	}
+	manpower=2865184
+	buildings_max_level_factor=1.000
+	state_category=large_town
+
+	local_supplies=10.0
+}

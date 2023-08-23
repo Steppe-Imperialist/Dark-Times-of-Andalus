@@ -1,0 +1,176 @@
+﻿TZN_BB_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_BB
+
+	for_countries = { TZN }
+
+	type = ship
+	ship_types = { ship_hull_heavy battleship }
+
+	prefix = ""
+	fallback_name = "Battleship BB-%d"
+
+	unique = {
+		"Mwami" "Karyenda" "Nzambi" "Buganda" "Upemba" "Mwari" "Mulopwe" "Mulungu" "Mbonga" "Bambudye" "Mazendere" "Mboko" "Musikavanhu" "Mutorwa" 
+	}
+}
+
+TZN_BC_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_BC
+
+	for_countries = { TZN }
+
+	type = ship
+	ship_types = { ship_hull_heavy battle_cruiser }
+
+	prefix = ""
+	fallback_name = "Battlecruiser BC-%d"
+
+	unique = {
+		"Mwami" "Karyenda" "Nzambi" "Buganda" "Upemba" "Mwari" "Mulopwe" "Mulungu" "Mbonga" "Bambudye" "Mazendere" "Mboko" "Musikavanhu" "Mutorwa" 
+	}
+}
+
+TZN_CA_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CA
+
+	for_countries = { TZN }
+
+	type = ship
+	ship_types = { ship_hull_cruiser heavy_cruiser }
+
+	prefix = ""
+	fallback_name = "Heavy Cruiser CA-%d"
+
+	unique = {
+		"Mwami" "Karyenda" "Nzambi" "Buganda" "Upemba" "Mwari" "Mulopwe" "Mulungu" "Mbonga" "Bambudye" "Mazendere" "Mboko" "Musikavanhu" "Mutorwa" 
+	}
+}
+
+TZN_CLAA_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CLAA
+
+	for_countries = { TZN }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser }
+
+	prefix = ""
+	fallback_name = "Light Cruiser CLAA-%d"
+
+	unique = {
+		"Mwami" "Karyenda" "Nzambi" "Buganda" "Upemba" "Mwari" "Mulopwe" "Mulungu" "Mbonga" "Bambudye" "Mazendere" "Mboko" "Musikavanhu" "Mutorwa" 
+	}
+}
+
+TZN_CL_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CL
+
+	for_countries = { TZN }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser }
+
+	prefix = ""
+	fallback_name = "Light Cruiser CL-%d"
+
+	unique = {
+		"Mwami" "Karyenda" "Nzambi" "Buganda" "Upemba" "Mwari" "Mulopwe" "Mulungu" "Mbonga" "Bambudye" "Mazendere" "Mboko" "Musikavanhu" "Mutorwa" 
+	}
+}
+
+TZN_CVL_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CVL
+
+	for_countries = { TZN }
+
+	type = ship
+	ship_types = { ship_hull_carrier carrier }
+
+	prefix = ""
+	fallback_name = "Carrier CVL-%d"
+
+	unique = {
+		"Mwami" "Karyenda" "Nzambi" "Buganda" "Upemba" "Mwari" "Mulopwe" "Mulungu" "Mbonga" "Bambudye" "Mazendere" "Mboko" "Musikavanhu" "Mutorwa" 
+	}
+}
+
+TZN_CV_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CARRIERS
+
+	for_countries = { TZN }
+
+	type = ship
+	ship_types = { ship_hull_carrier carrier }
+
+	prefix = ""
+	fallback_name = "Carrier CV-%d"
+
+	unique = {
+		"Mwami" "Karyenda" "Nzambi" "Buganda" "Upemba" "Mwari" "Mulopwe" "Mulungu" "Mbonga" "Bambudye" "Mazendere" "Mboko" "Musikavanhu" "Mutorwa" 
+	}
+}
+
+TZN_DD_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_DESTROYERS
+
+	for_countries = { TZN }
+
+	type = ship
+	ship_types = { ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Destroyer DD-%d"
+
+	unique = {
+		"Mwami" "Karyenda" "Nzambi" "Buganda" "Upemba" "Mwari" "Mulopwe" "Mulungu" "Mbonga" "Bambudye" "Mazendere" "Mboko" "Musikavanhu" "Mutorwa" 
+	}
+}
+
+TZN_DE_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_DE
+
+	for_countries = { TZN }
+
+	type = ship
+	ship_types = { ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Destroyer Escort DE-%d"
+
+	unique = {
+		"Mwami" "Karyenda" "Nzambi" "Buganda" "Upemba" "Mwari" "Mulopwe" "Mulungu" "Mbonga" "Bambudye" "Mazendere" "Mboko" "Musikavanhu" "Mutorwa" 
+	}
+}
+
+TZN_MINELAYERS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_MINELAYERS
+
+	for_countries = { TZN }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Minelayer CM-%d"
+
+	unique = {
+		"Mwami" "Karyenda" "Nzambi" "Buganda" "Upemba" "Mwari" "Mulopwe" "Mulungu" "Mbonga" "Bambudye" "Mazendere" "Mboko" "Musikavanhu" "Mutorwa" 
+	}
+}
+
+TZN_SS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_SUBMARINES
+
+	for_countries = { TZN }
+
+	type = ship
+	ship_types = { ship_hull_submarine submarine }
+
+	prefix = ""
+	fallback_name = "Submarine SS-%d"
+
+	unique = {
+		"Mwami" "Karyenda" "Nzambi" "Buganda" "Upemba" "Mwari" "Mulopwe" "Mulungu" "Mbonga" "Bambudye" "Mazendere" "Mboko" "Musikavanhu" "Mutorwa" 
+	}
+}
+

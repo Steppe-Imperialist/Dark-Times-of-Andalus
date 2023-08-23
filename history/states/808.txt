@@ -1,0 +1,29 @@
+
+state={
+	id=808
+	name="STATE_808"
+
+	history={
+		owner = T64
+		victory_points = {
+			12511 15 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 5
+
+		}
+		add_core_of = T64
+	}
+
+	provinces={
+		1675 1825 4316 4391 4768 5062 12370 12511 
+	}
+	manpower=10460
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

@@ -1,0 +1,31 @@
+
+state={
+	id=399
+	name="STATE_399"
+
+	history={
+		owner = V14
+		victory_points = {
+			8054 1 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = V14
+		add_core_of = V17
+		add_claim_by = ANG
+	}
+
+	provinces={
+		8054 
+	}
+	manpower=254572
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

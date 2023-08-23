@@ -1,0 +1,36 @@
+characters={
+	BEL_lucien_de_secus={
+		name=BEL_lucien_de_secus
+		portraits={
+			army={
+				large="GFX_portrait_FRA_maurice_gamelin"
+			}
+			army={
+				small="GFX_portrait_FRA_maurice_gamelin"
+			}
+		}
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=2
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	BEL_eugene_forgeur={
+		name=BEL_eugene_forgeur
+		portraits={
+			civilian={
+				large="gfx/leaders/Europe/portrait_europe_generic_5.dds"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

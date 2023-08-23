@@ -1,0 +1,34 @@
+
+state={
+	id=371
+	name="STATE_371"
+
+	history={
+		owner = V09
+		victory_points = {
+			7878 10 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 2
+			arms_factory = 0
+			1823 = {
+				naval_base = 1
+			}
+			air_base = 10
+
+		}
+		add_core_of = V09
+		add_core_of = W93
+		add_claim_by = W66
+	}
+
+	provinces={
+		1823 1839 1863 4728 7878 12207 12522 
+	}
+	manpower=447
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+
+	local_supplies=10.0
+}

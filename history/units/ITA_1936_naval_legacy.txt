@@ -1,0 +1,78 @@
+units = {
+	fleet = {
+		name = "2nd Fleet"
+		naval_base = 13080
+		task_force = {
+			name = "2nd Fleet"
+			location = 5707
+			ship = { name = "Regina Elena" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = ITA } } }
+			ship = { name = "Bari" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = ITA } } }
+		}
+	}
+	fleet = {
+		name = "3rd Fleet"
+		naval_base = 13080
+		task_force = {
+			name = "3rd Fleet"
+			location = 1452
+			ship = { name = "Taranto" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = ITA } } }
+		}
+	}
+	fleet = {
+		name = "6th Fleet"
+		naval_base = 9904
+		task_force = {
+			name = "6th Fleet"
+			location = 9904
+			ship = { name = "Vittorio Emanuele" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = ITA } } }
+			ship = { name = "Ammiraglio di Saint Bon" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = ITA } } }
+			ship = { name = "Sicilia" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = ITA } } }
+			ship = { name = "Roma" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = ITA } } }
+			ship = { name = "Napoli" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = ITA } } }
+			ship = { name = "Regina Margherita" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = ITA } } }
+			ship = { name = "Sardegna" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = ITA } } }
+			ship = { name = "Emanuele Filiberto" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = ITA } } }
+			ship = { name = "Francesco Morosini" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = ITA } } }
+			ship = { name = "Benedetto Brin" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = ITA } } }
+			ship = { name = "1st Catania Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = ITA } } }
+			ship = { name = "Re Umberto" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = ITA } } }
+			ship = { name = "Pisa" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = ITA } } }
+			ship = { name = "San Giorgio" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = ITA } } }
+			ship = { name = "Nino Bixio" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = ITA } } }
+			ship = { name = "Amalfi" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = ITA } } }
+			ship = { name = "General Pueyrredon" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = ITA } } }
+			ship = { name = "Marsala" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = ITA } } }
+		}
+	}
+	fleet = {
+		name = "12th Fleet"
+		naval_base = 13080
+		task_force = {
+			name = "12th Fleet"
+			location = 5
+			ship = { name = "Andrea Doria" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = ITA } } }
+			ship = { name = "Brindisi" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = ITA } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = destroyer_1
+			creator = "ITA"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+	add_equipment_production = {
+		equipment = {
+			type = battleship_1
+			creator = "ITA"
+		}
+		requested_factories = 8
+		progress = 0.25
+		amount = 3
+	}
+}

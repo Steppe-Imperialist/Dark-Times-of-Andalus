@@ -1,0 +1,39 @@
+
+state={
+	id=714
+	name="STATE_714"
+	resources={
+		aluminium=14.000
+		steel=19.000
+	}
+
+	history={
+		owner = T13
+		victory_points = {
+			11584 20 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 1
+			dockyard = 1
+			9582 = {
+				naval_base = 6
+			}
+			air_base = 6
+
+		}
+		add_core_of = ITA
+		add_core_of = T13
+		add_core_of = T80
+	}
+
+	provinces={
+		603 628 656 3604 3657 3776 6656 9582 11584 
+	}
+	manpower=2146452
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

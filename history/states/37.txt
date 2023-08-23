@@ -1,0 +1,33 @@
+
+state={
+	id=37
+	name="STATE_37"
+
+	history={
+		owner = S13
+		victory_points = {
+			1280 0 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			1280 = {
+				naval_base = 1
+			}
+			air_base = 0
+
+		}
+		add_core_of = S13
+		add_claim_by = CHL
+	}
+
+	provinces={
+		1280 
+	}
+	manpower=1100
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

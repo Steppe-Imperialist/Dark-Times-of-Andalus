@@ -1,0 +1,57 @@
+units = {
+	fleet = {
+		name = "2nd Fleet"
+		naval_base = 10855
+		task_force = {
+			name = "2nd Fleet"
+			location = 10855
+			ship = { name = "4th San José Steam Frigate" definition = destroyer start_experience_factor = 0.05 equipment = { ship_hull_light_1 = { amount = 1 owner = VEN version_name = "Early Destroyer" } } }
+			ship = { name = "2nd Buenaventura Steam Frigate" definition = destroyer start_experience_factor = 0.05 equipment = { ship_hull_light_1 = { amount = 1 owner = VEN version_name = "Early Destroyer" } } }
+			ship = { name = "2nd Quibdó Steam Frigate" definition = destroyer start_experience_factor = 0.05 equipment = { ship_hull_light_1 = { amount = 1 owner = VEN version_name = "Early Destroyer" } } }
+			ship = { name = "5th San José Steam Frigate" definition = destroyer start_experience_factor = 0.05 equipment = { ship_hull_light_1 = { amount = 1 owner = VEN version_name = "Early Destroyer" } } }
+			ship = { name = "4th Balboa Steam Frigate" definition = destroyer start_experience_factor = 0.05 equipment = { ship_hull_light_1 = { amount = 1 owner = VEN version_name = "Early Destroyer" } } }
+			ship = { name = "3rd Quibdó Steam Frigate" definition = destroyer start_experience_factor = 0.05 equipment = { ship_hull_light_1 = { amount = 1 owner = VEN version_name = "Early Destroyer" } } }
+			ship = { name = "6th San José Steam Frigate" definition = destroyer start_experience_factor = 0.05 equipment = { ship_hull_light_1 = { amount = 1 owner = VEN version_name = "Early Destroyer" } } }
+			ship = { name = "4th Quibdó Steam Frigate" definition = destroyer start_experience_factor = 0.05 equipment = { ship_hull_light_1 = { amount = 1 owner = VEN version_name = "Early Destroyer" } } }
+			ship = { name = "3rd Buenaventura Steam Frigate" definition = destroyer start_experience_factor = 0.05 equipment = { ship_hull_light_1 = { amount = 1 owner = VEN version_name = "Early Destroyer" } } }
+			ship = { name = "3rd San José Steam Frigate" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = VEN version_name = "Early Destroyer" } } }
+			ship = { name = "2nd Balboa Steam Frigate" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = VEN version_name = "Early Destroyer" } } }
+			ship = { name = "General Crespo" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = VEN version_name = "Early Destroyer" } } }
+			ship = { name = "Marcay" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = VEN version_name = "Early Destroyer" } } }
+			ship = { name = "Aragua" definition = destroyer start_experience_factor = 0.05 equipment = { ship_hull_light_1 = { amount = 1 owner = VEN version_name = "Early Destroyer" } } }
+			ship = { name = "Patria" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = VEN version_name = "Early Destroyer" } } }
+			ship = { name = "Constitución" definition = destroyer start_experience_factor = 0.05 equipment = { ship_hull_light_1 = { amount = 1 owner = VEN version_name = "Early Destroyer" } } }
+			ship = { name = "Federación" definition = destroyer start_experience_factor = 0.05 equipment = { ship_hull_light_1 = { amount = 1 owner = VEN version_name = "Early Destroyer" } } }
+			ship = { name = "Independencia" definition = destroyer start_experience_factor = 0.05 equipment = { ship_hull_light_1 = { amount = 1 owner = VEN version_name = "Early Destroyer" } } }
+			ship = { name = "Libertad" definition = destroyer start_experience_factor = 0.1 equipment = { ship_hull_light_1 = { amount = 1 owner = VEN version_name = "Early Destroyer" } } }
+			ship = { name = "Miranda" definition = destroyer start_experience_factor = 0.1 equipment = { ship_hull_light_1 = { amount = 1 owner = VEN version_name = "Early Destroyer" } } }
+			ship = { name = "4th Buenaventura Steam Frigate" definition = destroyer start_experience_factor = 0.1 equipment = { ship_hull_light_1 = { amount = 1 owner = VEN version_name = "Early Destroyer" } } }
+			ship = { name = "1st Esmeraldas Steam Frigate" definition = destroyer start_experience_factor = 0.1 equipment = { ship_hull_light_1 = { amount = 1 owner = VEN version_name = "Early Destroyer" } } }
+			ship = { name = "7th San José Steam Frigate" definition = destroyer start_experience_factor = 0.1 equipment = { ship_hull_light_1 = { amount = 1 owner = VEN version_name = "Early Destroyer" } } }
+		}
+	}
+	fleet = {
+		name = "1st Fleet"
+		naval_base = 4969
+		task_force = {
+			name = "1st Fleet"
+			location = 4969
+			ship = { name = "5th Buenaventura Steam Frigate" definition = destroyer start_experience_factor = 0.1 equipment = { ship_hull_light_1 = { amount = 1 owner = VEN version_name = "Early Destroyer" } } }
+			ship = { name = "1st Panama City Steam Frigate" definition = destroyer start_experience_factor = 0.1 equipment = { ship_hull_light_1 = { amount = 1 owner = VEN version_name = "Early Destroyer" } } }
+			ship = { name = "5th Quibdó Steam Frigate" definition = destroyer start_experience_factor = 0.1 equipment = { ship_hull_light_1 = { amount = 1 owner = VEN version_name = "Early Destroyer" } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_light_1
+			creator = "VEN"
+			version_name = "Early Destroyer"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+}

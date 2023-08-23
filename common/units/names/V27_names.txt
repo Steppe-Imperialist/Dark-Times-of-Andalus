@@ -1,0 +1,58 @@
+﻿V27 = {
+	battle_cruiser = {
+		prefix = ""
+		generic = { "Battlecruiser" }
+		unique = {
+			"Lippe" "Detmold" "Schaumburg" "Biesterfeld" "Fürst Leopold" "Graf-Regent" "Graf Bernhard" "Graf Ernst" "Arminius" "Cherusker" 
+		}
+	}
+
+	battleship = {
+		prefix = ""
+		generic = { "Battleship" }
+		unique = {
+			"Lippe" "Detmold" "Schaumburg" "Biesterfeld" "Fürst Leopold" "Graf-Regent" "Graf Bernhard" "Graf Ernst" "Arminius" "Cherusker" 
+		}
+	}
+
+	carrier = {
+		prefix = ""
+		generic = { "Carrier" }
+		unique = {
+			"Lippe" "Detmold" "Schaumburg" "Biesterfeld" "Fürst Leopold" "Graf-Regent" "Graf Bernhard" "Graf Ernst" "Arminius" "Cherusker" 
+		}
+	}
+
+	destroyer = {
+		prefix = ""
+		generic = { "Destroyer" }
+		unique = {
+			"Lippe" "Detmold" "Schaumburg" "Biesterfeld" "Fürst Leopold" "Graf-Regent" "Graf Bernhard" "Graf Ernst" "Arminius" "Cherusker" 
+		}
+	}
+
+	heavy_cruiser = {
+		prefix = ""
+		generic = { "Heavy Cruiser" }
+		unique = {
+			"Lippe" "Detmold" "Schaumburg" "Biesterfeld" "Fürst Leopold" "Graf-Regent" "Graf Bernhard" "Graf Ernst" "Arminius" "Cherusker" 
+		}
+	}
+
+	light_cruiser = {
+		prefix = ""
+		generic = { "Light Cruiser" }
+		unique = {
+			"Lippe" "Detmold" "Schaumburg" "Biesterfeld" "Fürst Leopold" "Graf-Regent" "Graf Bernhard" "Graf Ernst" "Arminius" "Cherusker" 
+		}
+	}
+
+	submarine = {
+		prefix = ""
+		generic = { "Submarine" }
+		unique = {
+			"Lippe" "Detmold" "Schaumburg" "Biesterfeld" "Fürst Leopold" "Graf-Regent" "Graf Bernhard" "Graf Ernst" "Arminius" "Cherusker" 
+		}
+	}
+
+}

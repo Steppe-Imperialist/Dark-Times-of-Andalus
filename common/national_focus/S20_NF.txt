@@ -1,0 +1,93 @@
+focus_tree = {
+	id = S20_focus
+	
+	country = {
+		factor = 0
+		
+		modifier = {
+			add = 10
+			tag = S20
+		}
+	}
+	
+	default = no
+	
+	shared_focus = army_effort
+	shared_focus = aviation_effort
+	shared_focus = naval_effort
+	shared_focus = industrial_effort
+	shared_focus = political_effort
+
+	focus = {
+		id = integrate_satelliteS20CAR
+		icon = GFX_focus_eng_move_to_secure_the_dominions
+		text = integrate_satelliteCAR
+		bypass = {
+			CAR = {
+				OR = {
+					NOT = { is_subject_of = ROOT }
+					has_war_with = ROOT
+				}
+			}
+		}
+		x = 28
+		y = 0
+		cost = 10
+		available = {
+
+		}
+		select_effect = {
+			CAR = {
+				every_owned_state = { set_state_flag = is_being_integrated }
+			}
+		}
+		completion_reward = {
+			annex_country = { target = CAR transfer_troops = yes }
+			every_owned_state = {
+				limit = { has_state_flag = is_being_integrated }
+				add_core_of = ROOT
+				clr_state_flag = is_being_integrated
+			}
+		}
+		ai_will_do = {
+			factor = 10
+		}
+	}
+
+	focus = {
+		id = integrate_satelliteS20CHA
+		icon = GFX_focus_eng_move_to_secure_the_dominions
+		text = integrate_satelliteCHA
+		bypass = {
+			CHA = {
+				OR = {
+					NOT = { is_subject_of = ROOT }
+					has_war_with = ROOT
+				}
+			}
+		}
+		x = 28
+		y = 1
+		cost = 10
+		available = {
+
+		}
+		select_effect = {
+			CHA = {
+				every_owned_state = { set_state_flag = is_being_integrated }
+			}
+		}
+		completion_reward = {
+			annex_country = { target = CHA transfer_troops = yes }
+			every_owned_state = {
+				limit = { has_state_flag = is_being_integrated }
+				add_core_of = ROOT
+				clr_state_flag = is_being_integrated
+			}
+		}
+		ai_will_do = {
+			factor = 10
+		}
+	}
+
+}

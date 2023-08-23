@@ -1,0 +1,36 @@
+
+state={
+	id=813
+	name="STATE_813"
+
+	history={
+		owner = T66
+		victory_points = {
+			9932 10 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 4
+			arms_factory = 0
+			9932 = {
+				naval_base = 4
+			}
+			air_base = 10
+
+		}
+		add_core_of = T66
+		add_core_of = TUR
+		add_core_of = U15
+		add_core_of = U75
+		add_claim_by = GRE
+	}
+
+	provinces={
+		933 960 975 3714 3903 3935 3950 3965 3979 6919 6950 9761 9777 9868 9915 9932 9954 11753 11797 11894 
+	}
+	manpower=1161872
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

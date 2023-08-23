@@ -1,0 +1,16 @@
+characters={
+	U80_oncahye_osquake={
+		name=U80_oncahye_osquake
+		portraits={
+			civilian={
+				large="GFX_Native_American"
+			}
+		}
+		country_leader={
+			ideology=absolute_monarchy
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

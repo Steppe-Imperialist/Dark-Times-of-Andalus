@@ -1,0 +1,30 @@
+
+state={
+	id=659
+	name="STATE_659"
+
+	history={
+		owner = TUN
+		victory_points = {
+			11953 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = ALG
+		add_core_of = TUN
+	}
+
+	provinces={
+		1058 1141 4131 7065 9976 10059 11953 12034 13077 
+	}
+	manpower=1287584
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

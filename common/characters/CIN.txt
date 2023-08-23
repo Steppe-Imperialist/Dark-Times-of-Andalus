@@ -1,0 +1,16 @@
+characters={
+	CIN_katii_saidullayev={
+		name=CIN_katii_saidullayev
+		portraits={
+			civilian={
+				large="GFX_GRE_Alexander"
+			}
+		}
+		country_leader={
+			ideology=dictatorship
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

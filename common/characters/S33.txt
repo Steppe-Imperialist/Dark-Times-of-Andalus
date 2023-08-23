@@ -1,0 +1,16 @@
+characters={
+	S33_mowen_bakwna={
+		name=S33_mowen_bakwna
+		portraits={
+			civilian={
+				large="GFX_Dahomey_Moumouni"
+			}
+		}
+		country_leader={
+			ideology=dictatorship_neutral
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

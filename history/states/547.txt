@@ -1,0 +1,38 @@
+
+state={
+	id=547
+	name="STATE_547"
+	resources={
+		steel=5.000
+		tungsten=8.000
+	}
+
+	history={
+		owner = SOV
+		victory_points = {
+			9126 0 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			6079 = {
+				naval_base = 2
+			}
+			air_base = 0
+
+		}
+		add_core_of = NOR
+		add_claim_by = SCA
+		add_claim_by = U59
+	}
+
+	provinces={
+		22 38 44 64 76 91 128 173 192 2995 3016 3034 3040 3048 3058 3082 3088 3126 3132 3145 6015 6071 6079 6092 6107 6111 6130 6187 6214 9042 9064 9089 9116 9126 9128 9191 9208 11034 11050 11063 11077 11090 11104 11157 11169 
+	}
+	manpower=93424
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

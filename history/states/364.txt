@@ -1,0 +1,32 @@
+
+state={
+	id=364
+	name="STATE_364"
+
+	history={
+		owner = V04
+		victory_points = {
+			10766 0 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = RWA
+		add_core_of = V05
+		add_core_of = V24
+		add_claim_by = COG
+	}
+
+	provinces={
+		1181 4941 7161 10766 10858 
+	}
+	manpower=3035456
+	buildings_max_level_factor=1.000
+	state_category=city
+
+	local_supplies=10.0
+}

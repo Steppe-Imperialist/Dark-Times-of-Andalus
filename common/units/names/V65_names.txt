@@ -1,0 +1,58 @@
+﻿V65 = {
+	battle_cruiser = {
+		prefix = ""
+		generic = { "Battlecruiser" }
+		unique = {
+			"Alessandro Farnese" "Maria Luisa" "d'Asburgo" "Parma" "Piacenza" "Borbone" "Aquila" "Aurora" "Azzardoso" "Beroldo" "Condottiero" "Carloforte" "Colombo" "Daino" "Eridano" "Euridice" "Falco" "Favorita" "Nereide" "Patrona" "Serpente" "Tritone" "Veloce" "Vigilante" "Zeffiro" 
+		}
+	}
+
+	battleship = {
+		prefix = ""
+		generic = { "Battleship" }
+		unique = {
+			"Alessandro Farnese" "Maria Luisa" "d'Asburgo" "Parma" "Piacenza" "Borbone" "Aquila" "Aurora" "Azzardoso" "Beroldo" "Condottiero" "Carloforte" "Colombo" "Daino" "Eridano" "Euridice" "Falco" "Favorita" "Nereide" "Patrona" "Serpente" "Tritone" "Veloce" "Vigilante" "Zeffiro" 
+		}
+	}
+
+	carrier = {
+		prefix = ""
+		generic = { "Carrier" }
+		unique = {
+			"Alessandro Farnese" "Maria Luisa" "d'Asburgo" "Parma" "Piacenza" "Borbone" "Aquila" "Aurora" "Azzardoso" "Beroldo" "Condottiero" "Carloforte" "Colombo" "Daino" "Eridano" "Euridice" "Falco" "Favorita" "Nereide" "Patrona" "Serpente" "Tritone" "Veloce" "Vigilante" "Zeffiro" 
+		}
+	}
+
+	destroyer = {
+		prefix = ""
+		generic = { "Destroyer" }
+		unique = {
+			"Alessandro Farnese" "Maria Luisa" "d'Asburgo" "Parma" "Piacenza" "Borbone" "Aquila" "Aurora" "Azzardoso" "Beroldo" "Condottiero" "Carloforte" "Colombo" "Daino" "Eridano" "Euridice" "Falco" "Favorita" "Nereide" "Patrona" "Serpente" "Tritone" "Veloce" "Vigilante" "Zeffiro" 
+		}
+	}
+
+	heavy_cruiser = {
+		prefix = ""
+		generic = { "Heavy Cruiser" }
+		unique = {
+			"Alessandro Farnese" "Maria Luisa" "d'Asburgo" "Parma" "Piacenza" "Borbone" "Aquila" "Aurora" "Azzardoso" "Beroldo" "Condottiero" "Carloforte" "Colombo" "Daino" "Eridano" "Euridice" "Falco" "Favorita" "Nereide" "Patrona" "Serpente" "Tritone" "Veloce" "Vigilante" "Zeffiro" 
+		}
+	}
+
+	light_cruiser = {
+		prefix = ""
+		generic = { "Light Cruiser" }
+		unique = {
+			"Alessandro Farnese" "Maria Luisa" "d'Asburgo" "Parma" "Piacenza" "Borbone" "Aquila" "Aurora" "Azzardoso" "Beroldo" "Condottiero" "Carloforte" "Colombo" "Daino" "Eridano" "Euridice" "Falco" "Favorita" "Nereide" "Patrona" "Serpente" "Tritone" "Veloce" "Vigilante" "Zeffiro" 
+		}
+	}
+
+	submarine = {
+		prefix = ""
+		generic = { "Submarine" }
+		unique = {
+			"Alessandro Farnese" "Maria Luisa" "d'Asburgo" "Parma" "Piacenza" "Borbone" "Aquila" "Aurora" "Azzardoso" "Beroldo" "Condottiero" "Carloforte" "Colombo" "Daino" "Eridano" "Euridice" "Falco" "Favorita" "Nereide" "Patrona" "Serpente" "Tritone" "Veloce" "Vigilante" "Zeffiro" 
+		}
+	}
+
+}

@@ -1,0 +1,33 @@
+
+state={
+	id=861
+	name="STATE_861"
+
+	history={
+		owner = S01
+		victory_points = {
+			7000 30 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+			arms_factory = 2
+			air_base = 7
+
+		}
+		add_core_of = CHI
+		add_core_of = MEN
+		add_core_of = S01
+		add_core_of = T89
+		add_core_of = T95
+	}
+
+	provinces={
+		1169 1188 4032 4058 4093 4190 4208 6828 7000 7092 7109 10053 12026 12062 
+	}
+	manpower=23105508
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

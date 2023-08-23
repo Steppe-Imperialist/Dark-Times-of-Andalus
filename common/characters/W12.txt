@@ -1,0 +1,16 @@
+characters={
+	W12_ali_dyan={
+		name=W12_ali_dyan
+		portraits={
+			civilian={
+				large="GFX_Zanzibar_Sultan_Khalifa"
+			}
+		}
+		country_leader={
+			ideology=theocracy
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

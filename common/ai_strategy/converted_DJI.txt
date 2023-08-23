@@ -1,0 +1,18 @@
+﻿converted_war_strategies_DJI = {
+	enable = {
+		tag = DJI
+		always = no
+	}
+	
+}
+
+converted_diplo_strategies_DJI = {
+	enable = {
+		tag = DJI
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+}

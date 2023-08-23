@@ -1,0 +1,37 @@
+
+state={
+	id=203
+	name="STATE_203"
+	resources={
+		aluminium=27.000
+	}
+
+	history={
+		owner = W23
+		victory_points = {
+			692 10 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 3
+			arms_factory = 1
+			air_base = 10
+
+		}
+		add_core_of = T69
+		add_core_of = U27
+		add_core_of = W20
+		add_core_of = W23
+		add_claim_by = GER
+		add_claim_by = V32
+	}
+
+	provinces={
+		532 571 692 707 708 3299 3541 3571 3688 3705 6693 6725 9515 9652 9666 9681 11497 11620 11638 11653 
+	}
+	manpower=1910596
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

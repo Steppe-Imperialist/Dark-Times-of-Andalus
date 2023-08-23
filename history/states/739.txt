@@ -1,0 +1,33 @@
+
+state={
+	id=739
+	name="STATE_739"
+
+	history={
+		owner = T29
+		victory_points = {
+			10942 10 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 3
+			arms_factory = 0
+			air_base = 10
+
+		}
+		add_core_of = T29
+		add_core_of = W04
+		add_core_of = X82
+		add_claim_by = PRU
+		add_claim_by = W77
+	}
+
+	provinces={
+		5162 8213 10942 10970 
+	}
+	manpower=909004
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

@@ -1,0 +1,32 @@
+units = {
+	fleet = {
+		name = "1st Fleet"
+		naval_base = 4982
+		task_force = {
+			name = "1st Fleet"
+			location = 4982
+			ship = { name = "1st Georgetown Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = GUY } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = destroyer_1
+			creator = "GUY"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+	add_equipment_production = {
+		equipment = {
+			type = battleship_1
+			creator = "GUY"
+		}
+		requested_factories = 8
+		progress = 0.25
+		amount = 3
+	}
+}

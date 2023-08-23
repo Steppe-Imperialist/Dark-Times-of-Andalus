@@ -1,0 +1,32 @@
+
+state={
+	id=249
+	name="STATE_249"
+
+	history={
+		owner = GUY
+		victory_points = {
+			8107 15 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			4982 = {
+				naval_base = 10
+			}
+			air_base = 6
+
+		}
+		add_core_of = GUY
+	}
+
+	provinces={
+		4982 8107 12716 
+	}
+	manpower=2755420
+	buildings_max_level_factor=1.000
+	state_category=large_town
+
+	local_supplies=10.0
+}

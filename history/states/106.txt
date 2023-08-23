@@ -1,0 +1,33 @@
+
+state={
+	id=106
+	name="STATE_106"
+
+	history={
+		owner = CAN
+		victory_points = {
+			13196 15 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+			7364 = {
+				naval_base = 1
+			}
+			air_base = 5
+
+		}
+		add_core_of = CAN
+		add_core_of = T20
+	}
+
+	provinces={
+		7364 10176 12147 13196 
+	}
+	manpower=2772
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

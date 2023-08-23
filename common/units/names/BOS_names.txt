@@ -1,0 +1,58 @@
+﻿BOS = {
+	battle_cruiser = {
+		prefix = ""
+		generic = { "Battlecruiser" }
+		unique = {
+			"Bosna" "Herzceg" "Dalmacija" "Gazi Husrev-beg" "Kotromanici" "Kulin ban" "Miljacka" "Sarajevo" "Stjepan II" "Tvrtko I" 
+		}
+	}
+
+	battleship = {
+		prefix = ""
+		generic = { "Battleship" }
+		unique = {
+			"Bosna" "Herzceg" "Dalmacija" "Gazi Husrev-beg" "Kotromanici" "Kulin ban" "Miljacka" "Sarajevo" "Stjepan II" "Tvrtko I" 
+		}
+	}
+
+	carrier = {
+		prefix = ""
+		generic = { "Carrier" }
+		unique = {
+			"Bosna" "Herzceg" "Dalmacija" "Gazi Husrev-beg" "Kotromanici" "Kulin ban" "Miljacka" "Sarajevo" "Stjepan II" "Tvrtko I" 
+		}
+	}
+
+	destroyer = {
+		prefix = ""
+		generic = { "Destroyer" }
+		unique = {
+			"Bosna" "Herzceg" "Dalmacija" "Gazi Husrev-beg" "Kotromanici" "Kulin ban" "Miljacka" "Sarajevo" "Stjepan II" "Tvrtko I" 
+		}
+	}
+
+	heavy_cruiser = {
+		prefix = ""
+		generic = { "Heavy Cruiser" }
+		unique = {
+			"Bosna" "Herzceg" "Dalmacija" "Gazi Husrev-beg" "Kotromanici" "Kulin ban" "Miljacka" "Sarajevo" "Stjepan II" "Tvrtko I" 
+		}
+	}
+
+	light_cruiser = {
+		prefix = ""
+		generic = { "Light Cruiser" }
+		unique = {
+			"Bosna" "Herzceg" "Dalmacija" "Gazi Husrev-beg" "Kotromanici" "Kulin ban" "Miljacka" "Sarajevo" "Stjepan II" "Tvrtko I" 
+		}
+	}
+
+	submarine = {
+		prefix = ""
+		generic = { "Submarine" }
+		unique = {
+			"Bosna" "Herzceg" "Dalmacija" "Gazi Husrev-beg" "Kotromanici" "Kulin ban" "Miljacka" "Sarajevo" "Stjepan II" "Tvrtko I" 
+		}
+	}
+
+}

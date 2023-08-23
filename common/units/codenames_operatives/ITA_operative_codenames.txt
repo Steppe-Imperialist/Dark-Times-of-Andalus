@@ -1,0 +1,27 @@
+ITA_OPERATIVE_CODENAME_HISTORICAL = {
+	name = ITA_OPERATIVE_CODENAME_HISTORICAL
+
+	for_countries = { CAR CHA CMR GAB GAM GNA ITA MLI S20 S21 S22 SEN T10 T13 T77 T80 TOG U11 U94 W26 W31 X54 X97 }
+
+	type = codename
+
+	fallback_name = "Agent %d"
+	unique = {
+		"Lupo"
+		"Passero"
+		"Falco"
+		"Aquila"
+		"Serpente"
+		"Orso"
+		"Tigre"
+		"Condor"
+		"Gazza"
+		"Tartaruga"
+		"Squalo"
+		"Topo"
+		"Calabrone"
+		"Drago"
+		"Farfalla"
+		"Stallone"
+	}
+}

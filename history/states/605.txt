@@ -1,0 +1,34 @@
+
+state={
+	id=605
+	name="STATE_605"
+
+	history={
+		owner = SIA
+		victory_points = {
+			12360 1 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			1244 = {
+				naval_base = 1
+			}
+			air_base = 0
+
+		}
+		add_core_of = LAO
+		add_core_of = SIA
+		add_core_of = W78
+	}
+
+	provinces={
+		1244 1357 1535 1548 4433 4511 7225 7292 7516 7601 10293 10384 10425 12224 12360 12373 12402 12417 12431 
+	}
+	manpower=1340708
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

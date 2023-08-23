@@ -1,0 +1,35 @@
+
+state={
+	id=709
+	name="STATE_709"
+	resources={
+		steel=7.000
+		tungsten=7.000
+	}
+
+	history={
+		owner = USA
+		victory_points = {
+			7845 10 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 5
+
+		}
+		add_core_of = CAL
+		add_core_of = USA
+		add_core_of = X88
+	}
+
+	provinces={
+		7845 9616 10556 12607 
+	}
+	manpower=105936
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

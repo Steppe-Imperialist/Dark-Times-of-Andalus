@@ -1,0 +1,30 @@
+
+state={
+	id=322
+	name="STATE_322"
+
+	history={
+		owner = ITA
+		victory_points = {
+			4097 0 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = MOR
+		add_claim_by = U87
+	}
+
+	provinces={
+		4097 4154 7173 7958 
+	}
+	manpower=285196
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

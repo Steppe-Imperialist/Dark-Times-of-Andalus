@@ -1,0 +1,58 @@
+﻿S01 = {
+	battle_cruiser = {
+		prefix = ""
+		generic = { "Battlecruiser" }
+		unique = {
+			"Yingchang" "Karakorum" "Hohhot" "Chagaan" "Ghengis Khan" "JÃ¶chi" "Ã–gÃ¶dei" "Tolui" "MÃ¶ngke" "Qubilai" "HÃ¼legÃ¼" "BÃ¶ke" "Jinggim" "Kamala" "Dharmapala" "Ã–rÃ¼g TemÃ¼r" "Adai" "Elbeg" "Batu" "Mugali" "Bo'orchu" "Borokhula" "Chilaun" "Khubilai" "Jelme" "Jebe" "Subutai" "YelÃ¼ Chucai" "Shikhikhutug" "Sorqan Shira" "Khar Khiruge" "DÃ¶rben KÃ¼lÃ¼'Ã¼d" "DÃ¶rben Noyas" 
+		}
+	}
+
+	battleship = {
+		prefix = ""
+		generic = { "Battleship" }
+		unique = {
+			"Yingchang" "Karakorum" "Hohhot" "Chagaan" "Ghengis Khan" "JÃ¶chi" "Ã–gÃ¶dei" "Tolui" "MÃ¶ngke" "Qubilai" "HÃ¼legÃ¼" "BÃ¶ke" "Jinggim" "Kamala" "Dharmapala" "Ã–rÃ¼g TemÃ¼r" "Adai" "Elbeg" "Batu" "Mugali" "Bo'orchu" "Borokhula" "Chilaun" "Khubilai" "Jelme" "Jebe" "Subutai" "YelÃ¼ Chucai" "Shikhikhutug" "Sorqan Shira" "Khar Khiruge" "DÃ¶rben KÃ¼lÃ¼'Ã¼d" "DÃ¶rben Noyas" 
+		}
+	}
+
+	carrier = {
+		prefix = ""
+		generic = { "Carrier" }
+		unique = {
+			"Yingchang" "Karakorum" "Hohhot" "Chagaan" "Ghengis Khan" "JÃ¶chi" "Ã–gÃ¶dei" "Tolui" "MÃ¶ngke" "Qubilai" "HÃ¼legÃ¼" "BÃ¶ke" "Jinggim" "Kamala" "Dharmapala" "Ã–rÃ¼g TemÃ¼r" "Adai" "Elbeg" "Batu" "Mugali" "Bo'orchu" "Borokhula" "Chilaun" "Khubilai" "Jelme" "Jebe" "Subutai" "YelÃ¼ Chucai" "Shikhikhutug" "Sorqan Shira" "Khar Khiruge" "DÃ¶rben KÃ¼lÃ¼'Ã¼d" "DÃ¶rben Noyas" 
+		}
+	}
+
+	destroyer = {
+		prefix = ""
+		generic = { "Destroyer" }
+		unique = {
+			"Yingchang" "Karakorum" "Hohhot" "Chagaan" "Ghengis Khan" "JÃ¶chi" "Ã–gÃ¶dei" "Tolui" "MÃ¶ngke" "Qubilai" "HÃ¼legÃ¼" "BÃ¶ke" "Jinggim" "Kamala" "Dharmapala" "Ã–rÃ¼g TemÃ¼r" "Adai" "Elbeg" "Batu" "Mugali" "Bo'orchu" "Borokhula" "Chilaun" "Khubilai" "Jelme" "Jebe" "Subutai" "YelÃ¼ Chucai" "Shikhikhutug" "Sorqan Shira" "Khar Khiruge" "DÃ¶rben KÃ¼lÃ¼'Ã¼d" "DÃ¶rben Noyas" 
+		}
+	}
+
+	heavy_cruiser = {
+		prefix = ""
+		generic = { "Heavy Cruiser" }
+		unique = {
+			"Yingchang" "Karakorum" "Hohhot" "Chagaan" "Ghengis Khan" "JÃ¶chi" "Ã–gÃ¶dei" "Tolui" "MÃ¶ngke" "Qubilai" "HÃ¼legÃ¼" "BÃ¶ke" "Jinggim" "Kamala" "Dharmapala" "Ã–rÃ¼g TemÃ¼r" "Adai" "Elbeg" "Batu" "Mugali" "Bo'orchu" "Borokhula" "Chilaun" "Khubilai" "Jelme" "Jebe" "Subutai" "YelÃ¼ Chucai" "Shikhikhutug" "Sorqan Shira" "Khar Khiruge" "DÃ¶rben KÃ¼lÃ¼'Ã¼d" "DÃ¶rben Noyas" 
+		}
+	}
+
+	light_cruiser = {
+		prefix = ""
+		generic = { "Light Cruiser" }
+		unique = {
+			"Yingchang" "Karakorum" "Hohhot" "Chagaan" "Ghengis Khan" "JÃ¶chi" "Ã–gÃ¶dei" "Tolui" "MÃ¶ngke" "Qubilai" "HÃ¼legÃ¼" "BÃ¶ke" "Jinggim" "Kamala" "Dharmapala" "Ã–rÃ¼g TemÃ¼r" "Adai" "Elbeg" "Batu" "Mugali" "Bo'orchu" "Borokhula" "Chilaun" "Khubilai" "Jelme" "Jebe" "Subutai" "YelÃ¼ Chucai" "Shikhikhutug" "Sorqan Shira" "Khar Khiruge" "DÃ¶rben KÃ¼lÃ¼'Ã¼d" "DÃ¶rben Noyas" 
+		}
+	}
+
+	submarine = {
+		prefix = ""
+		generic = { "Submarine" }
+		unique = {
+			"Yingchang" "Karakorum" "Hohhot" "Chagaan" "Ghengis Khan" "JÃ¶chi" "Ã–gÃ¶dei" "Tolui" "MÃ¶ngke" "Qubilai" "HÃ¼legÃ¼" "BÃ¶ke" "Jinggim" "Kamala" "Dharmapala" "Ã–rÃ¼g TemÃ¼r" "Adai" "Elbeg" "Batu" "Mugali" "Bo'orchu" "Borokhula" "Chilaun" "Khubilai" "Jelme" "Jebe" "Subutai" "YelÃ¼ Chucai" "Shikhikhutug" "Sorqan Shira" "Khar Khiruge" "DÃ¶rben KÃ¼lÃ¼'Ã¼d" "DÃ¶rben Noyas" 
+		}
+	}
+
+}

@@ -1,0 +1,114 @@
+﻿capital = 642
+set_research_slots = 2
+
+oob = "U79_OOB"
+if = {
+	limit = { has_dlc = "Man the Guns" }
+		set_naval_oob = "U79_1936_naval_mtg"
+	else = { 
+		set_naval_oob = "U79_1936_naval_legacy"
+	}
+}
+
+# Starting tech
+# Research Bonuses
+
+set_country_flag = conv_oceania
+set_convoys = 0
+
+set_politics = {
+    ruling_party = absolutist
+    last_election = "1836.1.1"
+    election_frequency = 48
+    elections_allowed = no
+}
+
+set_popularities = {
+	absolutist = 100
+}
+
+add_ideas = {
+	uncivilized
+	volunteer_only
+	civilian_economy
+	export_focus
+	culture_polynesian
+}
+set_stability = 0.60
+set_war_support = 0.60
+
+recruit_character = U79_havaiki_ielemia
+recruit_character = U79_ulukalala_tuabayi
+recruit_character = U79_lika_ielemia
+recruit_character = U79_taufa'ahau_feletoa
+recruit_character = U79_king_william
+
+if = {
+	limit = {
+		has_dlc = "La Resistance"
+	}
+	create_operative_leader = {
+		name = "Kamea Moengangongo"
+		GFX = "gfx/leaders/Asia/portrait_asia_generic_operative_female_1.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { U79 }
+	}
+
+	create_operative_leader = {
+		name = "Kanoa Maeakafa"
+		GFX = "gfx/leaders/Asia/portrait_asia_generic_operative_female_2.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { U79 }
+	}
+
+	create_operative_leader = {
+		name = "Kiele Feletoa"
+		GFX = "gfx/leaders/Asia/portrait_asia_generic_operative_female_3.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { U79 }
+	}
+
+	create_operative_leader = {
+		name = "Finau Te Fuli"
+		GFX = "gfx/leaders/Asia/portrait_asia_generic_operative_male_1.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		nationalities = { U79 }
+	}
+
+	create_operative_leader = {
+		name = "William Moengangongo"
+		GFX = "gfx/leaders/Asia/portrait_asia_generic_operative_male_2.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		nationalities = { U79 }
+	}
+
+}
+### VARIANTS ###
+if = {
+	limit = { not = { has_dlc = "Man the Guns" } }
+}
+if = {
+	limit = { has_dlc = "Man the Guns" }
+}
+### PLANE DESIGNS ###
+if = {
+	limit = { has_dlc = "By Blood Alone" }
+}
+### TANK DESIGNS ###
+if = {
+	limit = { has_dlc = "No Step Back" }
+}
+

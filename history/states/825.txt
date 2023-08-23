@@ -1,0 +1,32 @@
+
+state={
+	id=825
+	name="STATE_825"
+
+	history={
+		owner = T66
+		victory_points = {
+			1896 15 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 6
+
+		}
+		add_core_of = AZR
+		add_core_of = T49
+		add_core_of = T66
+		add_core_of = X20
+	}
+
+	provinces={
+		1636 1822 1896 4755 7604 12793 12861 
+	}
+	manpower=2901356
+	buildings_max_level_factor=1.000
+	state_category=city
+
+	local_supplies=10.0
+}

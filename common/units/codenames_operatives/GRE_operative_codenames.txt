@@ -1,0 +1,25 @@
+GRE_OPERATIVE_CODENAME_HISTORICAL = {
+	name = GRE_OPERATIVE_CODENAME_HISTORICAL
+
+	for_countries = { CYP GRE U15 U75 W25 X95 }
+
+	type = codename
+
+	fallback_name = "Agent %d"
+	unique = {
+		"Kallos"
+		"Kairos"
+		"Aigai"
+		"Laurion"
+		"Somatophylaktos"
+		"Philosophos"
+		"Sphinx"
+		"Ajax"
+		"Eugenios"
+		"Potamos"
+		"Hippos"
+		"Attikos"
+		"Kretai"
+		"Aiôn"
+	}
+}

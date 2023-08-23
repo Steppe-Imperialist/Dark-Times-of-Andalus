@@ -1,0 +1,58 @@
+﻿ELS = {
+	battle_cruiser = {
+		prefix = ""
+		generic = { "Battlecruiser" }
+		unique = {
+			"Cara Sucia" "El Potrero" "Goascorán" "Grande" "Jalponga" "Jiboa" "Lempa" "Paz" "Pululuya" "Sensunapan" 
+		}
+	}
+
+	battleship = {
+		prefix = ""
+		generic = { "Battleship" }
+		unique = {
+			"Amapala" "Constitución" "El Salvador" "Francisco Dueñas" "Gerardo Barrios" "Juan José Guzmán" "Nación" "Presidente" "Quince de Septiembre" "Tomás Regalado" 
+		}
+	}
+
+	carrier = {
+		prefix = ""
+		generic = { "Carrier" }
+		unique = {
+			"Apaneca" "Chinameca" "El Tigre" "Guazapa" "San Miguel" "San Vicente" "Santa Ana" "Taburete" "Tecapa" "Ungido" 
+		}
+	}
+
+	destroyer = {
+		prefix = ""
+		generic = { "Destroyer" }
+		unique = {
+			"Catorce Familias" "Centroamérica" "Conquistador" "Criollo" "Descubridor" "Independencia" "Intendencia" "Lenca" "Libertad" "Pipil" 
+		}
+	}
+
+	heavy_cruiser = {
+		prefix = ""
+		generic = { "Heavy Cruiser" }
+		unique = {
+			"Audaz" "Creador" "Neptuno" "San Francisco" "San José" "San Juan" "Santo Tomás" "Terror" "Tesoro" "Valiente" 
+		}
+	}
+
+	light_cruiser = {
+		prefix = ""
+		generic = { "Light Cruiser" }
+		unique = {
+			"As de los Mares" "Cañonero" "Faro del Pacífico" "Fructífero" "Guerrero" "Huracán" "Salvadoreño" "Sempiterno" "Victorioso" "Volcán" 
+		}
+	}
+
+	submarine = {
+		prefix = ""
+		generic = { "Submarine" }
+		unique = {
+			"Ahuachapán" "Chalatenango" "Cojutepeque" "San Francisco Gotera" "San Salvador" "Santa Tecla" "Sensuntepeque" "Sonsonate" "Usulatán" "Zacatecoluca" 
+		}
+	}
+
+}

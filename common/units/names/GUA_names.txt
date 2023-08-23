@@ -1,0 +1,58 @@
+﻿GUA = {
+	battle_cruiser = {
+		prefix = ""
+		generic = { "Battlecruiser" }
+		unique = {
+			"Belice" "Dulce" "Hondo" "Lempa" "Los Esclavos" "María Linda" "Motagua" "Nahualete" "Paz" "Suchiate" 
+		}
+	}
+
+	battleship = {
+		prefix = ""
+		generic = { "Battleship" }
+		unique = {
+			"Constitución" "Guatemala" "José Carrera Turcios" "José María Reina" "Justo Barrios" "Manuel Estrada" "Mariano Rivera" "Pedro Molina" "Presidente" "Vicente Cerna" 
+		}
+	}
+
+	carrier = {
+		prefix = ""
+		generic = { "Carrier" }
+		unique = {
+			"Acatenago" "Agua" "Almolonga" "Atitlán" "Fuego" "Santa María" "Santo Tomás" "Tacaná" "Tajumulco" "Tolimán" 
+		}
+	}
+
+	destroyer = {
+		prefix = ""
+		generic = { "Destroyer" }
+		unique = {
+			"Barrigones" "Bartolomé de las Casas" "Cakchiquel" "Itzá" "Kiche" "Nueva Sevilla" "Olmeca" "Pedro de Alvarado" "Qeqchi" "Zapotitlán" 
+		}
+	}
+
+	heavy_cruiser = {
+		prefix = ""
+		generic = { "Heavy Cruiser" }
+		unique = {
+			"Audaz" "Conquista" "Independencia" "Salvador" "San José" "San Justo" "San Pedro" "San Vicente" "Santa María" "Vencedora" 
+		}
+	}
+
+	light_cruiser = {
+		prefix = ""
+		generic = { "Light Cruiser" }
+		unique = {
+			"Chingo" "Chiquimula" "Destructor" "Flores" "Golpeador" "Guatemalteco" "Ixtepeque" "Lanzador" "San Patricio" "Suchitán" 
+		}
+	}
+
+	submarine = {
+		prefix = ""
+		generic = { "Submarine" }
+		unique = {
+			"Ciudad de Guatemala" "Flores" "Guastatoya" "Huehuetenango" "Jalapa" "Quetzaltenango" "Retalhuleu" "Salamá" "Santa Cruz" "Totonicapán" 
+		}
+	}
+
+}

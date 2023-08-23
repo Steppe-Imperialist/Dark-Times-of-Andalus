@@ -1,0 +1,176 @@
+﻿U83_BB_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_BB
+
+	for_countries = { U83 }
+
+	type = ship
+	ship_types = { ship_hull_heavy battleship }
+
+	prefix = ""
+	fallback_name = "Battleship BB-%d"
+
+	unique = {
+		"Kaiser Max" "Don Juan D'Austria" "Austria" "Hungary" "Budapest" "Wien" "Praha" "Erz. Karl" "Erz. Ferndinand Max" "Erz. Friedrich" "K. Erz. Stephanie" "K. Erz. Rudolf" "Szent László" "Monarch" "Arpad" "Babenburg" "Custoza" "Kaiser Franz I" "Kaiser Karl V" "Kaiser Franz Joseph II" "Kaiserin Maria Theresia" "Erz. Franz Ferdinand" "Radetzky" "Zrinyi" "Viribis Unitis" "Tegetthoff" "Prinz Eugen" "Prinz Metternich" "Szent Istvan" 
+	}
+}
+
+U83_BC_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_BC
+
+	for_countries = { U83 }
+
+	type = ship
+	ship_types = { ship_hull_heavy battle_cruiser }
+
+	prefix = ""
+	fallback_name = "Battlecruiser BC-%d"
+
+	unique = {
+		"Hum" "Trabant" "Taurus" "Vesta" "Dalmat" "Camälion" "Kopernik" "Drach" "Salamander" "Aquila" "Sterneck" "Principesse Augusta" "Maros" "Leitha" "Szamos" "Körös" "Réka" "Gäa" "Gigant" 
+	}
+}
+
+U83_CA_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CA
+
+	for_countries = { U83 }
+
+	type = ship
+	ship_types = { ship_hull_cruiser heavy_cruiser }
+
+	prefix = ""
+	fallback_name = "Heavy Cruiser CA-%d"
+
+	unique = {
+		"Habsburg" "Viribus Unitis" "Ferdinand Max" "Aquila" "Montecuccoli" "Sterneck" "Kaiserin Maria Theresia" "Radetzky" 
+	}
+}
+
+U83_CLAA_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CLAA
+
+	for_countries = { U83 }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser }
+
+	prefix = ""
+	fallback_name = "Light Cruiser CLAA-%d"
+
+	unique = {
+		"Novara" "Schwarzenberg" "Helgoland" "Frundsberg" "Aurora" "Saida" "Nautilus" "Albatros" "Donau" "Lacroma" "Lika" "Principesse Augusta" "Austria" "Saida" "Maria Theresia" "Höchstädt" "Falke" "Adler" "Delphin" 
+	}
+}
+
+U83_CL_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CL
+
+	for_countries = { U83 }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser }
+
+	prefix = ""
+	fallback_name = "Light Cruiser CL-%d"
+
+	unique = {
+		"Novara" "Schwarzenberg" "Helgoland" "Frundsberg" "Aurora" "Saida" "Nautilus" "Albatros" "Donau" "Lacroma" "Lika" "Principesse Augusta" "Austria" "Saida" "Maria Theresia" "Höchstädt" "Falke" "Adler" "Delphin" 
+	}
+}
+
+U83_CVL_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CVL
+
+	for_countries = { U83 }
+
+	type = ship
+	ship_types = { ship_hull_carrier carrier }
+
+	prefix = ""
+	fallback_name = "Carrier CVL-%d"
+
+	unique = {
+		"Principesse Augusta" "Maros" "Leitha" "Szamos" "Körös" "Réka" "Gäa" "Gigant" "Hum" "Trabant" "Taurus" "Vesta" "Dalmat" "Camälion" "Kopernik" "Drach" "Salamander" "Aquila" "Sterneck" 
+	}
+}
+
+U83_CV_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CARRIERS
+
+	for_countries = { U83 }
+
+	type = ship
+	ship_types = { ship_hull_carrier carrier }
+
+	prefix = ""
+	fallback_name = "Carrier CV-%d"
+
+	unique = {
+		"Principesse Augusta" "Maros" "Leitha" "Szamos" "Körös" "Réka" "Gäa" "Gigant" "Hum" "Trabant" "Taurus" "Vesta" "Dalmat" "Camälion" "Kopernik" "Drach" "Salamander" "Aquila" "Sterneck" 
+	}
+}
+
+U83_DD_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_DESTROYERS
+
+	for_countries = { U83 }
+
+	type = ship
+	ship_types = { ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Destroyer DD-%d"
+
+	unique = {
+		"Habsburg" "Kaiser Karl IV" "Sankt Georg" "Admiral Spaun" "Saida" "Helgoland" "Novara" "Donau" "Laudon" "Minerva" "Tiger" "Leopold" "Panther" "Csepel" "Dukla" "Kaiman" "Zenta" "Szigetvár" "Aspern" "Boa" "Pluto" "Zenta" "Uzsok" "Ulan" "Warasdiner" "Streiter" "Schrafschutze" "Wildfang" "Höchstädt" "Schwarzenberg" "Frundsberg" "Kaiserin Elizabeth" "Kaiser Franz Joseph I" "Aurora" "Inn" "Pola" "Triest" "Lissa" "Tatra" "Triglav" "Balaton" "Csepel" "Huszár" 
+	}
+}
+
+U83_DE_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_DE
+
+	for_countries = { U83 }
+
+	type = ship
+	ship_types = { ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Destroyer Escort DE-%d"
+
+	unique = {
+		"Habsburg" "Kaiser Karl IV" "Sankt Georg" "Admiral Spaun" "Saida" "Helgoland" "Novara" "Donau" "Laudon" "Minerva" "Tiger" "Leopold" "Panther" "Csepel" "Dukla" "Kaiman" "Zenta" "Szigetvár" "Aspern" "Boa" "Pluto" "Zenta" "Uzsok" "Ulan" "Warasdiner" "Streiter" "Schrafschutze" "Wildfang" "Höchstädt" "Schwarzenberg" "Frundsberg" "Kaiserin Elizabeth" "Kaiser Franz Joseph I" "Aurora" "Inn" "Pola" "Triest" "Lissa" "Tatra" "Triglav" "Balaton" "Csepel" "Huszár" 
+	}
+}
+
+U83_MINELAYERS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_MINELAYERS
+
+	for_countries = { U83 }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Minelayer CM-%d"
+
+	unique = {
+		"Novara" "Schwarzenberg" "Helgoland" "Frundsberg" "Aurora" "Saida" "Nautilus" "Albatros" "Donau" "Lacroma" "Lika" "Principesse Augusta" "Austria" "Saida" "Maria Theresia" "Höchstädt" "Falke" "Adler" "Delphin" 
+	}
+}
+
+U83_SS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_SUBMARINES
+
+	for_countries = { U83 }
+
+	type = ship
+	ship_types = { ship_hull_submarine submarine }
+
+	prefix = ""
+	fallback_name = "Submarine SS-%d"
+
+	unique = {
+		"Guerriera" "Bellona" "Medea" "Venus" "Admiral Spaun" "Kaiserin Elisabeth" "Saida" "Sankt Georg" "Austria" "Schwarzenberg" "Aurora" "Donau" "Inn" "Pola" "Triest" 
+	}
+}
+

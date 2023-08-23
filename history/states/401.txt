@@ -1,0 +1,36 @@
+
+state={
+	id=401
+	name="STATE_401"
+	resources={
+		rubber=3.000
+	}
+
+	history={
+		owner = V19
+		victory_points = {
+			5176 15 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			10237 = {
+				naval_base = 4
+			}
+			air_base = 6
+
+		}
+		add_core_of = V19
+		add_claim_by = MAL
+	}
+
+	provinces={
+		1252 2184 4323 5176 5226 7299 7355 7424 10237 10266 12196 12225 
+	}
+	manpower=239556
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

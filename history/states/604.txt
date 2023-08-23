@@ -1,0 +1,35 @@
+
+state={
+	id=604
+	name="STATE_604"
+
+	history={
+		owner = SIA
+		victory_points = {
+			4379 10 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+			1300 = {
+				naval_base = 1
+			}
+			air_base = 5
+
+		}
+		add_core_of = SIA
+		add_core_of = VIN
+		add_core_of = W78
+		add_core_of = X73
+	}
+
+	provinces={
+		1248 1300 1328 1400 1605 4255 4334 4363 4379 4405 7229 7380 10137 10162 10180 10309 12109 
+	}
+	manpower=2147816
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

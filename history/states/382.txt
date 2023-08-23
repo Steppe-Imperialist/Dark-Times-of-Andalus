@@ -1,0 +1,33 @@
+
+state={
+	id=382
+	name="STATE_382"
+
+	history={
+		owner = KEN
+		victory_points = {
+			4851 0 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = S06
+		add_core_of = S08
+		add_core_of = U49
+		add_claim_by = KEN
+		add_claim_by = ZIM
+	}
+
+	provinces={
+		1874 2151 4851 
+	}
+	manpower=359404
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

@@ -1,0 +1,35 @@
+
+state={
+	id=771
+	name="STATE_771"
+
+	history={
+		owner = T35
+		victory_points = {
+			12352 1 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			4646 = {
+				naval_base = 4
+			}
+			air_base = 0
+
+		}
+		add_core_of = JAP
+		add_core_of = T35
+		add_core_of = W24
+		add_core_of = X07
+	}
+
+	provinces={
+		1512 1642 4576 4646 7595 10512 12352 12421 12493 
+	}
+	manpower=386596
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

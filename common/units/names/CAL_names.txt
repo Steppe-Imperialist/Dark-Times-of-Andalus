@@ -1,0 +1,58 @@
+﻿CAL = {
+	battle_cruiser = {
+		prefix = ""
+		generic = { "Battlecruiser" }
+		unique = {
+			"California" "John Frémont" "The Bear and Star" "William Ide" "San Francisco" "Los Angeles" "Monterey" "Olompali" "Sacramento" "Sonoma" 
+		}
+	}
+
+	battleship = {
+		prefix = ""
+		generic = { "Battleship" }
+		unique = {
+			"California" "John Frémont" "The Bear and Star" "William Ide" "San Francisco" "Los Angeles" "Monterey" "Olompali" "Sacramento" "Sonoma" 
+		}
+	}
+
+	carrier = {
+		prefix = ""
+		generic = { "Carrier" }
+		unique = {
+			"California" "John Frémont" "The Bear and Star" "William Ide" "San Francisco" "Los Angeles" "Monterey" "Olompali" "Sacramento" "Sonoma" 
+		}
+	}
+
+	destroyer = {
+		prefix = ""
+		generic = { "Destroyer" }
+		unique = {
+			"California" "John Frémont" "The Bear and Star" "William Ide" "San Francisco" "Los Angeles" "Monterey" "Olompali" "Sacramento" "Sonoma" 
+		}
+	}
+
+	heavy_cruiser = {
+		prefix = ""
+		generic = { "Heavy Cruiser" }
+		unique = {
+			"California" "John Frémont" "The Bear and Star" "William Ide" "San Francisco" "Los Angeles" "Monterey" "Olompali" "Sacramento" "Sonoma" 
+		}
+	}
+
+	light_cruiser = {
+		prefix = ""
+		generic = { "Light Cruiser" }
+		unique = {
+			"California" "John Frémont" "The Bear and Star" "William Ide" "San Francisco" "Los Angeles" "Monterey" "Olompali" "Sacramento" "Sonoma" 
+		}
+	}
+
+	submarine = {
+		prefix = ""
+		generic = { "Submarine" }
+		unique = {
+			"California" "John Frémont" "The Bear and Star" "William Ide" "San Francisco" "Los Angeles" "Monterey" "Olompali" "Sacramento" "Sonoma" 
+		}
+	}
+
+}

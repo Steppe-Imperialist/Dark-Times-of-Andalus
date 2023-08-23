@@ -1,0 +1,148 @@
+﻿converted_war_strategies_T64 = {
+	enable = {
+		tag = T64
+		always = no
+	}
+	
+	ai_strategy = {
+		type = conquer
+		id = "S01"
+		value = 1518
+	}
+	ai_strategy = {
+		type = conquer
+		id = "KAZ"
+		value = 173
+	}
+	ai_strategy = {
+		type = conquer
+		id = "T72"
+		value = 156
+	}
+	ai_strategy = {
+		type = conquer
+		id = "U26"
+		value = 151
+	}
+	ai_strategy = {
+		type = conquer
+		id = "SOV"
+		value = 26
+	}
+	ai_strategy = {
+		type = conquer
+		id = "KYR"
+		value = 21
+	}
+}
+
+converted_diplo_strategies_T64 = {
+	enable = {
+		tag = T64
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+	ai_strategy = {
+		type = contain
+		id = "KYR"
+		value = 328
+	}
+	ai_strategy = {
+		type = contain
+		id = "SOV"
+		value = 268
+	}
+	ai_strategy = {
+		type = contain
+		id = "U26"
+		value = 250
+	}
+	ai_strategy = {
+		type = contain
+		id = "KAZ"
+		value = 237
+	}
+	ai_strategy = {
+		type = contain
+		id = "S01"
+		value = 181
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "T72"
+		value = 400
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "S01"
+		value = 288
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "KYR"
+		value = 182
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "U26"
+		value = 126
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "KAZ"
+		value = 104
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "SOV"
+		value = 50
+	}
+	ai_strategy = {
+		type = alliance
+		id = "PER"
+		value = 200
+	}
+	ai_strategy = {
+		type = alliance
+		id = "W18"
+		value = 77
+	}
+	ai_strategy = {
+		type = alliance
+		id = "U85"
+		value = 40
+	}
+	ai_strategy = {
+		type = alliance
+		id = "T67"
+		value = 2
+	}
+	ai_strategy = {
+		type = protect
+		id = "KYR"
+		value = 40
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "BOT"
+		value = 111
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "KYR"
+		value = 78
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "BAN"
+		value = 59
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "W89"
+		value = 58
+	}
+}

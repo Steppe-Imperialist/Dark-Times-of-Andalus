@@ -1,0 +1,35 @@
+
+state={
+	id=444
+	name="STATE_444"
+
+	history={
+		owner = V55
+		victory_points = {
+			12472 10 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			arms_factory = 1
+			12472 = {
+				naval_base = 6
+			}
+			air_base = 10
+
+		}
+		add_core_of = INS
+		add_core_of = V52
+		add_core_of = V55
+		add_core_of = X57
+	}
+
+	provinces={
+		1209 4390 4608 7654 10479 10491 12293 12472 
+	}
+	manpower=3539000
+	buildings_max_level_factor=1.000
+	state_category=city
+
+	local_supplies=10.0
+}

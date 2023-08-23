@@ -1,0 +1,36 @@
+
+state={
+	id=315
+	name="STATE_315"
+
+	history={
+		owner = S20
+		victory_points = {
+			8244 10 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 0
+			8244 = {
+				naval_base = 8
+			}
+			air_base = 6
+
+		}
+		add_core_of = BEN
+		add_core_of = S20
+		add_claim_by = CMR
+		add_claim_by = EQG
+		add_claim_by = NOR
+	}
+
+	provinces={
+		8244 
+	}
+	manpower=439452
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

@@ -1,0 +1,31 @@
+
+state={
+	id=713
+	name="STATE_713"
+
+	history={
+		owner = USA
+		victory_points = {
+			7542 0 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			7542 = {
+				naval_base = 4
+			}
+			air_base = 0
+
+		}
+	}
+
+	provinces={
+		1546 4468 4509 4524 4552 7269 7487 7512 7529 7542 7570 7585 8235 8250 10369 10396 10436 10990 12315 12371 12386 
+	}
+	manpower=526888
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+
+	local_supplies=10.0
+}

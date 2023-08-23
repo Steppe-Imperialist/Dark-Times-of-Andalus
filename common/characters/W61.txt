@@ -1,0 +1,16 @@
+characters={
+	W61_king_ludwig_ii={
+		name=W61_king_ludwig_ii
+		portraits={
+			civilian={
+				large="GFX_Bavaria_Rupprecht_von_Bayern"
+			}
+		}
+		country_leader={
+			ideology=absolute_monarchy
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

@@ -1,0 +1,22 @@
+EST_OPERATIVE_CODENAME_HISTORICAL = {
+	name = EST_OPERATIVE_CODENAME_HISTORICAL
+
+	for_countries = { W85 }
+
+	type = codename
+
+	fallback_name = "Agent %d"
+	unique = {
+		"Hämarik"
+		"Aed"
+		"Kohver"
+		"Kull"
+		"Tuvi"
+		"Hoidke"
+		"Käru"
+		"Rusikas"
+		"Traaler"
+		"Pirukas"
+		"Akrobaat"
+	}
+}

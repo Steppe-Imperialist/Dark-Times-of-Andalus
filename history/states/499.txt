@@ -1,0 +1,30 @@
+
+state={
+	id=499
+	name="STATE_499"
+
+	history={
+		owner = U13
+		victory_points = {
+			6371 15 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1
+			air_base = 6
+
+		}
+		add_core_of = BLR
+		add_core_of = U13
+	}
+
+	provinces={
+		289 323 342 3219 3267 3331 3350 3378 6220 6233 6249 6292 6326 6344 6354 6371 6373 9241 9247 9288 9289 9323 9342 9371 9396 11220 11230 11241 11271 11322 11355 11383 
+	}
+	manpower=3869280
+	buildings_max_level_factor=1.000
+	state_category=large_city
+
+	local_supplies=10.0
+}

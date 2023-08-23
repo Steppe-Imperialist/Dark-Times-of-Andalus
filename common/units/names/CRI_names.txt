@@ -1,0 +1,58 @@
+﻿CRI = {
+	battle_cruiser = {
+		prefix = ""
+		generic = { "Battlecruiser" }
+		unique = {
+			"Bakhchisaray" "Çürük Suv" "Chufut Kale" "Hansaray" "Haci Giray" "Meli I Giray" "Zincilri Medrese" "Kyrym" "Qirq Yer" "Cufut Qale" "Chingiz Khan" 
+		}
+	}
+
+	battleship = {
+		prefix = ""
+		generic = { "Battleship" }
+		unique = {
+			"Bakhchisaray" "Çürük Suv" "Chufut Kale" "Hansaray" "Haci Giray" "Meli I Giray" "Zincilri Medrese" "Kyrym" "Qirq Yer" "Cufut Qale" "Chingiz Khan" 
+		}
+	}
+
+	carrier = {
+		prefix = ""
+		generic = { "Carrier" }
+		unique = {
+			"Bakhchisaray" "Çürük Suv" "Chufut Kale" "Hansaray" "Haci Giray" "Meli I Giray" "Zincilri Medrese" "Kyrym" "Qirq Yer" "Cufut Qale" "Chingiz Khan" 
+		}
+	}
+
+	destroyer = {
+		prefix = ""
+		generic = { "Destroyer" }
+		unique = {
+			"Bakhchisaray" "Çürük Suv" "Chufut Kale" "Hansaray" "Haci Giray" "Meli I Giray" "Zincilri Medrese" "Kyrym" "Qirq Yer" "Cufut Qale" "Chingiz Khan" 
+		}
+	}
+
+	heavy_cruiser = {
+		prefix = ""
+		generic = { "Heavy Cruiser" }
+		unique = {
+			"Bakhchisaray" "Çürük Suv" "Chufut Kale" "Hansaray" "Haci Giray" "Meli I Giray" "Zincilri Medrese" "Kyrym" "Qirq Yer" "Cufut Qale" "Chingiz Khan" 
+		}
+	}
+
+	light_cruiser = {
+		prefix = ""
+		generic = { "Light Cruiser" }
+		unique = {
+			"Bakhchisaray" "Çürük Suv" "Chufut Kale" "Hansaray" "Haci Giray" "Meli I Giray" "Zincilri Medrese" "Kyrym" "Qirq Yer" "Cufut Qale" "Chingiz Khan" 
+		}
+	}
+
+	submarine = {
+		prefix = ""
+		generic = { "Submarine" }
+		unique = {
+			"Bakhchisaray" "Çürük Suv" "Chufut Kale" "Hansaray" "Haci Giray" "Meli I Giray" "Zincilri Medrese" "Kyrym" "Qirq Yer" "Cufut Qale" "Chingiz Khan" 
+		}
+	}
+
+}

@@ -1,0 +1,31 @@
+
+state={
+	id=519
+	name="STATE_519"
+
+	history={
+		owner = U26
+		victory_points = {
+			7374 0 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = NEP
+		add_core_of = W90
+		add_claim_by = RAJ
+	}
+
+	provinces={
+		4386 7374 10825 10910 
+	}
+	manpower=441296
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

@@ -1,0 +1,35 @@
+
+state={
+	id=274
+	name="STATE_274"
+
+	history={
+		owner = W71
+		victory_points = {
+			7625 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = S02
+		add_core_of = T89
+		add_core_of = U51
+		add_core_of = W03
+		add_core_of = W71
+		add_claim_by = CHI
+		add_claim_by = U72
+	}
+
+	provinces={
+		1612 4130 5030 7596 7609 7625 9934 10757 12086 12414 
+	}
+	manpower=13637192
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

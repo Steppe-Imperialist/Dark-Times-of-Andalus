@@ -1,0 +1,32 @@
+
+state={
+	id=551
+	name="STATE_551"
+	resources={
+		oil=1.000
+		steel=6.000
+	}
+
+	history={
+		owner = X77
+		victory_points = {
+			11461 0 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+	}
+
+	provinces={
+		453 472 486 502 3479 3531 6530 11452 11461 
+	}
+	manpower=481152
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+
+	local_supplies=10.0
+}

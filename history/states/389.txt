@@ -1,0 +1,35 @@
+
+state={
+	id=389
+	name="STATE_389"
+
+	history={
+		owner = KEN
+		victory_points = {
+			10928 15 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+			10928 = {
+				naval_base = 4
+			}
+			air_base = 5
+
+		}
+		add_core_of = SOM
+		add_core_of = X04
+		add_core_of = X08
+		add_claim_by = KEN
+	}
+
+	provinces={
+		2063 8164 10928 11014 12941 
+	}
+	manpower=1023036
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

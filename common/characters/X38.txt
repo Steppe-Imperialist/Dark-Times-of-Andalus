@@ -1,0 +1,16 @@
+characters={
+	X38_pemulwy_wonga={
+		name=X38_pemulwy_wonga
+		portraits={
+			civilian={
+				large="GFX_SOM_Cismaan_III_Maxamuud"
+			}
+		}
+		country_leader={
+			ideology=absolute_monarchy
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

@@ -1,0 +1,176 @@
+﻿ECU_BB_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_BB
+
+	for_countries = { ECU }
+
+	type = ship
+	ship_types = { ship_hull_heavy battleship }
+
+	prefix = ""
+	fallback_name = "Battleship BB-%d"
+
+	unique = {
+		"Cara de Dios" "Ecuador" "Flores" "García Moreno" "Illingworth" "Inca" "Libertador" "Rocafuerte" "Stagg" "Veintemilla" 
+	}
+}
+
+ECU_BC_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_BC
+
+	for_countries = { ECU }
+
+	type = ship
+	ship_types = { ship_hull_heavy battle_cruiser }
+
+	prefix = ""
+	fallback_name = "Battlecruiser BC-%d"
+
+	unique = {
+		"Cormorán" "El Oro" "Guayas" "Imbabura" "León Marino" "Los Ríos" "Manabí" "Marcismo" "Pingüino" "Tortuga" 
+	}
+}
+
+ECU_CA_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CA
+
+	for_countries = { ECU }
+
+	type = ship
+	ship_types = { ship_hull_cruiser heavy_cruiser }
+
+	prefix = ""
+	fallback_name = "Heavy Cruiser CA-%d"
+
+	unique = {
+		"Alcance" "Chimborazo" "Colombia" "Diligencia" "Gracia del Guayas" "Guayaquileña" "Pichincha" "San Francisco" "San Juan" "Santa Marina" 
+	}
+}
+
+ECU_CLAA_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CLAA
+
+	for_countries = { ECU }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser }
+
+	prefix = ""
+	fallback_name = "Light Cruiser CLAA-%d"
+
+	unique = {
+		"Atacazo" "Babahoyo" "Cayambe" "Corazón" "Filocorrales" "Ibarra" "Machala" "Puyo" "Reventador" "Tulcán" 
+	}
+}
+
+ECU_CL_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CL
+
+	for_countries = { ECU }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser }
+
+	prefix = ""
+	fallback_name = "Light Cruiser CL-%d"
+
+	unique = {
+		"Atacazo" "Babahoyo" "Cayambe" "Corazón" "Filocorrales" "Ibarra" "Machala" "Puyo" "Reventador" "Tulcán" 
+	}
+}
+
+ECU_CVL_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CVL
+
+	for_countries = { ECU }
+
+	type = ship
+	ship_types = { ship_hull_carrier carrier }
+
+	prefix = ""
+	fallback_name = "Carrier CVL-%d"
+
+	unique = {
+		"Coca" "Cotopaxi" "Huancavilca" "Illiniza" "Manteño" "Napo" "Pastaza" "Putumayo" "Shyri" "Tunguraha" 
+	}
+}
+
+ECU_CV_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CARRIERS
+
+	for_countries = { ECU }
+
+	type = ship
+	ship_types = { ship_hull_carrier carrier }
+
+	prefix = ""
+	fallback_name = "Carrier CV-%d"
+
+	unique = {
+		"Coca" "Cotopaxi" "Huancavilca" "Illiniza" "Manteño" "Napo" "Pastaza" "Putumayo" "Shyri" "Tunguraha" 
+	}
+}
+
+ECU_DD_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_DESTROYERS
+
+	for_countries = { ECU }
+
+	type = ship
+	ship_types = { ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Destroyer DD-%d"
+
+	unique = {
+		"Amazonía" "Bolívar" "Galápagos" "Libertad" "Luz de América" "Mestizo" "Orellana" "Oriente" "Patria" "Santa Elena" 
+	}
+}
+
+ECU_DE_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_DE
+
+	for_countries = { ECU }
+
+	type = ship
+	ship_types = { ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Destroyer Escort DE-%d"
+
+	unique = {
+		"Amazonía" "Bolívar" "Galápagos" "Libertad" "Luz de América" "Mestizo" "Orellana" "Oriente" "Patria" "Santa Elena" 
+	}
+}
+
+ECU_MINELAYERS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_MINELAYERS
+
+	for_countries = { ECU }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Minelayer CM-%d"
+
+	unique = {
+		"Atacazo" "Babahoyo" "Cayambe" "Corazón" "Filocorrales" "Ibarra" "Machala" "Puyo" "Reventador" "Tulcán" 
+	}
+}
+
+ECU_SS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_SUBMARINES
+
+	for_countries = { ECU }
+
+	type = ship
+	ship_types = { ship_hull_submarine submarine }
+
+	prefix = ""
+	fallback_name = "Submarine SS-%d"
+
+	unique = {
+		"Constitución" "Cuenca" "Cuero" "Esmeraldas" "Espejo" "Guayaquil" "Montufar" "Quito" "República" "Zamora" 
+	}
+}
+

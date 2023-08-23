@@ -1,0 +1,16 @@
+characters={
+	X75_king_michan_caman={
+		name=X75_king_michan_caman
+		portraits={
+			civilian={
+				large="GFX_Bolivia_Carlos_Quiroga"
+			}
+		}
+		country_leader={
+			ideology=absolute_monarchy
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

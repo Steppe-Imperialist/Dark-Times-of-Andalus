@@ -1,0 +1,35 @@
+
+state={
+	id=555
+	name="STATE_555"
+
+	history={
+		owner = SOV
+		victory_points = { 9098 10 }
+		victory_points = { 11202 15 }
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			dockyard = 1
+			11186 = {
+				naval_base = 4
+			}
+			air_base = 6
+
+		}
+		add_core_of = FIN
+		add_core_of = SOV
+		add_core_of = W85
+		add_claim_by = SCA
+	}
+
+	provinces={
+	    95 104 126 181 3053 3120 6139 9097 9098 9120 9408 11032 11080 11097 11186 11202 
+	}
+	manpower=2413396
+	buildings_max_level_factor=1.000
+	state_category=large_town
+
+	local_supplies=10.0
+}

@@ -1,0 +1,58 @@
+﻿U52 = {
+	battle_cruiser = {
+		prefix = ""
+		generic = { "Battlecruiser" }
+		unique = {
+			"Gyula" "Roland Borsza" "Ladislas Kan" "Antal Budai Nagy" "Hunyadi Janos" "Georg Rákóczi" "Vaskapu" "Varna" "Mercurius" "Leustachius" "Legforus" 
+		}
+	}
+
+	battleship = {
+		prefix = ""
+		generic = { "Battleship" }
+		unique = {
+			"Gyula" "Roland Borsza" "Ladislas Kan" "Antal Budai Nagy" "Hunyadi Janos" "Georg Rákóczi" "Vaskapu" "Varna" "Mercurius" "Leustachius" "Legforus" 
+		}
+	}
+
+	carrier = {
+		prefix = ""
+		generic = { "Carrier" }
+		unique = {
+			"Gyula" "Roland Borsza" "Ladislas Kan" "Antal Budai Nagy" "Hunyadi Janos" "Georg Rákóczi" "Vaskapu" "Varna" "Mercurius" "Leustachius" "Legforus" 
+		}
+	}
+
+	destroyer = {
+		prefix = ""
+		generic = { "Destroyer" }
+		unique = {
+			"Gyula" "Roland Borsza" "Ladislas Kan" "Antal Budai Nagy" "Hunyadi Janos" "Georg Rákóczi" "Vaskapu" "Varna" "Mercurius" "Leustachius" "Legforus" 
+		}
+	}
+
+	heavy_cruiser = {
+		prefix = ""
+		generic = { "Heavy Cruiser" }
+		unique = {
+			"Gyula" "Roland Borsza" "Ladislas Kan" "Antal Budai Nagy" "Hunyadi Janos" "Georg Rákóczi" "Vaskapu" "Varna" "Mercurius" "Leustachius" "Legforus" 
+		}
+	}
+
+	light_cruiser = {
+		prefix = ""
+		generic = { "Light Cruiser" }
+		unique = {
+			"Gyula" "Roland Borsza" "Ladislas Kan" "Antal Budai Nagy" "Hunyadi Janos" "Georg Rákóczi" "Vaskapu" "Varna" "Mercurius" "Leustachius" "Legforus" 
+		}
+	}
+
+	submarine = {
+		prefix = ""
+		generic = { "Submarine" }
+		unique = {
+			"Gyula" "Roland Borsza" "Ladislas Kan" "Antal Budai Nagy" "Hunyadi Janos" "Georg Rákóczi" "Vaskapu" "Varna" "Mercurius" "Leustachius" "Legforus" 
+		}
+	}
+
+}

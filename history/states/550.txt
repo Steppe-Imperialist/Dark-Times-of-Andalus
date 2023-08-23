@@ -1,0 +1,37 @@
+
+state={
+	id=550
+	name="STATE_550"
+	resources={
+		chromium=3.000
+		steel=3.000
+	}
+
+	history={
+		owner = SOV
+		victory_points = {
+			3073 0 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			11125 = {
+				naval_base = 2
+			}
+			air_base = 0
+
+		}
+		add_core_of = SCA
+		add_claim_by = U59
+	}
+
+	provinces={
+		7 30 103 124 162 167 203 2992 3055 3069 3073 3097 3107 3149 3156 3158 3193 6045 6061 6076 6087 6128 6134 6137 6142 6179 9112 9189 9223 9233 11024 11030 11079 11115 11125 11130 11164 11167 11204 
+	}
+	manpower=178776
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

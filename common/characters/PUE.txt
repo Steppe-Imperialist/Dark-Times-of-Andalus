@@ -1,0 +1,36 @@
+characters={
+	PUE_antonio_castro={
+		name=PUE_antonio_castro
+		portraits={
+			army={
+				large="GFX_Mexico_Garza"
+			}
+			army={
+				small="GFX_Mexico_Garza"
+			}
+		}
+		corps_commander={
+			skill=2
+			attack_skill=1
+			defense_skill=1
+			planning_skill=3
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	PUE_antonio_de_rojas={
+		name=PUE_antonio_de_rojas
+		portraits={
+			civilian={
+				large="GFX_GUA_Yank_Levy"
+			}
+		}
+		country_leader={
+			ideology=dictatorship_neutral
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

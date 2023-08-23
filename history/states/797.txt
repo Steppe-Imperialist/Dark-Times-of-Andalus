@@ -1,0 +1,39 @@
+
+state={
+	id=797
+	name="STATE_797"
+	resources={
+		aluminium=4.000
+		chromium=1.000
+		steel=1.000
+	}
+
+	history={
+		owner = T44
+		victory_points = {
+			10980 25 
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 3
+			arms_factory = 2
+			dockyard = 1
+			10999 = {
+				naval_base = 6
+			}
+			air_base = 7
+
+		}
+		add_core_of = T44
+		add_claim_by = BRA
+	}
+
+	provinces={
+		2153 5172 8190 8196 10980 10999 12996 
+	}
+	manpower=4194592
+	buildings_max_level_factor=1.000
+	state_category=large_city
+
+	local_supplies=10.0
+}

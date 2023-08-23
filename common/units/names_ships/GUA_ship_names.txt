@@ -1,0 +1,176 @@
+﻿GUA_BB_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_BB
+
+	for_countries = { GUA }
+
+	type = ship
+	ship_types = { ship_hull_heavy battleship }
+
+	prefix = ""
+	fallback_name = "Battleship BB-%d"
+
+	unique = {
+		"Constitución" "Guatemala" "José Carrera Turcios" "José María Reina" "Justo Barrios" "Manuel Estrada" "Mariano Rivera" "Pedro Molina" "Presidente" "Vicente Cerna" 
+	}
+}
+
+GUA_BC_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_BC
+
+	for_countries = { GUA }
+
+	type = ship
+	ship_types = { ship_hull_heavy battle_cruiser }
+
+	prefix = ""
+	fallback_name = "Battlecruiser BC-%d"
+
+	unique = {
+		"Belice" "Dulce" "Hondo" "Lempa" "Los Esclavos" "María Linda" "Motagua" "Nahualete" "Paz" "Suchiate" 
+	}
+}
+
+GUA_CA_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CA
+
+	for_countries = { GUA }
+
+	type = ship
+	ship_types = { ship_hull_cruiser heavy_cruiser }
+
+	prefix = ""
+	fallback_name = "Heavy Cruiser CA-%d"
+
+	unique = {
+		"Audaz" "Conquista" "Independencia" "Salvador" "San José" "San Justo" "San Pedro" "San Vicente" "Santa María" "Vencedora" 
+	}
+}
+
+GUA_CLAA_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CLAA
+
+	for_countries = { GUA }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser }
+
+	prefix = ""
+	fallback_name = "Light Cruiser CLAA-%d"
+
+	unique = {
+		"Chingo" "Chiquimula" "Destructor" "Flores" "Golpeador" "Guatemalteco" "Ixtepeque" "Lanzador" "San Patricio" "Suchitán" 
+	}
+}
+
+GUA_CL_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CL
+
+	for_countries = { GUA }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser }
+
+	prefix = ""
+	fallback_name = "Light Cruiser CL-%d"
+
+	unique = {
+		"Chingo" "Chiquimula" "Destructor" "Flores" "Golpeador" "Guatemalteco" "Ixtepeque" "Lanzador" "San Patricio" "Suchitán" 
+	}
+}
+
+GUA_CVL_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CVL
+
+	for_countries = { GUA }
+
+	type = ship
+	ship_types = { ship_hull_carrier carrier }
+
+	prefix = ""
+	fallback_name = "Carrier CVL-%d"
+
+	unique = {
+		"Acatenago" "Agua" "Almolonga" "Atitlán" "Fuego" "Santa María" "Santo Tomás" "Tacaná" "Tajumulco" "Tolimán" 
+	}
+}
+
+GUA_CV_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CARRIERS
+
+	for_countries = { GUA }
+
+	type = ship
+	ship_types = { ship_hull_carrier carrier }
+
+	prefix = ""
+	fallback_name = "Carrier CV-%d"
+
+	unique = {
+		"Acatenago" "Agua" "Almolonga" "Atitlán" "Fuego" "Santa María" "Santo Tomás" "Tacaná" "Tajumulco" "Tolimán" 
+	}
+}
+
+GUA_DD_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_DESTROYERS
+
+	for_countries = { GUA }
+
+	type = ship
+	ship_types = { ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Destroyer DD-%d"
+
+	unique = {
+		"Barrigones" "Bartolomé de las Casas" "Cakchiquel" "Itzá" "Kiche" "Nueva Sevilla" "Olmeca" "Pedro de Alvarado" "Qeqchi" "Zapotitlán" 
+	}
+}
+
+GUA_DE_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_DE
+
+	for_countries = { GUA }
+
+	type = ship
+	ship_types = { ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Destroyer Escort DE-%d"
+
+	unique = {
+		"Barrigones" "Bartolomé de las Casas" "Cakchiquel" "Itzá" "Kiche" "Nueva Sevilla" "Olmeca" "Pedro de Alvarado" "Qeqchi" "Zapotitlán" 
+	}
+}
+
+GUA_MINELAYERS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_MINELAYERS
+
+	for_countries = { GUA }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Minelayer CM-%d"
+
+	unique = {
+		"Chingo" "Chiquimula" "Destructor" "Flores" "Golpeador" "Guatemalteco" "Ixtepeque" "Lanzador" "San Patricio" "Suchitán" 
+	}
+}
+
+GUA_SS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_SUBMARINES
+
+	for_countries = { GUA }
+
+	type = ship
+	ship_types = { ship_hull_submarine submarine }
+
+	prefix = ""
+	fallback_name = "Submarine SS-%d"
+
+	unique = {
+		"Ciudad de Guatemala" "Flores" "Guastatoya" "Huehuetenango" "Jalapa" "Quetzaltenango" "Retalhuleu" "Salamá" "Santa Cruz" "Totonicapán" 
+	}
+}
+

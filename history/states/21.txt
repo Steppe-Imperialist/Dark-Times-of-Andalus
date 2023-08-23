@@ -1,0 +1,32 @@
+
+state={
+	id=21
+	name="STATE_21"
+
+	history={
+		owner = ADU
+		victory_points = {
+			11805 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			799 = {
+				naval_base = 1
+			}
+			air_base = 0
+
+		}
+		add_core_of = ADU
+	}
+
+	provinces={
+		799 844 924 970 980 3798 3861 6924 11768 11805 
+	}
+	manpower=1633048
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

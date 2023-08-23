@@ -1,0 +1,58 @@
+﻿V45 = {
+	battle_cruiser = {
+		prefix = ""
+		generic = { "Battlecruiser" }
+		unique = {
+			"Sachsen" "Meiningen" "Hildburghausen" "Herzorg Georg" "Herzog Bernhard" "Prinzessin Charlotte" "Saale" "Werra" "Sonneberg" "Saalfeld" 
+		}
+	}
+
+	battleship = {
+		prefix = ""
+		generic = { "Battleship" }
+		unique = {
+			"Sachsen" "Meiningen" "Hildburghausen" "Herzorg Georg" "Herzog Bernhard" "Prinzessin Charlotte" "Saale" "Werra" "Sonneberg" "Saalfeld" 
+		}
+	}
+
+	carrier = {
+		prefix = ""
+		generic = { "Carrier" }
+		unique = {
+			"Sachsen" "Meiningen" "Hildburghausen" "Herzorg Georg" "Herzog Bernhard" "Prinzessin Charlotte" "Saale" "Werra" "Sonneberg" "Saalfeld" 
+		}
+	}
+
+	destroyer = {
+		prefix = ""
+		generic = { "Destroyer" }
+		unique = {
+			"Sachsen" "Meiningen" "Hildburghausen" "Herzorg Georg" "Herzog Bernhard" "Prinzessin Charlotte" "Saale" "Werra" "Sonneberg" "Saalfeld" 
+		}
+	}
+
+	heavy_cruiser = {
+		prefix = ""
+		generic = { "Heavy Cruiser" }
+		unique = {
+			"Sachsen" "Meiningen" "Hildburghausen" "Herzorg Georg" "Herzog Bernhard" "Prinzessin Charlotte" "Saale" "Werra" "Sonneberg" "Saalfeld" 
+		}
+	}
+
+	light_cruiser = {
+		prefix = ""
+		generic = { "Light Cruiser" }
+		unique = {
+			"Sachsen" "Meiningen" "Hildburghausen" "Herzorg Georg" "Herzog Bernhard" "Prinzessin Charlotte" "Saale" "Werra" "Sonneberg" "Saalfeld" 
+		}
+	}
+
+	submarine = {
+		prefix = ""
+		generic = { "Submarine" }
+		unique = {
+			"Sachsen" "Meiningen" "Hildburghausen" "Herzorg Georg" "Herzog Bernhard" "Prinzessin Charlotte" "Saale" "Werra" "Sonneberg" "Saalfeld" 
+		}
+	}
+
+}

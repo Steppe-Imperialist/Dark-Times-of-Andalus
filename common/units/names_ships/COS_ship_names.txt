@@ -1,0 +1,176 @@
+﻿COS_BB_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_BB
+
+	for_countries = { COS }
+
+	type = ship
+	ship_types = { ship_hull_heavy battleship }
+
+	prefix = ""
+	fallback_name = "Battleship BB-%d"
+
+	unique = {
+		"Caribe" "Centroamérica" "Costa Rica" "José María Castro" "Juan Mora" "Libertad" "Presidente" "Rafael Yglesias" "República" "Tomás Guardia" 
+	}
+}
+
+COS_BC_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_BC
+
+	for_countries = { COS }
+
+	type = ship
+	ship_types = { ship_hull_heavy battle_cruiser }
+
+	prefix = ""
+	fallback_name = "Battlecruiser BC-%d"
+
+	unique = {
+		"Arenal" "Bebedero" "Diquís" "Jiménez" "Reventazón" "San Juan" "Sixaola" "Tárcoles" "Tempisque" "Tortuguero" 
+	}
+}
+
+COS_CA_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CA
+
+	for_countries = { COS }
+
+	type = ship
+	ship_types = { ship_hull_cruiser heavy_cruiser }
+
+	prefix = ""
+	fallback_name = "Heavy Cruiser CA-%d"
+
+	unique = {
+		"Audaz" "Intrépido" "Libertad" "San Antonio" "San Fernando" "San Juan" "Santa Isabel" "Santa Marta" "Santa Mónica" "Vigilante" 
+	}
+}
+
+COS_CLAA_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CLAA
+
+	for_countries = { COS }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser }
+
+	prefix = ""
+	fallback_name = "Light Cruiser CLAA-%d"
+
+	unique = {
+		"Barva" "Cerro de la Muerte" "Guanacaste" "Intratable" "Poás" "Rincón de la Vieja" "Talamanca" "Tilarán" "Turrialba" "Victorioso" 
+	}
+}
+
+COS_CL_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CL
+
+	for_countries = { COS }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser }
+
+	prefix = ""
+	fallback_name = "Light Cruiser CL-%d"
+
+	unique = {
+		"Barva" "Cerro de la Muerte" "Guanacaste" "Intratable" "Poás" "Rincón de la Vieja" "Talamanca" "Tilarán" "Turrialba" "Victorioso" 
+	}
+}
+
+COS_CVL_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CVL
+
+	for_countries = { COS }
+
+	type = ship
+	ship_types = { ship_hull_carrier carrier }
+
+	prefix = ""
+	fallback_name = "Carrier CVL-%d"
+
+	unique = {
+		"Cacho Negro" "Chato" "Congo" "Irazú" "Miravalles" "Orosí" "Platanar" "Porvenir" "Santa María" "Tenorio" 
+	}
+}
+
+COS_CV_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CARRIERS
+
+	for_countries = { COS }
+
+	type = ship
+	ship_types = { ship_hull_carrier carrier }
+
+	prefix = ""
+	fallback_name = "Carrier CV-%d"
+
+	unique = {
+		"Cacho Negro" "Chato" "Congo" "Irazú" "Miravalles" "Orosí" "Platanar" "Porvenir" "Santa María" "Tenorio" 
+	}
+}
+
+COS_DD_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_DESTROYERS
+
+	for_countries = { COS }
+
+	type = ship
+	ship_types = { ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Destroyer DD-%d"
+
+	unique = {
+		"Cacique" "Castillo del Oro" "Chamán" "Chorotega" "Constitución" "Cristóbal Colón" "Independencia" "Puerto Limón" "Quince de Septiembre" "Vasco Núñez de Balboa" 
+	}
+}
+
+COS_DE_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_DE
+
+	for_countries = { COS }
+
+	type = ship
+	ship_types = { ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Destroyer Escort DE-%d"
+
+	unique = {
+		"Cacique" "Castillo del Oro" "Chamán" "Chorotega" "Constitución" "Cristóbal Colón" "Independencia" "Puerto Limón" "Quince de Septiembre" "Vasco Núñez de Balboa" 
+	}
+}
+
+COS_MINELAYERS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_MINELAYERS
+
+	for_countries = { COS }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Minelayer CM-%d"
+
+	unique = {
+		"Barva" "Cerro de la Muerte" "Guanacaste" "Intratable" "Poás" "Rincón de la Vieja" "Talamanca" "Tilarán" "Turrialba" "Victorioso" 
+	}
+}
+
+COS_SS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_SUBMARINES
+
+	for_countries = { COS }
+
+	type = ship
+	ship_types = { ship_hull_submarine submarine }
+
+	prefix = ""
+	fallback_name = "Submarine SS-%d"
+
+	unique = {
+		"Alajuela" "Cartago" "Guanacaste" "Heredia" "Liberia" "Limón" "Nicoya" "Papagayo" "Puntarenas" "San José" 
+	}
+}
+

@@ -1,0 +1,148 @@
+﻿converted_war_strategies_BOT = {
+	enable = {
+		tag = BOT
+		always = no
+	}
+	
+	ai_strategy = {
+		type = conquer
+		id = "KEN"
+		value = 148
+	}
+	ai_strategy = {
+		type = conquer
+		id = "SOV"
+		value = 101
+	}
+	ai_strategy = {
+		type = conquer
+		id = "ENG"
+		value = 53
+	}
+}
+
+converted_diplo_strategies_BOT = {
+	enable = {
+		tag = BOT
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+	ai_strategy = {
+		type = contain
+		id = "ENG"
+		value = 340
+	}
+	ai_strategy = {
+		type = contain
+		id = "SOV"
+		value = 329
+	}
+	ai_strategy = {
+		type = contain
+		id = "KEN"
+		value = 184
+	}
+	ai_strategy = {
+		type = contain
+		id = "U67"
+		value = 25
+	}
+	ai_strategy = {
+		type = contain
+		id = "S10"
+		value = 25
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "T72"
+		value = 400
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "S01"
+		value = 230
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "T64"
+		value = 194
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "KEN"
+		value = 131
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "SOV"
+		value = 112
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "ENG"
+		value = 72
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "KAZ"
+		value = 60
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "V14"
+		value = 4
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "X04"
+		value = 1
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "ITA"
+		value = 1
+	}
+	ai_strategy = {
+		type = alliance
+		id = "SAF"
+		value = 106
+	}
+	ai_strategy = {
+		type = alliance
+		id = "S10"
+		value = 26
+	}
+	ai_strategy = {
+		type = alliance
+		id = "X27"
+		value = 23
+	}
+	ai_strategy = {
+		type = alliance
+		id = "U67"
+		value = 7
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "W89"
+		value = 125
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "KYR"
+		value = 75
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "CAM"
+		value = 65
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "T59"
+		value = 46
+	}
+}

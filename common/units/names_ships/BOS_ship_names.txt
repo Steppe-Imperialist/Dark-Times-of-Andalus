@@ -1,0 +1,176 @@
+﻿BOS_BB_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_BB
+
+	for_countries = { BOS }
+
+	type = ship
+	ship_types = { ship_hull_heavy battleship }
+
+	prefix = ""
+	fallback_name = "Battleship BB-%d"
+
+	unique = {
+		"Bosna" "Herzceg" "Dalmacija" "Gazi Husrev-beg" "Kotromanici" "Kulin ban" "Miljacka" "Sarajevo" "Stjepan II" "Tvrtko I" 
+	}
+}
+
+BOS_BC_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_BC
+
+	for_countries = { BOS }
+
+	type = ship
+	ship_types = { ship_hull_heavy battle_cruiser }
+
+	prefix = ""
+	fallback_name = "Battlecruiser BC-%d"
+
+	unique = {
+		"Bosna" "Herzceg" "Dalmacija" "Gazi Husrev-beg" "Kotromanici" "Kulin ban" "Miljacka" "Sarajevo" "Stjepan II" "Tvrtko I" 
+	}
+}
+
+BOS_CA_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CA
+
+	for_countries = { BOS }
+
+	type = ship
+	ship_types = { ship_hull_cruiser heavy_cruiser }
+
+	prefix = ""
+	fallback_name = "Heavy Cruiser CA-%d"
+
+	unique = {
+		"Bosna" "Herzceg" "Dalmacija" "Gazi Husrev-beg" "Kotromanici" "Kulin ban" "Miljacka" "Sarajevo" "Stjepan II" "Tvrtko I" 
+	}
+}
+
+BOS_CLAA_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CLAA
+
+	for_countries = { BOS }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser }
+
+	prefix = ""
+	fallback_name = "Light Cruiser CLAA-%d"
+
+	unique = {
+		"Bosna" "Herzceg" "Dalmacija" "Gazi Husrev-beg" "Kotromanici" "Kulin ban" "Miljacka" "Sarajevo" "Stjepan II" "Tvrtko I" 
+	}
+}
+
+BOS_CL_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CL
+
+	for_countries = { BOS }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser }
+
+	prefix = ""
+	fallback_name = "Light Cruiser CL-%d"
+
+	unique = {
+		"Bosna" "Herzceg" "Dalmacija" "Gazi Husrev-beg" "Kotromanici" "Kulin ban" "Miljacka" "Sarajevo" "Stjepan II" "Tvrtko I" 
+	}
+}
+
+BOS_CVL_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CVL
+
+	for_countries = { BOS }
+
+	type = ship
+	ship_types = { ship_hull_carrier carrier }
+
+	prefix = ""
+	fallback_name = "Carrier CVL-%d"
+
+	unique = {
+		"Bosna" "Herzceg" "Dalmacija" "Gazi Husrev-beg" "Kotromanici" "Kulin ban" "Miljacka" "Sarajevo" "Stjepan II" "Tvrtko I" 
+	}
+}
+
+BOS_CV_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CARRIERS
+
+	for_countries = { BOS }
+
+	type = ship
+	ship_types = { ship_hull_carrier carrier }
+
+	prefix = ""
+	fallback_name = "Carrier CV-%d"
+
+	unique = {
+		"Bosna" "Herzceg" "Dalmacija" "Gazi Husrev-beg" "Kotromanici" "Kulin ban" "Miljacka" "Sarajevo" "Stjepan II" "Tvrtko I" 
+	}
+}
+
+BOS_DD_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_DESTROYERS
+
+	for_countries = { BOS }
+
+	type = ship
+	ship_types = { ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Destroyer DD-%d"
+
+	unique = {
+		"Bosna" "Herzceg" "Dalmacija" "Gazi Husrev-beg" "Kotromanici" "Kulin ban" "Miljacka" "Sarajevo" "Stjepan II" "Tvrtko I" 
+	}
+}
+
+BOS_DE_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_DE
+
+	for_countries = { BOS }
+
+	type = ship
+	ship_types = { ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Destroyer Escort DE-%d"
+
+	unique = {
+		"Bosna" "Herzceg" "Dalmacija" "Gazi Husrev-beg" "Kotromanici" "Kulin ban" "Miljacka" "Sarajevo" "Stjepan II" "Tvrtko I" 
+	}
+}
+
+BOS_MINELAYERS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_MINELAYERS
+
+	for_countries = { BOS }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Minelayer CM-%d"
+
+	unique = {
+		"Bosna" "Herzceg" "Dalmacija" "Gazi Husrev-beg" "Kotromanici" "Kulin ban" "Miljacka" "Sarajevo" "Stjepan II" "Tvrtko I" 
+	}
+}
+
+BOS_SS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_SUBMARINES
+
+	for_countries = { BOS }
+
+	type = ship
+	ship_types = { ship_hull_submarine submarine }
+
+	prefix = ""
+	fallback_name = "Submarine SS-%d"
+
+	unique = {
+		"Bosna" "Herzceg" "Dalmacija" "Gazi Husrev-beg" "Kotromanici" "Kulin ban" "Miljacka" "Sarajevo" "Stjepan II" "Tvrtko I" 
+	}
+}
+

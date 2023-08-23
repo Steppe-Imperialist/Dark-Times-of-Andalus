@@ -1,0 +1,18 @@
+﻿converted_war_strategies_X08 = {
+	enable = {
+		tag = X08
+		always = no
+	}
+	
+}
+
+converted_diplo_strategies_X08 = {
+	enable = {
+		tag = X08
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+}

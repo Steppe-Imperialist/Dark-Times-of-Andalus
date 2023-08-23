@@ -1,0 +1,31 @@
+
+state={
+	id=410
+	name="STATE_410"
+
+	history={
+		owner = V36
+		victory_points = {
+			7548 1 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = V17
+		add_core_of = V36
+		add_claim_by = ANG
+	}
+
+	provinces={
+		7548 
+	}
+	manpower=209584
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

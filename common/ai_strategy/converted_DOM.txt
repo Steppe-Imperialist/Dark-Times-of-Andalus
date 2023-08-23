@@ -1,0 +1,153 @@
+﻿converted_war_strategies_DOM = {
+	enable = {
+		tag = DOM
+		always = no
+	}
+	
+	ai_strategy = {
+		type = conquer
+		id = "HAI"
+		value = 92
+	}
+	ai_strategy = {
+		type = conquer
+		id = "PUE"
+		value = 13
+	}
+}
+
+converted_diplo_strategies_DOM = {
+	enable = {
+		tag = DOM
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+	ai_strategy = {
+		type = contain
+		id = "HAI"
+		value = 188
+	}
+	ai_strategy = {
+		type = contain
+		id = "X06"
+		value = 125
+	}
+	ai_strategy = {
+		type = contain
+		id = "X15"
+		value = 125
+	}
+	ai_strategy = {
+		type = contain
+		id = "V61"
+		value = 125
+	}
+	ai_strategy = {
+		type = contain
+		id = "U56"
+		value = 125
+	}
+	ai_strategy = {
+		type = contain
+		id = "T28"
+		value = 112
+	}
+	ai_strategy = {
+		type = contain
+		id = "PUE"
+		value = 75
+	}
+	ai_strategy = {
+		type = contain
+		id = "BAH"
+		value = 25
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "HAI"
+		value = 400
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "T72"
+		value = 389
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "S01"
+		value = 247
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "T64"
+		value = 194
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "PUE"
+		value = 45
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "KAZ"
+		value = 21
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "CUB"
+		value = 4
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "USA"
+		value = 2
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "T28"
+		value = 1
+	}
+	ai_strategy = {
+		type = alliance
+		id = "T28"
+		value = 200
+	}
+	ai_strategy = {
+		type = alliance
+		id = "U56"
+		value = 19
+	}
+	ai_strategy = {
+		type = alliance
+		id = "V61"
+		value = 15
+	}
+	ai_strategy = {
+		type = alliance
+		id = "USA"
+		value = 4
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "HAI"
+		value = 125
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "W39"
+		value = 111
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "PUE"
+		value = 67
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "SPC"
+		value = 65
+	}
+}

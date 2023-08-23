@@ -1,0 +1,40 @@
+
+state={
+	id=641
+	name="STATE_641"
+	resources={
+		rubber=2.000
+	}
+
+	history={
+		owner = U77
+		victory_points = {
+			7598 10 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			arms_factory = 0
+			7598 = {
+				naval_base = 2
+			}
+			air_base = 5
+
+		}
+		add_core_of = BRU
+		add_core_of = U57
+		add_core_of = U77
+		add_core_of = V37
+		add_core_of = V52
+		add_core_of = X59
+	}
+
+	provinces={
+		1484 1505 1518 1561 4308 4493 4537 4564 7598 12330 
+	}
+	manpower=83872
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

@@ -1,0 +1,58 @@
+﻿CAR = {
+	battle_cruiser = {
+		prefix = ""
+		generic = { "Battlecruiser" }
+		unique = {
+			"Azande" "Baramo" "Nzambi" "Yambio" "Upemba" "Mwari" "Mulopwe" "Mulungu" "Mbonga" "Mutare" "Mazendere" "Mboko" "Musikavanhu" "Mutorwa" 
+		}
+	}
+
+	battleship = {
+		prefix = ""
+		generic = { "Battleship" }
+		unique = {
+			"Azande" "Baramo" "Nzambi" "Yambio" "Upemba" "Mwari" "Mulopwe" "Mulungu" "Mbonga" "Mutare" "Mazendere" "Mboko" "Musikavanhu" "Mutorwa" 
+		}
+	}
+
+	carrier = {
+		prefix = ""
+		generic = { "Carrier" }
+		unique = {
+			"Azande" "Baramo" "Nzambi" "Yambio" "Upemba" "Mwari" "Mulopwe" "Mulungu" "Mbonga" "Mutare" "Mazendere" "Mboko" "Musikavanhu" "Mutorwa" 
+		}
+	}
+
+	destroyer = {
+		prefix = ""
+		generic = { "Destroyer" }
+		unique = {
+			"Azande" "Baramo" "Nzambi" "Yambio" "Upemba" "Mwari" "Mulopwe" "Mulungu" "Mbonga" "Mutare" "Mazendere" "Mboko" "Musikavanhu" "Mutorwa" 
+		}
+	}
+
+	heavy_cruiser = {
+		prefix = ""
+		generic = { "Heavy Cruiser" }
+		unique = {
+			"Azande" "Baramo" "Nzambi" "Yambio" "Upemba" "Mwari" "Mulopwe" "Mulungu" "Mbonga" "Mutare" "Mazendere" "Mboko" "Musikavanhu" "Mutorwa" 
+		}
+	}
+
+	light_cruiser = {
+		prefix = ""
+		generic = { "Light Cruiser" }
+		unique = {
+			"Azande" "Baramo" "Nzambi" "Yambio" "Upemba" "Mwari" "Mulopwe" "Mulungu" "Mbonga" "Mutare" "Mazendere" "Mboko" "Musikavanhu" "Mutorwa" 
+		}
+	}
+
+	submarine = {
+		prefix = ""
+		generic = { "Submarine" }
+		unique = {
+			"Azande" "Baramo" "Nzambi" "Yambio" "Upemba" "Mwari" "Mulopwe" "Mulungu" "Mbonga" "Mutare" "Mazendere" "Mboko" "Musikavanhu" "Mutorwa" 
+		}
+	}
+
+}

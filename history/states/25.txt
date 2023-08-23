@@ -1,0 +1,31 @@
+
+state={
+	id=25
+	name="STATE_25"
+
+	history={
+		owner = ADU
+		victory_points = {
+			4593 0 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			1629 = {
+				naval_base = 1
+			}
+			air_base = 0
+
+		}
+	}
+
+	provinces={
+		1602 1617 1629 4593 7627 10505 12457 
+	}
+	manpower=86732
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

@@ -1,0 +1,40 @@
+units = {
+	fleet = {
+		name = "3rd Fleet"
+		naval_base = 12208
+		task_force = {
+			name = "3rd Fleet"
+			location = 12208
+			ship = { name = "Anupam" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = W18 } } }
+			ship = { name = "Arihant" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = W18 } } }
+			ship = { name = "Bhanu" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = W18 } } }
+			ship = { name = "Dhananjay" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = W18 } } }
+			ship = { name = "Hemendra" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = W18 } } }
+			ship = { name = "Jawahar" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = W18 } } }
+			ship = { name = "Kaushal" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = W18 } } }
+			ship = { name = "Makarand" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = W18 } } }
+			ship = { name = "Manindra" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = W18 } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = destroyer_1
+			creator = "W18"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+	add_equipment_production = {
+		equipment = {
+			type = battleship_1
+			creator = "W18"
+		}
+		requested_factories = 8
+		progress = 0.25
+		amount = 3
+	}
+}

@@ -1,0 +1,33 @@
+
+state={
+	id=179
+	name="STATE_179"
+	resources={
+		chromium=1.000
+	}
+
+	history={
+		owner = S19
+		victory_points = {
+			5231 15 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 5
+
+		}
+		add_core_of = S19
+		add_claim_by = SAF
+	}
+
+	provinces={
+		5231 
+	}
+	manpower=250144
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

@@ -1,0 +1,31 @@
+
+state={
+	id=361
+	name="STATE_361"
+
+	history={
+		owner = W97
+		victory_points = {
+			7565 15 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 1
+			air_base = 5
+
+		}
+		add_core_of = BAN
+		add_core_of = W97
+		add_claim_by = RAJ
+	}
+
+	provinces={
+		7565 10389 12338 
+	}
+	manpower=3205888
+	buildings_max_level_factor=1.000
+	state_category=city
+
+	local_supplies=10.0
+}

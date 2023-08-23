@@ -1,0 +1,56 @@
+characters={
+	X15_miguel_gonzalez={
+		name=X15_miguel_gonzalez
+		portraits={
+			army={
+				large="GFX_SPR_Alonso_Vega"
+			}
+			army={
+				small="GFX_SPR_Alonso_Vega"
+			}
+		}
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=2
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X15_valentin_arista={
+		name=X15_valentin_arista
+		portraits={
+			army={
+				large="GFX_Mexico_Garza"
+			}
+			army={
+				small="GFX_Mexico_Garza"
+			}
+		}
+		corps_commander={
+			skill=1
+			attack_skill=2
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X15_ignacio_escobedo={
+		name=X15_ignacio_escobedo
+		portraits={
+			civilian={
+				large="GFX_PAR_Eusebio_Ayala"
+			}
+		}
+		country_leader={
+			ideology=dictatorship_neutral
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

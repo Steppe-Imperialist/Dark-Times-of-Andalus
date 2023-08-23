@@ -1,0 +1,33 @@
+
+state={
+	id=32
+	name="STATE_32"
+
+	history={
+		owner = S12
+		victory_points = {
+			13018 10 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			2165 = {
+				naval_base = 1
+			}
+			air_base = 10
+
+		}
+		add_core_of = S12
+		add_core_of = V42
+	}
+
+	provinces={
+		2165 13017 13018 
+	}
+	manpower=350232
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

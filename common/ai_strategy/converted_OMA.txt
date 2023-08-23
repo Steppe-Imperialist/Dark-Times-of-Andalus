@@ -1,0 +1,18 @@
+﻿converted_war_strategies_OMA = {
+	enable = {
+		tag = OMA
+		always = no
+	}
+	
+}
+
+converted_diplo_strategies_OMA = {
+	enable = {
+		tag = OMA
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+}

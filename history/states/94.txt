@@ -1,0 +1,47 @@
+
+state={
+	id=94
+	name="STATE_94"
+
+	history={
+		owner = CAM
+		victory_points = {
+			7319 15 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+			7404 = {
+				naval_base = 2
+			}
+			air_base = 5
+
+		}
+		add_core_of = CAM
+		add_core_of = W78
+		add_claim_by = SIA
+		ENG = {
+			set_province_controller = 7404
+		}
+		W78 = {
+			set_province_controller = 1324
+			set_province_controller = 4330
+			set_province_controller = 4639
+			set_province_controller = 7319
+			set_province_controller = 7376
+			set_province_controller = 10289
+			set_province_controller = 12191
+			set_province_controller = 12260
+		}
+	}
+
+	provinces={
+		1324 1353 1620 4251 4302 4330 4359 4596 4639 7319 7376 7404 7432 7645 10134 10177 10204 10289 10317 10453 10467 12150 12167 12191 12260 12447 12460 12475 
+	}
+	manpower=1958184
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

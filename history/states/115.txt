@@ -1,0 +1,34 @@
+
+state={
+	id=115
+	name="STATE_115"
+	resources={
+		steel=18.000
+	}
+
+	history={
+		owner = X77
+		victory_points = {
+			3542 10 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+			air_base = 6
+
+		}
+		add_core_of = S05
+		add_core_of = V01
+		add_core_of = X77
+	}
+
+	provinces={
+		238 418 463 501 511 522 523 546 547 559 570 582 3225 3409 3455 3480 3491 3508 3520 3542 3557 3568 3584 6458 6495 6505 6507 6508 6519 6532 6554 6565 6578 6589 6605 9413 9437 9446 9461 9463 9476 9477 9479 9491 9506 9519 9531 9543 9556 9566 11397 11425 11462 11487 11489 11504 11513 11530 11541 11553 
+	}
+	manpower=3461732
+	buildings_max_level_factor=1.000
+	state_category=city
+
+	local_supplies=10.0
+}

@@ -1,0 +1,58 @@
+﻿GAB = {
+	battle_cruiser = {
+		prefix = ""
+		generic = { "Battlecruiser" }
+		unique = {
+			"Abuja" "Ede" "Enugu" "Kaduna" "Kano" "Katsina" "Jos" "Owo" "GABoto" "Zaria" 
+		}
+	}
+
+	battleship = {
+		prefix = ""
+		generic = { "Battleship" }
+		unique = {
+			"Abuja" "Ede" "Enugu" "Kaduna" "Kano" "Katsina" "Jos" "Owo" "GABoto" "Zaria" 
+		}
+	}
+
+	carrier = {
+		prefix = ""
+		generic = { "Carrier" }
+		unique = {
+			"Abuja" "Ede" "Enugu" "Kaduna" "Kano" "Katsina" "Jos" "Owo" "GABoto" "Zaria" 
+		}
+	}
+
+	destroyer = {
+		prefix = ""
+		generic = { "Destroyer" }
+		unique = {
+			"Abuja" "Ede" "Enugu" "Kaduna" "Kano" "Katsina" "Jos" "Owo" "GABoto" "Zaria" 
+		}
+	}
+
+	heavy_cruiser = {
+		prefix = ""
+		generic = { "Heavy Cruiser" }
+		unique = {
+			"Abuja" "Ede" "Enugu" "Kaduna" "Kano" "Katsina" "Jos" "Owo" "GABoto" "Zaria" 
+		}
+	}
+
+	light_cruiser = {
+		prefix = ""
+		generic = { "Light Cruiser" }
+		unique = {
+			"Abuja" "Ede" "Enugu" "Kaduna" "Kano" "Katsina" "Jos" "Owo" "GABoto" "Zaria" 
+		}
+	}
+
+	submarine = {
+		prefix = ""
+		generic = { "Submarine" }
+		unique = {
+			"Abuja" "Ede" "Enugu" "Kaduna" "Kano" "Katsina" "Jos" "Owo" "GABoto" "Zaria" 
+		}
+	}
+
+}

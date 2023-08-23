@@ -1,0 +1,35 @@
+
+state={
+	id=838
+	name="STATE_838"
+
+	history={
+		owner = T90
+		victory_points = {
+			12910 10 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 0
+			2219 = {
+				naval_base = 2
+			}
+			air_base = 10
+
+		}
+		add_core_of = T90
+		add_core_of = X02
+		add_core_of = X33
+		add_core_of = X39
+	}
+
+	provinces={
+		1773 2219 5183 5197 5211 5225 7567 8165 8186 8220 10925 10927 12910 12918 12924 
+	}
+	manpower=172553
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

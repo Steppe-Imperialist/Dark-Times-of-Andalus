@@ -1,0 +1,35 @@
+
+state={
+	id=438
+	name="STATE_438"
+
+	history={
+		owner = MEX
+		victory_points = {
+			2075 10 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 0
+			12738 = {
+				naval_base = 6
+			}
+			air_base = 10
+
+		}
+		add_core_of = MEX
+		add_core_of = NIC
+		add_core_of = V69
+		add_claim_by = T03
+	}
+
+	provinces={
+		2075 12738 
+	}
+	manpower=330268
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

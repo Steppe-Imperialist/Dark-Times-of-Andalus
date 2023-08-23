@@ -1,0 +1,36 @@
+
+state={
+	id=882
+	name="STATE_882"
+
+	history={
+		owner = YUG
+		victory_points = {
+			3707 0 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			3701 = {
+				naval_base = 1
+			}
+			air_base = 0
+
+		}
+		add_core_of = SER
+		add_claim_by = MOL
+		add_claim_by = T18
+		add_claim_by = W53
+		add_claim_by = YUG
+	}
+
+	provinces={
+		414 565 3407 3577 3701 3704 3707 3724 6600 6727 6743 9683 11686 11705 
+	}
+	manpower=378696
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

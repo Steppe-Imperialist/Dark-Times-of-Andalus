@@ -1,0 +1,35 @@
+
+state={
+	id=323
+	name="STATE_323"
+	resources={
+		steel=20.000
+	}
+
+	history={
+		owner = ITA
+		victory_points = {
+			9945 0 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			4199 = {
+				naval_base = 1
+			}
+			air_base = 0
+
+		}
+		add_core_of = MOR
+	}
+
+	provinces={
+		4199 7215 9945 10113 12087 12100 
+	}
+	manpower=434776
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+
+	local_supplies=10.0
+}

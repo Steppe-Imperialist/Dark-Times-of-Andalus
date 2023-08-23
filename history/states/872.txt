@@ -1,0 +1,32 @@
+
+state={
+	id=872
+	name="STATE_872"
+
+	history={
+		owner = YUG
+		victory_points = {
+			6647 0 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = CRO
+		add_claim_by = SER
+		add_claim_by = W53
+		add_claim_by = YUG
+	}
+
+	provinces={
+		6647 9595 9608 11577 
+	}
+	manpower=367404
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

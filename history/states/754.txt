@@ -1,0 +1,33 @@
+
+state={
+	id=754
+	name="STATE_754"
+
+	history={
+		owner = T30
+		victory_points = {
+			10502 1 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			4457 = {
+				naval_base = 1
+			}
+			air_base = 0
+
+		}
+		add_core_of = T30
+		add_claim_by = URG
+	}
+
+	provinces={
+		1613 1641 1654 4457 10347 10502 12468 12481 12496 
+	}
+	manpower=115772
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

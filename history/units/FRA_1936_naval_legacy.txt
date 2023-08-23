@@ -1,0 +1,42 @@
+units = {
+	fleet = {
+		name = "1st Fleet"
+		naval_base = 9853
+		task_force = {
+			name = "1st Fleet"
+			location = 4225
+			ship = { name = "Brennus" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = FRA } } }
+			ship = { name = "Vercingetorix" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = FRA } } }
+		}
+	}
+	fleet = {
+		name = "2nd Fleet"
+		naval_base = 485
+		task_force = {
+			name = "2nd Fleet"
+			location = 485
+			ship = { name = "Charles Martel" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = FRA } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = destroyer_1
+			creator = "FRA"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+	add_equipment_production = {
+		equipment = {
+			type = battleship_1
+			creator = "FRA"
+		}
+		requested_factories = 8
+		progress = 0.25
+		amount = 3
+	}
+}

@@ -1,0 +1,16 @@
+characters={
+	X10_bakalubbe_yowani={
+		name=X10_bakalubbe_yowani
+		portraits={
+			civilian={
+				large="GFX_quechua_saturnino"
+			}
+		}
+		country_leader={
+			ideology=absolute_monarchy
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

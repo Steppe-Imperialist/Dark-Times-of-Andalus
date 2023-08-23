@@ -1,0 +1,16 @@
+characters={
+	W85_hjalmar_sikkar={
+		name=W85_hjalmar_sikkar
+		portraits={
+			civilian={
+				large="gfx/leaders/NOR/Portrait_Norway_Johan_Nygaardsvold.dds"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

@@ -1,0 +1,102 @@
+﻿capital = 580
+set_research_slots = 3
+
+oob = "X46_OOB"
+
+# Starting tech
+# Research Bonuses
+
+set_country_flag = conv_germany
+set_convoys = 0
+
+set_politics = {
+    ruling_party = democratic
+    last_election = "1836.1.1"
+    election_frequency = 48
+    elections_allowed = yes
+}
+
+set_popularities = {
+	absolutist = 5
+	democratic = 92
+	neutrality = 3
+}
+
+add_ideas = {
+	volunteer_only
+	civilian_economy
+	export_focus
+	culture_south_german
+}
+
+recruit_character = X46_albrecht_eisner
+
+if = {
+	limit = {
+		has_dlc = "La Resistance"
+	}
+	create_operative_leader = {
+		name = "Hanna von Hartmann"
+		GFX = "gfx/leaders/Europe/portrait_europe_generic_operative_female_1.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { X46 }
+	}
+
+	create_operative_leader = {
+		name = "Jessica Hellpach"
+		GFX = "gfx/leaders/Europe/portrait_europe_generic_operative_female_2.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { X46 }
+	}
+
+	create_operative_leader = {
+		name = "Sandra Geiss"
+		GFX = "gfx/leaders/Europe/portrait_europe_generic_operative_female_3.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { X46 }
+	}
+
+	create_operative_leader = {
+		name = "Viktor Wittmann"
+		GFX = "gfx/leaders/Europe/portrait_europe_generic_operative_male_1.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		nationalities = { X46 }
+	}
+
+	create_operative_leader = {
+		name = "Gottfried von Kirbach"
+		GFX = "gfx/leaders/Europe/portrait_europe_generic_operative_male_2.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		nationalities = { X46 }
+	}
+
+}
+### VARIANTS ###
+if = {
+	limit = { not = { has_dlc = "Man the Guns" } }
+}
+if = {
+	limit = { has_dlc = "Man the Guns" }
+}
+### PLANE DESIGNS ###
+if = {
+	limit = { has_dlc = "By Blood Alone" }
+}
+### TANK DESIGNS ###
+if = {
+	limit = { has_dlc = "No Step Back" }
+}
+

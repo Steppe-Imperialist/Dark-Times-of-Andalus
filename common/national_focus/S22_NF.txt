@@ -1,0 +1,57 @@
+focus_tree = {
+	id = S22_focus
+	
+	country = {
+		factor = 0
+		
+		modifier = {
+			add = 10
+			tag = S22
+		}
+	}
+	
+	default = no
+	
+	shared_focus = army_effort
+	shared_focus = aviation_effort
+	shared_focus = naval_effort
+	shared_focus = industrial_effort
+	shared_focus = political_effort
+
+	focus = {
+		id = integrate_satelliteS22SEN
+		icon = GFX_focus_eng_move_to_secure_the_dominions
+		text = integrate_satelliteSEN
+		bypass = {
+			SEN = {
+				OR = {
+					NOT = { is_subject_of = ROOT }
+					has_war_with = ROOT
+				}
+			}
+		}
+		x = 28
+		y = 0
+		cost = 10
+		available = {
+
+		}
+		select_effect = {
+			SEN = {
+				every_owned_state = { set_state_flag = is_being_integrated }
+			}
+		}
+		completion_reward = {
+			annex_country = { target = SEN transfer_troops = yes }
+			every_owned_state = {
+				limit = { has_state_flag = is_being_integrated }
+				add_core_of = ROOT
+				clr_state_flag = is_being_integrated
+			}
+		}
+		ai_will_do = {
+			factor = 10
+		}
+	}
+
+}

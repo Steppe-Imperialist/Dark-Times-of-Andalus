@@ -1,0 +1,38 @@
+
+state={
+	id=191
+	name="STATE_191"
+	resources={
+		aluminium=1.000
+		oil=1.000
+	}
+
+	history={
+		owner = S18
+		victory_points = {
+			2199 0 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			10953 = {
+				naval_base = 2
+			}
+			air_base = 0
+
+		}
+		add_core_of = S18
+		add_claim_by = ARG
+		add_claim_by = T45
+	}
+
+	provinces={
+		2169 2199 8161 8176 10953 12982 
+	}
+	manpower=521528
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+
+	local_supplies=10.0
+}

@@ -1,0 +1,22 @@
+
+state={
+	id=839
+	name="STATE_839"
+	impassable = yes
+
+	history={
+		owner = T90
+		add_core_of = T90
+		add_core_of = X02
+		add_core_of = X33
+	}
+
+	provinces={
+		2205 5138 7623 8206 12906 
+	}
+	manpower=24566
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+
+	local_supplies=10.0
+}

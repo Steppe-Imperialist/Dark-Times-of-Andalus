@@ -1,0 +1,93 @@
+﻿converted_war_strategies_CHL = {
+	enable = {
+		tag = CHL
+		always = no
+	}
+	
+	ai_strategy = {
+		type = conquer
+		id = "ENG"
+		value = 270
+	}
+	ai_strategy = {
+		type = conquer
+		id = "T30"
+		value = 117
+	}
+	ai_strategy = {
+		type = conquer
+		id = "ADU"
+		value = 100
+	}
+}
+
+converted_diplo_strategies_CHL = {
+	enable = {
+		tag = CHL
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+	ai_strategy = {
+		type = contain
+		id = "ENG"
+		value = 278
+	}
+	ai_strategy = {
+		type = contain
+		id = "T30"
+		value = 152
+	}
+	ai_strategy = {
+		type = contain
+		id = "T29"
+		value = 73
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "T72"
+		value = 400
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "ENG"
+		value = 270
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "T64"
+		value = 246
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "S01"
+		value = 221
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "T30"
+		value = 126
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "KAZ"
+		value = 58
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "ADU"
+		value = 27
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "CAL"
+		value = 2
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "CAL"
+		value = 42
+	}
+}

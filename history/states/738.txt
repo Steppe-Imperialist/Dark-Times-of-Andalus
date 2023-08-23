@@ -1,0 +1,42 @@
+
+state={
+	id=738
+	name="STATE_738"
+	resources={
+		oil=1.000
+	}
+
+	history={
+		owner = T28
+		victory_points = {
+			11106 10 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 7
+			arms_factory = 0
+			dockyard = 1
+			177 = {
+				naval_base = 8
+			}
+			air_base = 10
+
+		}
+		add_core_of = T28
+		add_core_of = TRI
+		add_core_of = U65
+		add_core_of = U66
+		add_core_of = V71
+		add_core_of = W17
+		add_core_of = W47
+	}
+
+	provinces={
+		177 379 3284 7123 11106 13009 13012 
+	}
+	manpower=4910868
+	buildings_max_level_factor=1.000
+	state_category=metropolis
+
+	local_supplies=10.0
+}

@@ -1,0 +1,36 @@
+
+state={
+	id=440
+	name="STATE_440"
+
+	history={
+		owner = V53
+		victory_points = {
+			10263 10 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			arms_factory = 0
+			10263 = {
+				naval_base = 4
+			}
+			air_base = 10
+
+		}
+		add_core_of = U57
+		add_core_of = V37
+		add_core_of = V40
+		add_core_of = V53
+		add_claim_by = V52
+	}
+
+	provinces={
+		1589 4349 7336 10263 10450 12444 
+	}
+	manpower=167652
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

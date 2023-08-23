@@ -1,0 +1,16 @@
+characters={
+	W79_peljidiin_jamyan={
+		name=W79_peljidiin_jamyan
+		portraits={
+			civilian={
+				large="GFX_MON_Gengis_Khan"
+			}
+		}
+		country_leader={
+			ideology=dictatorship
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

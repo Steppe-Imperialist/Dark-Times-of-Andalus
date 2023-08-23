@@ -1,0 +1,58 @@
+﻿VEN = {
+	battle_cruiser = {
+		prefix = ""
+		generic = { "Battlecruiser" }
+		unique = {
+			"Bolívar" "Carabobo" "General Soublette" "General Urdaneta" "Maraparari" "Monagas" "Totumo" "Trópico" "Veintitres de Mayo" 
+		}
+	}
+
+	battleship = {
+		prefix = ""
+		generic = { "Battleship" }
+		unique = {
+			"Almirante Brión" "Francisco de Miranda" "General Falcón" "General Páez" "General Zamora" "Guaicaipuro" "Mariscal Sucre" "Simón Bolivar" "Tamanaco" "Venezuela" 
+		}
+	}
+
+	carrier = {
+		prefix = ""
+		generic = { "Carrier" }
+		unique = {
+			"Cacique" "Carreño" "Diego de Losada" "Gran Colombia" "Gual" "Guayana" "Narvate" "Nueva Andalucía" "Tovar" "Villegas" 
+		}
+	}
+
+	destroyer = {
+		prefix = ""
+		generic = { "Destroyer" }
+		unique = {
+			"Aragua" "Caroní" "Casiquiare" "Cumaná" "General Salom" "Maracaibo" "Orinoco" "Restaurador" "Sucre" "Zulia" 
+		}
+	}
+
+	heavy_cruiser = {
+		prefix = ""
+		generic = { "Heavy Cruiser" }
+		unique = {
+			"Brión" "Colombiana" "Conejo" "Eclipse" "Feliz" "Independencia" "Intrépido" "Mariño" "Piar" "Rita" 
+		}
+	}
+
+	light_cruiser = {
+		prefix = ""
+		generic = { "Light Cruiser" }
+		unique = {
+			"Aragua" "Constitución" "Federación" "General Crespo" "Independencia" "Libertad" "Marcay" "Maturín" "Miranda" "Patria" 
+		}
+	}
+
+	submarine = {
+		prefix = ""
+		generic = { "Submarine" }
+		unique = {
+			"Caribe" "Cojedes" "Lara" "Mérida" "Monagas" "Nueva Esparta" "Portuguesa" "Trujillo" "Warao" "Yecuana" 
+		}
+	}
+
+}

@@ -1,0 +1,26 @@
+units = {
+	fleet = {
+		name = "1st Fleet"
+		naval_base = 11670
+		task_force = {
+			name = "1st Fleet"
+			location = 11670
+			ship = { name = "4th Nikolaev Steam Frigate" definition = destroyer start_experience_factor = 0.0475 equipment = { ship_hull_light_1 = { amount = 1 owner = S05 version_name = "Early Destroyer" } } }
+			ship = { name = "5th Nikolaev Steam Frigate" definition = destroyer start_experience_factor = 0.04871 equipment = { ship_hull_light_1 = { amount = 1 owner = S05 version_name = "Early Destroyer" } } }
+			ship = { name = "6th Nikolaev Steam Frigate" definition = destroyer start_experience_factor = 0.0995 equipment = { ship_hull_light_1 = { amount = 1 owner = S05 version_name = "Early Destroyer" } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_light_1
+			creator = "S05"
+			version_name = "Early Destroyer"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+}

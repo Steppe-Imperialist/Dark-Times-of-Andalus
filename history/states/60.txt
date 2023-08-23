@@ -1,0 +1,34 @@
+
+state={
+	id=60
+	name="STATE_60"
+
+	history={
+		owner = X47
+		victory_points = {
+			4273 15 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			dockyard = 1
+			10191 = {
+				naval_base = 2
+			}
+			air_base = 6
+
+		}
+		add_core_of = INS
+		add_core_of = X47
+	}
+
+	provinces={
+		4273 7293 10191 12162 12219 12234 
+	}
+	manpower=2014424
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

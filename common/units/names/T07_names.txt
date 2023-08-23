@@ -1,0 +1,58 @@
+﻿T07 = {
+	battle_cruiser = {
+		prefix = ""
+		generic = { "Battlecruiser" }
+		unique = {
+			"Kansas" "Nebraska" "Colorado" "Wichita" "Meadowlark" "Topeka" "Sunflower" "Cottonwood" "Lincoln" "Omaha" "Columbine" "Lewis and Clark" "Cornhusker" "Goldenrod" "Denver" "Aurora" "Lark Bunting" "Rocky Mountain" 
+		}
+	}
+
+	battleship = {
+		prefix = ""
+		generic = { "Battleship" }
+		unique = {
+			"Kansas" "Nebraska" "Colorado" "Wichita" "Meadowlark" "Topeka" "Sunflower" "Cottonwood" "Lincoln" "Omaha" "Columbine" "Lewis and Clark" "Cornhusker" "Goldenrod" "Denver" "Aurora" "Lark Bunting" "Rocky Mountain" 
+		}
+	}
+
+	carrier = {
+		prefix = ""
+		generic = { "Carrier" }
+		unique = {
+			"Kansas" "Nebraska" "Colorado" "Wichita" "Meadowlark" "Topeka" "Sunflower" "Cottonwood" "Lincoln" "Omaha" "Columbine" "Lewis and Clark" "Cornhusker" "Goldenrod" "Denver" "Aurora" "Lark Bunting" "Rocky Mountain" 
+		}
+	}
+
+	destroyer = {
+		prefix = ""
+		generic = { "Destroyer" }
+		unique = {
+			"Kansas" "Nebraska" "Colorado" "Wichita" "Meadowlark" "Topeka" "Sunflower" "Cottonwood" "Lincoln" "Omaha" "Columbine" "Lewis and Clark" "Cornhusker" "Goldenrod" "Denver" "Aurora" "Lark Bunting" "Rocky Mountain" 
+		}
+	}
+
+	heavy_cruiser = {
+		prefix = ""
+		generic = { "Heavy Cruiser" }
+		unique = {
+			"Kansas" "Nebraska" "Colorado" "Wichita" "Meadowlark" "Topeka" "Sunflower" "Cottonwood" "Lincoln" "Omaha" "Columbine" "Lewis and Clark" "Cornhusker" "Goldenrod" "Denver" "Aurora" "Lark Bunting" "Rocky Mountain" 
+		}
+	}
+
+	light_cruiser = {
+		prefix = ""
+		generic = { "Light Cruiser" }
+		unique = {
+			"Kansas" "Nebraska" "Colorado" "Wichita" "Meadowlark" "Topeka" "Sunflower" "Cottonwood" "Lincoln" "Omaha" "Columbine" "Lewis and Clark" "Cornhusker" "Goldenrod" "Denver" "Aurora" "Lark Bunting" "Rocky Mountain" 
+		}
+	}
+
+	submarine = {
+		prefix = ""
+		generic = { "Submarine" }
+		unique = {
+			"Kansas" "Nebraska" "Colorado" "Wichita" "Meadowlark" "Topeka" "Sunflower" "Cottonwood" "Lincoln" "Omaha" "Columbine" "Lewis and Clark" "Cornhusker" "Goldenrod" "Denver" "Aurora" "Lark Bunting" "Rocky Mountain" 
+		}
+	}
+
+}

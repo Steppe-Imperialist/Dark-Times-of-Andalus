@@ -1,0 +1,16 @@
+characters={
+	W08_matyas_breisky={
+		name=W08_matyas_breisky
+		portraits={
+			civilian={
+				large="GFX_Galicia_Karl_Albrecht"
+			}
+		}
+		country_leader={
+			ideology=absolute_monarchy
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

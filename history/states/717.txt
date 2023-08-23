@@ -1,0 +1,40 @@
+
+state={
+	id=717
+	name="STATE_717"
+	resources={
+		chromium=4.000
+	}
+
+	history={
+		owner = T13
+		victory_points = {
+			9940 10 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 0
+			10007 = {
+				naval_base = 10
+			}
+			air_base = 10
+
+		}
+		add_core_of = GRE
+		add_core_of = ITA
+		add_core_of = T13
+		add_core_of = U38
+		add_core_of = X66
+		add_core_of = X95
+	}
+
+	provinces={
+		1164 4170 6550 7003 8435 9940 10007 12058 
+	}
+	manpower=461424
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

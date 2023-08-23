@@ -1,0 +1,16 @@
+characters={
+	TRI_jeffrey_findley={
+		name=TRI_jeffrey_findley
+		portraits={
+			civilian={
+				large="GFX_CAF_Tubal_Uriah_Butler"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

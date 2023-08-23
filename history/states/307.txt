@@ -1,0 +1,38 @@
+
+state={
+	id=307
+	name="STATE_307"
+	resources={
+		steel=3.000
+	}
+
+	history={
+		owner = S22
+		victory_points = {
+			7992 10 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			arms_factory = 0
+			5034 = {
+				naval_base = 10
+			}
+			air_base = 10
+
+		}
+		add_core_of = MRT
+		add_core_of = S22
+		add_core_of = U43
+		add_core_of = W33
+	}
+
+	provinces={
+		5034 5077 7992 8058 10814 
+	}
+	manpower=498812
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

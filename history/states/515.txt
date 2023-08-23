@@ -1,0 +1,37 @@
+
+state={
+	id=515
+	name="STATE_515"
+
+	history={
+		owner = U26
+		victory_points = {
+			4132 10 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			9975 = {
+				naval_base = 2
+			}
+			air_base = 6
+
+		}
+		add_core_of = RAJ
+		add_core_of = W51
+		add_core_of = W87
+		add_claim_by = U26
+		add_claim_by = V46
+		add_claim_by = X58
+	}
+
+	provinces={
+		1061 1103 1144 1190 4064 4090 4132 4187 7013 7020 7150 7165 7207 9975 10118 11952 12037 12092 
+	}
+	manpower=9375832
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

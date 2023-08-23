@@ -1,0 +1,38 @@
+
+state={
+	id=598
+	name="STATE_598"
+	resources={
+		oil=1.000
+		steel=7.000
+		tungsten=8.000
+	}
+
+	history={
+		owner = SAX
+		victory_points = {
+			9648 0 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = U83
+		add_core_of = W23
+		add_claim_by = GER
+		add_claim_by = SLV
+		add_claim_by = YUG
+	}
+
+	provinces={
+		653 668 3673 3674 6673 6687 6691 9646 9648 9650 9679 11612 
+	}
+	manpower=893676
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

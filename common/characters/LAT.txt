@@ -1,0 +1,16 @@
+characters={
+	LAT_eduards_betins={
+		name=LAT_eduards_betins
+		portraits={
+			civilian={
+				large="gfx/leaders/LIT/portrait_lit_antanas_smetona.dds"
+			}
+		}
+		country_leader={
+			ideology=absolute_monarchy
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

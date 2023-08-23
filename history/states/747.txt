@@ -1,0 +1,30 @@
+
+state={
+	id=747
+	name="STATE_747"
+
+	history={
+		owner = T29
+		victory_points = {
+			12973 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 1
+			air_base = 0
+
+		}
+		add_core_of = T29
+		add_claim_by = BOL
+	}
+
+	provinces={
+		2160 10924 12902 12916 12973 
+	}
+	manpower=1533672
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

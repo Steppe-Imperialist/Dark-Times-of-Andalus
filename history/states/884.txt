@@ -1,0 +1,35 @@
+
+state={
+	id=884
+	name="STATE_884"
+
+	history={
+		owner = YUG
+		victory_points = {
+			949 0 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			9783 = {
+				naval_base = 1
+			}
+			air_base = 0
+
+		}
+		add_core_of = SER
+		add_claim_by = BUL
+		add_claim_by = W53
+		add_claim_by = YUG
+	}
+
+	provinces={
+		649 793 935 949 965 3796 3819 3908 3952 3971 6842 9610 9612 9769 9771 9783 11754 
+	}
+	manpower=1906384
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

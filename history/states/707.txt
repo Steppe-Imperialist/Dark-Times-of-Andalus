@@ -1,0 +1,32 @@
+
+state={
+	id=707
+	name="STATE_707"
+
+	history={
+		owner = USA
+		victory_points = {
+			1347 10 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 6
+
+		}
+		add_core_of = CAL
+		add_core_of = USA
+		add_core_of = X92
+		add_claim_by = CAN
+	}
+
+	provinces={
+		1347 
+	}
+	manpower=142964
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

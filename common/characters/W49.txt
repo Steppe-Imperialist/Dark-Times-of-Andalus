@@ -1,0 +1,16 @@
+characters={
+	W49_king_vijaya={
+		name=W49_king_vijaya
+		portraits={
+			civilian={
+				large="GFX_PRF_Bhupinder_Singh"
+			}
+		}
+		country_leader={
+			ideology=absolute_monarchy
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

@@ -1,0 +1,40 @@
+
+state={
+	id=811
+	name="STATE_811"
+	resources={
+		aluminium=1.000
+		chromium=1.000
+	}
+
+	history={
+		owner = T66
+		victory_points = {
+			1005 15 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			arms_factory = 0
+			1005 = {
+				naval_base = 4
+			}
+			air_base = 5
+
+		}
+		add_core_of = T66
+		add_core_of = T74
+		add_core_of = TUR
+		add_claim_by = SER
+		add_claim_by = YUG
+	}
+
+	provinces={
+		869 940 1005 1119 1122 3788 4008 4127 6807 6894 7143 9755 9763 9811 9861 11792 11860 
+	}
+	manpower=1129932
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

@@ -1,0 +1,35 @@
+
+state={
+	id=413
+	name="STATE_413"
+
+	history={
+		owner = V41
+		victory_points = {
+			3863 20 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+			dockyard = 1
+			11782 = {
+				naval_base = 4
+			}
+			air_base = 7
+
+		}
+		add_core_of = V41
+		add_claim_by = T91
+		add_claim_by = USA
+	}
+
+	provinces={
+		3693 3863 6882 9801 9864 11740 11782 11900 
+	}
+	manpower=11274868
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

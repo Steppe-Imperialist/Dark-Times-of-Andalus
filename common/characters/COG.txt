@@ -1,0 +1,36 @@
+characters={
+	COG_mateso_apuobo={
+		name=COG_mateso_apuobo
+		portraits={
+			army={
+				large="GFX_Mittelafrika_Karl_Atanga"
+			}
+			army={
+				small="GFX_Mittelafrika_Karl_Atanga"
+			}
+		}
+		corps_commander={
+			skill=2
+			attack_skill=1
+			defense_skill=1
+			planning_skill=5
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	COG_baudouin_lubanga={
+		name=COG_baudouin_lubanga
+		portraits={
+			civilian={
+				large="GFX_Africa_Generic_new_1"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

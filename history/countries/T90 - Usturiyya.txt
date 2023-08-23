@@ -1,0 +1,615 @@
+﻿capital = 834
+set_research_slots = 3
+
+oob = "T90_OOB"
+if = {
+	limit = { has_dlc = "Man the Guns" }
+		set_naval_oob = "T90_1936_naval_mtg"
+	else = { 
+		set_naval_oob = "T90_1936_naval_legacy"
+	}
+}
+
+# Starting tech
+set_technology = {
+	basic_train = 1
+	electronic_mechanical_engineering = 1
+	fuel_refining = 1
+	fuel_silos = 1
+	gw_artillery = 1
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+	interwar_antiair = 1
+	motorised_infantry = 1
+	support_weapons = 1
+	synth_oil_experiments = 1
+	tech_engineers = 1
+	tech_recon = 1
+	tech_support = 1
+}
+
+if = {
+	limit = { NOT = { has_dlc = "No Step Back" } }
+	set_technology = {
+		gwtank = 1
+	}
+}
+
+if = {
+	limit = { has_dlc = "By Blood Alone" }
+	set_technology = {
+		aa_lmg = 1
+		early_bombs = 1
+		engines_1 = 1
+		iw_large_airframe = 1
+		iw_medium_airframe = 1
+		iw_small_airframe = 1
+	}
+}
+
+if = {
+	limit = { has_dlc = "La Resistance" }
+	set_technology = {
+		armored_car1 = 1
+	}
+}
+
+if = {
+	limit = { has_dlc = "Man the Guns" }
+	set_technology = {
+		basic_battery = 1
+		basic_naval_mines = 1
+		basic_torpedo = 1
+		early_ship_hull_cruiser = 1
+		early_ship_hull_light = 1
+	}
+}
+
+if = {
+	limit = { has_dlc = "No Step Back" }
+	set_technology = {
+		gwtank_chassis = 1
+	}
+}
+
+if = {
+	limit = { not = { has_dlc = "By Blood Alone" } }
+	set_technology = {
+		early_bomber = 1
+		early_fighter = 1
+	}
+}
+
+if = {
+	limit = { not = { has_dlc = "Man the Guns" } }
+	set_technology = {
+		early_battleship = 1
+		early_destroyer = 1
+		early_heavy_cruiser = 1
+		early_light_cruiser = 1
+		early_submarine = 1
+		transport = 1
+	}
+}
+
+# Research Bonuses
+
+set_country_flag = conv_australia
+set_convoys = 7
+
+set_politics = {
+    ruling_party = democratic
+    last_election = "1932.12.18"
+    election_frequency = 48
+    elections_allowed = yes
+}
+
+set_popularities = {
+	absolutist = 8
+	communism = 2
+	democratic = 74
+	fascism = 11
+	neutrality = 3
+	radical = 2
+}
+
+add_opinion_modifier = { target = ADU modifier = negative_47 }
+give_military_access = ADU
+add_opinion_modifier = { target = ANG modifier = negative_20 }
+add_opinion_modifier = { target = AST modifier = negative_35 }
+add_opinion_modifier = { target = BAH modifier = negative_35 }
+add_opinion_modifier = { target = BAN modifier = negative_25 }
+add_opinion_modifier = { target = BEL modifier = negative_10 }
+add_opinion_modifier = { target = BLR modifier = negative_10 }
+add_opinion_modifier = { target = BOT modifier = negative_30 }
+add_opinion_modifier = { target = BRA modifier = negative_200 }
+add_opinion_modifier = { target = BRM modifier = negative_55 }
+add_opinion_modifier = { target = BRU modifier = negative_25 }
+add_opinion_modifier = { target = BYA modifier = negative_55 }
+add_opinion_modifier = { target = CAM modifier = negative_55 }
+add_opinion_modifier = { target = CAN modifier = negative_15 }
+add_opinion_modifier = { target = CAR modifier = negative_30 }
+add_opinion_modifier = { target = CAY modifier = negative_35 }
+add_opinion_modifier = { target = CHA modifier = positive_20 }
+add_opinion_modifier = { target = COG modifier = negative_30 }
+add_opinion_modifier = { target = CRC modifier = negative_35 }
+add_opinion_modifier = { target = CRI modifier = negative_30 }
+add_opinion_modifier = { target = CUB modifier = negative_25 }
+add_opinion_modifier = { target = DEN modifier = negative_10 }
+add_opinion_modifier = { target = DOM modifier = negative_25 }
+add_opinion_modifier = { target = ENG modifier = negative_200 }
+add_opinion_modifier = { target = EQG modifier = negative_10 }
+add_opinion_modifier = { target = FRA modifier = negative_200 }
+add_opinion_modifier = { target = GAB modifier = negative_30 }
+add_opinion_modifier = { target = GHA modifier = negative_30 }
+add_opinion_modifier = { target = GRE modifier = negative_60 }
+add_opinion_modifier = { target = GUY modifier = negative_35 }
+add_opinion_modifier = { target = HAI modifier = negative_25 }
+add_opinion_modifier = { target = HOL modifier = negative_30 }
+add_opinion_modifier = { target = HUN modifier = negative_200 }
+add_opinion_modifier = { target = ICE modifier = negative_35 }
+add_opinion_modifier = { target = ITA modifier = negative_80 }
+add_opinion_modifier = { target = JAM modifier = negative_35 }
+add_opinion_modifier = { target = JAP modifier = negative_55 }
+add_opinion_modifier = { target = JOR modifier = positive_20 }
+add_opinion_modifier = { target = KAZ modifier = negative_55 }
+add_opinion_modifier = { target = KEN modifier = negative_25 }
+add_opinion_modifier = { target = KYR modifier = negative_55 }
+add_opinion_modifier = { target = LIT modifier = negative_10 }
+add_opinion_modifier = { target = MAL modifier = positive_20 }
+add_opinion_modifier = { target = MAN modifier = negative_55 }
+add_opinion_modifier = { target = MEX modifier = positive_10 }
+add_opinion_modifier = { target = NEP modifier = negative_55 }
+add_opinion_modifier = { target = NGA modifier = negative_30 }
+add_opinion_modifier = { target = PAL modifier = positive_20 }
+add_opinion_modifier = { target = PER modifier = negative_25 }
+add_opinion_modifier = { target = PHI modifier = negative_45 }
+add_opinion_modifier = { target = PUE modifier = negative_35 }
+add_opinion_modifier = { target = RAJ modifier = negative_10 }
+add_opinion_modifier = { target = S01 modifier = negative_55 }
+add_opinion_modifier = { target = S05 modifier = negative_200 }
+add_opinion_modifier = { target = S10 modifier = negative_55 }
+add_opinion_modifier = { target = SAF modifier = negative_10 }
+add_opinion_modifier = { target = SAM modifier = negative_55 }
+add_opinion_modifier = { target = SAR modifier = negative_5 }
+add_opinion_modifier = { target = SAX modifier = negative_30 }
+add_opinion_modifier = { target = SEN modifier = positive_20 }
+add_opinion_modifier = { target = SIA modifier = negative_55 }
+add_opinion_modifier = { target = SIL modifier = negative_15 }
+add_opinion_modifier = { target = SOV modifier = negative_200 }
+add_opinion_modifier = { target = SPC modifier = negative_35 }
+add_opinion_modifier = { target = SUD modifier = negative_30 }
+add_opinion_modifier = { target = SUR modifier = negative_35 }
+add_opinion_modifier = { target = SWE modifier = negative_110 }
+add_opinion_modifier = { target = SWI modifier = negative_200 }
+add_opinion_modifier = { target = SYR modifier = positive_45 }
+add_opinion_modifier = { target = T00 modifier = negative_135 }
+add_opinion_modifier = { target = T05 modifier = negative_200 }
+add_opinion_modifier = { target = T13 modifier = negative_130 }
+add_opinion_modifier = { target = T15 modifier = negative_10 }
+add_opinion_modifier = { target = T27 modifier = positive_20 }
+add_opinion_modifier = { target = T29 modifier = positive_21 }
+add_opinion_modifier = { target = T35 modifier = negative_55 }
+add_opinion_modifier = { target = T36 modifier = negative_10 }
+add_opinion_modifier = { target = T39 modifier = negative_200 }
+add_opinion_modifier = { target = T43 modifier = negative_200 }
+add_opinion_modifier = { target = T44 modifier = negative_11 }
+add_opinion_modifier = { target = T55 modifier = negative_35 }
+add_opinion_modifier = { target = T59 modifier = negative_55 }
+add_opinion_modifier = { target = T64 modifier = negative_55 }
+add_opinion_modifier = { target = T65 modifier = negative_200 }
+add_opinion_modifier = { target = T66 modifier = positive_20 }
+add_opinion_modifier = { target = T67 modifier = negative_55 }
+add_opinion_modifier = { target = T72 modifier = negative_55 }
+add_opinion_modifier = { target = T81 modifier = negative_150 }
+add_opinion_modifier = { target = T89 modifier = negative_55 }
+add_opinion_modifier = { target = T99 modifier = negative_55 }
+add_opinion_modifier = { target = TIB modifier = negative_55 }
+add_opinion_modifier = { target = TUN modifier = positive_70 }
+add_opinion_modifier = { target = U09 modifier = negative_200 }
+add_opinion_modifier = { target = U12 modifier = negative_200 }
+add_opinion_modifier = { target = U13 modifier = negative_10 }
+add_opinion_modifier = { target = U16 modifier = negative_35 }
+add_opinion_modifier = { target = U18 modifier = negative_35 }
+add_opinion_modifier = { target = U24 modifier = negative_55 }
+add_opinion_modifier = { target = U26 modifier = negative_55 }
+add_opinion_modifier = { target = U34 modifier = negative_35 }
+add_opinion_modifier = { target = U53 modifier = negative_125 }
+add_opinion_modifier = { target = U56 modifier = negative_35 }
+add_opinion_modifier = { target = U58 modifier = negative_55 }
+add_opinion_modifier = { target = U64 modifier = negative_10 }
+add_opinion_modifier = { target = U67 modifier = negative_55 }
+add_opinion_modifier = { target = U68 modifier = positive_25 }
+add_opinion_modifier = { target = U70 modifier = negative_55 }
+add_opinion_modifier = { target = U73 modifier = negative_35 }
+add_opinion_modifier = { target = U76 modifier = negative_35 }
+add_opinion_modifier = { target = U77 modifier = negative_55 }
+add_opinion_modifier = { target = U79 modifier = negative_55 }
+add_opinion_modifier = { target = U81 modifier = negative_55 }
+add_opinion_modifier = { target = U85 modifier = negative_5 }
+add_opinion_modifier = { target = U89 modifier = negative_10 }
+add_opinion_modifier = { target = U98 modifier = negative_55 }
+add_opinion_modifier = { target = UGA modifier = negative_30 }
+add_opinion_modifier = { target = URG modifier = positive_40 }
+add_opinion_modifier = { target = USA modifier = positive_80 }
+add_opinion_modifier = { target = V04 modifier = negative_55 }
+add_opinion_modifier = { target = V09 modifier = negative_55 }
+add_opinion_modifier = { target = V13 modifier = negative_200 }
+add_opinion_modifier = { target = V14 modifier = negative_55 }
+add_opinion_modifier = { target = V19 modifier = negative_55 }
+add_opinion_modifier = { target = V21 modifier = negative_55 }
+add_opinion_modifier = { target = V36 modifier = negative_55 }
+add_opinion_modifier = { target = V38 modifier = negative_35 }
+add_opinion_modifier = { target = V41 modifier = negative_10 }
+add_opinion_modifier = { target = V43 modifier = negative_25 }
+add_opinion_modifier = { target = V45 modifier = negative_35 }
+add_opinion_modifier = { target = V53 modifier = negative_105 }
+add_opinion_modifier = { target = V55 modifier = negative_25 }
+add_opinion_modifier = { target = V61 modifier = negative_35 }
+add_opinion_modifier = { target = V63 modifier = negative_55 }
+add_opinion_modifier = { target = V67 modifier = negative_35 }
+add_opinion_modifier = { target = V82 modifier = positive_40 }
+add_opinion_modifier = { target = V83 modifier = negative_55 }
+add_opinion_modifier = { target = V87 modifier = positive_50 }
+add_opinion_modifier = { target = V91 modifier = negative_55 }
+add_opinion_modifier = { target = V92 modifier = negative_55 }
+add_opinion_modifier = { target = VEN modifier = negative_10 }
+add_opinion_modifier = { target = W09 modifier = negative_200 }
+add_opinion_modifier = { target = W13 modifier = negative_36 }
+add_opinion_modifier = { target = W15 modifier = negative_25 }
+add_opinion_modifier = { target = W18 modifier = negative_55 }
+add_opinion_modifier = { target = W21 modifier = negative_35 }
+add_opinion_modifier = { target = W23 modifier = negative_135 }
+add_opinion_modifier = { target = W30 modifier = negative_55 }
+add_opinion_modifier = { target = W38 modifier = negative_200 }
+add_opinion_modifier = { target = W39 modifier = negative_10 }
+add_opinion_modifier = { target = W41 modifier = negative_55 }
+add_opinion_modifier = { target = W42 modifier = negative_35 }
+add_opinion_modifier = { target = W45 modifier = negative_55 }
+add_opinion_modifier = { target = W53 modifier = negative_10 }
+add_opinion_modifier = { target = W57 modifier = negative_35 }
+add_opinion_modifier = { target = W58 modifier = negative_25 }
+add_opinion_modifier = { target = W68 modifier = negative_55 }
+add_opinion_modifier = { target = W71 modifier = negative_55 }
+add_opinion_modifier = { target = W74 modifier = negative_55 }
+add_opinion_modifier = { target = W78 modifier = negative_35 }
+add_opinion_modifier = { target = W89 modifier = negative_25 }
+add_opinion_modifier = { target = W90 modifier = negative_55 }
+add_opinion_modifier = { target = W97 modifier = negative_55 }
+add_opinion_modifier = { target = W98 modifier = negative_20 }
+add_opinion_modifier = { target = WES modifier = negative_10 }
+add_opinion_modifier = { target = WLL modifier = negative_35 }
+add_opinion_modifier = { target = X06 modifier = negative_35 }
+add_opinion_modifier = { target = X07 modifier = negative_55 }
+add_opinion_modifier = { target = X11 modifier = negative_35 }
+add_opinion_modifier = { target = X15 modifier = negative_35 }
+add_opinion_modifier = { target = X17 modifier = negative_55 }
+add_opinion_modifier = { target = X22 modifier = negative_200 }
+add_opinion_modifier = { target = X26 modifier = negative_25 }
+add_opinion_modifier = { target = X27 modifier = negative_25 }
+add_opinion_modifier = { target = X47 modifier = negative_55 }
+add_opinion_modifier = { target = X49 modifier = negative_35 }
+add_opinion_modifier = { target = X50 modifier = negative_55 }
+add_opinion_modifier = { target = X58 modifier = negative_40 }
+add_opinion_modifier = { target = X59 modifier = negative_55 }
+add_opinion_modifier = { target = X61 modifier = negative_25 }
+add_opinion_modifier = { target = X63 modifier = negative_200 }
+add_opinion_modifier = { target = X77 modifier = negative_200 }
+add_opinion_modifier = { target = X79 modifier = negative_55 }
+add_opinion_modifier = { target = X81 modifier = positive_50 }
+add_opinion_modifier = { target = X90 modifier = negative_35 }
+add_opinion_modifier = { target = X99 modifier = negative_35 }
+add_opinion_modifier = { target = YUG modifier = negative_200 }
+add_opinion_modifier = { target = ZAM modifier = negative_10 }
+
+
+add_ideas = {
+	volunteer_only
+	civilian_economy
+	export_focus
+	culture_janubii
+}
+set_stability = 0.60
+set_war_support = 0.60
+
+recruit_character = T90_yahya_ibn_abu_bakr
+recruit_character = T90_ahmad_ibn_ali
+recruit_character = T90_abd_allah_ibn_ishaq
+recruit_character = T90_fawzi_ibn_halil
+recruit_character = T90_yahya_ibn_khalid
+recruit_character = T90_umar_ibn_hisham
+recruit_character = T90_iskandar_ibn_ahmad
+recruit_character = T90_abd_al_qadir_ibn_ishaq
+recruit_character = T90_abd_allah_ibn_salim
+
+if = {
+	limit = {
+		has_dlc = "La Resistance"
+	}
+	create_operative_leader = {
+		name = "Asiya al-Mawsiliyya"
+		GFX = "gfx/leaders/Arabia/portrait_arabia_generic_operative_female_1.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { T90 }
+	}
+
+	create_operative_leader = {
+		name = "Rashida bint Uthman"
+		GFX = "gfx/leaders/Arabia/portrait_arabia_generic_operative_female_2.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { T90 }
+	}
+
+	create_operative_leader = {
+		name = "Amsha bint Yusuf"
+		GFX = "gfx/leaders/Arabia/portrait_arabia_generic_operative_female_3.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { T90 }
+	}
+
+	create_operative_leader = {
+		name = "Khalid ibm Kamil"
+		GFX = "gfx/leaders/Arabia/portrait_arabia_generic_operative_male_1.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		nationalities = { T90 }
+	}
+
+	create_operative_leader = {
+		name = "Abu Bakr ibn Abd Allah"
+		GFX = "gfx/leaders/Arabia/portrait_arabia_generic_operative_male_2.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		nationalities = { T90 }
+	}
+
+}
+### VARIANTS ###
+if = {
+	limit = { not = { has_dlc = "Man the Guns" } }
+	create_equipment_variant = {
+		name = "Early Battleship"
+		type = battleship_1
+		upgrades = {
+			ship_armor_upgrade = 1
+			ship_engine_upgrade = 1
+			ship_gun_upgrade = 1
+			ship_reliability_upgrade = 1
+		}
+	}
+
+	create_equipment_variant = {
+		name = "Early Destroyer"
+		type = destroyer_1
+		upgrades = {
+			destroyer_engine_upgrade = 1
+			ship_ASW_upgrade = 1
+			ship_anti_air_upgrade = 1
+			ship_torpedo_upgrade = 1
+		}
+	}
+
+	create_equipment_variant = {
+		name = "Early Heavy Cruiser"
+		type = heavy_cruiser_1
+		upgrades = {
+			ship_armor_upgrade = 1
+			ship_engine_upgrade = 1
+			ship_gun_upgrade = 1
+			ship_reliability_upgrade = 1
+		}
+	}
+
+	create_equipment_variant = {
+		name = "Early Light Cruiser"
+		type = light_cruiser_1
+		upgrades = {
+			ship_anti_air_upgrade = 1
+			ship_engine_upgrade = 1
+			ship_gun_upgrade = 1
+			ship_reliability_upgrade = 1
+		}
+	}
+
+	create_equipment_variant = {
+		name = "Early Submarine"
+		type = submarine_1
+		upgrades = {
+			ship_reliability_upgrade = 1
+			sub_engine_upgrade = 1
+			sub_stealth_upgrade = 1
+			sub_torpedo_upgrade = 1
+		}
+	}
+
+}
+if = {
+	limit = { has_dlc = "Man the Guns" }
+	create_equipment_variant = {
+		name = "Early Destroyer"
+		type = ship_hull_light_1
+		name_group = T90_DD_HISTORICAL
+		parent_version = 0
+		modules = {
+			fixed_ship_anti_air_slot = ship_anti_air_1
+			fixed_ship_battery_slot = ship_light_battery_1
+			fixed_ship_engine_slot = light_ship_engine_1
+			fixed_ship_fire_control_system_slot = empty
+			fixed_ship_radar_slot = ship_sonar_1
+			fixed_ship_torpedo_slot = ship_torpedo_1
+			mid_1_custom_slot = ship_depth_charge_1
+			rear_1_custom_slot = empty
+		}
+	}
+	create_equipment_variant = {
+		name = "Early Heavy Cruiser"
+		type = ship_hull_cruiser_1
+		name_group = T90_CA_HISTORICAL
+		parent_version = 0
+		modules = {
+			fixed_ship_anti_air_slot = ship_anti_air_1
+			fixed_ship_armor_slot = ship_armor_cruiser_1
+			fixed_ship_battery_slot = ship_medium_battery_1
+			fixed_ship_engine_slot = cruiser_ship_engine_1
+			fixed_ship_fire_control_system_slot = ship_fire_control_system_0
+			fixed_ship_radar_slot = empty
+			fixed_ship_secondaries_slot = ship_secondaries_1
+			mid_1_custom_slot = ship_secondaries_1
+			mid_2_custom_slot = ship_medium_battery_1
+			rear_1_custom_slot = empty
+		}
+	}
+	create_equipment_variant = {
+		name = "Early Light Cruiser"
+		type = ship_hull_cruiser_1
+		name_group = T90_CL_HISTORICAL
+		parent_version = 0
+		modules = {
+			fixed_ship_anti_air_slot = ship_anti_air_1
+			fixed_ship_armor_slot = ship_armor_cruiser_1
+			fixed_ship_battery_slot = ship_light_battery_1
+			fixed_ship_engine_slot = cruiser_ship_engine_1
+			fixed_ship_fire_control_system_slot = ship_fire_control_system_0
+			fixed_ship_radar_slot = ship_sonar_1
+			fixed_ship_secondaries_slot = ship_secondaries_1
+			mid_1_custom_slot = ship_torpedo_1
+			mid_2_custom_slot = ship_light_battery_1
+			rear_1_custom_slot = empty
+		}
+	}
+}
+### PLANE DESIGNS ###
+if = {
+	limit = { has_dlc = "By Blood Alone" }
+	create_equipment_variant = {
+		name = "Interwar CAS"
+		type = small_plane_cas_airframe_0
+		modules = {
+			engine_type_slot = engine_1_1x
+			fixed_main_weapon_slot = bomb_locks
+			special_type_slot_1 = lmg_defense_turret
+		}
+	}
+	create_equipment_variant = {
+		name = "Interwar Carrier CAS"
+		type = cv_small_plane_cas_airframe_0
+		modules = {
+			engine_type_slot = engine_1_1x
+			fixed_main_weapon_slot = bomb_locks
+			special_type_slot_1 = lmg_defense_turret
+		}
+	}
+	create_equipment_variant = {
+		name = "Interwar Carrier Fighter"
+		type = cv_small_plane_airframe_0
+		modules = {
+			engine_type_slot = engine_1_1x
+			fixed_auxiliary_weapon_slot_1 = bomb_locks
+			fixed_main_weapon_slot = light_mg_2x
+			special_type_slot_1 = empty
+		}
+	}
+	create_equipment_variant = {
+		name = "Interwar Carrier Naval Bomber"
+		type = cv_small_plane_naval_bomber_airframe_0
+		modules = {
+			engine_type_slot = engine_1_1x
+			fixed_main_weapon_slot = torpedo_mounting
+			special_type_slot_1 = lmg_defense_turret
+		}
+	}
+	create_equipment_variant = {
+		name = "Interwar Fighter"
+		type = small_plane_airframe_0
+		modules = {
+			engine_type_slot = engine_1_1x
+			fixed_auxiliary_weapon_slot_1 = bomb_locks
+			fixed_main_weapon_slot = light_mg_2x
+			special_type_slot_1 = empty
+		}
+	}
+	create_equipment_variant = {
+		name = "Interwar Naval Bomber"
+		type = small_plane_naval_bomber_airframe_0
+		modules = {
+			engine_type_slot = engine_1_1x
+			fixed_main_weapon_slot = torpedo_mounting
+			special_type_slot_1 = lmg_defense_turret
+		}
+	}
+	create_equipment_variant = {
+		name = "Interwar Strategic Bomber"
+		type = large_plane_airframe_0
+		modules = {
+			engine_type_slot = engine_1_4x
+			fixed_main_weapon_slot = large_bomb_bay
+			special_type_slot_1 = lmg_defense_turret
+			special_type_slot_2 = lmg_defense_turret
+		}
+	}
+	create_equipment_variant = {
+		name = "Interwar Tactical Bomber"
+		type = medium_plane_airframe_0
+		modules = {
+			engine_type_slot = engine_1_2x
+			fixed_main_weapon_slot = medium_bomb_bay
+			special_type_slot_1 = lmg_defense_turret
+			special_type_slot_2 = lmg_defense_turret
+		}
+	}
+}
+### TANK DESIGNS ###
+if = {
+	limit = { has_dlc = "No Step Back" }
+	create_equipment_variant = {
+		name = "GW Heavy Tank"
+		type = heavy_tank_chassis_0
+		parent_version = 0
+		modules = {
+			armor_type_slot = tank_riveted_armor
+			engine_type_slot = tank_gasoline_engine
+			main_armament_slot = tank_small_cannon
+			suspension_type_slot = tank_bogie_suspension
+			turret_type_slot = tank_heavy_three_man_tank_turret
+		}
+		icon = "gfx/interface/technologies/ger_basic_heavy_tank.dds"
+	}
+	create_equipment_variant = {
+		name = "GW Light Tank"
+		type = light_tank_chassis_0
+		parent_version = 0
+		modules = {
+			armor_type_slot = tank_riveted_armor
+			engine_type_slot = tank_gasoline_engine
+			main_armament_slot = tank_small_cannon
+			suspension_type_slot = tank_bogie_suspension
+			turret_type_slot = tank_light_one_man_tank_turret
+		}
+		icon = "gfx/interface/technologies/gwtank.dds"
+	}
+	create_equipment_variant = {
+		name = "GW Medium Tank"
+		type = medium_tank_chassis_0
+		parent_version = 0
+		modules = {
+			armor_type_slot = tank_riveted_armor
+			engine_type_slot = tank_gasoline_engine
+			main_armament_slot = tank_small_cannon
+			suspension_type_slot = tank_bogie_suspension
+			turret_type_slot = tank_medium_one_man_tank_turret
+		}
+		icon = "gfx/interface/technologies/SOV_basic_heavy_tank.dds"
+	}
+}
+

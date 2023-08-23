@@ -1,0 +1,34 @@
+
+state={
+	id=436
+	name="STATE_436"
+
+	history={
+		owner = MEX
+		victory_points = {
+			12823 10 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 0
+			13093 = {
+				naval_base = 6
+			}
+			air_base = 6
+
+		}
+		add_core_of = ELS
+		add_core_of = MEX
+		add_core_of = X78
+	}
+
+	provinces={
+		12823 13093 
+	}
+	manpower=765452
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

@@ -1,0 +1,35 @@
+
+state={
+	id=122
+	name="STATE_122"
+	resources={
+		chromium=8.000
+		oil=1.000
+		tungsten=2.000
+	}
+
+	history={
+		owner = X81
+		victory_points = {
+			3748 15 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1
+			air_base = 6
+
+		}
+		add_core_of = X81
+		add_claim_by = X11
+	}
+
+	provinces={
+		685 714 731 735 748 775 3717 3720 3748 3779 6692 6718 6721 6733 6736 6738 6750 6753 6796 9649 9674 9688 9691 9694 9696 9705 9707 9722 9726 9742 11633 11661 11664 11678 11681 11690 11693 11694 11696 11727 
+	}
+	manpower=2312976
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

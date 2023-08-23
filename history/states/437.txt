@@ -1,0 +1,36 @@
+
+state={
+	id=437
+	name="STATE_437"
+
+	history={
+		owner = MEX
+		victory_points = {
+			8017 10 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 0
+			8017 = {
+				naval_base = 6
+			}
+			air_base = 10
+
+		}
+		add_core_of = HON
+		add_core_of = MEX
+		add_core_of = V69
+		add_core_of = X78
+		add_claim_by = T03
+	}
+
+	provinces={
+		2031 8017 12865 
+	}
+	manpower=833156
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

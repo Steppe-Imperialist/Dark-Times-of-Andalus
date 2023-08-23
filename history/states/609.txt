@@ -1,0 +1,36 @@
+
+state={
+	id=609
+	name="STATE_609"
+
+	history={
+		owner = SAM
+		victory_points = {
+			13050 15 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+			13050 = {
+				naval_base = 1
+			}
+			air_base = 5
+
+		}
+		add_core_of = SAM
+		add_core_of = W27
+		add_core_of = W29
+		add_core_of = W30
+		add_claim_by = AST
+	}
+
+	provinces={
+		13050 
+	}
+	manpower=680
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+
+	local_supplies=10.0
+}

@@ -1,0 +1,143 @@
+﻿converted_war_strategies_SWI = {
+	enable = {
+		tag = SWI
+		always = no
+	}
+	
+	ai_strategy = {
+		type = conquer
+		id = "W42"
+		value = 635
+	}
+	ai_strategy = {
+		type = conquer
+		id = "SAX"
+		value = 228
+	}
+	ai_strategy = {
+		type = conquer
+		id = "ITA"
+		value = 80
+	}
+}
+
+converted_diplo_strategies_SWI = {
+	enable = {
+		tag = SWI
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+	ai_strategy = {
+		type = contain
+		id = "SAX"
+		value = 400
+	}
+	ai_strategy = {
+		type = contain
+		id = "ITA"
+		value = 335
+	}
+	ai_strategy = {
+		type = contain
+		id = "W42"
+		value = 110
+	}
+	ai_strategy = {
+		type = contain
+		id = "X90"
+		value = 57
+	}
+	ai_strategy = {
+		type = contain
+		id = "W09"
+		value = 54
+	}
+	ai_strategy = {
+		type = contain
+		id = "V13"
+		value = 47
+	}
+	ai_strategy = {
+		type = contain
+		id = "U34"
+		value = 47
+	}
+	ai_strategy = {
+		type = contain
+		id = "SIL"
+		value = 47
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "W42"
+		value = 400
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "T72"
+		value = 209
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "S01"
+		value = 122
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "SAX"
+		value = 120
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "ITA"
+		value = 97
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "T64"
+		value = 96
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "KAZ"
+		value = 32
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "BEL"
+		value = 22
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "V82"
+		value = 13
+	}
+	ai_strategy = {
+		type = alliance
+		id = "FRA"
+		value = 200
+	}
+	ai_strategy = {
+		type = alliance
+		id = "YUG"
+		value = 79
+	}
+	ai_strategy = {
+		type = alliance
+		id = "HUN"
+		value = 63
+	}
+	ai_strategy = {
+		type = alliance
+		id = "SOV"
+		value = 51
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "W42"
+		value = 200
+	}
+}

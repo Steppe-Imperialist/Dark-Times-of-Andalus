@@ -1,0 +1,38 @@
+
+state={
+	id=788
+	name="STATE_788"
+	resources={
+		aluminium=8.000
+	}
+
+	history={
+		owner = T44
+		victory_points = {
+			10513 2 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			arms_factory = 0
+			dockyard = 1
+			10432 = {
+				naval_base = 8
+			}
+			air_base = 0
+
+		}
+		add_core_of = T44
+		add_claim_by = BRA
+		add_claim_by = W53
+	}
+
+	provinces={
+		1583 5112 5167 5186 7553 7636 10360 10432 10513 10947 10994 11003 11008 12438 12937 12972 
+	}
+	manpower=2382940
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

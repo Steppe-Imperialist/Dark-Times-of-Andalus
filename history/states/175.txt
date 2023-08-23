@@ -1,0 +1,40 @@
+
+state={
+	id=175
+	name="STATE_175"
+	resources={
+		rubber=5.000
+	}
+
+	history={
+		owner = S16
+		victory_points = {
+			4409 15 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			4409 = {
+				naval_base = 2
+			}
+			air_base = 5
+
+		}
+		add_core_of = BRU
+		add_core_of = S16
+		add_claim_by = V08
+		W30 = {
+			set_province_controller = 4409
+		}
+	}
+
+	provinces={
+		2170 2222 4409 7227 8221 10310 12955 
+	}
+	manpower=530972
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+
+	local_supplies=10.0
+}

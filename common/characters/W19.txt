@@ -1,0 +1,16 @@
+characters={
+	W19_l._von_der_d.={
+		name=W19_l._von_der_d.
+		portraits={
+			civilian={
+				large="gfx/leaders/GER/Portrait_Germany_Generic_1.dds"
+			}
+		}
+		country_leader={
+			ideology=leninism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

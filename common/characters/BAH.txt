@@ -1,0 +1,36 @@
+characters={
+	BAH_pedro_pimentel={
+		name=BAH_pedro_pimentel
+		portraits={
+			army={
+				large="GFX_PAN_Boris_Salazar"
+			}
+			army={
+				small="GFX_PAN_Boris_Salazar"
+			}
+		}
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	BAH_joaquin_huerta={
+		name=BAH_joaquin_huerta
+		portraits={
+			civilian={
+				large="gfx/leaders/South America/portrait_south_america_generic_9.dds"
+			}
+		}
+		country_leader={
+			ideology=dictatorship_neutral
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

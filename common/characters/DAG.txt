@@ -1,0 +1,16 @@
+characters={
+	DAG_gamzat_bek_anchikh={
+		name=DAG_gamzat_bek_anchikh
+		portraits={
+			civilian={
+				large="GFX_GRE_George"
+			}
+		}
+		country_leader={
+			ideology=theocracy
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

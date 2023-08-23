@@ -1,0 +1,176 @@
+﻿TAN_BB_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_BB
+
+	for_countries = { TAN }
+
+	type = ship
+	ship_types = { ship_hull_heavy battleship }
+
+	prefix = ""
+	fallback_name = "Battleship BB-%d"
+
+	unique = {
+		"Genghis Khan" "Alghu Khan" "Baraq Khan" "Yesünto'a" "Qipchaq" "Ögedai Khan" "Güyük" "Möngke Khan" "Qubilai Khan" "Duwa" "Qazan Khan" "Tughlugh Timur" "Irtysh" "Amir Husayn" "Timur i Leng" 
+	}
+}
+
+TAN_BC_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_BC
+
+	for_countries = { TAN }
+
+	type = ship
+	ship_types = { ship_hull_heavy battle_cruiser }
+
+	prefix = ""
+	fallback_name = "Battlecruiser BC-%d"
+
+	unique = {
+		"Genghis Khan" "Alghu Khan" "Baraq Khan" "Yesünto'a" "Qipchaq" "Ögedai Khan" "Güyük" "Möngke Khan" "Qubilai Khan" "Duwa" "Qazan Khan" "Tughlugh Timur" "Irtysh" "Amir Husayn" "Timur i Leng" 
+	}
+}
+
+TAN_CA_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CA
+
+	for_countries = { TAN }
+
+	type = ship
+	ship_types = { ship_hull_cruiser heavy_cruiser }
+
+	prefix = ""
+	fallback_name = "Heavy Cruiser CA-%d"
+
+	unique = {
+		"Genghis Khan" "Alghu Khan" "Baraq Khan" "Yesünto'a" "Qipchaq" "Ögedai Khan" "Güyük" "Möngke Khan" "Qubilai Khan" "Duwa" "Qazan Khan" "Tughlugh Timur" "Irtysh" "Amir Husayn" "Timur i Leng" 
+	}
+}
+
+TAN_CLAA_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CLAA
+
+	for_countries = { TAN }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser }
+
+	prefix = ""
+	fallback_name = "Light Cruiser CLAA-%d"
+
+	unique = {
+		"Genghis Khan" "Alghu Khan" "Baraq Khan" "Yesünto'a" "Qipchaq" "Ögedai Khan" "Güyük" "Möngke Khan" "Qubilai Khan" "Duwa" "Qazan Khan" "Tughlugh Timur" "Irtysh" "Amir Husayn" "Timur i Leng" 
+	}
+}
+
+TAN_CL_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CL
+
+	for_countries = { TAN }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser }
+
+	prefix = ""
+	fallback_name = "Light Cruiser CL-%d"
+
+	unique = {
+		"Genghis Khan" "Alghu Khan" "Baraq Khan" "Yesünto'a" "Qipchaq" "Ögedai Khan" "Güyük" "Möngke Khan" "Qubilai Khan" "Duwa" "Qazan Khan" "Tughlugh Timur" "Irtysh" "Amir Husayn" "Timur i Leng" 
+	}
+}
+
+TAN_CVL_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CVL
+
+	for_countries = { TAN }
+
+	type = ship
+	ship_types = { ship_hull_carrier carrier }
+
+	prefix = ""
+	fallback_name = "Carrier CVL-%d"
+
+	unique = {
+		"Genghis Khan" "Alghu Khan" "Baraq Khan" "Yesünto'a" "Qipchaq" "Ögedai Khan" "Güyük" "Möngke Khan" "Qubilai Khan" "Duwa" "Qazan Khan" "Tughlugh Timur" "Irtysh" "Amir Husayn" "Timur i Leng" 
+	}
+}
+
+TAN_CV_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CARRIERS
+
+	for_countries = { TAN }
+
+	type = ship
+	ship_types = { ship_hull_carrier carrier }
+
+	prefix = ""
+	fallback_name = "Carrier CV-%d"
+
+	unique = {
+		"Genghis Khan" "Alghu Khan" "Baraq Khan" "Yesünto'a" "Qipchaq" "Ögedai Khan" "Güyük" "Möngke Khan" "Qubilai Khan" "Duwa" "Qazan Khan" "Tughlugh Timur" "Irtysh" "Amir Husayn" "Timur i Leng" 
+	}
+}
+
+TAN_DD_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_DESTROYERS
+
+	for_countries = { TAN }
+
+	type = ship
+	ship_types = { ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Destroyer DD-%d"
+
+	unique = {
+		"Genghis Khan" "Alghu Khan" "Baraq Khan" "Yesünto'a" "Qipchaq" "Ögedai Khan" "Güyük" "Möngke Khan" "Qubilai Khan" "Duwa" "Qazan Khan" "Tughlugh Timur" "Irtysh" "Amir Husayn" "Timur i Leng" 
+	}
+}
+
+TAN_DE_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_DE
+
+	for_countries = { TAN }
+
+	type = ship
+	ship_types = { ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Destroyer Escort DE-%d"
+
+	unique = {
+		"Genghis Khan" "Alghu Khan" "Baraq Khan" "Yesünto'a" "Qipchaq" "Ögedai Khan" "Güyük" "Möngke Khan" "Qubilai Khan" "Duwa" "Qazan Khan" "Tughlugh Timur" "Irtysh" "Amir Husayn" "Timur i Leng" 
+	}
+}
+
+TAN_MINELAYERS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_MINELAYERS
+
+	for_countries = { TAN }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Minelayer CM-%d"
+
+	unique = {
+		"Genghis Khan" "Alghu Khan" "Baraq Khan" "Yesünto'a" "Qipchaq" "Ögedai Khan" "Güyük" "Möngke Khan" "Qubilai Khan" "Duwa" "Qazan Khan" "Tughlugh Timur" "Irtysh" "Amir Husayn" "Timur i Leng" 
+	}
+}
+
+TAN_SS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_SUBMARINES
+
+	for_countries = { TAN }
+
+	type = ship
+	ship_types = { ship_hull_submarine submarine }
+
+	prefix = ""
+	fallback_name = "Submarine SS-%d"
+
+	unique = {
+		"Genghis Khan" "Alghu Khan" "Baraq Khan" "Yesünto'a" "Qipchaq" "Ögedai Khan" "Güyük" "Möngke Khan" "Qubilai Khan" "Duwa" "Qazan Khan" "Tughlugh Timur" "Irtysh" "Amir Husayn" "Timur i Leng" 
+	}
+}
+

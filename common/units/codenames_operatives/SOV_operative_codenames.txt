@@ -1,0 +1,34 @@
+SOV_OPERATIVE_CODENAME_HISTORICAL = {
+	name = SOV_OPERATIVE_CODENAME_HISTORICAL
+
+	for_countries = { NMB S23 S24 S25 S26 SOV TRA TZN U18 U35 V72 W93 }
+
+	type = codename
+
+	fallback_name = "Agent %d"
+	unique = {
+		"Perseus"
+		"Farewell"
+		"Vano"
+		"Prokhor"
+		"Abad"
+		"Krotov"
+		"Fred"
+		"Olding"
+		"Gidrolog"
+		"Scot"
+		"Ben"
+		"Raul"
+		"Ded"
+		"Hola"
+		"Trigon"
+		"Platov"
+		"Gordon"
+		"Cob"
+		"Fedora"
+		"Crazy Billy"
+		"Nosenko"
+		"Nick Nack"
+		"Krivichev"
+	}
+}

@@ -1,0 +1,76 @@
+characters={
+	NMB_gaob_khaumab={
+		name=NMB_gaob_khaumab
+		portraits={
+			army={
+				large="GFX_portrait_SOV_kliment_voroshilov"
+			}
+			army={
+				small="GFX_portrait_SOV_kliment_voroshilov"
+			}
+		}
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=2
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	NMB_hanab_manassee={
+		name=NMB_hanab_manassee
+		portraits={
+			army={
+				large="GFX_portrait_SOV_aleksandr_vasilevsky"
+			}
+			army={
+				small="GFX_portrait_SOV_aleksandr_vasilevsky"
+			}
+		}
+		corps_commander={
+			skill=2
+			attack_skill=1
+			defense_skill=1
+			planning_skill=4
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	NMB_khaub_o_naimab={
+		name=NMB_khaub_o_naimab
+		portraits={
+			army={
+				large="GFX_Portrait_europe_generic_land_9"
+			}
+			army={
+				small="GFX_Portrait_europe_generic_land_9"
+			}
+		}
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=2
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	NMB_grigoriy_zavoyko={
+		name=NMB_grigoriy_zavoyko
+		portraits={
+			civilian={
+				large="gfx/leaders/SOV/Portrait_Soviet_Victor_Baydalakov.dds"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

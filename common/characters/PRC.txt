@@ -1,0 +1,16 @@
+characters={
+	PRC_li_tian={
+		name=PRC_li_tian
+		portraits={
+			civilian={
+				large="GFX_CHI_Yuan_Shikai"
+			}
+		}
+		country_leader={
+			ideology=absolute_monarchy
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

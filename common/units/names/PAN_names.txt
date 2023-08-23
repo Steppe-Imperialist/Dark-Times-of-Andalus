@@ -1,0 +1,58 @@
+﻿PAN = {
+	battle_cruiser = {
+		prefix = ""
+		generic = { "Battlecruiser" }
+		unique = {
+			"Almirante" "Azuero" "Balboa" "Coiba" "Cristóbal" "El Golfo" "Las Pelas" "Tabasará" "Taboga" "Talamanca" 
+		}
+	}
+
+	battleship = {
+		prefix = ""
+		generic = { "Battleship" }
+		unique = {
+			"Cristóbal Colón" "Demetrio Brid" "Esteban Huertas" "Federico Boyd" "Independencia" "José Agustín Arango" "Manuel Amador Guerrero" "Panamá" "Tomás de Herrera" "Tres de Noviembre" 
+		}
+	}
+
+	carrier = {
+		prefix = ""
+		generic = { "Carrier" }
+		unique = {
+			"Cabra" "Cañas" "Caribe" "Cébaco" "Coiba" "Grande" "Jicarón" "Las Tres Marías" "Mamey" "Montuosa" 
+		}
+	}
+
+	destroyer = {
+		prefix = ""
+		generic = { "Destroyer" }
+		unique = {
+			"Bocas del Toro" "Buabidi" "Darién" "El Porvenir" "Emberá-Wounaan" "Kuna de Madugandí" "Kuna de Wargandí" "Kuna Yala Ngöbe-Buglé" "Unión Choco" 
+		}
+	}
+
+	heavy_cruiser = {
+		prefix = ""
+		generic = { "Heavy Cruiser" }
+		unique = {
+			"Espíritu Santo" "Estrella de los Mares" "San Blas" "San Carlos" "San Cristóbal" "San Felipe" "San Fernando" "Santa Isabel" "Santa María" "Santísima Trinidad" 
+		}
+	}
+
+	light_cruiser = {
+		prefix = ""
+		generic = { "Light Cruiser" }
+		unique = {
+			"Barú" "Chagres" "Chepo" "Destructor" "Exterminador" "Fuego" "San" "Miguel" "Temor" "Tuira" "Volcán" 
+		}
+	}
+
+	submarine = {
+		prefix = ""
+		generic = { "Submarine" }
+		unique = {
+			"Chiriquí" "Chitré" "Ciudad de Panamá" "Coclé" "Colón" "Herrera" "La Palma" "Los Santos" "Penonomé" "Veraguas" 
+		}
+	}
+
+}

@@ -1,0 +1,36 @@
+
+state={
+	id=346
+	name="STATE_346"
+
+	history={
+		owner = ITA
+		victory_points = {
+			13080 0 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			13080 = {
+				naval_base = 4
+			}
+			air_base = 0
+
+		}
+		add_core_of = AST
+		add_claim_by = FIJ
+		add_claim_by = W27
+		add_claim_by = W29
+		add_claim_by = W30
+	}
+
+	provinces={
+		13080 
+	}
+	manpower=96868
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

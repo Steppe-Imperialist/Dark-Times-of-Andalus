@@ -1,0 +1,58 @@
+﻿TAH = {
+	battle_cruiser = {
+		prefix = ""
+		generic = { "Battlecruiser" }
+		unique = {
+			"Adi" "Bulou" "Cikinavu" "Ratu" "Ro" "Roko" "Tui Levuka" "Visawaqa" "Vunivalu" 
+		}
+	}
+
+	battleship = {
+		prefix = ""
+		generic = { "Battleship" }
+		unique = {
+			"Adi" "Bulou" "Cikinavu" "Ratu" "Ro" "Roko" "Tui Levuka" "Visawaqa" "Vunivalu" 
+		}
+	}
+
+	carrier = {
+		prefix = ""
+		generic = { "Carrier" }
+		unique = {
+			"Adi" "Bulou" "Cikinavu" "Ratu" "Ro" "Roko" "Tui Levuka" "Visawaqa" "Vunivalu" 
+		}
+	}
+
+	destroyer = {
+		prefix = ""
+		generic = { "Destroyer" }
+		unique = {
+			"Adi" "Bulou" "Cikinavu" "Ratu" "Ro" "Roko" "Tui Levuka" "Visawaqa" "Vunivalu" 
+		}
+	}
+
+	heavy_cruiser = {
+		prefix = ""
+		generic = { "Heavy Cruiser" }
+		unique = {
+			"Adi" "Bulou" "Cikinavu" "Ratu" "Ro" "Roko" "Tui Levuka" "Visawaqa" "Vunivalu" 
+		}
+	}
+
+	light_cruiser = {
+		prefix = ""
+		generic = { "Light Cruiser" }
+		unique = {
+			"Adi" "Bulou" "Cikinavu" "Ratu" "Ro" "Roko" "Tui Levuka" "Visawaqa" "Vunivalu" 
+		}
+	}
+
+	submarine = {
+		prefix = ""
+		generic = { "Submarine" }
+		unique = {
+			"Adi" "Bulou" "Cikinavu" "Ratu" "Ro" "Roko" "Tui Levuka" "Visawaqa" "Vunivalu" 
+		}
+	}
+
+}

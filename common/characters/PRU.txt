@@ -1,0 +1,16 @@
+characters={
+	PRU_ramon_cabrera={
+		name=PRU_ramon_cabrera
+		portraits={
+			civilian={
+				large="GFX_FOP_Jacques_Antoine_Bernard"
+			}
+		}
+		country_leader={
+			ideology=dictatorship_neutral
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

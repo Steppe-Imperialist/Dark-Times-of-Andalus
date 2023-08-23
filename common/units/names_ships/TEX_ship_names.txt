@@ -1,0 +1,176 @@
+﻿TEX_BB_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_BB
+
+	for_countries = { TEX }
+
+	type = ship
+	ship_types = { ship_hull_heavy battleship }
+
+	prefix = ""
+	fallback_name = "Battleship BB-%d"
+
+	unique = {
+		"Texas" "The Alamo" "San Jacinto" "Sam Houston" "James Bowie" "William Travis" "Davy Crockett" "Mirabeau Lamar" "Austin" "Goliad" "Galveston" "Anson Jones" "Cherokee" "Ranger" "San Antonio" "Yellow Rose" 
+	}
+}
+
+TEX_BC_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_BC
+
+	for_countries = { TEX }
+
+	type = ship
+	ship_types = { ship_hull_heavy battle_cruiser }
+
+	prefix = ""
+	fallback_name = "Battlecruiser BC-%d"
+
+	unique = {
+		"Texas" "The Alamo" "San Jacinto" "Sam Houston" "James Bowie" "William Travis" "Davy Crockett" "Mirabeau Lamar" "Austin" "Goliad" "Galveston" "Anson Jones" "Cherokee" "Ranger" "San Antonio" "Yellow Rose" 
+	}
+}
+
+TEX_CA_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CA
+
+	for_countries = { TEX }
+
+	type = ship
+	ship_types = { ship_hull_cruiser heavy_cruiser }
+
+	prefix = ""
+	fallback_name = "Heavy Cruiser CA-%d"
+
+	unique = {
+		"Texas" "The Alamo" "San Jacinto" "Sam Houston" "James Bowie" "William Travis" "Davy Crockett" "Mirabeau Lamar" "Austin" "Goliad" "Galveston" "Anson Jones" "Cherokee" "Ranger" "San Antonio" "Yellow Rose" 
+	}
+}
+
+TEX_CLAA_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CLAA
+
+	for_countries = { TEX }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser }
+
+	prefix = ""
+	fallback_name = "Light Cruiser CLAA-%d"
+
+	unique = {
+		"Texas" "The Alamo" "San Jacinto" "Sam Houston" "James Bowie" "William Travis" "Davy Crockett" "Mirabeau Lamar" "Austin" "Goliad" "Galveston" "Anson Jones" "Cherokee" "Ranger" "San Antonio" "Yellow Rose" 
+	}
+}
+
+TEX_CL_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CL
+
+	for_countries = { TEX }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser }
+
+	prefix = ""
+	fallback_name = "Light Cruiser CL-%d"
+
+	unique = {
+		"Texas" "The Alamo" "San Jacinto" "Sam Houston" "James Bowie" "William Travis" "Davy Crockett" "Mirabeau Lamar" "Austin" "Goliad" "Galveston" "Anson Jones" "Cherokee" "Ranger" "San Antonio" "Yellow Rose" 
+	}
+}
+
+TEX_CVL_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CVL
+
+	for_countries = { TEX }
+
+	type = ship
+	ship_types = { ship_hull_carrier carrier }
+
+	prefix = ""
+	fallback_name = "Carrier CVL-%d"
+
+	unique = {
+		"Texas" "The Alamo" "San Jacinto" "Sam Houston" "James Bowie" "William Travis" "Davy Crockett" "Mirabeau Lamar" "Austin" "Goliad" "Galveston" "Anson Jones" "Cherokee" "Ranger" "San Antonio" "Yellow Rose" 
+	}
+}
+
+TEX_CV_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CARRIERS
+
+	for_countries = { TEX }
+
+	type = ship
+	ship_types = { ship_hull_carrier carrier }
+
+	prefix = ""
+	fallback_name = "Carrier CV-%d"
+
+	unique = {
+		"Texas" "The Alamo" "San Jacinto" "Sam Houston" "James Bowie" "William Travis" "Davy Crockett" "Mirabeau Lamar" "Austin" "Goliad" "Galveston" "Anson Jones" "Cherokee" "Ranger" "San Antonio" "Yellow Rose" 
+	}
+}
+
+TEX_DD_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_DESTROYERS
+
+	for_countries = { TEX }
+
+	type = ship
+	ship_types = { ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Destroyer DD-%d"
+
+	unique = {
+		"Texas" "The Alamo" "San Jacinto" "Sam Houston" "James Bowie" "William Travis" "Davy Crockett" "Mirabeau Lamar" "Austin" "Goliad" "Galveston" "Anson Jones" "Cherokee" "Ranger" "San Antonio" "Yellow Rose" 
+	}
+}
+
+TEX_DE_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_DE
+
+	for_countries = { TEX }
+
+	type = ship
+	ship_types = { ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Destroyer Escort DE-%d"
+
+	unique = {
+		"Texas" "The Alamo" "San Jacinto" "Sam Houston" "James Bowie" "William Travis" "Davy Crockett" "Mirabeau Lamar" "Austin" "Goliad" "Galveston" "Anson Jones" "Cherokee" "Ranger" "San Antonio" "Yellow Rose" 
+	}
+}
+
+TEX_MINELAYERS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_MINELAYERS
+
+	for_countries = { TEX }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Minelayer CM-%d"
+
+	unique = {
+		"Texas" "The Alamo" "San Jacinto" "Sam Houston" "James Bowie" "William Travis" "Davy Crockett" "Mirabeau Lamar" "Austin" "Goliad" "Galveston" "Anson Jones" "Cherokee" "Ranger" "San Antonio" "Yellow Rose" 
+	}
+}
+
+TEX_SS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_SUBMARINES
+
+	for_countries = { TEX }
+
+	type = ship
+	ship_types = { ship_hull_submarine submarine }
+
+	prefix = ""
+	fallback_name = "Submarine SS-%d"
+
+	unique = {
+		"Texas" "The Alamo" "San Jacinto" "Sam Houston" "James Bowie" "William Travis" "Davy Crockett" "Mirabeau Lamar" "Austin" "Goliad" "Galveston" "Anson Jones" "Cherokee" "Ranger" "San Antonio" "Yellow Rose" 
+	}
+}
+

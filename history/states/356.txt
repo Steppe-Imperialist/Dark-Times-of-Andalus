@@ -1,0 +1,29 @@
+
+state={
+	id=356
+	name="STATE_356"
+
+	history={
+		owner = KAZ
+		victory_points = {
+			10239 15 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 5
+
+		}
+		add_core_of = KAZ
+	}
+
+	provinces={
+		1223 1229 1243 1276 1309 1312 1363 1375 1391 1418 1662 1680 1694 1879 4232 4238 4277 4281 4309 4333 4369 4670 4685 4850 7298 7317 7326 7354 7357 7383 7392 7425 7708 7741 7874 10179 10202 10211 10220 10239 10268 10275 10277 10308 10630 10633 12111 12121 12152 12177 12185 12194 12257 12285 12616 12619 
+	}
+	manpower=140524
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

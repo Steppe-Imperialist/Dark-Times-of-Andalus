@@ -1,0 +1,16 @@
+characters={
+	W29_king_jope_ii={
+		name=W29_king_jope_ii
+		portraits={
+			civilian={
+				large="GFX_SOM_Ali_Shire"
+			}
+		}
+		country_leader={
+			ideology=absolute_monarchy
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

@@ -1,0 +1,39 @@
+
+state={
+	id=142
+	name="STATE_142"
+	resources={
+		aluminium=1.000
+		steel=9.000
+	}
+
+	history={
+		owner = W09
+		victory_points = {
+			9692 2 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 1
+			air_base = 0
+
+		}
+		add_core_of = HUN
+		add_core_of = SLO
+		add_core_of = T24
+		add_core_of = W09
+		add_claim_by = ROM
+		add_claim_by = T57
+		add_claim_by = U52
+	}
+
+	provinces={
+		541 555 581 3484 3537 3548 3550 3565 3581 3716 6561 6571 6573 6586 6604 9537 9539 9563 9692 11522 11536 11539 11554 11679 11691 
+	}
+	manpower=3417200
+	buildings_max_level_factor=1.000
+	state_category=city
+
+	local_supplies=10.0
+}

@@ -1,0 +1,53 @@
+﻿converted_war_strategies_T43 = {
+	enable = {
+		tag = T43
+		always = no
+	}
+	
+	ai_strategy = {
+		type = conquer
+		id = "USA"
+		value = 5036
+	}
+}
+
+converted_diplo_strategies_T43 = {
+	enable = {
+		tag = T43
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+	ai_strategy = {
+		type = contain
+		id = "USA"
+		value = 400
+	}
+	ai_strategy = {
+		type = contain
+		id = "BAH"
+		value = 67
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "USA"
+		value = 400
+	}
+	ai_strategy = {
+		type = alliance
+		id = "V41"
+		value = 15
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "U56"
+		value = 125
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "W57"
+		value = 49
+	}
+}

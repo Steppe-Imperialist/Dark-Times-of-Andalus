@@ -1,0 +1,33 @@
+
+state={
+	id=46
+	name="STATE_46"
+
+	history={
+		owner = X15
+		victory_points = {
+			9377 10 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			arms_factory = 0
+			9377 = {
+				naval_base = 4
+			}
+			air_base = 10
+
+		}
+		add_core_of = GDL
+		add_core_of = X15
+	}
+
+	provinces={
+		9377 
+	}
+	manpower=633636
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

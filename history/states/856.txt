@@ -1,0 +1,31 @@
+
+state={
+	id=856
+	name="STATE_856"
+
+	history={
+		owner = S01
+		victory_points = {
+			10474 0 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = W03
+		add_claim_by = CHI
+		add_claim_by = S01
+	}
+
+	provinces={
+		4009 7019 8072 10474 12408 
+	}
+	manpower=8311500
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

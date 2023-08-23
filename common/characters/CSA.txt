@@ -1,0 +1,16 @@
+characters={
+	CSA_malvin_hampton={
+		name=CSA_malvin_hampton
+		portraits={
+			civilian={
+				large="gfx/leaders/Europe/Portrait_Europe_Generic_2.dds"
+			}
+		}
+		country_leader={
+			ideology=minarchism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

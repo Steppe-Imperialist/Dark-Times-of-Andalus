@@ -1,0 +1,16 @@
+characters={
+	PAN_juan_antonio_escalon={
+		name=PAN_juan_antonio_escalon
+		portraits={
+			civilian={
+				large="GFX_ELS_Alfonso_Quinonez_Molina"
+			}
+		}
+		country_leader={
+			ideology=dictatorship_neutral
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

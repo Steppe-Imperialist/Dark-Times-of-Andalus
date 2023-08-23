@@ -1,0 +1,33 @@
+
+state={
+	id=890
+	name="STATE_890"
+
+	history={
+		owner = YUG
+		victory_points = {
+			6747 10 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 5
+
+		}
+		add_core_of = MOL
+		add_core_of = SER
+		add_core_of = YUG
+		add_claim_by = T18
+		add_claim_by = W53
+	}
+
+	provinces={
+		723 744 3728 3741 6584 6706 6729 6747 9701 9716 11534 11652 11655 11672 
+	}
+	manpower=342532
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

@@ -1,0 +1,16 @@
+characters={
+	TZN_viktor_nikolaevich={
+		name=TZN_viktor_nikolaevich
+		portraits={
+			civilian={
+				large="GFX_Soviet_Alexander_Kerensky"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

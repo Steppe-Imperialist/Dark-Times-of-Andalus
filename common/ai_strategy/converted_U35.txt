@@ -1,0 +1,18 @@
+﻿converted_war_strategies_U35 = {
+	enable = {
+		tag = U35
+		always = no
+	}
+	
+}
+
+converted_diplo_strategies_U35 = {
+	enable = {
+		tag = U35
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+}

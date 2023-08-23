@@ -1,0 +1,29 @@
+
+state={
+	id=904
+	name="STATE_904"
+
+	history={
+		owner = S33
+		victory_points = {
+			1509 0 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = S33
+	}
+
+	provinces={
+		1509 5203 10668 
+	}
+	manpower=20000
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+
+	local_supplies=10.0
+}

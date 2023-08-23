@@ -1,0 +1,35 @@
+
+state={
+	id=210
+	name="STATE_210"
+	resources={
+		aluminium=1.000
+		steel=11.000
+	}
+
+	history={
+		owner = LOT
+		victory_points = {
+			13011 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = FRA
+		add_core_of = V32
+		add_core_of = LOT
+	}
+
+	provinces={
+		551 680 698 3506 3533 3666 6531 6698 9490 9642 9658 11732 13011 
+	}
+	manpower=1227444
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

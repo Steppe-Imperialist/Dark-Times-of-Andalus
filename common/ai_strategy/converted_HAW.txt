@@ -1,0 +1,18 @@
+﻿converted_war_strategies_HAW = {
+	enable = {
+		tag = HAW
+		always = no
+	}
+	
+}
+
+converted_diplo_strategies_HAW = {
+	enable = {
+		tag = HAW
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+}

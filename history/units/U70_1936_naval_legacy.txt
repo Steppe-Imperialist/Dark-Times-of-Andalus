@@ -1,0 +1,32 @@
+units = {
+	fleet = {
+		name = "1st Fleet"
+		naval_base = 7381
+		task_force = {
+			name = "1st Fleet"
+			location = 7381
+			ship = { name = "1st Batavia Steam Frigate" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = U70 } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = destroyer_1
+			creator = "U70"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+	add_equipment_production = {
+		equipment = {
+			type = battleship_1
+			creator = "U70"
+		}
+		requested_factories = 8
+		progress = 0.25
+		amount = 3
+	}
+}

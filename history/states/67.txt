@@ -1,0 +1,32 @@
+
+state={
+	id=67
+	name="STATE_67"
+
+	history={
+		owner = BAH
+		victory_points = {
+			10254 15 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1
+			4647 = {
+				naval_base = 1
+			}
+			air_base = 6
+
+		}
+		add_core_of = BAH
+	}
+
+	provinces={
+		4647 7245 10254 
+	}
+	manpower=469572
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

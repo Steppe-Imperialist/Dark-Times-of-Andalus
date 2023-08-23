@@ -1,0 +1,58 @@
+﻿V73 = {
+	battle_cruiser = {
+		prefix = ""
+		generic = { "Battlecruiser" }
+		unique = {
+			"Amirtha" "Amman" "Arul" "Bhima" "Chellam" "Devi" "Durga" "Gayatri" "Iniya" "Krishna" "Lakshmi" "Madhu" "Meenakshi" "Nalini" "Pallar" "Parvati" "Payaswani" "Pennar" "Ponni" "Radha" "Ratri" "Sarasvati" "Sita" "Tamarai" 
+		}
+	}
+
+	battleship = {
+		prefix = ""
+		generic = { "Battleship" }
+		unique = {
+			"Amirtha" "Amman" "Arul" "Bhima" "Chellam" "Devi" "Durga" "Gayatri" "Iniya" "Krishna" "Lakshmi" "Madhu" "Meenakshi" "Nalini" "Pallar" "Parvati" "Payaswani" "Pennar" "Ponni" "Radha" "Ratri" "Sarasvati" "Sita" "Tamarai" 
+		}
+	}
+
+	carrier = {
+		prefix = ""
+		generic = { "Carrier" }
+		unique = {
+			"Amirtha" "Amman" "Arul" "Bhima" "Chellam" "Devi" "Durga" "Gayatri" "Iniya" "Krishna" "Lakshmi" "Madhu" "Meenakshi" "Nalini" "Pallar" "Parvati" "Payaswani" "Pennar" "Ponni" "Radha" "Ratri" "Sarasvati" "Sita" "Tamarai" 
+		}
+	}
+
+	destroyer = {
+		prefix = ""
+		generic = { "Destroyer" }
+		unique = {
+			"Amirtha" "Amman" "Arul" "Bhima" "Chellam" "Devi" "Durga" "Gayatri" "Iniya" "Krishna" "Lakshmi" "Madhu" "Meenakshi" "Nalini" "Pallar" "Parvati" "Payaswani" "Pennar" "Ponni" "Radha" "Ratri" "Sarasvati" "Sita" "Tamarai" 
+		}
+	}
+
+	heavy_cruiser = {
+		prefix = ""
+		generic = { "Heavy Cruiser" }
+		unique = {
+			"Amirtha" "Amman" "Arul" "Bhima" "Chellam" "Devi" "Durga" "Gayatri" "Iniya" "Krishna" "Lakshmi" "Madhu" "Meenakshi" "Nalini" "Pallar" "Parvati" "Payaswani" "Pennar" "Ponni" "Radha" "Ratri" "Sarasvati" "Sita" "Tamarai" 
+		}
+	}
+
+	light_cruiser = {
+		prefix = ""
+		generic = { "Light Cruiser" }
+		unique = {
+			"Amirtha" "Amman" "Arul" "Bhima" "Chellam" "Devi" "Durga" "Gayatri" "Iniya" "Krishna" "Lakshmi" "Madhu" "Meenakshi" "Nalini" "Pallar" "Parvati" "Payaswani" "Pennar" "Ponni" "Radha" "Ratri" "Sarasvati" "Sita" "Tamarai" 
+		}
+	}
+
+	submarine = {
+		prefix = ""
+		generic = { "Submarine" }
+		unique = {
+			"Amirtha" "Amman" "Arul" "Bhima" "Chellam" "Devi" "Durga" "Gayatri" "Iniya" "Krishna" "Lakshmi" "Madhu" "Meenakshi" "Nalini" "Pallar" "Parvati" "Payaswani" "Pennar" "Ponni" "Radha" "Ratri" "Sarasvati" "Sita" "Tamarai" 
+		}
+	}
+
+}

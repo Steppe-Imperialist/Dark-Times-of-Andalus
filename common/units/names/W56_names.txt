@@ -1,0 +1,58 @@
+﻿W56 = {
+	battle_cruiser = {
+		prefix = ""
+		generic = { "Battlecruiser" }
+		unique = {
+			"Wappen von Hamburg" "Leopoldus Primus" "Bunte Kuh" "Simon von Utrecht" "Sebastian von Bergen" "Joachim Clan" "Nicolaus Jarre" "Johann Slüter" "Lukas von Bostel" "Johann Anderson" "Nicolaus Schuback" "Frans Doormann" "Wilhelm Amsinck" "Christian Matthias Schröder" 
+		}
+	}
+
+	battleship = {
+		prefix = ""
+		generic = { "Battleship" }
+		unique = {
+			"Wappen von Hamburg" "Leopoldus Primus" "Bunte Kuh" "Simon von Utrecht" "Sebastian von Bergen" "Joachim Clan" "Nicolaus Jarre" "Johann Slüter" "Lukas von Bostel" "Johann Anderson" "Nicolaus Schuback" "Frans Doormann" "Wilhelm Amsinck" "Christian Matthias Schröder" 
+		}
+	}
+
+	carrier = {
+		prefix = ""
+		generic = { "Carrier" }
+		unique = {
+			"Wappen von Hamburg" "Leopoldus Primus" "Bunte Kuh" "Simon von Utrecht" "Sebastian von Bergen" "Joachim Clan" "Nicolaus Jarre" "Johann Slüter" "Lukas von Bostel" "Johann Anderson" "Nicolaus Schuback" "Frans Doormann" "Wilhelm Amsinck" "Christian Matthias Schröder" 
+		}
+	}
+
+	destroyer = {
+		prefix = ""
+		generic = { "Destroyer" }
+		unique = {
+			"Wappen von Hamburg" "Leopoldus Primus" "Bunte Kuh" "Simon von Utrecht" "Sebastian von Bergen" "Joachim Clan" "Nicolaus Jarre" "Johann Slüter" "Lukas von Bostel" "Johann Anderson" "Nicolaus Schuback" "Frans Doormann" "Wilhelm Amsinck" "Christian Matthias Schröder" 
+		}
+	}
+
+	heavy_cruiser = {
+		prefix = ""
+		generic = { "Heavy Cruiser" }
+		unique = {
+			"Wappen von Hamburg" "Leopoldus Primus" "Bunte Kuh" "Simon von Utrecht" "Sebastian von Bergen" "Joachim Clan" "Nicolaus Jarre" "Johann Slüter" "Lukas von Bostel" "Johann Anderson" "Nicolaus Schuback" "Frans Doormann" "Wilhelm Amsinck" "Christian Matthias Schröder" 
+		}
+	}
+
+	light_cruiser = {
+		prefix = ""
+		generic = { "Light Cruiser" }
+		unique = {
+			"Klaus Störtebeker" "Gödeke Michels" "Hennig Wichmann" "Klaus Scheld" "Magister Wigbold" "Arnd Stuke" "Nikolaus Milies" "Likedeeler" 
+		}
+	}
+
+	submarine = {
+		prefix = ""
+		generic = { "Submarine" }
+		unique = {
+			"Wappen von Hamburg" "Leopoldus Primus" "Bunte Kuh" "Simon von Utrecht" "Sebastian von Bergen" "Joachim Clan" "Nicolaus Jarre" "Johann Slüter" "Lukas von Bostel" "Johann Anderson" "Nicolaus Schuback" "Frans Doormann" "Wilhelm Amsinck" "Christian Matthias Schröder" 
+		}
+	}
+
+}

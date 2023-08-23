@@ -1,0 +1,35 @@
+
+state={
+	id=746
+	name="STATE_746"
+	resources={
+		tungsten=3.000
+	}
+
+	history={
+		owner = T29
+		victory_points = {
+			5229 1 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = T29
+		add_claim_by = ARG
+		add_claim_by = X67
+		add_claim_by = X94
+	}
+
+	provinces={
+		5229 12979 
+	}
+	manpower=752496
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

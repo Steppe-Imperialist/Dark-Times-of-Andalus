@@ -1,0 +1,34 @@
+
+state={
+	id=768
+	name="STATE_768"
+
+	history={
+		owner = T33
+		victory_points = {
+			3513 15 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			arms_factory = 0
+			505 = {
+				naval_base = 1
+			}
+			air_base = 10
+
+		}
+		add_core_of = T09
+		add_core_of = T33
+		add_claim_by = USA
+	}
+
+	provinces={
+		505 528 1414 3471 3513 4274 4328 4347 4380 4826 7398 7721 7865 10151 10183 10305 10625 11495 11733 12183 12211 12281 12553 
+	}
+	manpower=13728
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

@@ -1,0 +1,38 @@
+
+state={
+	id=454
+	name="STATE_454"
+	resources={
+		steel=1.000
+	}
+
+	history={
+		owner = HOL
+		victory_points = {
+			391 10 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 4
+			arms_factory = 0
+			68 = {
+				naval_base = 1
+			}
+			air_base = 10
+
+		}
+		add_core_of = HOL
+		add_core_of = T11
+		add_core_of = W40
+		add_core_of = W64
+	}
+
+	provinces={
+		68 391 3211 3314 6241 9498 11456 
+	}
+	manpower=2183692
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

@@ -1,0 +1,102 @@
+﻿capital = 432
+set_research_slots = 3
+
+oob = "V93_OOB"
+
+# Starting tech
+# Research Bonuses
+
+set_country_flag = conv_mexico
+set_convoys = 0
+
+set_politics = {
+    ruling_party = democratic
+    last_election = "1836.1.1"
+    election_frequency = 48
+    elections_allowed = yes
+}
+
+set_popularities = {
+	absolutist = 4
+	democratic = 94
+	neutrality = 2
+}
+
+add_ideas = {
+	volunteer_only
+	civilian_economy
+	export_focus
+	culture_zapotec
+}
+
+recruit_character = V93_eduardo_ji_jzio
+
+if = {
+	limit = {
+		has_dlc = "La Resistance"
+	}
+	create_operative_leader = {
+		name = "Nayeli Gwpeibóoné"
+		GFX = "gfx/leaders/India/portrait_india_generic_operative_female_2.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { V93 }
+	}
+
+	create_operative_leader = {
+		name = "Xochitl Fernández"
+		GFX = "gfx/leaders/India/portrait_india_generic_operative_female_5.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { V93 }
+	}
+
+	create_operative_leader = {
+		name = "Yoltzin Juárez"
+		GFX = "gfx/leaders/South America/portrait_south_america_generic_operative_female_1.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { V93 }
+	}
+
+	create_operative_leader = {
+		name = "Julio Cajigas"
+		GFX = "gfx/leaders/Arabia/portrait_arabia_generic_operative_male_4.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		nationalities = { V93 }
+	}
+
+	create_operative_leader = {
+		name = "Jituh Cháalaxa"
+		GFX = "gfx/leaders/India/portrait_india_generic_operative_male_2.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		nationalities = { V93 }
+	}
+
+}
+### VARIANTS ###
+if = {
+	limit = { not = { has_dlc = "Man the Guns" } }
+}
+if = {
+	limit = { has_dlc = "Man the Guns" }
+}
+### PLANE DESIGNS ###
+if = {
+	limit = { has_dlc = "By Blood Alone" }
+}
+### TANK DESIGNS ###
+if = {
+	limit = { has_dlc = "No Step Back" }
+}
+

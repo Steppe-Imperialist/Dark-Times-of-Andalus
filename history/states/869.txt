@@ -1,0 +1,32 @@
+
+state={
+	id=869
+	name="STATE_869"
+
+	history={
+		owner = S01
+		victory_points = {
+			9958 0 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = CHI
+		add_core_of = PRC
+		add_core_of = T89
+		add_claim_by = V29
+	}
+
+	provinces={
+		7656 9958 10364 
+	}
+	manpower=5796420
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

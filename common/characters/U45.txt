@@ -1,0 +1,16 @@
+characters={
+	U45_hatab_keita={
+		name=U45_hatab_keita
+		portraits={
+			civilian={
+				large="GFX_KTG_Mabumba_Kitanika"
+			}
+		}
+		country_leader={
+			ideology=absolute_monarchy
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

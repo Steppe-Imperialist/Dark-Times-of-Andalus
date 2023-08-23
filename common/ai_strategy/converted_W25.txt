@@ -1,0 +1,18 @@
+﻿converted_war_strategies_W25 = {
+	enable = {
+		tag = W25
+		always = no
+	}
+	
+}
+
+converted_diplo_strategies_W25 = {
+	enable = {
+		tag = W25
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+}

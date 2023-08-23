@@ -1,0 +1,58 @@
+﻿BOL = {
+	battle_cruiser = {
+		prefix = ""
+		generic = { "Battlecruiser" }
+		unique = {
+			"Altiplano" "Andes" "Independencia" "Júpiter" "Neptuno" "Occidental" "Oriental" "Plutón" "Real" "Republiquetas" 
+		}
+	}
+
+	battleship = {
+		prefix = ""
+		generic = { "Battleship" }
+		unique = {
+			"Alto Perú" "Bolivia" "Charcas" "Cristo de la Concordia" "General Sucre" "Iscanahuaya" "Samapaita" "Seis de Agosto" "Simón Bolivar" "Tricolor" 
+		}
+	}
+
+	carrier = {
+		prefix = ""
+		generic = { "Carrier" }
+		unique = {
+			"Constitución" "Gran Chaco" "Inca" "Libertador" "Mercurio" "Saturno" "Tihauano" "Urano" "Vulcano" "Yungas" 
+		}
+	}
+
+	destroyer = {
+		prefix = ""
+		generic = { "Destroyer" }
+		unique = {
+			"Cobija" "Desaguadero" "Illampu" "Illimani" "Madera" "Mamore" "Nevado Sajada" "Poopó" "Titicaca" "Trinidad" 
+		}
+	}
+
+	heavy_cruiser = {
+		prefix = ""
+		generic = { "Heavy Cruiser" }
+		unique = {
+			"Confederación" "Congreso" "La Fállete" "Libertad" "María Luisa" "Morro" "San Bartolomé" "San Francisco" "Santo Tomás" "Yanacocha" 
+		}
+	}
+
+	light_cruiser = {
+		prefix = ""
+		generic = { "Light Cruiser" }
+		unique = {
+			"Audaz" "Castro Rojas" "Destructora" "Fortaleza" "Madre de Dios" "Manoa" "Manu" "Pando" "Sorata" "Temor" 
+		}
+	}
+
+	submarine = {
+		prefix = ""
+		generic = { "Submarine" }
+		unique = {
+			"Antofagasta" "Beni" "Chuquisaca" "Cochabamba" "La Paz" "Oruro" "Pando" "Potosí" "Santa Cruz" "Tarija" 
+		}
+	}
+
+}

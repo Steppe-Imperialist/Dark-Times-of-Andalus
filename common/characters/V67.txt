@@ -1,0 +1,56 @@
+characters={
+	V67_samuel_brzoska={
+		name=V67_samuel_brzoska
+		portraits={
+			army={
+				large="GFX_Portrait_Europe_Generic_land_4"
+			}
+			army={
+				small="GFX_Portrait_Europe_Generic_land_4"
+			}
+		}
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=2
+			legacy_id=0
+		}
+	}
+
+	V67_marceli_rommel={
+		name=V67_marceli_rommel
+		portraits={
+			army={
+				large="GFX_Lithuania_Stasys_Rastikis"
+			}
+			army={
+				small="GFX_Lithuania_Stasys_Rastikis"
+			}
+		}
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	V67_emil_wysocki={
+		name=V67_emil_wysocki
+		portraits={
+			civilian={
+				large="GFX_Lithuania_Kazimieras_II_Tiskevicius"
+			}
+		}
+		country_leader={
+			ideology=absolute_monarchy
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

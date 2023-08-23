@@ -1,0 +1,58 @@
+﻿V38 = {
+	battle_cruiser = {
+		prefix = ""
+		generic = { "Battlecruiser" }
+		unique = {
+			"Gawron" "Narod" "Deljna Luzica" "Bratr" "Bruny" "Domowina" "Hornja Luzica" "Liska" "Knejz" "Juzny" 
+		}
+	}
+
+	battleship = {
+		prefix = ""
+		generic = { "Battleship" }
+		unique = {
+			"Gawron" "Narod" "Deljna Luzica" "Bratr" "Bruny" "Domowina" "Hornja Luzica" "Liska" "Knejz" "Juzny" 
+		}
+	}
+
+	carrier = {
+		prefix = ""
+		generic = { "Carrier" }
+		unique = {
+			"Gawron" "Narod" "Deljna Luzica" "Bratr" "Bruny" "Domowina" "Hornja Luzica" "Liska" "Knejz" "Juzny" 
+		}
+	}
+
+	destroyer = {
+		prefix = ""
+		generic = { "Destroyer" }
+		unique = {
+			"Rakecy" "Budysin" "Liegnitz" "Chotsebuz" "Kruswica" "Wojerecy" "Golkojce" "Lubnjow" "Hamor" "Wjerbno" "Radwor" 
+		}
+	}
+
+	heavy_cruiser = {
+		prefix = ""
+		generic = { "Heavy Cruiser" }
+		unique = {
+			"Gawron" "Narod" "Deljna Luzica" "Bratr" "Bruny" "Domowina" "Hornja Luzica" "Liska" "Knejz" "Juzny" 
+		}
+	}
+
+	light_cruiser = {
+		prefix = ""
+		generic = { "Light Cruiser" }
+		unique = {
+			"Gawron" "Narod" "Deljna Luzica" "Bratr" "Bruny" "Domowina" "Hornja Luzica" "Liska" "Knejz" "Juzny" 
+		}
+	}
+
+	submarine = {
+		prefix = ""
+		generic = { "Submarine" }
+		unique = {
+			"Rakecy" "Budysin" "Liegnitz" "Chotsebuz" "Kruswica" "Wojerecy" "Golkojce" "Lubnjow" "Hamor" "Wjerbno" "Radwor" 
+		}
+	}
+
+}

@@ -1,0 +1,76 @@
+characters={
+	W74_longotahi_moengangongo={
+		name=W74_longotahi_moengangongo
+		portraits={
+			army={
+				large="GFX_Portrait_Asia_Generic_land_1"
+			}
+			army={
+				small="GFX_Portrait_Asia_Generic_land_1"
+			}
+		}
+		corps_commander={
+			skill=2
+			attack_skill=1
+			defense_skill=1
+			planning_skill=3
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	W74_te_taulu_te_fuli={
+		name=W74_te_taulu_te_fuli
+		portraits={
+			army={
+				large="GFX_Philippines_Basilio_J_Valdez"
+			}
+			army={
+				small="GFX_Philippines_Basilio_J_Valdez"
+			}
+		}
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=2
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	W74_malietoa_maeakafa={
+		name=W74_malietoa_maeakafa
+		portraits={
+			navy={
+				large="GFX_Portrait_Asia_Generic_navy_1"
+			}
+			navy={
+				small="GFX_Portrait_Asia_Generic_navy_1"
+			}
+		}
+		navy_leader={
+			skill=3
+			attack_skill=2
+			defense_skill=2
+			maneuvering_skill=1
+			coordination_skill=5
+			legacy_id=0
+		}
+	}
+
+	W74_king_iosefo={
+		name=W74_king_iosefo
+		portraits={
+			civilian={
+				large="GFX_Malaya_Hisamuddin_of_Selangor"
+			}
+		}
+		country_leader={
+			ideology=absolute_monarchy
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

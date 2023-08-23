@@ -1,0 +1,29 @@
+
+state={
+	id=906
+	name="STATE_906"
+
+	history={
+		owner = SOV
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 6
+
+		}
+		add_core_of = ALT
+		add_core_of = SOV
+		add_claim_by = KAZ
+		add_claim_by = YAK
+
+	}
+
+	provinces={
+		1674 1679 1718 1777 1780 4681 4687 4730 4767 4785 4827 4840 7655 7701 7750 7789 7849 7861 7882 10544 10576 10613 10617 10673 10686 10705 12174 12510 12514 12536 12555 12595 12599 12655 
+	}
+	manpower=1192208
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=10.000
+}

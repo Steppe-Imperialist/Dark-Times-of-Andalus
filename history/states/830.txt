@@ -1,0 +1,31 @@
+
+state={
+	id=830
+	name="STATE_830"
+
+	history={
+		owner = T72
+		victory_points = {
+			10834 15 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			arms_factory = 0
+			air_base = 10
+
+		}
+		add_core_of = MON
+		add_core_of = T48
+		add_core_of = T72
+	}
+
+	provinces={
+		2053 2099 4536 7270 7997 10490 10750 10796 10834 10865 11448 12815 12846 12890 
+	}
+	manpower=731360
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

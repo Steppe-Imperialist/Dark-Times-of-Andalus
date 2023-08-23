@@ -1,0 +1,35 @@
+
+state={
+	id=68
+	name="STATE_68"
+
+	history={
+		owner = X58
+		victory_points = {
+			10088 10 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 3
+			arms_factory = 0
+			10088 = {
+				naval_base = 2
+			}
+			air_base = 10
+
+		}
+		add_core_of = RAJ
+		add_core_of = V99
+		add_core_of = W49
+		add_core_of = X58
+	}
+
+	provinces={
+		1059 1101 1538 4104 4513 7090 9946 10060 10088 10116 10428 11924 12063 
+	}
+	manpower=1948548
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

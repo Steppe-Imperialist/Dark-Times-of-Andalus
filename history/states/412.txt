@@ -1,0 +1,34 @@
+
+state={
+	id=412
+	name="STATE_412"
+	resources={
+		steel=11.000
+	}
+
+	history={
+		owner = V38
+		victory_points = {
+			3514 15 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 6
+
+		}
+		add_core_of = V38
+		add_claim_by = SAX
+		add_claim_by = T24
+	}
+
+	provinces={
+		3514 9535 
+	}
+	manpower=466940
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

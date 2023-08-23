@@ -1,0 +1,36 @@
+characters={
+	W55_fuad_ibn_yusuf={
+		name=W55_fuad_ibn_yusuf
+		portraits={
+			army={
+				large="GFX_portrait_SPA_mohamed_meziane"
+			}
+			army={
+				small="GFX_portrait_SPA_mohamed_meziane"
+			}
+		}
+		corps_commander={
+			skill=2
+			attack_skill=3
+			defense_skill=3
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	W55_yusuf_ibn_muhammad={
+		name=W55_yusuf_ibn_muhammad
+		portraits={
+			civilian={
+				large="GFX_MOR_El_Glaui"
+			}
+		}
+		country_leader={
+			ideology=absolute_monarchy
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

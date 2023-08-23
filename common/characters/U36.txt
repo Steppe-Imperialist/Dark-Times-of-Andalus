@@ -1,0 +1,16 @@
+characters={
+	U36_h._zu_c.={
+		name=U36_h._zu_c.
+		portraits={
+			civilian={
+				large="gfx/leaders/Europe/portrait_europe_generic_5.dds"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

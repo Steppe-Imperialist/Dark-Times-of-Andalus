@@ -1,0 +1,21 @@
+
+state={
+	id=615
+	name="STATE_615"
+	impassable = yes
+
+	history={
+		owner = U68
+		add_core_of = T26
+		add_claim_by = U68
+	}
+
+	provinces={
+		7987 10900 
+	}
+	manpower=2364
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+
+	local_supplies=10.0
+}

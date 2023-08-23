@@ -1,0 +1,38 @@
+
+state={
+	id=330
+	name="STATE_330"
+	resources={
+		aluminium=5.000
+		rubber=1.000
+		steel=1.000
+	}
+
+	history={
+		owner = S22
+		victory_points = {
+			10788 15 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 5
+
+		}
+		add_core_of = S22
+		add_core_of = U43
+		add_claim_by = MLI
+		add_claim_by = U45
+		add_claim_by = W58
+	}
+
+	provinces={
+		2044 5101 7930 7954 10788 
+	}
+	manpower=1033517
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

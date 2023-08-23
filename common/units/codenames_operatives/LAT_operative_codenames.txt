@@ -1,0 +1,22 @@
+LAT_OPERATIVE_CODENAME_HISTORICAL = {
+	name = LAT_OPERATIVE_CODENAME_HISTORICAL
+
+	for_countries = { LAT }
+
+	type = codename
+
+	fallback_name = "Agent %d"
+	unique = {
+		"Sargs"
+		"Braucējs"
+		"Celotājs"
+		"Katapulta"
+		"Harpūna"
+		"Spars"
+		"Sphinx"
+		"Zemnieks"
+		"Cilts"
+		"Rodžers"
+		"Aktieris"
+	}
+}

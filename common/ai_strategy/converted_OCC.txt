@@ -1,0 +1,18 @@
+﻿converted_war_strategies_OCC = {
+	enable = {
+		tag = OCC
+		always = no
+	}
+	
+}
+
+converted_diplo_strategies_OCC = {
+	enable = {
+		tag = OCC
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+}

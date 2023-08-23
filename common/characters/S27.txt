@@ -1,0 +1,16 @@
+characters={
+	S27_kawakami_enomoto={
+		name=S27_kawakami_enomoto
+		portraits={
+			civilian={
+				large="GFX_Japan_Hirohito_kr"
+			}
+		}
+		country_leader={
+			ideology=prussian_const
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

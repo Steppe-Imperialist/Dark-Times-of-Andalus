@@ -1,0 +1,28 @@
+
+state={
+	id=539
+	name="STATE_539"
+
+	history={
+		owner = SOV
+		victory_points = {
+			10641 0 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+	}
+
+	provinces={
+		1748 1795 1878 4675 4726 4752 4798 4821 4832 4855 7691 7746 7785 7817 7844 7889 10608 10641 10667 10701 10714 12565 12623 12694 
+	}
+	manpower=1559316
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

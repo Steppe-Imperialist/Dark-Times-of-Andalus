@@ -1,0 +1,35 @@
+
+state={
+	id=237
+	name="STATE_237"
+	resources={
+		aluminium=6.000
+	}
+
+	history={
+		owner = W42
+		victory_points = {
+			6683 10 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			arms_factory = 1
+			air_base = 10
+
+		}
+		add_core_of = SWI
+		add_core_of = V32
+		add_core_of = V80
+		add_core_of = W42
+	}
+
+	provinces={
+		636 3612 6666 6683 9587 9618 9620 9622 9638 11590 
+	}
+	manpower=759232
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

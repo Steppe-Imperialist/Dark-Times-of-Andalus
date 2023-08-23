@@ -1,0 +1,16 @@
+characters={
+	SPR_alfonso_espartero={
+		name=SPR_alfonso_espartero
+		portraits={
+			civilian={
+				large="gfx/leaders/HON/portrait_hon_tiburcio_carias_andino.dds"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

@@ -1,0 +1,119 @@
+﻿capital = 269
+set_research_slots = 2
+
+oob = "W71_OOB"
+if = {
+	limit = { has_dlc = "Man the Guns" }
+		set_naval_oob = "W71_1936_naval_mtg"
+	else = { 
+		set_naval_oob = "W71_1936_naval_legacy"
+	}
+}
+
+# Starting tech
+# Research Bonuses
+
+set_country_flag = conv_china
+set_convoys = 0
+
+set_politics = {
+    ruling_party = absolutist
+    last_election = "1836.1.1"
+    election_frequency = 48
+    elections_allowed = no
+}
+
+set_popularities = {
+	absolutist = 75
+	democratic = 24
+	neutrality = 1
+}
+
+add_ideas = {
+	uncivilized
+	volunteer_only
+	civilian_economy
+	export_focus
+	culture_nanfaren
+}
+set_stability = 0.60
+set_war_support = 0.76
+
+recruit_character = W71_luo_peng
+recruit_character = W71_zhang_ma
+recruit_character = W71_kwong_hu
+recruit_character = W71_deng_ma
+recruit_character = W71_liao_dong
+recruit_character = W71_gao_peng
+
+if = {
+	limit = {
+		has_dlc = "La Resistance"
+	}
+	create_operative_leader = {
+		name = "Chunmei Lü"
+		GFX = "gfx/leaders/Asia/portrait_asia_generic_operative_female_1.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { W71 }
+	}
+
+	create_operative_leader = {
+		name = "Yuantong Jin"
+		GFX = "gfx/leaders/Asia/portrait_asia_generic_operative_female_2.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { W71 }
+	}
+
+	create_operative_leader = {
+		name = "Xiurong Hu"
+		GFX = "gfx/leaders/Asia/portrait_asia_generic_operative_female_3.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { W71 }
+	}
+
+	create_operative_leader = {
+		name = "Liu Wu"
+		GFX = "gfx/leaders/Asia/portrait_asia_generic_operative_male_1.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		nationalities = { W71 }
+	}
+
+	create_operative_leader = {
+		name = "Mao Shen"
+		GFX = "gfx/leaders/Asia/portrait_asia_generic_operative_male_2.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		nationalities = { W71 }
+	}
+
+}
+### VARIANTS ###
+if = {
+	limit = { not = { has_dlc = "Man the Guns" } }
+}
+if = {
+	limit = { has_dlc = "Man the Guns" }
+}
+### PLANE DESIGNS ###
+if = {
+	limit = { has_dlc = "By Blood Alone" }
+}
+### TANK DESIGNS ###
+if = {
+	limit = { has_dlc = "No Step Back" }
+}
+add_equipment_to_stockpile = { type = artillery_equipment amount = 576 producer = W71 }
+add_equipment_to_stockpile = { type = artillery_equipment_1 amount = 1 producer = W71 }
+

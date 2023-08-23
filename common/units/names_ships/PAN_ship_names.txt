@@ -1,0 +1,176 @@
+﻿PAN_BB_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_BB
+
+	for_countries = { PAN }
+
+	type = ship
+	ship_types = { ship_hull_heavy battleship }
+
+	prefix = ""
+	fallback_name = "Battleship BB-%d"
+
+	unique = {
+		"Cristóbal Colón" "Demetrio Brid" "Esteban Huertas" "Federico Boyd" "Independencia" "José Agustín Arango" "Manuel Amador Guerrero" "Panamá" "Tomás de Herrera" "Tres de Noviembre" 
+	}
+}
+
+PAN_BC_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_BC
+
+	for_countries = { PAN }
+
+	type = ship
+	ship_types = { ship_hull_heavy battle_cruiser }
+
+	prefix = ""
+	fallback_name = "Battlecruiser BC-%d"
+
+	unique = {
+		"Almirante" "Azuero" "Balboa" "Coiba" "Cristóbal" "El Golfo" "Las Pelas" "Tabasará" "Taboga" "Talamanca" 
+	}
+}
+
+PAN_CA_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CA
+
+	for_countries = { PAN }
+
+	type = ship
+	ship_types = { ship_hull_cruiser heavy_cruiser }
+
+	prefix = ""
+	fallback_name = "Heavy Cruiser CA-%d"
+
+	unique = {
+		"Espíritu Santo" "Estrella de los Mares" "San Blas" "San Carlos" "San Cristóbal" "San Felipe" "San Fernando" "Santa Isabel" "Santa María" "Santísima Trinidad" 
+	}
+}
+
+PAN_CLAA_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CLAA
+
+	for_countries = { PAN }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser }
+
+	prefix = ""
+	fallback_name = "Light Cruiser CLAA-%d"
+
+	unique = {
+		"Barú" "Chagres" "Chepo" "Destructor" "Exterminador" "Fuego" "San" "Miguel" "Temor" "Tuira" "Volcán" 
+	}
+}
+
+PAN_CL_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CL
+
+	for_countries = { PAN }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser }
+
+	prefix = ""
+	fallback_name = "Light Cruiser CL-%d"
+
+	unique = {
+		"Barú" "Chagres" "Chepo" "Destructor" "Exterminador" "Fuego" "San" "Miguel" "Temor" "Tuira" "Volcán" 
+	}
+}
+
+PAN_CVL_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CVL
+
+	for_countries = { PAN }
+
+	type = ship
+	ship_types = { ship_hull_carrier carrier }
+
+	prefix = ""
+	fallback_name = "Carrier CVL-%d"
+
+	unique = {
+		"Cabra" "Cañas" "Caribe" "Cébaco" "Coiba" "Grande" "Jicarón" "Las Tres Marías" "Mamey" "Montuosa" 
+	}
+}
+
+PAN_CV_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CARRIERS
+
+	for_countries = { PAN }
+
+	type = ship
+	ship_types = { ship_hull_carrier carrier }
+
+	prefix = ""
+	fallback_name = "Carrier CV-%d"
+
+	unique = {
+		"Cabra" "Cañas" "Caribe" "Cébaco" "Coiba" "Grande" "Jicarón" "Las Tres Marías" "Mamey" "Montuosa" 
+	}
+}
+
+PAN_DD_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_DESTROYERS
+
+	for_countries = { PAN }
+
+	type = ship
+	ship_types = { ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Destroyer DD-%d"
+
+	unique = {
+		"Bocas del Toro" "Buabidi" "Darién" "El Porvenir" "Emberá-Wounaan" "Kuna de Madugandí" "Kuna de Wargandí" "Kuna Yala Ngöbe-Buglé" "Unión Choco" 
+	}
+}
+
+PAN_DE_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_DE
+
+	for_countries = { PAN }
+
+	type = ship
+	ship_types = { ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Destroyer Escort DE-%d"
+
+	unique = {
+		"Bocas del Toro" "Buabidi" "Darién" "El Porvenir" "Emberá-Wounaan" "Kuna de Madugandí" "Kuna de Wargandí" "Kuna Yala Ngöbe-Buglé" "Unión Choco" 
+	}
+}
+
+PAN_MINELAYERS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_MINELAYERS
+
+	for_countries = { PAN }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Minelayer CM-%d"
+
+	unique = {
+		"Barú" "Chagres" "Chepo" "Destructor" "Exterminador" "Fuego" "San" "Miguel" "Temor" "Tuira" "Volcán" 
+	}
+}
+
+PAN_SS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_SUBMARINES
+
+	for_countries = { PAN }
+
+	type = ship
+	ship_types = { ship_hull_submarine submarine }
+
+	prefix = ""
+	fallback_name = "Submarine SS-%d"
+
+	unique = {
+		"Chiriquí" "Chitré" "Ciudad de Panamá" "Coclé" "Colón" "Herrera" "La Palma" "Los Santos" "Penonomé" "Veraguas" 
+	}
+}
+

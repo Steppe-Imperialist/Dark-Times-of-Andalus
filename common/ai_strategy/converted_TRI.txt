@@ -1,0 +1,18 @@
+﻿converted_war_strategies_TRI = {
+	enable = {
+		tag = TRI
+		always = no
+	}
+	
+}
+
+converted_diplo_strategies_TRI = {
+	enable = {
+		tag = TRI
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+}

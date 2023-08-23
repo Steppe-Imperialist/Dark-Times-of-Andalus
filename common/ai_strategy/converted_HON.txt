@@ -1,0 +1,18 @@
+﻿converted_war_strategies_HON = {
+	enable = {
+		tag = HON
+		always = no
+	}
+	
+}
+
+converted_diplo_strategies_HON = {
+	enable = {
+		tag = HON
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+}

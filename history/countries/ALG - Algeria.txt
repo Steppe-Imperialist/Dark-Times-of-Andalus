@@ -1,0 +1,105 @@
+﻿capital = 343
+set_research_slots = 2
+
+oob = "ALG_OOB"
+
+# Starting tech
+# Research Bonuses
+
+set_country_flag = conv_maghreb
+set_convoys = 0
+
+set_politics = {
+    ruling_party = absolutist
+    last_election = "1836.1.1"
+    election_frequency = 48
+    elections_allowed = no
+}
+
+set_popularities = {
+	absolutist = 46
+	democratic = 53
+	neutrality = 1
+} 
+
+add_ideas = {
+	uncivilized
+	limited_conscription
+	civilian_economy
+	export_focus
+	culture_berber
+}
+
+recruit_character = ALG_abd_al_karim_al_shawiyyati
+recruit_character = ALG_abd_al_karim_al_jazuli
+recruit_character = ALG_khalid_al_shiluhi
+
+if = {
+	limit = {
+		has_dlc = "La Resistance"
+	}
+	create_operative_leader = {
+		name = "Dimah al-Jazuliyya"
+		GFX = "gfx/leaders/Arabia/portrait_arabia_generic_operative_female_1.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { ALG }
+	}
+
+	create_operative_leader = {
+		name = "Tinzert al-Shawiyyatiyya"
+		GFX = "gfx/leaders/Arabia/portrait_arabia_generic_operative_female_2.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { ALG }
+	}
+
+	create_operative_leader = {
+		name = "Tazenkwedt al-Zanatawiyya"
+		GFX = "gfx/leaders/Arabia/portrait_arabia_generic_operative_female_3.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { ALG }
+	}
+
+	create_operative_leader = {
+		name = "Khalid al-Jazuli"
+		GFX = "gfx/leaders/Arabia/portrait_arabia_generic_operative_male_1.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		nationalities = { ALG }
+	}
+
+	create_operative_leader = {
+		name = "Abd al-Karim al-Shawiyyati"
+		GFX = "gfx/leaders/Arabia/portrait_arabia_generic_operative_male_2.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		nationalities = { ALG }
+	}
+
+}
+### VARIANTS ###
+if = {
+	limit = { not = { has_dlc = "Man the Guns" } }
+}
+if = {
+	limit = { has_dlc = "Man the Guns" }
+}
+### PLANE DESIGNS ###
+if = {
+	limit = { has_dlc = "By Blood Alone" }
+}
+### TANK DESIGNS ###
+if = {
+	limit = { has_dlc = "No Step Back" }
+}
+

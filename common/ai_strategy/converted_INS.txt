@@ -1,0 +1,18 @@
+﻿converted_war_strategies_INS = {
+	enable = {
+		tag = INS
+		always = no
+	}
+	
+}
+
+converted_diplo_strategies_INS = {
+	enable = {
+		tag = INS
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+}

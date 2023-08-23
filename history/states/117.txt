@@ -1,0 +1,36 @@
+
+state={
+	id=117
+	name="STATE_117"
+	resources={
+		aluminium=4.000
+		oil=9.000
+	}
+
+	history={
+		owner = X77
+		victory_points = {
+			3562 1 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 1
+
+		}
+		add_core_of = LIT
+		add_core_of = T15
+		add_core_of = X77
+		add_claim_by = W39
+	}
+
+	provinces={
+		438 491 3483 3562 3743 6460 9425 9454 11411 11427 11550 
+	}
+	manpower=1524912
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

@@ -1,0 +1,39 @@
+
+state={
+	id=742
+	name="STATE_742"
+	resources={
+		steel=2.000
+	}
+
+	history={
+		owner = T29
+		victory_points = {
+			8191 40 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 1
+			dockyard = 1
+			2225 = {
+				naval_base = 8
+			}
+			air_base = 10
+
+		}
+		add_core_of = T29
+		add_claim_by = PRU
+		add_claim_by = W00
+		add_claim_by = X94
+	}
+
+	provinces={
+		2225 5166 5202 8160 8191 12953 
+	}
+	manpower=3416084
+	buildings_max_level_factor=1.000
+	state_category=city
+
+	local_supplies=10.0
+}

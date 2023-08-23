@@ -1,0 +1,35 @@
+
+state={
+	id=514
+	name="STATE_514"
+
+	history={
+		owner = U26
+		victory_points = {
+			10735 0 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			4003 = {
+				naval_base = 1
+			}
+			air_base = 0
+
+		}
+		add_core_of = U53
+		add_claim_by = RAJ
+		add_claim_by = U26
+		add_claim_by = V46
+	}
+
+	provinces={
+		1147 1971 1980 4003 4110 4382 7049 7084 10735 
+	}
+	manpower=1433068
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

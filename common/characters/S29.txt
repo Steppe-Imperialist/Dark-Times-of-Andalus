@@ -1,0 +1,16 @@
+characters={
+	S29_alfred_von_holstein_gottorp={
+		name=S29_alfred_von_holstein_gottorp
+		portraits={
+			civilian={
+				large="gfx/leaders/GER/Portrait_Germany_Konrad_Adenauer.dds"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

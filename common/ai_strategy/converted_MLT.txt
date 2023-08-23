@@ -1,0 +1,18 @@
+﻿converted_war_strategies_MLT = {
+	enable = {
+		tag = MLT
+		always = no
+	}
+	
+}
+
+converted_diplo_strategies_MLT = {
+	enable = {
+		tag = MLT
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+}

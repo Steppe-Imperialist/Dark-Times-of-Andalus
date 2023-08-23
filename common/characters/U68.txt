@@ -1,0 +1,56 @@
+characters={
+	U68_fnu_lnu={
+		name=U68_fnu_lnu
+		portraits={
+			army={
+				large="GFX_Ethiopia_Kassa_Haile_Darge"
+			}
+			army={
+				small="GFX_Ethiopia_Kassa_Haile_Darge"
+			}
+		}
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	U68_fnu_lnu_1={
+		name=U68_fnu_lnu_1
+		portraits={
+			navy={
+				large="GFX_Portrait_Africa_Generic_navy_3"
+			}
+			navy={
+				small="GFX_Portrait_Africa_Generic_navy_3"
+			}
+		}
+		navy_leader={
+			skill=2
+			attack_skill=3
+			defense_skill=1
+			maneuvering_skill=1
+			coordination_skill=1
+			legacy_id=0
+		}
+	}
+
+	U68_ismail_ali={
+		name=U68_ismail_ali
+		portraits={
+			civilian={
+				large="GFX_SOM_Ibrahim_Sultan_Ali"
+			}
+		}
+		country_leader={
+			ideology=socialism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

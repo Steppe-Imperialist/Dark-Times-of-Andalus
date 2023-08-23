@@ -1,0 +1,33 @@
+
+state={
+	id=393
+	name="STATE_393"
+
+	history={
+		owner = V14
+		victory_points = {
+			8207 1 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			8207 = {
+				naval_base = 1
+			}
+			air_base = 0
+
+		}
+		add_core_of = V14
+		add_claim_by = GAB
+	}
+
+	provinces={
+		8207 
+	}
+	manpower=49104
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

@@ -1,0 +1,30 @@
+ARABIC_OPERATIVE_CODENAME_HISTORICAL = {
+	name = ARABIC_OPERATIVE_CODENAME_HISTORICAL
+
+	for_countries = { EGY IRQ JOR KUW LEB OMA PAL QAT SAU SYR T26 T83 T84 T85 T87 UAE V48 V81 W55 W60 W89 X53 YEM }
+
+	type = codename
+
+	fallback_name = "Agent %d"
+	unique = {
+		"Malik"
+		"Raïs"
+		"Shams"
+		"Aldiraja"
+		"Qasr"
+		"Legioun"
+		"Qalea"
+		"Qut"
+		"Nimrud"
+		"Sulayman"
+		"Alqamar"
+		"Qantur"
+		"Haribi"
+		"Wasi"
+		"Alrueb"
+		"Tajir"
+		"Manara"
+		"Marsa"
+		"Halaq"
+	}
+}

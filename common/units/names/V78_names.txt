@@ -1,0 +1,58 @@
+﻿V78 = {
+	battle_cruiser = {
+		prefix = ""
+		generic = { "Battlecruiser" }
+		unique = {
+			"Nassau" "Herzog Friedrich August" "Graf von Nassau" "Adolf von Nassau" "Usingen" "Dillenburg" "Siegen" "Weilburg" "Ottweiler" "Idstein" 
+		}
+	}
+
+	battleship = {
+		prefix = ""
+		generic = { "Battleship" }
+		unique = {
+			"Nassau" "Herzog Friedrich August" "Graf von Nassau" "Adolf von Nassau" "Usingen" "Dillenburg" "Siegen" "Weilburg" "Ottweiler" "Idstein" 
+		}
+	}
+
+	carrier = {
+		prefix = ""
+		generic = { "Carrier" }
+		unique = {
+			"Nassau" "Herzog Friedrich August" "Graf von Nassau" "Adolf von Nassau" "Usingen" "Dillenburg" "Siegen" "Weilburg" "Ottweiler" "Idstein" 
+		}
+	}
+
+	destroyer = {
+		prefix = ""
+		generic = { "Destroyer" }
+		unique = {
+			"Nassau" "Herzog Friedrich August" "Graf von Nassau" "Adolf von Nassau" "Usingen" "Dillenburg" "Siegen" "Weilburg" "Ottweiler" "Idstein" 
+		}
+	}
+
+	heavy_cruiser = {
+		prefix = ""
+		generic = { "Heavy Cruiser" }
+		unique = {
+			"Nassau" "Herzog Friedrich August" "Graf von Nassau" "Adolf von Nassau" "Usingen" "Dillenburg" "Siegen" "Weilburg" "Ottweiler" "Idstein" 
+		}
+	}
+
+	light_cruiser = {
+		prefix = ""
+		generic = { "Light Cruiser" }
+		unique = {
+			"Nassau" "Herzog Friedrich August" "Graf von Nassau" "Adolf von Nassau" "Usingen" "Dillenburg" "Siegen" "Weilburg" "Ottweiler" "Idstein" 
+		}
+	}
+
+	submarine = {
+		prefix = ""
+		generic = { "Submarine" }
+		unique = {
+			"Nassau" "Herzog Friedrich August" "Graf von Nassau" "Adolf von Nassau" "Usingen" "Dillenburg" "Siegen" "Weilburg" "Ottweiler" "Idstein" 
+		}
+	}
+
+}

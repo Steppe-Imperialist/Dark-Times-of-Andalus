@@ -1,0 +1,35 @@
+
+state={
+	id=779
+	name="STATE_779"
+
+	history={
+		owner = T35
+		victory_points = {
+			4054 10 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+			arms_factory = 0
+			4054 = {
+				naval_base = 2
+			}
+			air_base = 10
+
+		}
+		add_core_of = JAP
+		add_core_of = T35
+		add_core_of = T99
+		add_core_of = V18
+	}
+
+	provinces={
+		1051 1067 1133 1136 4054 4142 7113 11960 
+	}
+	manpower=5595548
+	buildings_max_level_factor=1.000
+	state_category=metropolis
+
+	local_supplies=10.0
+}

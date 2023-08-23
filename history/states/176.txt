@@ -1,0 +1,35 @@
+
+state={
+	id=176
+	name="STATE_176"
+	resources={
+		rubber=1.000
+	}
+
+	history={
+		owner = S16
+		victory_points = {
+			10219 0 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			10219 = {
+				naval_base = 2
+			}
+			air_base = 0
+
+		}
+		add_core_of = S16
+	}
+
+	provinces={
+		1298 4301 7321 10175 10219 12151 
+	}
+	manpower=927436
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+
+	local_supplies=10.0
+}

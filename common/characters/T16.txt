@@ -1,0 +1,16 @@
+characters={
+	T16_tamavunisa_qaraniqio={
+		name=T16_tamavunisa_qaraniqio
+		portraits={
+			civilian={
+				large="GFX_SOM_Aden_Daar"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

@@ -1,0 +1,36 @@
+
+state={
+	id=89
+	name="STATE_89"
+
+	history={
+		owner = BRM
+		victory_points = {
+			12090 10 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			arms_factory = 0
+			1014 = {
+				naval_base = 1
+			}
+			air_base = 10
+
+		}
+		add_core_of = BRM
+		add_core_of = U07
+		add_core_of = W78
+		add_core_of = X19
+		add_claim_by = BAN
+	}
+
+	provinces={
+		1014 1142 1330 1333 1417 1650 3651 4019 4059 4147 4202 4293 4336 7034 7122 7254 7382 10154 10182 10223 10267 10283 10344 12090 12127 12197 12267 12284 
+	}
+	manpower=1493968
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

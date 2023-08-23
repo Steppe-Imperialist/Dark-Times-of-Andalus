@@ -1,0 +1,38 @@
+
+state={
+	id=329
+	name="STATE_329"
+	resources={
+		aluminium=1.000
+	}
+
+	history={
+		owner = S22
+		victory_points = {
+			10919 10 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 0
+			10919 = {
+				naval_base = 4
+			}
+			air_base = 6
+
+		}
+		add_core_of = DAH
+		add_core_of = S22
+		add_core_of = TOG
+		add_claim_by = W58
+	}
+
+	provinces={
+		10919 
+	}
+	manpower=1055444
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

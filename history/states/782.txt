@@ -1,0 +1,36 @@
+
+state={
+	id=782
+	name="STATE_782"
+	resources={
+		chromium=1.000
+	}
+
+	history={
+		owner = T36
+		victory_points = {
+			11796 1 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 1
+
+		}
+		add_core_of = T36
+		add_core_of = TUR
+		add_core_of = X24
+		add_claim_by = SER
+		add_claim_by = YUG
+	}
+
+	provinces={
+		6945 10041 11796 
+	}
+	manpower=590228
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+
+	local_supplies=10.0
+}

@@ -1,0 +1,39 @@
+
+state={
+	id=291
+	name="STATE_291"
+	resources={
+		aluminium=1.000
+		chromium=1.000
+	}
+
+	history={
+		owner = HUN
+		victory_points = {
+			646 10 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 6
+
+		}
+		add_core_of = HUN
+		add_core_of = X48
+		add_claim_by = ROM
+		add_claim_by = SER
+		add_claim_by = T57
+		add_claim_by = U52
+		add_claim_by = YUG
+	}
+
+	provinces={
+		646 662 3649 9606 11592 11608 
+	}
+	manpower=1459664
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

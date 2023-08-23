@@ -1,0 +1,30 @@
+
+state={
+	id=829
+	name="STATE_829"
+
+	history={
+		owner = T67
+		victory_points = {
+			12653 15 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 5
+
+		}
+		add_core_of = T67
+		add_claim_by = T68
+	}
+
+	provinces={
+		7519 10781 12314 12653 
+	}
+	manpower=507948
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

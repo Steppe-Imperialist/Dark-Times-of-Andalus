@@ -1,0 +1,34 @@
+
+state={
+	id=599
+	name="STATE_599"
+
+	history={
+		owner = SAX
+		victory_points = {
+			6336 10 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 0
+			6336 = {
+				naval_base = 6
+			}
+			air_base = 6
+
+		}
+		add_core_of = HOL
+		add_core_of = W32
+		add_claim_by = V32
+	}
+
+	provinces={
+		6286 6336 9309 9335 9363 9403 11318 
+	}
+	manpower=782660
+	buildings_max_level_factor=1.000
+	state_category=large_town
+
+	local_supplies=10.0
+}

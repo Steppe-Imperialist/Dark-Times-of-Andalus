@@ -1,0 +1,58 @@
+﻿TZN = {
+	battle_cruiser = {
+		prefix = ""
+		generic = { "Battlecruiser" }
+		unique = {
+			"Mwami" "Karyenda" "Nzambi" "Buganda" "Upemba" "Mwari" "Mulopwe" "Mulungu" "Mbonga" "Bambudye" "Mazendere" "Mboko" "Musikavanhu" "Mutorwa" 
+		}
+	}
+
+	battleship = {
+		prefix = ""
+		generic = { "Battleship" }
+		unique = {
+			"Mwami" "Karyenda" "Nzambi" "Buganda" "Upemba" "Mwari" "Mulopwe" "Mulungu" "Mbonga" "Bambudye" "Mazendere" "Mboko" "Musikavanhu" "Mutorwa" 
+		}
+	}
+
+	carrier = {
+		prefix = ""
+		generic = { "Carrier" }
+		unique = {
+			"Mwami" "Karyenda" "Nzambi" "Buganda" "Upemba" "Mwari" "Mulopwe" "Mulungu" "Mbonga" "Bambudye" "Mazendere" "Mboko" "Musikavanhu" "Mutorwa" 
+		}
+	}
+
+	destroyer = {
+		prefix = ""
+		generic = { "Destroyer" }
+		unique = {
+			"Mwami" "Karyenda" "Nzambi" "Buganda" "Upemba" "Mwari" "Mulopwe" "Mulungu" "Mbonga" "Bambudye" "Mazendere" "Mboko" "Musikavanhu" "Mutorwa" 
+		}
+	}
+
+	heavy_cruiser = {
+		prefix = ""
+		generic = { "Heavy Cruiser" }
+		unique = {
+			"Mwami" "Karyenda" "Nzambi" "Buganda" "Upemba" "Mwari" "Mulopwe" "Mulungu" "Mbonga" "Bambudye" "Mazendere" "Mboko" "Musikavanhu" "Mutorwa" 
+		}
+	}
+
+	light_cruiser = {
+		prefix = ""
+		generic = { "Light Cruiser" }
+		unique = {
+			"Mwami" "Karyenda" "Nzambi" "Buganda" "Upemba" "Mwari" "Mulopwe" "Mulungu" "Mbonga" "Bambudye" "Mazendere" "Mboko" "Musikavanhu" "Mutorwa" 
+		}
+	}
+
+	submarine = {
+		prefix = ""
+		generic = { "Submarine" }
+		unique = {
+			"Mwami" "Karyenda" "Nzambi" "Buganda" "Upemba" "Mwari" "Mulopwe" "Mulungu" "Mbonga" "Bambudye" "Mazendere" "Mboko" "Musikavanhu" "Mutorwa" 
+		}
+	}
+
+}

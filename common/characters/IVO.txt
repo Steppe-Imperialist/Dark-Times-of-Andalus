@@ -1,0 +1,56 @@
+characters={
+	IVO_ugo_solari={
+		name=IVO_ugo_solari
+		portraits={
+			army={
+				large="GFX_Africa_Generic_land_new_1"
+			}
+			army={
+				small="GFX_Africa_Generic_land_new_1"
+			}
+		}
+		corps_commander={
+			skill=2
+			attack_skill=2
+			defense_skill=3
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	IVO_vittorio_pelloux={
+		name=IVO_vittorio_pelloux
+		portraits={
+			navy={
+				large="GFX_Portrait_Africa_Generic_navy_4"
+			}
+			navy={
+				small="GFX_Portrait_Africa_Generic_navy_4"
+			}
+		}
+		navy_leader={
+			skill=2
+			attack_skill=1
+			defense_skill=4
+			maneuvering_skill=1
+			coordination_skill=1
+			legacy_id=0
+		}
+	}
+
+	IVO_fode_toure={
+		name=IVO_fode_toure
+		portraits={
+			civilian={
+				large="GFX_LIB_Clarence_Simpson"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

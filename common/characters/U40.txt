@@ -1,0 +1,16 @@
+characters={
+	U40_miguel_rojas={
+		name=U40_miguel_rojas
+		portraits={
+			civilian={
+				large="GFX_ECU_Jose_Ibarra"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

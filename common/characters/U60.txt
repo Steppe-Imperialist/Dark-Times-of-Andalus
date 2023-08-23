@@ -1,0 +1,16 @@
+characters={
+	U60_alf_davis={
+		name=U60_alf_davis
+		portraits={
+			civilian={
+				large="GFX_NEE_joseph_kennedy_sr"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

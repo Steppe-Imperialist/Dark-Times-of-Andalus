@@ -1,0 +1,16 @@
+characters={
+	W54_king_eldar_ii={
+		name=W54_king_eldar_ii
+		portraits={
+			civilian={
+				large="GFX_Cyprus_Makarios_Third"
+			}
+		}
+		country_leader={
+			ideology=absolute_monarchy
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

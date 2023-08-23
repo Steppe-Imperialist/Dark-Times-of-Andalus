@@ -1,0 +1,36 @@
+
+state={
+	id=566
+	name="STATE_566"
+	resources={
+		steel=5.000
+	}
+
+	history={
+		owner = S26
+		victory_points = {
+			10442 15 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			4528 = {
+				naval_base = 4
+			}
+			air_base = 5
+
+		}
+		add_core_of = S26
+		add_claim_by = SAF
+	}
+
+	provinces={
+		4528 10442 12419 
+	}
+	manpower=636492
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+
+	local_supplies=10.0
+}

@@ -1,0 +1,30 @@
+
+state={
+	id=748
+	name="STATE_748"
+
+	history={
+		owner = T29
+		victory_points = {
+			10959 2 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 2
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = T29
+		add_claim_by = BRA
+	}
+
+	provinces={
+		2111 2142 2147 2181 2204 5148 5200 8175 8189 8224 10959 11010 12939 12951 
+	}
+	manpower=3189656
+	buildings_max_level_factor=1.000
+	state_category=city
+
+	local_supplies=10.0
+}

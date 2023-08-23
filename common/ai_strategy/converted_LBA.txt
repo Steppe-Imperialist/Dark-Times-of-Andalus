@@ -1,0 +1,18 @@
+﻿converted_war_strategies_LBA = {
+	enable = {
+		tag = LBA
+		always = no
+	}
+	
+}
+
+converted_diplo_strategies_LBA = {
+	enable = {
+		tag = LBA
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+}

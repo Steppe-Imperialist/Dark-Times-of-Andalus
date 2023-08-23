@@ -1,0 +1,35 @@
+
+state={
+	id=880
+	name="STATE_880"
+	resources={
+		oil=5.000
+	}
+
+	history={
+		owner = YUG
+		victory_points = {
+			3663 15 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 5
+
+		}
+		add_core_of = SER
+		add_core_of = T18
+		add_core_of = YUG
+		add_claim_by = W53
+	}
+
+	provinces={
+		637 660 674 818 3630 3636 3639 3645 3663 6652 6658 6667 6677 6695 9617 9651 11588 11603 11605 11619 11636 11657 
+	}
+	manpower=933016
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

@@ -1,0 +1,35 @@
+
+state={
+	id=416
+	name="STATE_416"
+
+	history={
+		owner = MAN
+		victory_points = {
+			12543 10 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 2
+			arms_factory = 0
+			1772 = {
+				naval_base = 2
+			}
+			air_base = 10
+
+		}
+		add_core_of = MAN
+		add_core_of = U74
+		add_claim_by = CHI
+		add_claim_by = U61
+	}
+
+	provinces={
+		1730 1739 1772 1807 1845 4731 4847 7754 7851 10590 10678 12543 12591 12660 
+	}
+	manpower=869652
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

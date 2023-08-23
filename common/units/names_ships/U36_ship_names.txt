@@ -1,0 +1,176 @@
+﻿U36_BB_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_BB
+
+	for_countries = { U36 }
+
+	type = ship
+	ship_types = { ship_hull_heavy battleship }
+
+	prefix = ""
+	fallback_name = "Battleship BB-%d"
+
+	unique = {
+		"Derfflinger" "Friedrich der GroÃŸe" "Goeben" "GroÃŸer KurfÃ¼rst" "Helgoland" "Hindenburg" "Kaiser" "Kaiserin" "KÃ¶nig" "KÃ¶nig Albert" "Kronprinz" "LÃ¼tzow" "Mackensen" "Markgraf" "Moltke" "Nassau" "Oldenburg" "Ostfriesland" "Posen" "Rheinland" "Sachsen" "Seydlitz" "ThÃ¼ringen" "Westfalen" 
+	}
+}
+
+U36_BC_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_BC
+
+	for_countries = { U36 }
+
+	type = ship
+	ship_types = { ship_hull_heavy battle_cruiser }
+
+	prefix = ""
+	fallback_name = "Battlecruiser BC-%d"
+
+	unique = {
+		"Arminius" "Bremen" "Carola" "Charlotte" "Frankfurt" "Friedrich Carl" "Friedrich der GroÃŸe" "GroÃŸer KurfÃ¼rst" "Hamburg" "Hansa" "Kaiser" "KÃ¶nig Wilhelm" "Kronprinz" "Leipzig" "LÃ¼beck" "Marie" "Medusa" "MÃ¶we" "Moltke" "Nixe" "Oldenburg" "Olga" "Otter" "Pfeil" "PreuÃŸen" "PreuÃŸischer Adler" "Prinz Adalbert" "Sophie" 
+	}
+}
+
+U36_CA_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CA
+
+	for_countries = { U36 }
+
+	type = ship
+	ship_types = { ship_hull_cruiser heavy_cruiser }
+
+	prefix = ""
+	fallback_name = "Heavy Cruiser CA-%d"
+
+	unique = {
+		"Brandenburg" "Braunschweig" "Deutschland" "Hannover" "Hessen" "Kaiser Barbarossa" "Kaiser Friedrich III" "Kaiser Karl der GroÃŸe" "KurfÃ¼rst Friedrich Wilhelm" "Mecklenburg" "Pommern" "PreuÃŸen" "Schlesien" "Schleswig-Holstein" "Wettin" 
+	}
+}
+
+U36_CLAA_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CLAA
+
+	for_countries = { U36 }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser }
+
+	prefix = ""
+	fallback_name = "Light Cruiser CLAA-%d"
+
+	unique = {
+		"Barbarossa" "Kap Trafalgar" "Cormoran" "Iltis" "Kaiser Wilhelm der GroÃŸe" "Kronprinz Wilhelm" "Leopard" "Loreley" "Meteor" "MÃ¶we" "PreuÃŸischer Adler" "Seeadler" "SeelÃ¶we" "Vineta" "Wolf" 
+	}
+}
+
+U36_CL_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CL
+
+	for_countries = { U36 }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser }
+
+	prefix = ""
+	fallback_name = "Light Cruiser CL-%d"
+
+	unique = {
+		"Barbarossa" "Kap Trafalgar" "Cormoran" "Iltis" "Kaiser Wilhelm der GroÃŸe" "Kronprinz Wilhelm" "Leopard" "Loreley" "Meteor" "MÃ¶we" "PreuÃŸischer Adler" "Seeadler" "SeelÃ¶we" "Vineta" "Wolf" 
+	}
+}
+
+U36_CVL_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CVL
+
+	for_countries = { U36 }
+
+	type = ship
+	ship_types = { ship_hull_carrier carrier }
+
+	prefix = ""
+	fallback_name = "Carrier CVL-%d"
+
+	unique = {
+		"Ã„gir" "Basilisk" "Beowulf" "Biene" "Bremse" "Brummer" "Cameleon" "Crocodill" "Frithjof" "Hagen" "Heimdall" "Hildebrand" "Hummel" "MÃ¼cke" "Natter" "Odin" "Rhein" "Sachsen" "Salamander" "Skorpion" "Siegfried" "Viper" "Wespe" 
+	}
+}
+
+U36_CV_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CARRIERS
+
+	for_countries = { U36 }
+
+	type = ship
+	ship_types = { ship_hull_carrier carrier }
+
+	prefix = ""
+	fallback_name = "Carrier CV-%d"
+
+	unique = {
+		"Ã„gir" "Basilisk" "Beowulf" "Biene" "Bremse" "Brummer" "Cameleon" "Crocodill" "Frithjof" "Hagen" "Heimdall" "Hildebrand" "Hummel" "MÃ¼cke" "Natter" "Odin" "Rhein" "Sachsen" "Salamander" "Skorpion" "Siegfried" "Viper" "Wespe" 
+	}
+}
+
+U36_DD_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_DESTROYERS
+
+	for_countries = { U36 }
+
+	type = ship
+	ship_types = { ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Destroyer DD-%d"
+
+	unique = {
+		"Amazone" "Arcona" "Ariadne" "Berlin" "BlÃ¼cher" "Blitz" "Bremen" "Bremse" "Breslau" "Brummer" "Bussard" "KÃ¶ln" "Comet" "Condor" "Cormoran" "Danzig" "Deutschland" "Dresden" "Elbing" "Emden" "Falke" "Frankfurt" "Freya" "Friedrich Carl" "FÃ¼rst Bismarck" "Gazelle" "Gefion" "Geier" "Gneisenau" "Graudenz" "Greif" "Hamburg" "Hansa" "Hela" "Hertha" "Irene" "Jagd" "Kaiserin Augusta" "KÃ¶nigsberg" "Kolberg" "Leipzig" "LÃ¼beck" "Magdeburg" "Medusa" "Meteor" "Niobe" "Nymphe" "Pillau" "Prinz Adalbert" "Prinz Heinrich" "Prinz Wilhelm" "Regensburg" "Roon" "Rostock" "Scharnhorst" "Schwalbe" "Seeadler" "Sperber" "Stettin" "Stralsund" "Thetis" "Undine" "Victoria Louise" "Vineta" "Wacht" "Yorck" 
+	}
+}
+
+U36_DE_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_DE
+
+	for_countries = { U36 }
+
+	type = ship
+	ship_types = { ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Destroyer Escort DE-%d"
+
+	unique = {
+		"Amazone" "Arcona" "Ariadne" "Berlin" "BlÃ¼cher" "Blitz" "Bremen" "Bremse" "Breslau" "Brummer" "Bussard" "KÃ¶ln" "Comet" "Condor" "Cormoran" "Danzig" "Deutschland" "Dresden" "Elbing" "Emden" "Falke" "Frankfurt" "Freya" "Friedrich Carl" "FÃ¼rst Bismarck" "Gazelle" "Gefion" "Geier" "Gneisenau" "Graudenz" "Greif" "Hamburg" "Hansa" "Hela" "Hertha" "Irene" "Jagd" "Kaiserin Augusta" "KÃ¶nigsberg" "Kolberg" "Leipzig" "LÃ¼beck" "Magdeburg" "Medusa" "Meteor" "Niobe" "Nymphe" "Pillau" "Prinz Adalbert" "Prinz Heinrich" "Prinz Wilhelm" "Regensburg" "Roon" "Rostock" "Scharnhorst" "Schwalbe" "Seeadler" "Sperber" "Stettin" "Stralsund" "Thetis" "Undine" "Victoria Louise" "Vineta" "Wacht" "Yorck" 
+	}
+}
+
+U36_MINELAYERS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_MINELAYERS
+
+	for_countries = { U36 }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Minelayer CM-%d"
+
+	unique = {
+		"Barbarossa" "Kap Trafalgar" "Cormoran" "Iltis" "Kaiser Wilhelm der GroÃŸe" "Kronprinz Wilhelm" "Leopard" "Loreley" "Meteor" "MÃ¶we" "PreuÃŸischer Adler" "Seeadler" "SeelÃ¶we" "Vineta" "Wolf" 
+	}
+}
+
+U36_SS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_SUBMARINES
+
+	for_countries = { U36 }
+
+	type = ship
+	ship_types = { ship_hull_submarine submarine }
+
+	prefix = ""
+	fallback_name = "Submarine SS-%d"
+
+	unique = {
+		"Adler" "Albatross" "Alexandrine" "Amazone" "Arcona" "Ariadne" "Augusta" "Barbarossa" "Basilisk" "Bismarck" "Blitz" "BlÃ¼cher" "Cameleon" "Comet" "Cyclop" "Delphin" "Der KÃ¶nigliche Ernst August" "Deutschland" "Drache" "Eber" "EckernfÃ¶rde" "Elbe" "Elisabeth" "Erzherzog Johann" "Franklin" "Freya" "Fuchs" "Gazelle" "Gefion" "Gneisenau" "Grille" "GroÃŸherzog von Oldenburg" "Habicht" "Hay" "Hertha" "HyÃ¤ne" "Iltis" "JÃ¤ger" "Luise" "Meteor" "Natter" "Niobe" "Nymphe" "Pfeil" "Salamander" "Schwalbe" "Skorpion" "Sperber" "Stein" "Stosch" "Thetis" "Tiger" "Undine" "Victoria" "Vineta" "Wespe" "Wolf" "Ziethen" 
+	}
+}
+

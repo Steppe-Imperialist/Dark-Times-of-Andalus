@@ -1,0 +1,153 @@
+﻿converted_war_strategies_W97 = {
+	enable = {
+		tag = W97
+		always = no
+	}
+	
+	ai_strategy = {
+		type = conquer
+		id = "BAN"
+		value = 593
+	}
+	ai_strategy = {
+		type = conquer
+		id = "NEP"
+		value = 94
+	}
+}
+
+converted_diplo_strategies_W97 = {
+	enable = {
+		tag = W97
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+	ai_strategy = {
+		type = contain
+		id = "BAN"
+		value = 400
+	}
+	ai_strategy = {
+		type = contain
+		id = "NEP"
+		value = 221
+	}
+	ai_strategy = {
+		type = contain
+		id = "V83"
+		value = 91
+	}
+	ai_strategy = {
+		type = contain
+		id = "U26"
+		value = 91
+	}
+	ai_strategy = {
+		type = contain
+		id = "W41"
+		value = 55
+	}
+	ai_strategy = {
+		type = contain
+		id = "W18"
+		value = 49
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "T72"
+		value = 400
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "BAN"
+		value = 340
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "NEP"
+		value = 261
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "S01"
+		value = 254
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "T64"
+		value = 200
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "W90"
+		value = 46
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "KAZ"
+		value = 22
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "X58"
+		value = 8
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "BRM"
+		value = 5
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "U26"
+		value = 3
+	}
+	ai_strategy = {
+		type = alliance
+		id = "W41"
+		value = 200
+	}
+	ai_strategy = {
+		type = alliance
+		id = "W90"
+		value = 161
+	}
+	ai_strategy = {
+		type = alliance
+		id = "BRM"
+		value = 135
+	}
+	ai_strategy = {
+		type = alliance
+		id = "V83"
+		value = 133
+	}
+	ai_strategy = {
+		type = protect
+		id = "NEP"
+		value = 40
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "U85"
+		value = 104
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "NEP"
+		value = 100
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "U73"
+		value = 95
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "U70"
+		value = 43
+	}
+}

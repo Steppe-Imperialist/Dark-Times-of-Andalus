@@ -1,0 +1,39 @@
+
+state={
+	id=877
+	name="STATE_877"
+	resources={
+		aluminium=5.000
+		chromium=1.000
+	}
+
+	history={
+		owner = YUG
+		victory_points = {
+			9821 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			9821 = {
+				naval_base = 2
+			}
+			air_base = 0
+
+		}
+		add_core_of = SER
+		add_core_of = YUG
+		add_claim_by = ITA
+		add_claim_by = W53
+	}
+
+	provinces={
+		937 6913 9809 9821 11858 
+	}
+	manpower=690140
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+
+	local_supplies=10.0
+}

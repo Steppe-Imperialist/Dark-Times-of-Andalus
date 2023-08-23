@@ -1,0 +1,36 @@
+
+state={
+	id=466
+	name="STATE_466"
+	resources={
+		oil=4.000
+		steel=10.000
+	}
+
+	history={
+		owner = V87
+		victory_points = {
+			12685 10 
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 2
+			arms_factory = 0
+			air_base = 6
+
+		}
+		add_core_of = U50
+		add_core_of = USA
+		add_core_of = V87
+		add_claim_by = W10
+	}
+
+	provinces={
+		1870 3719 4759 10709 12685 
+	}
+	manpower=575184
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

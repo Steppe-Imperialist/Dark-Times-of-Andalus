@@ -1,0 +1,56 @@
+characters={
+	U42_fnu_lnu={
+		name=U42_fnu_lnu
+		portraits={
+			army={
+				large="GFX_Portrait_Arabia_Generic_land_2"
+			}
+			army={
+				small="GFX_Portrait_Arabia_Generic_land_2"
+			}
+		}
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	U42_fnu_lnu_1={
+		name=U42_fnu_lnu_1
+		portraits={
+			navy={
+				large="GFX_EGY_Suleiman_Ezzat"
+			}
+			navy={
+				small="GFX_EGY_Suleiman_Ezzat"
+			}
+		}
+		navy_leader={
+			skill=2
+			attack_skill=2
+			defense_skill=3
+			maneuvering_skill=1
+			coordination_skill=1
+			legacy_id=0
+		}
+	}
+
+	U42_fuad_ibn_hasan={
+		name=U42_fuad_ibn_hasan
+		portraits={
+			civilian={
+				large="GFX_Johannes_Bell"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

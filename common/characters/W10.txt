@@ -1,0 +1,16 @@
+characters={
+	W10_thahca_iyotake={
+		name=W10_thahca_iyotake
+		portraits={
+			civilian={
+				large="GFX_nat_north_democratic"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

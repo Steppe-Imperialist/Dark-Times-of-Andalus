@@ -1,0 +1,30 @@
+
+state={
+	id=423
+	name="STATE_423"
+
+	history={
+		owner = V45
+		victory_points = {
+			6421 15 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 5
+
+		}
+		add_core_of = V45
+		add_claim_by = GER
+	}
+
+	provinces={
+		6421 
+	}
+	manpower=754424
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

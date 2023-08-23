@@ -1,0 +1,32 @@
+units = {
+	fleet = {
+		name = "3rd Fleet"
+		naval_base = 12208
+		task_force = {
+			name = "3rd Fleet"
+			location = 12208
+			ship = { name = "Anupam" definition = destroyer start_experience_factor = 0.05 equipment = { ship_hull_light_1 = { amount = 1 owner = W18 version_name = "Early Destroyer" } } }
+			ship = { name = "Arihant" definition = destroyer start_experience_factor = 0.05 equipment = { ship_hull_light_1 = { amount = 1 owner = W18 version_name = "Early Destroyer" } } }
+			ship = { name = "Bhanu" definition = destroyer start_experience_factor = 0.05 equipment = { ship_hull_light_1 = { amount = 1 owner = W18 version_name = "Early Destroyer" } } }
+			ship = { name = "Dhananjay" definition = destroyer start_experience_factor = 0.05 equipment = { ship_hull_light_1 = { amount = 1 owner = W18 version_name = "Early Destroyer" } } }
+			ship = { name = "Hemendra" definition = destroyer start_experience_factor = 0.05 equipment = { ship_hull_light_1 = { amount = 1 owner = W18 version_name = "Early Destroyer" } } }
+			ship = { name = "Jawahar" definition = destroyer start_experience_factor = 0.05 equipment = { ship_hull_light_1 = { amount = 1 owner = W18 version_name = "Early Destroyer" } } }
+			ship = { name = "Kaushal" definition = destroyer start_experience_factor = 0.05 equipment = { ship_hull_light_1 = { amount = 1 owner = W18 version_name = "Early Destroyer" } } }
+			ship = { name = "Makarand" definition = destroyer start_experience_factor = 0.05 equipment = { ship_hull_light_1 = { amount = 1 owner = W18 version_name = "Early Destroyer" } } }
+			ship = { name = "Manindra" definition = destroyer start_experience_factor = 0.05 equipment = { ship_hull_light_1 = { amount = 1 owner = W18 version_name = "Early Destroyer" } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_light_1
+			creator = "W18"
+			version_name = "Early Destroyer"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+}

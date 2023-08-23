@@ -1,0 +1,35 @@
+
+state={
+	id=859
+	name="STATE_859"
+
+	history={
+		owner = S01
+		victory_points = {
+			9971 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			10000 = {
+				naval_base = 2
+			}
+			air_base = 0
+
+		}
+		add_core_of = CHI
+		add_core_of = S01
+		add_core_of = U23
+		add_claim_by = S02
+	}
+
+	provinces={
+		1124 1154 4157 4181 7055 9971 10000 
+	}
+	manpower=10130556
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

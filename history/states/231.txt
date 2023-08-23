@@ -1,0 +1,36 @@
+
+state={
+	id=231
+	name="STATE_231"
+
+	history={
+		owner = W41
+		victory_points = {
+			4501 10 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			arms_factory = 0
+			air_base = 10
+
+		}
+		add_core_of = S02
+		add_core_of = V57
+		add_core_of = X69
+		add_claim_by = BRM
+		add_claim_by = CHI
+		add_claim_by = T73
+		add_claim_by = U46
+		add_claim_by = W78
+	}
+
+	provinces={
+		1114 1172 1196 1319 1383 1522 1653 4192 4501 4559 4937 5009 5072 7446 7606 7965 7976 8023 8126 10346 10413 10776 10863 12262 12282 12789 12841 12898 
+	}
+	manpower=8138492
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

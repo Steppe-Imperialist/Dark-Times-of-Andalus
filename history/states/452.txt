@@ -1,0 +1,30 @@
+
+state={
+	id=452
+	name="STATE_452"
+
+	history={
+		owner = W09
+		victory_points = {
+			3553 15 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 5
+
+		}
+		add_core_of = V67
+		add_core_of = W09
+	}
+
+	provinces={
+		421 445 3414 3553 3583 6485 6562 6590 9551 9567 
+	}
+	manpower=145836
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

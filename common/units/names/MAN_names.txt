@@ -1,0 +1,58 @@
+﻿MAN = {
+	battle_cruiser = {
+		prefix = ""
+		generic = { "Battlecruiser" }
+		unique = {
+			"Man'chu'kuo" "Ben'xi" "Shen'yang" "Feng'cheng" "Zhuang'he" "Fu'xian" "Yi'xian" "Gai'xian" "Aisin Gioro" 
+		}
+	}
+
+	battleship = {
+		prefix = ""
+		generic = { "Battleship" }
+		unique = {
+			"Man'chu'kuo" "Ben'xi" "Shen'yang" "Feng'cheng" "Zhuang'he" "Fu'xian" "Yi'xian" "Gai'xian" "Aisin Gioro" 
+		}
+	}
+
+	carrier = {
+		prefix = ""
+		generic = { "Carrier" }
+		unique = {
+			"Man'chu'kuo" "Ben'xi" "Shen'yang" "Feng'cheng" "Zhuang'he" "Fu'xian" "Yi'xian" "Gai'xian" "Aisin Gioro" 
+		}
+	}
+
+	destroyer = {
+		prefix = ""
+		generic = { "Destroyer" }
+		unique = {
+			"Man'chu'kuo" "Ben'xi" "Shen'yang" "Feng'cheng" "Zhuang'he" "Fu'xian" "Yi'xian" "Gai'xian" "Aisin Gioro" 
+		}
+	}
+
+	heavy_cruiser = {
+		prefix = ""
+		generic = { "Heavy Cruiser" }
+		unique = {
+			"Man'chu'kuo" "Ben'xi" "Shen'yang" "Feng'cheng" "Zhuang'he" "Fu'xian" "Yi'xian" "Gai'xian" "Aisin Gioro" 
+		}
+	}
+
+	light_cruiser = {
+		prefix = ""
+		generic = { "Light Cruiser" }
+		unique = {
+			"Man'chu'kuo" "Ben'xi" "Shen'yang" "Feng'cheng" "Zhuang'he" "Fu'xian" "Yi'xian" "Gai'xian" "Aisin Gioro" 
+		}
+	}
+
+	submarine = {
+		prefix = ""
+		generic = { "Submarine" }
+		unique = {
+			"Man'chu'kuo" "Ben'xi" "Shen'yang" "Feng'cheng" "Zhuang'he" "Fu'xian" "Yi'xian" "Gai'xian" "Aisin Gioro" 
+		}
+	}
+
+}

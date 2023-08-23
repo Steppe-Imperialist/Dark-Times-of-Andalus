@@ -1,0 +1,120 @@
+﻿capital = 225
+set_research_slots = 2
+
+oob = "W41_OOB"
+if = {
+	limit = { has_dlc = "Man the Guns" }
+		set_naval_oob = "W41_1936_naval_mtg"
+	else = { 
+		set_naval_oob = "W41_1936_naval_legacy"
+	}
+}
+
+# Starting tech
+# Research Bonuses
+
+set_country_flag = conv_china
+set_convoys = 0
+
+set_politics = {
+    ruling_party = absolutist
+    last_election = "1836.1.1"
+    election_frequency = 48
+    elections_allowed = no
+}
+
+set_popularities = {
+	absolutist = 67
+	democratic = 32
+	neutrality = 1
+}
+
+add_ideas = {
+	uncivilized
+	limited_conscription
+	civilian_economy
+	export_focus
+	culture_hakka
+}
+set_stability = 0.60
+set_war_support = 0.60
+
+recruit_character = W41_li_yucheng
+recruit_character = W41_tsai_rengan
+recruit_character = W41_xie_fengjia
+recruit_character = W41_tsai_fengjia
+recruit_character = W41_feng_xiuqing
+recruit_character = W41_feng_zicai
+recruit_character = W41_wu_yucheng
+
+if = {
+	limit = {
+		has_dlc = "La Resistance"
+	}
+	create_operative_leader = {
+		name = "Luzhen Xiuqing"
+		GFX = "gfx/leaders/Asia/portrait_asia_generic_operative_female_1.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { W41 }
+	}
+
+	create_operative_leader = {
+		name = "Kon Rengan"
+		GFX = "gfx/leaders/Asia/portrait_asia_generic_operative_female_2.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { W41 }
+	}
+
+	create_operative_leader = {
+		name = "Fuyuan Fengjia"
+		GFX = "gfx/leaders/Asia/portrait_asia_generic_operative_female_3.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { W41 }
+	}
+
+	create_operative_leader = {
+		name = "Hong Yunshan"
+		GFX = "gfx/leaders/Asia/portrait_asia_generic_operative_male_1.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		nationalities = { W41 }
+	}
+
+	create_operative_leader = {
+		name = "Xie Yucheng"
+		GFX = "gfx/leaders/Asia/portrait_asia_generic_operative_male_2.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		nationalities = { W41 }
+	}
+
+}
+### VARIANTS ###
+if = {
+	limit = { not = { has_dlc = "Man the Guns" } }
+}
+if = {
+	limit = { has_dlc = "Man the Guns" }
+}
+### PLANE DESIGNS ###
+if = {
+	limit = { has_dlc = "By Blood Alone" }
+}
+### TANK DESIGNS ###
+if = {
+	limit = { has_dlc = "No Step Back" }
+}
+add_equipment_to_stockpile = { type = artillery_equipment amount = 1548 producer = W41 }
+add_equipment_to_stockpile = { type = artillery_equipment_1 amount = 1 producer = W41 }
+

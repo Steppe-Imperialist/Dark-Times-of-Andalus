@@ -1,0 +1,102 @@
+﻿capital = 246
+set_research_slots = 3
+
+oob = "W25_OOB"
+
+# Starting tech
+# Research Bonuses
+
+set_country_flag = conv_ukraine
+set_convoys = 0
+
+set_politics = {
+    ruling_party = absolutist
+    last_election = "1836.1.1"
+    election_frequency = 48
+    elections_allowed = no
+}
+
+set_popularities = {
+	absolutist = 91
+	democratic = 7
+	neutrality = 2
+}
+
+add_ideas = {
+	limited_conscription
+	civilian_economy
+	export_focus
+	culture_greek
+}
+
+recruit_character = W25_king_ioannes_v
+
+if = {
+	limit = {
+		has_dlc = "La Resistance"
+	}
+	create_operative_leader = {
+		name = "Aiketerine Vásso"
+		GFX = "gfx/leaders/Europe/portrait_europe_generic_operative_female_1.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { W25 }
+	}
+
+	create_operative_leader = {
+		name = "Ioanna Paláska"
+		GFX = "gfx/leaders/Europe/portrait_europe_generic_operative_female_2.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { W25 }
+	}
+
+	create_operative_leader = {
+		name = "Georgia Metaxá"
+		GFX = "gfx/leaders/Europe/portrait_europe_generic_operative_female_3.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { W25 }
+	}
+
+	create_operative_leader = {
+		name = "Staikos Sofoulis"
+		GFX = "gfx/leaders/Europe/portrait_europe_generic_operative_male_1.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		nationalities = { W25 }
+	}
+
+	create_operative_leader = {
+		name = "Makários Mavrokordátos"
+		GFX = "gfx/leaders/Europe/portrait_europe_generic_operative_male_2.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		nationalities = { W25 }
+	}
+
+}
+### VARIANTS ###
+if = {
+	limit = { not = { has_dlc = "Man the Guns" } }
+}
+if = {
+	limit = { has_dlc = "Man the Guns" }
+}
+### PLANE DESIGNS ###
+if = {
+	limit = { has_dlc = "By Blood Alone" }
+}
+### TANK DESIGNS ###
+if = {
+	limit = { has_dlc = "No Step Back" }
+}
+

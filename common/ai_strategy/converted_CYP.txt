@@ -1,0 +1,133 @@
+﻿converted_war_strategies_CYP = {
+	enable = {
+		tag = CYP
+		always = no
+	}
+	
+}
+
+converted_diplo_strategies_CYP = {
+	enable = {
+		tag = CYP
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+	ai_strategy = {
+		type = contain
+		id = "ITA"
+		value = 228
+	}
+	ai_strategy = {
+		type = contain
+		id = "GRE"
+		value = 108
+	}
+	ai_strategy = {
+		type = contain
+		id = "T36"
+		value = 100
+	}
+	ai_strategy = {
+		type = contain
+		id = "SAX"
+		value = 50
+	}
+	ai_strategy = {
+		type = contain
+		id = "S05"
+		value = 27
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "T72"
+		value = 400
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "S01"
+		value = 240
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "T64"
+		value = 189
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "W55"
+		value = 67
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "V82"
+		value = 34
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "KAZ"
+		value = 21
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "V41"
+		value = 14
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "YUG"
+		value = 10
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "HUN"
+		value = 7
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "USA"
+		value = 4
+	}
+	ai_strategy = {
+		type = alliance
+		id = "YUG"
+		value = 200
+	}
+	ai_strategy = {
+		type = alliance
+		id = "T66"
+		value = 171
+	}
+	ai_strategy = {
+		type = alliance
+		id = "SOV"
+		value = 50
+	}
+	ai_strategy = {
+		type = alliance
+		id = "T36"
+		value = 1
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "T36"
+		value = 94
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "JAM"
+		value = 68
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "X06"
+		value = 56
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "X15"
+		value = 39
+	}
+}

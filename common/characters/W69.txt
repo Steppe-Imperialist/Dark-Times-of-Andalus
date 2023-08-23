@@ -1,0 +1,16 @@
+characters={
+	W69_king_chaan_muan_iv={
+		name=W69_king_chaan_muan_iv
+		portraits={
+			civilian={
+				large="GFX_Apocalypto_absolutist"
+			}
+		}
+		country_leader={
+			ideology=absolute_monarchy
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

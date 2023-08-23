@@ -1,0 +1,16 @@
+characters={
+	QAT_ishaq_ibn_hisham={
+		name=QAT_ishaq_ibn_hisham
+		portraits={
+			civilian={
+				large="GFX_JBS_Shakhbut_bin_Sultan_Al_Nahyan"
+			}
+		}
+		country_leader={
+			ideology=absolute_monarchy
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

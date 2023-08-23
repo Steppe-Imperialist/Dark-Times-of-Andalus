@@ -1,0 +1,16 @@
+characters={
+	U11_girolamo_cagni={
+		name=U11_girolamo_cagni
+		portraits={
+			civilian={
+				large="gfx/leaders/Europe/Portrait_Europe_Generic_3.dds"
+			}
+		}
+		country_leader={
+			ideology=dictatorship_neutral
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

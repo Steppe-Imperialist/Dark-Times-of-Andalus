@@ -1,0 +1,80 @@
+units = {
+	fleet = {
+		name = "2nd Fleet"
+		naval_base = 13080
+		task_force = {
+			name = "2nd Fleet"
+			location = 5707
+			ship = { name = "Regina Elena" definition = heavy_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ITA version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "Bari" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ITA version_name = "Early Light Cruiser" } } }
+		}
+	}
+	fleet = {
+		name = "3rd Fleet"
+		naval_base = 13080
+		task_force = {
+			name = "3rd Fleet"
+			location = 1452
+			ship = { name = "Taranto" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ITA version_name = "Early Light Cruiser" } } }
+		}
+	}
+	fleet = {
+		name = "6th Fleet"
+		naval_base = 9904
+		task_force = {
+			name = "6th Fleet"
+			location = 9904
+			ship = { name = "Vittorio Emanuele" definition = heavy_cruiser start_experience_factor = 0.19801 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ITA version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "Ammiraglio di Saint Bon" definition = heavy_cruiser start_experience_factor = 0.19584 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ITA version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "Sicilia" definition = heavy_cruiser start_experience_factor = 0.1903 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ITA version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "Roma" definition = heavy_cruiser start_experience_factor = 0.2458 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ITA version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "Napoli" definition = heavy_cruiser start_experience_factor = 0.19624 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ITA version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "Regina Margherita" definition = heavy_cruiser start_experience_factor = 0.1939 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ITA version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "Sardegna" definition = heavy_cruiser start_experience_factor = 0.188 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ITA version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "Emanuele Filiberto" definition = heavy_cruiser start_experience_factor = 0.18676 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ITA version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "Francesco Morosini" definition = heavy_cruiser start_experience_factor = 0.14895 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ITA version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "Benedetto Brin" definition = heavy_cruiser start_experience_factor = 0.1996 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ITA version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "1st Catania Battleship" definition = heavy_cruiser start_experience_factor = 0.24703 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ITA version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "Re Umberto" definition = heavy_cruiser start_experience_factor = 0.174 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ITA version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "Pisa" definition = light_cruiser start_experience_factor = 0.19644 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ITA version_name = "Early Light Cruiser" } } }
+			ship = { name = "San Giorgio" definition = light_cruiser start_experience_factor = 0.24776 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ITA version_name = "Early Light Cruiser" } } }
+			ship = { name = "Nino Bixio" definition = light_cruiser start_experience_factor = 0.249 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ITA version_name = "Early Light Cruiser" } } }
+			ship = { name = "Amalfi" definition = light_cruiser start_experience_factor = 0.1998 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ITA version_name = "Early Light Cruiser" } } }
+			ship = { name = "General Pueyrredon" definition = light_cruiser start_experience_factor = 0.18053 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ITA version_name = "Early Light Cruiser" } } }
+			ship = { name = "Marsala" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ITA version_name = "Early Light Cruiser" } } }
+		}
+	}
+	fleet = {
+		name = "12th Fleet"
+		naval_base = 13080
+		task_force = {
+			name = "12th Fleet"
+			location = 5
+			ship = { name = "Andrea Doria" definition = heavy_cruiser start_experience_factor = 0.16878 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ITA version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "Brindisi" definition = light_cruiser start_experience_factor = 0.24703 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ITA version_name = "Early Light Cruiser" } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_light_1
+			creator = "ITA"
+			version_name = "Early Destroyer"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_heavy_1
+			creator = "ITA"
+			version_name = "Early Battleship"
+		}
+		requested_factories = 8
+		progress = 0.25
+		amount = 3
+	}
+}

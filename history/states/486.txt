@@ -1,0 +1,37 @@
+
+state={
+	id=486
+	name="STATE_486"
+
+	history={
+		owner = PER
+		victory_points = {
+			13079 10 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			arms_factory = 0
+			8000 = {
+				naval_base = 1
+			}
+			air_base = 10
+
+		}
+		add_core_of = PER
+		add_core_of = SAU
+		add_core_of = T83
+		add_core_of = T86
+		add_core_of = V48
+		add_core_of = YEM
+	}
+
+	provinces={
+		8000 12894 13079 
+	}
+	manpower=164104
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

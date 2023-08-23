@@ -1,0 +1,16 @@
+characters={
+	W95_king_ali={
+		name=W95_king_ali
+		portraits={
+			civilian={
+				large="GFX_Kongo_Pedro_VII_Afonso"
+			}
+		}
+		country_leader={
+			ideology=absolute_monarchy
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

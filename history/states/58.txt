@@ -1,0 +1,34 @@
+
+state={
+	id=58
+	name="STATE_58"
+
+	history={
+		owner = X27
+		victory_points = {
+			5128 10 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1
+			dockyard = 1
+			5128 = {
+				naval_base = 8
+			}
+			air_base = 6
+
+		}
+		add_core_of = MAD
+		add_core_of = X27
+	}
+
+	provinces={
+		5128 5222 
+	}
+	manpower=1775028
+	buildings_max_level_factor=1.000
+	state_category=large_town
+
+	local_supplies=10.0
+}

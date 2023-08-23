@@ -1,0 +1,176 @@
+﻿DOM_BB_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_BB
+
+	for_countries = { DOM }
+
+	type = ship
+	ship_types = { ship_hull_heavy battleship }
+
+	prefix = ""
+	fallback_name = "Battleship BB-%d"
+
+	unique = {
+		"Francisco del Rosario" "Gregorio Luperón" "Hermanos de la Concha" "Hermanos Puello" "Juan A. Acosta" "Juan B. Cambiaso" "Juan B. Maggiolo" "Juan Pablo Duarte" "Matías R. Mella" "Vicente C. Duarte" 
+	}
+}
+
+DOM_BC_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_BC
+
+	for_countries = { DOM }
+
+	type = ship
+	ship_types = { ship_hull_heavy battle_cruiser }
+
+	prefix = ""
+	fallback_name = "Battlecruiser BC-%d"
+
+	unique = {
+		"Bahoruco" "Desolación" "Destrucción" "El Pavor" "El Terror" "La Bombarda" "Neiba" "Samana" "Siete Cabezas" "Yamasa" 
+	}
+}
+
+DOM_CA_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CA
+
+	for_countries = { DOM }
+
+	type = ship
+	ship_types = { ship_hull_cruiser heavy_cruiser }
+
+	prefix = ""
+	fallback_name = "Heavy Cruiser CA-%d"
+
+	unique = {
+		"Cibao" "Diecinueve de Marzo" "La Merced" "Leonor" "Libertad" "María Chica" "Separación Dominicana" "Siete de Julio" "Veintisiete de Febrero" "Victoria" 
+	}
+}
+
+DOM_CLAA_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CLAA
+
+	for_countries = { DOM }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser }
+
+	prefix = ""
+	fallback_name = "Light Cruiser CLAA-%d"
+
+	unique = {
+		"Agustina" "Boba" "Dejabón" "Desesperación" "Incontrolable" "Josefa" "Juana" "Julia" "Nigua" "Ocoa" 
+	}
+}
+
+DOM_CL_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CL
+
+	for_countries = { DOM }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser }
+
+	prefix = ""
+	fallback_name = "Light Cruiser CL-%d"
+
+	unique = {
+		"Agustina" "Boba" "Dejabón" "Desesperación" "Incontrolable" "Josefa" "Juana" "Julia" "Nigua" "Ocoa" 
+	}
+}
+
+DOM_CVL_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CVL
+
+	for_countries = { DOM }
+
+	type = ship
+	ship_types = { ship_hull_carrier carrier }
+
+	prefix = ""
+	fallback_name = "Carrier CVL-%d"
+
+	unique = {
+		"Azua" "Beller" "El Memiso" "El Número" "La Estrelleta" "Las Carreras" "Puerto Tortuguero" "Sabana Larga" "Santiago" "Santomé" 
+	}
+}
+
+DOM_CV_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CARRIERS
+
+	for_countries = { DOM }
+
+	type = ship
+	ship_types = { ship_hull_carrier carrier }
+
+	prefix = ""
+	fallback_name = "Carrier CV-%d"
+
+	unique = {
+		"Azua" "Beller" "El Memiso" "El Número" "La Estrelleta" "Las Carreras" "Puerto Tortuguero" "Sabana Larga" "Santiago" "Santomé" 
+	}
+}
+
+DOM_DD_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_DESTROYERS
+
+	for_countries = { DOM }
+
+	type = ship
+	ship_types = { ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Destroyer DD-%d"
+
+	unique = {
+		"Barahona" "Duarte" "Independencia" "La Vega" "Montecristi" "Puerto Plata" "Restauración" "San Cristóbal" "Sánchez Ramírez" "Santo Domingo" 
+	}
+}
+
+DOM_DE_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_DE
+
+	for_countries = { DOM }
+
+	type = ship
+	ship_types = { ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Destroyer Escort DE-%d"
+
+	unique = {
+		"Barahona" "Duarte" "Independencia" "La Vega" "Montecristi" "Puerto Plata" "Restauración" "San Cristóbal" "Sánchez Ramírez" "Santo Domingo" 
+	}
+}
+
+DOM_MINELAYERS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_MINELAYERS
+
+	for_countries = { DOM }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Minelayer CM-%d"
+
+	unique = {
+		"Agustina" "Boba" "Dejabón" "Desesperación" "Incontrolable" "Josefa" "Juana" "Julia" "Nigua" "Ocoa" 
+	}
+}
+
+DOM_SS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_SUBMARINES
+
+	for_countries = { DOM }
+
+	type = ship
+	ship_types = { ship_hull_submarine submarine }
+
+	prefix = ""
+	fallback_name = "Submarine SS-%d"
+
+	unique = {
+		"Cristóbal Colón" "Diego de Ocampo" "Dios" "Grito de Capoyillo" "La Española" "Libertad" "Patria" "Taíno" "Trabucazo de Mella" "Trinitaria" 
+	}
+}
+

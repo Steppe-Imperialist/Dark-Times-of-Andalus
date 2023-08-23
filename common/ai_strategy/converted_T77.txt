@@ -1,0 +1,18 @@
+﻿converted_war_strategies_T77 = {
+	enable = {
+		tag = T77
+		always = no
+	}
+	
+}
+
+converted_diplo_strategies_T77 = {
+	enable = {
+		tag = T77
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+}

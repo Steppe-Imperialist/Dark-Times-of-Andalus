@@ -1,0 +1,20 @@
+
+state={
+	id=837
+	name="STATE_837"
+	impassable = yes
+
+	history={
+		owner = T90
+		add_core_of = T90
+	}
+
+	provinces={
+		5206 10336 10936 10955 
+	}
+	manpower=21899
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+
+	local_supplies=10.0
+}

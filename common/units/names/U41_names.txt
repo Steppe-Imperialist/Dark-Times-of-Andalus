@@ -1,0 +1,58 @@
+﻿U41 = {
+	battle_cruiser = {
+		prefix = ""
+		generic = { "Battlecruiser" }
+		unique = {
+			"Arminius" "Bremen" "Carola" "Charlotte" "Frankfurt" "Friedrich Carl" "Friedrich der GroÃŸe" "GroÃŸer KurfÃ¼rst" "Hamburg" "Hansa" "Kaiser" "KÃ¶nig Wilhelm" "Kronprinz" "Leipzig" "LÃ¼beck" "Marie" "Medusa" "MÃ¶we" "Moltke" "Nixe" "Oldenburg" "Olga" "Otter" "Pfeil" "PreuÃŸen" "PreuÃŸischer Adler" "Prinz Adalbert" "Sophie" 
+		}
+	}
+
+	battleship = {
+		prefix = ""
+		generic = { "Battleship" }
+		unique = {
+			"Derfflinger" "Friedrich der GroÃŸe" "Goeben" "GroÃŸer KurfÃ¼rst" "Helgoland" "Hindenburg" "Kaiser" "Kaiserin" "KÃ¶nig" "KÃ¶nig Albert" "Kronprinz" "LÃ¼tzow" "Mackensen" "Markgraf" "Moltke" "Nassau" "Oldenburg" "Ostfriesland" "Posen" "Rheinland" "Sachsen" "Seydlitz" "ThÃ¼ringen" "Westfalen" 
+		}
+	}
+
+	carrier = {
+		prefix = ""
+		generic = { "Carrier" }
+		unique = {
+			"Ã„gir" "Basilisk" "Beowulf" "Biene" "Bremse" "Brummer" "Cameleon" "Crocodill" "Frithjof" "Hagen" "Heimdall" "Hildebrand" "Hummel" "MÃ¼cke" "Natter" "Odin" "Rhein" "Sachsen" "Salamander" "Skorpion" "Siegfried" "Viper" "Wespe" 
+		}
+	}
+
+	destroyer = {
+		prefix = ""
+		generic = { "Destroyer" }
+		unique = {
+			"Amazone" "Arcona" "Ariadne" "Berlin" "BlÃ¼cher" "Blitz" "Bremen" "Bremse" "Breslau" "Brummer" "Bussard" "KÃ¶ln" "Comet" "Condor" "Cormoran" "Danzig" "Deutschland" "Dresden" "Elbing" "Emden" "Falke" "Frankfurt" "Freya" "Friedrich Carl" "FÃ¼rst Bismarck" "Gazelle" "Gefion" "Geier" "Gneisenau" "Graudenz" "Greif" "Hamburg" "Hansa" "Hela" "Hertha" "Irene" "Jagd" "Kaiserin Augusta" "KÃ¶nigsberg" "Kolberg" "Leipzig" "LÃ¼beck" "Magdeburg" "Medusa" "Meteor" "Niobe" "Nymphe" "Pillau" "Prinz Adalbert" "Prinz Heinrich" "Prinz Wilhelm" "Regensburg" "Roon" "Rostock" "Scharnhorst" "Schwalbe" "Seeadler" "Sperber" "Stettin" "Stralsund" "Thetis" "Undine" "Victoria Louise" "Vineta" "Wacht" "Yorck" 
+		}
+	}
+
+	heavy_cruiser = {
+		prefix = ""
+		generic = { "Heavy Cruiser" }
+		unique = {
+			"Brandenburg" "Braunschweig" "Deutschland" "Hannover" "Hessen" "Kaiser Barbarossa" "Kaiser Friedrich III" "Kaiser Karl der GroÃŸe" "KurfÃ¼rst Friedrich Wilhelm" "Mecklenburg" "Pommern" "PreuÃŸen" "Schlesien" "Schleswig-Holstein" "Wettin" 
+		}
+	}
+
+	light_cruiser = {
+		prefix = ""
+		generic = { "Light Cruiser" }
+		unique = {
+			"Barbarossa" "Kap Trafalgar" "Cormoran" "Iltis" "Kaiser Wilhelm der GroÃŸe" "Kronprinz Wilhelm" "Leopard" "Loreley" "Meteor" "MÃ¶we" "PreuÃŸischer Adler" "Seeadler" "SeelÃ¶we" "Vineta" "Wolf" 
+		}
+	}
+
+	submarine = {
+		prefix = ""
+		generic = { "Submarine" }
+		unique = {
+			"Adler" "Albatross" "Alexandrine" "Amazone" "Arcona" "Ariadne" "Augusta" "Barbarossa" "Basilisk" "Bismarck" "Blitz" "BlÃ¼cher" "Cameleon" "Comet" "Cyclop" "Delphin" "Der KÃ¶nigliche Ernst August" "Deutschland" "Drache" "Eber" "EckernfÃ¶rde" "Elbe" "Elisabeth" "Erzherzog Johann" "Franklin" "Freya" "Fuchs" "Gazelle" "Gefion" "Gneisenau" "Grille" "GroÃŸherzog von Oldenburg" "Habicht" "Hay" "Hertha" "HyÃ¤ne" "Iltis" "JÃ¤ger" "Luise" "Meteor" "Natter" "Niobe" "Nymphe" "Pfeil" "Salamander" "Schwalbe" "Skorpion" "Sperber" "Stein" "Stosch" "Thetis" "Tiger" "Undine" "Victoria" "Vineta" "Wespe" "Wolf" "Ziethen" 
+		}
+	}
+
+}

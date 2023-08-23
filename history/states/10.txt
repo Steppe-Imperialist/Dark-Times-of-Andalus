@@ -1,0 +1,36 @@
+
+state={
+	id=10
+	name="STATE_10"
+
+	history={
+		owner = X04
+		victory_points = {
+			12991 10 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 2
+			arms_factory = 0
+			1966 = {
+				naval_base = 1
+			}
+			air_base = 10
+
+		}
+		add_core_of = SOM
+		add_core_of = V64
+		add_core_of = X04
+		add_core_of = X08
+		add_claim_by = W88
+	}
+
+	provinces={
+		1964 1966 2020 4909 5065 10818 10891 12840 12991 
+	}
+	manpower=492228
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

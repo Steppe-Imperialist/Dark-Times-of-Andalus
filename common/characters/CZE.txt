@@ -1,0 +1,16 @@
+characters={
+	CZE_frantisek_josef_krizkovsky={
+		name=CZE_frantisek_josef_krizkovsky
+		portraits={
+			civilian={
+				large="gfx/leaders/POL/Portrait_POL_Boleslaw_Piasecki.dds"
+			}
+		}
+		country_leader={
+			ideology=fascism_ideology
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

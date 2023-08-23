@@ -1,0 +1,16 @@
+characters={
+	W56_leonhard_von_alten={
+		name=W56_leonhard_von_alten
+		portraits={
+			civilian={
+				large="gfx/leaders/Europe/portrait_europe_generic_5.dds"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

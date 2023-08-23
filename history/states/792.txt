@@ -1,0 +1,37 @@
+
+state={
+	id=792
+	name="STATE_792"
+	resources={
+		rubber=1.000
+	}
+
+	history={
+		owner = T44
+		victory_points = {
+			12853 1 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			4980 = {
+				naval_base = 6
+			}
+			air_base = 0
+
+		}
+		add_core_of = T44
+		add_claim_by = BRA
+		add_claim_by = W53
+	}
+
+	provinces={
+		4980 10874 12853 12999 
+	}
+	manpower=187936
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

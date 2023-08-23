@@ -1,0 +1,16 @@
+characters={
+	T54_damaso_villar={
+		name=T54_damaso_villar
+		portraits={
+			civilian={
+				large="GFX_Javier_I"
+			}
+		}
+		country_leader={
+			ideology=absolute_monarchy
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

@@ -1,0 +1,58 @@
+﻿ECU = {
+	battle_cruiser = {
+		prefix = ""
+		generic = { "Battlecruiser" }
+		unique = {
+			"Cormorán" "El Oro" "Guayas" "Imbabura" "León Marino" "Los Ríos" "Manabí" "Marcismo" "Pingüino" "Tortuga" 
+		}
+	}
+
+	battleship = {
+		prefix = ""
+		generic = { "Battleship" }
+		unique = {
+			"Cara de Dios" "Ecuador" "Flores" "García Moreno" "Illingworth" "Inca" "Libertador" "Rocafuerte" "Stagg" "Veintemilla" 
+		}
+	}
+
+	carrier = {
+		prefix = ""
+		generic = { "Carrier" }
+		unique = {
+			"Coca" "Cotopaxi" "Huancavilca" "Illiniza" "Manteño" "Napo" "Pastaza" "Putumayo" "Shyri" "Tunguraha" 
+		}
+	}
+
+	destroyer = {
+		prefix = ""
+		generic = { "Destroyer" }
+		unique = {
+			"Amazonía" "Bolívar" "Galápagos" "Libertad" "Luz de América" "Mestizo" "Orellana" "Oriente" "Patria" "Santa Elena" 
+		}
+	}
+
+	heavy_cruiser = {
+		prefix = ""
+		generic = { "Heavy Cruiser" }
+		unique = {
+			"Alcance" "Chimborazo" "Colombia" "Diligencia" "Gracia del Guayas" "Guayaquileña" "Pichincha" "San Francisco" "San Juan" "Santa Marina" 
+		}
+	}
+
+	light_cruiser = {
+		prefix = ""
+		generic = { "Light Cruiser" }
+		unique = {
+			"Atacazo" "Babahoyo" "Cayambe" "Corazón" "Filocorrales" "Ibarra" "Machala" "Puyo" "Reventador" "Tulcán" 
+		}
+	}
+
+	submarine = {
+		prefix = ""
+		generic = { "Submarine" }
+		unique = {
+			"Constitución" "Cuenca" "Cuero" "Esmeraldas" "Espejo" "Guayaquil" "Montufar" "Quito" "República" "Zamora" 
+		}
+	}
+
+}

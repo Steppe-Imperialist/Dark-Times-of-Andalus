@@ -1,0 +1,32 @@
+
+state={
+	id=695
+	name="STATE_695"
+
+	history={
+		owner = USA
+		victory_points = {
+			4155 0 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			4155 = {
+				naval_base = 1
+			}
+			air_base = 1
+
+		}
+		add_core_of = PUE
+	}
+
+	provinces={
+		4155 
+	}
+	manpower=214152
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

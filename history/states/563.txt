@@ -1,0 +1,30 @@
+
+state={
+	id=563
+	name="STATE_563"
+
+	history={
+		owner = S25
+		victory_points = {
+			10845 15 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 5
+
+		}
+		add_core_of = S25
+		add_claim_by = TZN
+	}
+
+	provinces={
+		8201 10845 
+	}
+	manpower=340264
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

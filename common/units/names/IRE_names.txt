@@ -1,0 +1,58 @@
+﻿IRE = {
+	battle_cruiser = {
+		prefix = ""
+		generic = { "Battlecruiser" }
+		unique = {
+			"Baile Átha Cliath" "Cúige Laighean" "Ulaidh" "An Mhumhain" "Connachta" 
+		}
+	}
+
+	battleship = {
+		prefix = ""
+		generic = { "Battleship" }
+		unique = {
+			"O’Faolain" "Caomhánach" "Mannion" "Corcaigh" "Gaillimh" 
+		}
+	}
+
+	carrier = {
+		prefix = ""
+		generic = { "Carrier" }
+		unique = {
+			"Muirchú" "Réabhlóid" "Dónal Ó Conaill" "Emmet" 
+		}
+	}
+
+	destroyer = {
+		prefix = ""
+		generic = { "Destroyer" }
+		unique = {
+			"Michelle" "Peigi" "Máire" "Róisín" "Esther" 
+		}
+	}
+
+	heavy_cruiser = {
+		prefix = ""
+		generic = { "Heavy Cruiser" }
+		unique = {
+			"Port Láirge" "Dún na nGall" "Loingsech" "Ó’Conghaile" "An Cóbh" 
+		}
+	}
+
+	light_cruiser = {
+		prefix = ""
+		generic = { "Light Cruiser" }
+		unique = {
+			"Dún Droma" "Marino" "Baile Bocht" "Béal Feirste" "Frongoch" 
+		}
+	}
+
+	submarine = {
+		prefix = ""
+		generic = { "Submarine" }
+		unique = {
+			"Fort Rannoch" "Cliona" "Maev" "Macha" "an Cóbh" 
+		}
+	}
+
+}

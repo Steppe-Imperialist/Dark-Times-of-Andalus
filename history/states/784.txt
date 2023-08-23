@@ -1,0 +1,30 @@
+
+state={
+	id=784
+	name="STATE_784"
+
+	history={
+		owner = T37
+		victory_points = {
+			10784 15 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 6
+
+		}
+		add_core_of = T37
+		add_claim_by = U68
+	}
+
+	provinces={
+		2088 10784 12862 12881 
+	}
+	manpower=608276
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

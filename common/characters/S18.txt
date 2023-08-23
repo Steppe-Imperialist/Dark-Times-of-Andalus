@@ -1,0 +1,16 @@
+characters={
+	S18_arthur_madden={
+		name=S18_arthur_madden
+		portraits={
+			civilian={
+				large="GFX_Ireland_Michael_Collins"
+			}
+		}
+		country_leader={
+			ideology=fascism_ideology
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

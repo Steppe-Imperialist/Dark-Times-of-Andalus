@@ -1,0 +1,16 @@
+characters={
+	WES_halil_ibn_ishaq={
+		name=WES_halil_ibn_ishaq
+		portraits={
+			civilian={
+				large="GFX_EGY_Aziz_Ezzat"
+			}
+		}
+		country_leader={
+			ideology=dictatorship_neutral
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

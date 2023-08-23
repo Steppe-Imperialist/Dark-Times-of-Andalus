@@ -1,0 +1,16 @@
+characters={
+	COS_jesus_chavez={
+		name=COS_jesus_chavez
+		portraits={
+			civilian={
+				large="gfx/leaders/ECU/portrait_ecu_federico_paez.dds"
+			}
+		}
+		country_leader={
+			ideology=dictatorship_neutral
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

@@ -1,0 +1,36 @@
+characters={
+	U56_alvaro_carranza={
+		name=U56_alvaro_carranza
+		portraits={
+			army={
+				large="GFX_POR_Castro_Bilstein_Menezes"
+			}
+			army={
+				small="GFX_POR_Castro_Bilstein_Menezes"
+			}
+		}
+		corps_commander={
+			skill=2
+			attack_skill=1
+			defense_skill=1
+			planning_skill=3
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	U56_ernesto_martinez_del_rio={
+		name=U56_ernesto_martinez_del_rio
+		portraits={
+			civilian={
+				large="GFX_HON_Jose_Maria_Moncada"
+			}
+		}
+		country_leader={
+			ideology=dictatorship_neutral
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

@@ -1,0 +1,176 @@
+﻿W56_BB_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_BB
+
+	for_countries = { W56 }
+
+	type = ship
+	ship_types = { ship_hull_heavy battleship }
+
+	prefix = ""
+	fallback_name = "Battleship BB-%d"
+
+	unique = {
+		"Wappen von Hamburg" "Leopoldus Primus" "Bunte Kuh" "Simon von Utrecht" "Sebastian von Bergen" "Joachim Clan" "Nicolaus Jarre" "Johann Slüter" "Lukas von Bostel" "Johann Anderson" "Nicolaus Schuback" "Frans Doormann" "Wilhelm Amsinck" "Christian Matthias Schröder" 
+	}
+}
+
+W56_BC_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_BC
+
+	for_countries = { W56 }
+
+	type = ship
+	ship_types = { ship_hull_heavy battle_cruiser }
+
+	prefix = ""
+	fallback_name = "Battlecruiser BC-%d"
+
+	unique = {
+		"Wappen von Hamburg" "Leopoldus Primus" "Bunte Kuh" "Simon von Utrecht" "Sebastian von Bergen" "Joachim Clan" "Nicolaus Jarre" "Johann Slüter" "Lukas von Bostel" "Johann Anderson" "Nicolaus Schuback" "Frans Doormann" "Wilhelm Amsinck" "Christian Matthias Schröder" 
+	}
+}
+
+W56_CA_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CA
+
+	for_countries = { W56 }
+
+	type = ship
+	ship_types = { ship_hull_cruiser heavy_cruiser }
+
+	prefix = ""
+	fallback_name = "Heavy Cruiser CA-%d"
+
+	unique = {
+		"Wappen von Hamburg" "Leopoldus Primus" "Bunte Kuh" "Simon von Utrecht" "Sebastian von Bergen" "Joachim Clan" "Nicolaus Jarre" "Johann Slüter" "Lukas von Bostel" "Johann Anderson" "Nicolaus Schuback" "Frans Doormann" "Wilhelm Amsinck" "Christian Matthias Schröder" 
+	}
+}
+
+W56_CLAA_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CLAA
+
+	for_countries = { W56 }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser }
+
+	prefix = ""
+	fallback_name = "Light Cruiser CLAA-%d"
+
+	unique = {
+		"Klaus Störtebeker" "Gödeke Michels" "Hennig Wichmann" "Klaus Scheld" "Magister Wigbold" "Arnd Stuke" "Nikolaus Milies" "Likedeeler" 
+	}
+}
+
+W56_CL_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CL
+
+	for_countries = { W56 }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser }
+
+	prefix = ""
+	fallback_name = "Light Cruiser CL-%d"
+
+	unique = {
+		"Klaus Störtebeker" "Gödeke Michels" "Hennig Wichmann" "Klaus Scheld" "Magister Wigbold" "Arnd Stuke" "Nikolaus Milies" "Likedeeler" 
+	}
+}
+
+W56_CVL_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CVL
+
+	for_countries = { W56 }
+
+	type = ship
+	ship_types = { ship_hull_carrier carrier }
+
+	prefix = ""
+	fallback_name = "Carrier CVL-%d"
+
+	unique = {
+		"Wappen von Hamburg" "Leopoldus Primus" "Bunte Kuh" "Simon von Utrecht" "Sebastian von Bergen" "Joachim Clan" "Nicolaus Jarre" "Johann Slüter" "Lukas von Bostel" "Johann Anderson" "Nicolaus Schuback" "Frans Doormann" "Wilhelm Amsinck" "Christian Matthias Schröder" 
+	}
+}
+
+W56_CV_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CARRIERS
+
+	for_countries = { W56 }
+
+	type = ship
+	ship_types = { ship_hull_carrier carrier }
+
+	prefix = ""
+	fallback_name = "Carrier CV-%d"
+
+	unique = {
+		"Wappen von Hamburg" "Leopoldus Primus" "Bunte Kuh" "Simon von Utrecht" "Sebastian von Bergen" "Joachim Clan" "Nicolaus Jarre" "Johann Slüter" "Lukas von Bostel" "Johann Anderson" "Nicolaus Schuback" "Frans Doormann" "Wilhelm Amsinck" "Christian Matthias Schröder" 
+	}
+}
+
+W56_DD_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_DESTROYERS
+
+	for_countries = { W56 }
+
+	type = ship
+	ship_types = { ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Destroyer DD-%d"
+
+	unique = {
+		"Wappen von Hamburg" "Leopoldus Primus" "Bunte Kuh" "Simon von Utrecht" "Sebastian von Bergen" "Joachim Clan" "Nicolaus Jarre" "Johann Slüter" "Lukas von Bostel" "Johann Anderson" "Nicolaus Schuback" "Frans Doormann" "Wilhelm Amsinck" "Christian Matthias Schröder" 
+	}
+}
+
+W56_DE_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_DE
+
+	for_countries = { W56 }
+
+	type = ship
+	ship_types = { ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Destroyer Escort DE-%d"
+
+	unique = {
+		"Wappen von Hamburg" "Leopoldus Primus" "Bunte Kuh" "Simon von Utrecht" "Sebastian von Bergen" "Joachim Clan" "Nicolaus Jarre" "Johann Slüter" "Lukas von Bostel" "Johann Anderson" "Nicolaus Schuback" "Frans Doormann" "Wilhelm Amsinck" "Christian Matthias Schröder" 
+	}
+}
+
+W56_MINELAYERS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_MINELAYERS
+
+	for_countries = { W56 }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Minelayer CM-%d"
+
+	unique = {
+		"Klaus Störtebeker" "Gödeke Michels" "Hennig Wichmann" "Klaus Scheld" "Magister Wigbold" "Arnd Stuke" "Nikolaus Milies" "Likedeeler" 
+	}
+}
+
+W56_SS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_SUBMARINES
+
+	for_countries = { W56 }
+
+	type = ship
+	ship_types = { ship_hull_submarine submarine }
+
+	prefix = ""
+	fallback_name = "Submarine SS-%d"
+
+	unique = {
+		"Wappen von Hamburg" "Leopoldus Primus" "Bunte Kuh" "Simon von Utrecht" "Sebastian von Bergen" "Joachim Clan" "Nicolaus Jarre" "Johann Slüter" "Lukas von Bostel" "Johann Anderson" "Nicolaus Schuback" "Frans Doormann" "Wilhelm Amsinck" "Christian Matthias Schröder" 
+	}
+}
+

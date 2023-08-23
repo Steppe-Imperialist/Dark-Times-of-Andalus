@@ -1,0 +1,33 @@
+
+state={
+	id=447
+	name="STATE_447"
+
+	history={
+		owner = V55
+		victory_points = {
+			1277 0 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			10225 = {
+				naval_base = 6
+			}
+			air_base = 0
+
+		}
+		add_core_of = MAL
+		add_core_of = W13
+	}
+
+	provinces={
+		1277 7327 7463 10209 10225 12168 12181 12184 12302 12343 
+	}
+	manpower=552604
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+
+	local_supplies=10.0
+}

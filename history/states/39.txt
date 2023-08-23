@@ -1,0 +1,32 @@
+
+state={
+	id=39
+	name="STATE_39"
+
+	history={
+		owner = ADU
+		victory_points = {
+			755 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = ADU
+		add_core_of = FRA
+		add_core_of = OCC
+		add_core_of = W52
+	}
+
+	provinces={
+		755 11718 
+	}
+	manpower=253220
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

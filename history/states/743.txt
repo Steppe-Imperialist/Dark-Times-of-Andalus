@@ -1,0 +1,38 @@
+
+state={
+	id=743
+	name="STATE_743"
+	resources={
+		steel=2.000
+	}
+
+	history={
+		owner = T29
+		victory_points = {
+			2182 2 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 1
+			dockyard = 1
+			2210 = {
+				naval_base = 8
+			}
+			air_base = 1
+
+		}
+		add_core_of = T29
+		add_claim_by = PRU
+		add_claim_by = W00
+	}
+
+	provinces={
+		2182 2210 10940 13086 
+	}
+	manpower=2329600
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

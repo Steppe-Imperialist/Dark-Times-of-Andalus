@@ -1,0 +1,153 @@
+﻿converted_war_strategies_EUS = {
+	enable = {
+		tag = EUS
+		always = no
+	}
+	
+	ai_strategy = {
+		type = conquer
+		id = "W38"
+		value = 795
+	}
+	ai_strategy = {
+		type = conquer
+		id = "ADU"
+		value = 456
+	}
+	ai_strategy = {
+		type = conquer
+		id = "X99"
+		value = 385
+	}
+	ai_strategy = {
+		type = conquer
+		id = "T00"
+		value = 365
+	}
+	ai_strategy = {
+		type = conquer
+		id = "SPC"
+		value = 276
+	}
+	ai_strategy = {
+		type = conquer
+		id = "FRA"
+		value = 161
+	}
+}
+
+converted_diplo_strategies_EUS = {
+	enable = {
+		tag = EUS
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+	ai_strategy = {
+		type = contain
+		id = "W52"
+		value = 400
+	}
+	ai_strategy = {
+		type = contain
+		id = "X99"
+		value = 256
+	}
+	ai_strategy = {
+		type = contain
+		id = "ADU"
+		value = 88
+	}
+	ai_strategy = {
+		type = contain
+		id = "FRA"
+		value = 88
+	}
+	ai_strategy = {
+		type = contain
+		id = "ENG"
+		value = 87
+	}
+	ai_strategy = {
+		type = contain
+		id = "W38"
+		value = 66
+	}
+	ai_strategy = {
+		type = contain
+		id = "CAT"
+		value = 22
+	}
+	ai_strategy = {
+		type = contain
+		id = "ALG"
+		value = 15
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "W38"
+		value = 400
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "X99"
+		value = 216
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "ADU"
+		value = 100
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "W52"
+		value = 72
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "CAT"
+		value = 69
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "ENG"
+		value = 8
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "T28"
+		value = 8
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "CAL"
+		value = 5
+	}
+	ai_strategy = {
+		type = alliance
+		id = "ADU"
+		value = 200
+	}
+	ai_strategy = {
+		type = alliance
+		id = "FRA"
+		value = 145
+	}
+	ai_strategy = {
+		type = alliance
+		id = "T00"
+		value = 128
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "W38"
+		value = 94
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "JAP"
+		value = 43
+	}
+}

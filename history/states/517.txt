@@ -1,0 +1,35 @@
+
+state={
+	id=517
+	name="STATE_517"
+
+	history={
+		owner = U26
+		victory_points = {
+			5096 10 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 0
+			air_base = 10
+
+		}
+		add_core_of = RAJ
+		add_core_of = U26
+		add_core_of = V43
+		add_core_of = V46
+		add_core_of = W35
+		add_core_of = X58
+		add_core_of = X65
+	}
+
+	provinces={
+		4953 5096 10801 12854 
+	}
+	manpower=3113180
+	buildings_max_level_factor=1.000
+	state_category=city
+
+	local_supplies=10.0
+}

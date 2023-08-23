@@ -1,0 +1,29 @@
+
+state={
+	id=123
+	name="STATE_123"
+
+	history={
+		owner = COG
+		victory_points = {
+			1950 15 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 5
+
+		}
+		add_core_of = COG
+	}
+
+	provinces={
+		1950 2034 2073 2154 6027 11934 12783 12808 12847 
+	}
+	manpower=2727764
+	buildings_max_level_factor=1.000
+	state_category=large_town
+
+	local_supplies=10.0
+}

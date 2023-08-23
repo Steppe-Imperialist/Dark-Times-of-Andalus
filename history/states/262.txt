@@ -1,0 +1,31 @@
+
+state={
+	id=262
+	name="STATE_262"
+
+	history={
+		owner = W58
+		victory_points = {
+			1891 1 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = NGA
+		add_core_of = W58
+		add_claim_by = V90
+	}
+
+	provinces={
+		1891 1932 1969 2025 8021 
+	}
+	manpower=2439908
+	buildings_max_level_factor=1.000
+	state_category=large_town
+
+	local_supplies=10.0
+}

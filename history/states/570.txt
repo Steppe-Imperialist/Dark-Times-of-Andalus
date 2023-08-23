@@ -1,0 +1,33 @@
+
+state={
+	id=570
+	name="STATE_570"
+	resources={
+		chromium=6.000
+	}
+
+	history={
+		owner = SAF
+		victory_points = {
+			4556 10 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+			air_base = 10
+
+		}
+		add_core_of = SAF
+		add_core_of = X62
+	}
+
+	provinces={
+		4556 12064 12648 
+	}
+	manpower=1095428
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

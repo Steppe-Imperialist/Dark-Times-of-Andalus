@@ -1,0 +1,56 @@
+characters={
+	X81_nartshu_shapsug={
+		name=X81_nartshu_shapsug
+		portraits={
+			army={
+				large="GFX_Portrait_europe_generic_land_9"
+			}
+			army={
+				small="GFX_Portrait_europe_generic_land_9"
+			}
+		}
+		corps_commander={
+			skill=2
+			attack_skill=4
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X81_mamsriqwe_bzhedug={
+		name=X81_mamsriqwe_bzhedug
+		portraits={
+			army={
+				large="GFX_Portrait_Europe_Generic_land_2"
+			}
+			army={
+				small="GFX_Portrait_Europe_Generic_land_2"
+			}
+		}
+		corps_commander={
+			skill=2
+			attack_skill=1
+			defense_skill=1
+			planning_skill=3
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X81_alhx'o_temirgoy={
+		name=X81_alhx'o_temirgoy
+		portraits={
+			civilian={
+				large="GFX_GRE_George_Santios"
+			}
+		}
+		country_leader={
+			ideology=socialism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

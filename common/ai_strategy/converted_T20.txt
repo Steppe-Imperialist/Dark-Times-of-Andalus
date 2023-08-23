@@ -1,0 +1,18 @@
+﻿converted_war_strategies_T20 = {
+	enable = {
+		tag = T20
+		always = no
+	}
+	
+}
+
+converted_diplo_strategies_T20 = {
+	enable = {
+		tag = T20
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+}

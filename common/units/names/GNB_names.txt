@@ -1,0 +1,58 @@
+﻿GNB = {
+	battle_cruiser = {
+		prefix = ""
+		generic = { "Battlecruiser" }
+		unique = {
+			"Beira" "Ibo" "Chaimite" "Limpopo" "LÃºrio" "Save" "AÃ§or" "Tavira" "Faro" "Lagos" 
+		}
+	}
+
+	battleship = {
+		prefix = ""
+		generic = { "Battleship" }
+		unique = {
+			"Afonso de Albuquerque" "AntÃ³nia Rodrigues" "Diogo CÃ£o" "Duarte Pacheco Pereira" "Duarte de Almeida" "JoÃ£o da Nova" "Lopo Barriga" "Mem Moniz de Gandarei" "Munio Viegas" "Nuno Ãlvares Pereira" "Vasco da Gama" 
+		}
+	}
+
+	carrier = {
+		prefix = ""
+		generic = { "Carrier" }
+		unique = {
+			"TÃ¢mega" "Sado" "Rio Lima" "Tejo" "Douro" "Quanza" "Bengo" "Mandovi" "Rio Ave" "Guadiana" "Tavira" "Faro" "Lagos" 
+		}
+	}
+
+	destroyer = {
+		prefix = ""
+		generic = { "Destroyer" }
+		unique = {
+			"D. Carlos I" "S. Gabriel" "S. Rafael" "Adamastor" "Rainha D. AmÃ©lia" "Almirante Reis" "RepÃºblica" "Pedro Nunes" "Gil Eannes" 
+		}
+	}
+
+	heavy_cruiser = {
+		prefix = ""
+		generic = { "Heavy Cruiser" }
+		unique = {
+			"PrÃ­ncipe Real" "PrÃ­ncipe do Brazil" "Rainha de Portugal" "Afonso de Albuquerque" "Princesa da Beira" "Infante Dom Pedro" "Medusa" "BelÃ©m" "Maria Primeira" "SÃ£o SebastiÃ£o" "Santo AntÃ³nio" "PrÃ­ncipe Regente" "Teresa" "Golfinho" "AmazÃ³nia" "PÃ©rola" 
+		}
+	}
+
+	light_cruiser = {
+		prefix = ""
+		generic = { "Light Cruiser" }
+		unique = {
+			"Bartolomeu Dias" "EstefÃ¢nia" "Duque da Terceira" "SÃ¡ da Bandeira" "Rainha de Portugal" "Mindelo" ";" 
+		}
+	}
+
+	submarine = {
+		prefix = ""
+		generic = { "Submarine" }
+		unique = {
+			"FÃ©nix" "Amazona" "Cisne" "Minerva" "N.Sra. da GraÃ§a" "PÃ©rola" "Princesa Carlota" "Princesa" "PrÃ­ncipe da Beira" "TristÃ£o" "Ulisses" "VÃ©nus" "Golfinho" "S. JoÃ£o PrÃ­ncipe" "ThÃ©tis" "Activa" "Dom Fernando II e GlÃ³ria" "Princesa de Abiena" "Andorinha" "Real Fonsor" "BoaVentura" "Serpente" "Diligente" "Gaivota" "Real Fonza" "Benjamim" "TritÃ£o" 
+		}
+	}
+
+}

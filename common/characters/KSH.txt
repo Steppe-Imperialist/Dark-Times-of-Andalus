@@ -1,0 +1,16 @@
+characters={
+	KSH_marceli_konopczynski={
+		name=KSH_marceli_konopczynski
+		portraits={
+			civilian={
+				large="gfx/leaders/LAT/portrait_lat_fricis_menders.dds"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

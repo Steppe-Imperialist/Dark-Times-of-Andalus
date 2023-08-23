@@ -1,0 +1,20 @@
+
+state={
+	id=903
+	name="STATE_903"
+	impassable = yes
+
+	history={
+		owner = S31
+		add_core_of = S31
+	}
+
+	provinces={
+		4902 5136 10893 
+	}
+	manpower=12840
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+
+	local_supplies=10.0
+}

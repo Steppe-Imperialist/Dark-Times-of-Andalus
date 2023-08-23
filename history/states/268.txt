@@ -1,0 +1,32 @@
+
+state={
+	id=268
+	name="STATE_268"
+
+	history={
+		owner = W68
+		victory_points = {
+			4075 15 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 5
+
+		}
+		add_core_of = VIN
+		add_core_of = W68
+		add_core_of = W78
+		add_claim_by = LAO
+	}
+
+	provinces={
+		4075 4529 10075 10103 10129 12048 12075 12319 
+	}
+	manpower=1478900
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

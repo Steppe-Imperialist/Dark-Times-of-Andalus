@@ -1,0 +1,35 @@
+
+state={
+	id=351
+	name="STATE_351"
+
+	history={
+		owner = W89
+		victory_points = {
+			1955 1 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			1955 = {
+				naval_base = 1
+			}
+			air_base = 0
+
+		}
+		add_core_of = SAU
+		add_core_of = W55
+		add_core_of = W89
+		add_claim_by = PER
+	}
+
+	provinces={
+		1955 5024 10791 10850 12702 
+	}
+	manpower=304756
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

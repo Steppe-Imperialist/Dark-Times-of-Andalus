@@ -1,0 +1,16 @@
+characters={
+	GUA_victoriano_sevilla={
+		name=GUA_victoriano_sevilla
+		portraits={
+			civilian={
+				large="GFX_Chile_Carlos_Labarca"
+			}
+		}
+		country_leader={
+			ideology=dictatorship_neutral
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

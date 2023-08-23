@@ -1,0 +1,39 @@
+
+state={
+	id=146
+	name="STATE_146"
+	resources={
+		aluminium=3.000
+	}
+
+	history={
+		owner = DEN
+		victory_points = {
+			3206 1 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			dockyard = 1
+			399 = {
+				naval_base = 6
+			}
+			air_base = 1
+
+		}
+		add_core_of = DEN
+		add_claim_by = ENG
+		add_claim_by = SCA
+		add_claim_by = V32
+	}
+
+	provinces={
+		316 394 399 3206 3277 3341 6235 6364 
+	}
+	manpower=1220860
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

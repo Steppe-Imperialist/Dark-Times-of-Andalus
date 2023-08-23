@@ -1,0 +1,29 @@
+
+state={
+	id=900
+	name="STATE_900"
+
+	history={
+		owner = S30
+		victory_points = {
+			6779 0 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = S30
+	}
+
+	provinces={
+		3800 4695 6779 
+	}
+	manpower=4000
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+
+	local_supplies=10.0
+}

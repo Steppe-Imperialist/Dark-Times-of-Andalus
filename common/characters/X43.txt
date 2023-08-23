@@ -1,0 +1,76 @@
+characters={
+	X43_kiddu_al_hajj={
+		name=X43_kiddu_al_hajj
+		portraits={
+			army={
+				large="GFX_EGY_Mohamed_Haidar"
+			}
+			army={
+				small="GFX_EGY_Mohamed_Haidar"
+			}
+		}
+		corps_commander={
+			skill=1
+			attack_skill=2
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X43_islaman_ag_amastan={
+		name=X43_islaman_ag_amastan
+		portraits={
+			army={
+				large="GFX_EGY_Mahmoud_Shokry"
+			}
+			army={
+				small="GFX_EGY_Mahmoud_Shokry"
+			}
+		}
+		corps_commander={
+			skill=2
+			attack_skill=3
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X43_abareybon_al_hajj={
+		name=X43_abareybon_al_hajj
+		portraits={
+			army={
+				large="GFX_EGY_Mahmoud_Shokry"
+			}
+			army={
+				small="GFX_EGY_Mahmoud_Shokry"
+			}
+		}
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=2
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X43_king_islaman={
+		name=X43_king_islaman
+		portraits={
+			civilian={
+				large="gfx/leaders/AFG/Portrait_Afghanistan_Mohammed_Zahir_Shah.dds"
+			}
+		}
+		country_leader={
+			ideology=absolute_monarchy
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

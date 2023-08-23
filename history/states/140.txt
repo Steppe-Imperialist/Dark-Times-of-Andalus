@@ -1,0 +1,35 @@
+
+state={
+	id=140
+	name="STATE_140"
+	resources={
+		steel=3.000
+	}
+
+	history={
+		owner = W09
+		victory_points = {
+			11542 40 
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 7
+			arms_factory = 2
+			air_base = 10
+
+		}
+		add_core_of = CZE
+		add_core_of = T24
+		add_core_of = W08
+		add_core_of = W09
+
+	}
+
+	provinces={
+		494 557 569 583 3462 3569 6576 9421 9429 9541 9569 11511 11525 11542 11556 
+	}
+	manpower=4206832
+	buildings_max_level_factor=1.000
+	state_category=large_city
+	local_supplies=10.000
+}

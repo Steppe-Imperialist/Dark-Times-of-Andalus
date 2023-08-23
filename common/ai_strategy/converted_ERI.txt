@@ -1,0 +1,18 @@
+﻿converted_war_strategies_ERI = {
+	enable = {
+		tag = ERI
+		always = no
+	}
+	
+}
+
+converted_diplo_strategies_ERI = {
+	enable = {
+		tag = ERI
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+}

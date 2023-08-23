@@ -1,0 +1,33 @@
+
+state={
+	id=750
+	name="STATE_750"
+	resources={
+		aluminium=1.000
+	}
+
+	history={
+		owner = T29
+		victory_points = {
+			10934 1 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = T29
+		add_claim_by = BRA
+	}
+
+	provinces={
+		2198 5083 5214 5216 5232 8185 8254 10934 10960 12919 12965 13083 
+	}
+	manpower=2629916
+	buildings_max_level_factor=1.000
+	state_category=large_town
+
+	local_supplies=10.0
+}

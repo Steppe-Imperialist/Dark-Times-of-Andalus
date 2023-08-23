@@ -1,0 +1,35 @@
+
+state={
+	id=702
+	name="STATE_702"
+
+	history={
+		owner = USA
+		victory_points = {
+			7617 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			7617 = {
+				naval_base = 6
+			}
+			air_base = 0
+
+		}
+		add_core_of = USA
+		add_claim_by = PAN
+		add_claim_by = T03
+		add_claim_by = VEN
+	}
+
+	provinces={
+		7617 
+	}
+	manpower=843844
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+
+	local_supplies=10.0
+}

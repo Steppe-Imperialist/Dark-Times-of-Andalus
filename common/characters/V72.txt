@@ -1,0 +1,16 @@
+characters={
+	V72_king_leonid={
+		name=V72_king_leonid
+		portraits={
+			civilian={
+				large="GFX_UKR_Leo_Stefan_I"
+			}
+		}
+		country_leader={
+			ideology=absolute_monarchy
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

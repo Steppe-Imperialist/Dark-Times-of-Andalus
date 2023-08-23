@@ -1,0 +1,16 @@
+characters={
+	GAM_carlo_porro={
+		name=GAM_carlo_porro
+		portraits={
+			civilian={
+				large="gfx/leaders/ITA/portrait_ita_ferruccio_parri.dds"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

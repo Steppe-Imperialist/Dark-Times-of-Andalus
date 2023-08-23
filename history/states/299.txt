@@ -1,0 +1,40 @@
+
+state={
+	id=299
+	name="STATE_299"
+	resources={
+		aluminium=9.000
+		steel=9.000
+	}
+
+	history={
+		owner = ITA
+		victory_points = {
+			778 2 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			arms_factory = 0
+			dockyard = 1
+			9909 = {
+				naval_base = 10
+			}
+			air_base = 0
+
+		}
+		add_core_of = ITA
+		add_core_of = OCC
+		add_core_of = W36
+		add_claim_by = V32
+	}
+
+	provinces={
+		778 6609 6784 9603 9745 9909 11573 
+	}
+	manpower=1372532
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

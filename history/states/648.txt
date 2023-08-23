@@ -1,0 +1,32 @@
+
+state={
+	id=648
+	name="STATE_648"
+
+	history={
+		owner = U89
+		victory_points = {
+			1339 15 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			1326 = {
+				naval_base = 6
+			}
+			air_base = 6
+
+		}
+		add_core_of = U89
+	}
+
+	provinces={
+		1326 1339 1355 4358 12178 12190 13001 
+	}
+	manpower=247108
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

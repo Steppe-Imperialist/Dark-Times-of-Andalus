@@ -1,0 +1,16 @@
+characters={
+	CHL_ladislao_montero={
+		name=CHL_ladislao_montero
+		portraits={
+			civilian={
+				large="gfx/leaders/COL/portrait_col_alfonso_lopez_pumarejo.dds"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

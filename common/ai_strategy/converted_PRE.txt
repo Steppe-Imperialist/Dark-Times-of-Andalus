@@ -1,0 +1,18 @@
+﻿converted_war_strategies_PRE = {
+	enable = {
+		tag = PRE
+		always = no
+	}
+	
+}
+
+converted_diplo_strategies_PRE = {
+	enable = {
+		tag = PRE
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+}

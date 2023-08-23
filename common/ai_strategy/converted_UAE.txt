@@ -1,0 +1,18 @@
+﻿converted_war_strategies_UAE = {
+	enable = {
+		tag = UAE
+		always = no
+	}
+	
+}
+
+converted_diplo_strategies_UAE = {
+	enable = {
+		tag = UAE
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+}

@@ -1,0 +1,32 @@
+
+state={
+	id=348
+	name="STATE_348"
+
+	history={
+		owner = JAP
+		victory_points = {
+			13019 15 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+			13019 = {
+				naval_base = 1
+			}
+			air_base = 5
+
+		}
+		add_core_of = JAP
+	}
+
+	provinces={
+		13019 
+	}
+	manpower=8
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+
+	local_supplies=10.0
+}

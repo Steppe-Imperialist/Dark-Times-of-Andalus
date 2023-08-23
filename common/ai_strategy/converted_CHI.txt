@@ -1,0 +1,18 @@
+﻿converted_war_strategies_CHI = {
+	enable = {
+		tag = CHI
+		always = no
+	}
+	
+}
+
+converted_diplo_strategies_CHI = {
+	enable = {
+		tag = CHI
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+}

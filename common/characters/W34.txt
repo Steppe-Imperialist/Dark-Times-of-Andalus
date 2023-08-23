@@ -1,0 +1,16 @@
+characters={
+	W34_king_ignacio={
+		name=W34_king_ignacio
+		portraits={
+			civilian={
+				large="GFX_nat_carib_absolutist"
+			}
+		}
+		country_leader={
+			ideology=absolute_monarchy
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

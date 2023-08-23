@@ -1,0 +1,28 @@
+GENERIC_FRA_OPERATIVE_CODENAME_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_OPERATIVES
+
+	for_countries = { BEL FRA OCC T00 T71 T78 V26 V30 V88 W52 W57 WLL }
+
+	type = codename
+
+	fallback_name = "Agent %d"
+	unique = {
+		"Jean"
+		"Pierre"
+		"Charles"
+		"Jacques"
+		"André"
+		"Thomas"
+		"Michel"
+		"Maurice"
+		"Henri"
+		"Gilles"
+		"Olivier"
+		"Étienne"
+		"Nicolas"
+		"Francois"
+		"Mathieu"
+		"Gabriel"
+		"Baptiste"
+	}
+}

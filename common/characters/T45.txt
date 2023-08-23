@@ -1,0 +1,16 @@
+characters={
+	T45_leonida_longstreet={
+		name=T45_leonida_longstreet
+		portraits={
+			civilian={
+				large="GFX_USA_Happy_Chandler"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

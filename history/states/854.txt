@@ -1,0 +1,33 @@
+
+state={
+	id=854
+	name="STATE_854"
+
+	history={
+		owner = S01
+		victory_points = {
+			4525 10 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 2
+			arms_factory = 0
+			air_base = 5
+
+		}
+		add_core_of = CHI
+		add_core_of = MON
+		add_core_of = S01
+		add_core_of = W79
+		add_core_of = X98
+	}
+
+	provinces={
+		1551 1608 1698 1778 1796 1811 1871 1959 2028 2087 3427 4222 4525 4555 4612 4783 4960 4986 5031 5076 5100 6988 7048 7511 7578 7631 7648 7727 7803 7971 8055 8102 8127 10363 10372 10424 10451 10499 10629 10770 10854 10899 11752 12331 12348 12403 12448 12554 12596 12609 12706 12750 12820 12880 
+	}
+	manpower=7870720
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

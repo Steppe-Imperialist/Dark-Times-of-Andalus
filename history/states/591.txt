@@ -1,0 +1,36 @@
+
+state={
+	id=591
+	name="STATE_591"
+	resources={
+		steel=3.000
+	}
+
+	history={
+		owner = SAX
+		victory_points = {
+			3152 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			dockyard = 1
+			3152 = {
+				naval_base = 4
+			}
+			air_base = 0
+
+		}
+		add_core_of = EST
+	}
+
+	provinces={
+		83 185 308 496 567 592 3074 3152 3174 4640 6099 6178 6201 6381 6408 9079 9221 9485 11057 11127 11291 11426 11443 
+	}
+	manpower=1319136
+	buildings_max_level_factor=1.000
+	state_category=large_town
+
+	local_supplies=10.0
+}

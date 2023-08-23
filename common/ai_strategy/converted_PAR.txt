@@ -1,0 +1,18 @@
+﻿converted_war_strategies_PAR = {
+	enable = {
+		tag = PAR
+		always = no
+	}
+	
+}
+
+converted_diplo_strategies_PAR = {
+	enable = {
+		tag = PAR
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+}

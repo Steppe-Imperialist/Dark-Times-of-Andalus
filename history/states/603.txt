@@ -1,0 +1,34 @@
+
+state={
+	id=603
+	name="STATE_603"
+
+	history={
+		owner = SIA
+		victory_points = {
+			1488 10 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 0
+			1427 = {
+				naval_base = 1
+			}
+			air_base = 10
+
+		}
+		add_core_of = SIA
+		add_core_of = V28
+		add_claim_by = W78
+	}
+
+	provinces={
+		1253 1427 1488 1990 4496 4566 7312 7338 7353 7367 7408 7492 7531 7544 7559 7572 7675 8045 10221 10250 10371 10398 10411 12173 12345 
+	}
+	manpower=3450460
+	buildings_max_level_factor=1.000
+	state_category=city
+
+	local_supplies=10.0
+}

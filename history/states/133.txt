@@ -1,0 +1,33 @@
+
+state={
+	id=133
+	name="STATE_133"
+
+	history={
+		owner = CRI
+		victory_points = {
+			11649 15 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+			11649 = {
+				naval_base = 4
+			}
+			air_base = 5
+
+		}
+		add_core_of = CRI
+		add_claim_by = W53
+	}
+
+	provinces={
+		705 3722 6724 9718 11649 
+	}
+	manpower=203204
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

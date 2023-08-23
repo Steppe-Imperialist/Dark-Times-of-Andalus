@@ -1,0 +1,36 @@
+
+state={
+	id=8
+	name="STATE_8"
+
+	history={
+		owner = X04
+		victory_points = {
+			12766 10 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+			arms_factory = 0
+			8043 = {
+				naval_base = 2
+			}
+			air_base = 10
+
+		}
+		add_core_of = ERI
+		add_core_of = T34
+		add_core_of = TIG
+		add_core_of = X04
+		add_claim_by = AFA
+	}
+
+	provinces={
+		5017 5047 5091 8043 12723 12766 13250 13251 
+	}
+	manpower=1871248
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

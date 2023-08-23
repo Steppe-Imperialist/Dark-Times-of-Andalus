@@ -1,0 +1,16 @@
+characters={
+	X97_corrado_chigi={
+		name=X97_corrado_chigi
+		portraits={
+			civilian={
+				large="gfx/leaders/ITA/portrait_ita_ferruccio_parri.dds"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

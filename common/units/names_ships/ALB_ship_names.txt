@@ -1,0 +1,176 @@
+﻿ALB_BB_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_BB
+
+	for_countries = { ALB }
+
+	type = ship
+	ship_types = { ship_hull_heavy battleship }
+
+	prefix = ""
+	fallback_name = "Battleship BB-%d"
+
+	unique = {
+		"Shqipëria" "Skënderbeu" "Bishti i Palles" "Gjiri i Drinit" "Gjiri i Rondonit" "Jube" "Kalaja e Turres" "Kepi i Rodonit" "Kyrekuq" "Shengjin" "Shetaj" "Velipoje" 
+	}
+}
+
+ALB_BC_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_BC
+
+	for_countries = { ALB }
+
+	type = ship
+	ship_types = { ship_hull_heavy battle_cruiser }
+
+	prefix = ""
+	fallback_name = "Battlecruiser BC-%d"
+
+	unique = {
+		"Shqipëria" "Skënderbeu" "Bishti i Palles" "Gjiri i Drinit" "Gjiri i Rondonit" "Jube" "Kalaja e Turres" "Kepi i Rodonit" "Kyrekuq" "Shengjin" "Shetaj" "Velipoje" 
+	}
+}
+
+ALB_CA_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CA
+
+	for_countries = { ALB }
+
+	type = ship
+	ship_types = { ship_hull_cruiser heavy_cruiser }
+
+	prefix = ""
+	fallback_name = "Heavy Cruiser CA-%d"
+
+	unique = {
+		"Shqipëria" "Skënderbeu" "Bishti i Palles" "Gjiri i Drinit" "Gjiri i Rondonit" "Jube" "Kalaja e Turres" "Kepi i Rodonit" "Kyrekuq" "Shengjin" "Shetaj" "Velipoje" 
+	}
+}
+
+ALB_CLAA_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CLAA
+
+	for_countries = { ALB }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser }
+
+	prefix = ""
+	fallback_name = "Light Cruiser CLAA-%d"
+
+	unique = {
+		"Shqipëria" "Skënderbeu" "Bishti i Palles" "Gjiri i Drinit" "Gjiri i Rondonit" "Jube" "Kalaja e Turres" "Kepi i Rodonit" "Kyrekuq" "Shengjin" "Shetaj" "Velipoje" 
+	}
+}
+
+ALB_CL_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CL
+
+	for_countries = { ALB }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser }
+
+	prefix = ""
+	fallback_name = "Light Cruiser CL-%d"
+
+	unique = {
+		"Shqipëria" "Skënderbeu" "Bishti i Palles" "Gjiri i Drinit" "Gjiri i Rondonit" "Jube" "Kalaja e Turres" "Kepi i Rodonit" "Kyrekuq" "Shengjin" "Shetaj" "Velipoje" 
+	}
+}
+
+ALB_CVL_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CVL
+
+	for_countries = { ALB }
+
+	type = ship
+	ship_types = { ship_hull_carrier carrier }
+
+	prefix = ""
+	fallback_name = "Carrier CVL-%d"
+
+	unique = {
+		"Shqipëria" "Skënderbeu" "Bishti i Palles" "Gjiri i Drinit" "Gjiri i Rondonit" "Jube" "Kalaja e Turres" "Kepi i Rodonit" "Kyrekuq" "Shengjin" "Shetaj" "Velipoje" 
+	}
+}
+
+ALB_CV_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CARRIERS
+
+	for_countries = { ALB }
+
+	type = ship
+	ship_types = { ship_hull_carrier carrier }
+
+	prefix = ""
+	fallback_name = "Carrier CV-%d"
+
+	unique = {
+		"Shqipëria" "Skënderbeu" "Bishti i Palles" "Gjiri i Drinit" "Gjiri i Rondonit" "Jube" "Kalaja e Turres" "Kepi i Rodonit" "Kyrekuq" "Shengjin" "Shetaj" "Velipoje" 
+	}
+}
+
+ALB_DD_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_DESTROYERS
+
+	for_countries = { ALB }
+
+	type = ship
+	ship_types = { ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Destroyer DD-%d"
+
+	unique = {
+		"Shqipëria" "Skënderbeu" "Bishti i Palles" "Gjiri i Drinit" "Gjiri i Rondonit" "Jube" "Kalaja e Turres" "Kepi i Rodonit" "Kyrekuq" "Shengjin" "Shetaj" "Velipoje" 
+	}
+}
+
+ALB_DE_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_DE
+
+	for_countries = { ALB }
+
+	type = ship
+	ship_types = { ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Destroyer Escort DE-%d"
+
+	unique = {
+		"Shqipëria" "Skënderbeu" "Bishti i Palles" "Gjiri i Drinit" "Gjiri i Rondonit" "Jube" "Kalaja e Turres" "Kepi i Rodonit" "Kyrekuq" "Shengjin" "Shetaj" "Velipoje" 
+	}
+}
+
+ALB_MINELAYERS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_MINELAYERS
+
+	for_countries = { ALB }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Minelayer CM-%d"
+
+	unique = {
+		"Shqipëria" "Skënderbeu" "Bishti i Palles" "Gjiri i Drinit" "Gjiri i Rondonit" "Jube" "Kalaja e Turres" "Kepi i Rodonit" "Kyrekuq" "Shengjin" "Shetaj" "Velipoje" 
+	}
+}
+
+ALB_SS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_SUBMARINES
+
+	for_countries = { ALB }
+
+	type = ship
+	ship_types = { ship_hull_submarine submarine }
+
+	prefix = ""
+	fallback_name = "Submarine SS-%d"
+
+	unique = {
+		"Shqipëria" "Skënderbeu" "Bishti i Palles" "Gjiri i Drinit" "Gjiri i Rondonit" "Jube" "Kalaja e Turres" "Kepi i Rodonit" "Kyrekuq" "Shengjin" "Shetaj" "Velipoje" 
+	}
+}
+

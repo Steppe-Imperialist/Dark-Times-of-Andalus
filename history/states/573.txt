@@ -1,0 +1,35 @@
+
+state={
+	id=573
+	name="STATE_573"
+	resources={
+		steel=18.000
+	}
+
+	history={
+		owner = SAX
+		victory_points = {
+			11545 15 
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 9
+			arms_factory = 3
+			air_base = 9
+
+		}
+		add_core_of = GER
+		add_core_of = SAX
+		add_core_of = T42
+		add_core_of = X60
+	}
+
+	provinces={
+		3522 6441 6487 6582 9238 9375 9456 9560 11359 11468 11545 
+	}
+	manpower=3980672
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

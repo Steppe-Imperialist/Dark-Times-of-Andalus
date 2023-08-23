@@ -1,0 +1,76 @@
+characters={
+	X07_pasekur_turushno={
+		name=X07_pasekur_turushno
+		portraits={
+			army={
+				large="GFX_Portrait_Japan_Generic_land_5"
+			}
+			army={
+				small="GFX_Portrait_Japan_Generic_land_5"
+			}
+		}
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=2
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X07_shiratekka_aterui={
+		name=X07_shiratekka_aterui
+		portraits={
+			army={
+				large="GFX_Portrait_Japan_Generic_land_1"
+			}
+			army={
+				small="GFX_Portrait_Japan_Generic_land_1"
+			}
+		}
+		corps_commander={
+			skill=1
+			attack_skill=2
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X07_shiratekka_koshamine={
+		name=X07_shiratekka_koshamine
+		portraits={
+			army={
+				large="GFX_Portrait_Asia_Generic_land_4"
+			}
+			army={
+				small="GFX_Portrait_Asia_Generic_land_4"
+			}
+		}
+		corps_commander={
+			skill=3
+			attack_skill=1
+			defense_skill=2
+			planning_skill=1
+			logistics_skill=5
+			legacy_id=0
+		}
+	}
+
+	X07_shiromainu_isonash={
+		name=X07_shiromainu_isonash
+		portraits={
+			civilian={
+				large="GFX_Ainu_Generic_Absolutist_2"
+			}
+		}
+		country_leader={
+			ideology=prussian_const
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

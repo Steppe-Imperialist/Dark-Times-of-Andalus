@@ -1,0 +1,16 @@
+characters={
+	S31_kharut_abda_al_karim={
+		name=S31_kharut_abda_al_karim
+		portraits={
+			civilian={
+				large="gfx/leaders/leader_unknown.dds"
+			}
+		}
+		country_leader={
+			ideology=dictatorship_neutral
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

@@ -1,0 +1,30 @@
+
+state={
+	id=409
+	name="STATE_409"
+
+	history={
+		owner = V36
+		victory_points = {
+			1968 15 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 5
+
+		}
+		add_core_of = V36
+		add_claim_by = COG
+	}
+
+	provinces={
+		1516 1968 12795 
+	}
+	manpower=895148
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

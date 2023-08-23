@@ -1,0 +1,58 @@
+﻿DOM = {
+	battle_cruiser = {
+		prefix = ""
+		generic = { "Battlecruiser" }
+		unique = {
+			"Bahoruco" "Desolación" "Destrucción" "El Pavor" "El Terror" "La Bombarda" "Neiba" "Samana" "Siete Cabezas" "Yamasa" 
+		}
+	}
+
+	battleship = {
+		prefix = ""
+		generic = { "Battleship" }
+		unique = {
+			"Francisco del Rosario" "Gregorio Luperón" "Hermanos de la Concha" "Hermanos Puello" "Juan A. Acosta" "Juan B. Cambiaso" "Juan B. Maggiolo" "Juan Pablo Duarte" "Matías R. Mella" "Vicente C. Duarte" 
+		}
+	}
+
+	carrier = {
+		prefix = ""
+		generic = { "Carrier" }
+		unique = {
+			"Azua" "Beller" "El Memiso" "El Número" "La Estrelleta" "Las Carreras" "Puerto Tortuguero" "Sabana Larga" "Santiago" "Santomé" 
+		}
+	}
+
+	destroyer = {
+		prefix = ""
+		generic = { "Destroyer" }
+		unique = {
+			"Barahona" "Duarte" "Independencia" "La Vega" "Montecristi" "Puerto Plata" "Restauración" "San Cristóbal" "Sánchez Ramírez" "Santo Domingo" 
+		}
+	}
+
+	heavy_cruiser = {
+		prefix = ""
+		generic = { "Heavy Cruiser" }
+		unique = {
+			"Cibao" "Diecinueve de Marzo" "La Merced" "Leonor" "Libertad" "María Chica" "Separación Dominicana" "Siete de Julio" "Veintisiete de Febrero" "Victoria" 
+		}
+	}
+
+	light_cruiser = {
+		prefix = ""
+		generic = { "Light Cruiser" }
+		unique = {
+			"Agustina" "Boba" "Dejabón" "Desesperación" "Incontrolable" "Josefa" "Juana" "Julia" "Nigua" "Ocoa" 
+		}
+	}
+
+	submarine = {
+		prefix = ""
+		generic = { "Submarine" }
+		unique = {
+			"Cristóbal Colón" "Diego de Ocampo" "Dios" "Grito de Capoyillo" "La Española" "Libertad" "Patria" "Taíno" "Trabucazo de Mella" "Trinitaria" 
+		}
+	}
+
+}

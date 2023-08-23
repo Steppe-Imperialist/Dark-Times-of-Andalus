@@ -1,0 +1,18 @@
+﻿converted_war_strategies_BSK = {
+	enable = {
+		tag = BSK
+		always = no
+	}
+	
+}
+
+converted_diplo_strategies_BSK = {
+	enable = {
+		tag = BSK
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+}

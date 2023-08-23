@@ -1,0 +1,58 @@
+﻿W85 = {
+	battle_cruiser = {
+		prefix = ""
+		generic = { "Battlecruiser" }
+		unique = {
+			"Eesti" "Tallinn" "Valga" "Tartu" "Mustvee" "Haapsalu" "Rapla" "Muhu" "Hiiumma" "Saaremaa" "Abruka" "Paldiski" "Kihnu" "Vormsi" "Vaindlo" 
+		}
+	}
+
+	battleship = {
+		prefix = ""
+		generic = { "Battleship" }
+		unique = {
+			"Eesti" "Tallinn" "Valga" "Tartu" "Mustvee" "Haapsalu" "Rapla" "Muhu" "Hiiumma" "Saaremaa" "Abruka" "Paldiski" "Kihnu" "Vormsi" "Vaindlo" 
+		}
+	}
+
+	carrier = {
+		prefix = ""
+		generic = { "Carrier" }
+		unique = {
+			"Eesti" "Tallinn" "Valga" "Tartu" "Mustvee" "Haapsalu" "Rapla" "Muhu" "Hiiumma" "Saaremaa" "Abruka" "Paldiski" "Kihnu" "Vormsi" "Vaindlo" 
+		}
+	}
+
+	destroyer = {
+		prefix = ""
+		generic = { "Destroyer" }
+		unique = {
+			"Eesti" "Tallinn" "Valga" "Tartu" "Mustvee" "Haapsalu" "Rapla" "Muhu" "Hiiumma" "Saaremaa" "Abruka" "Paldiski" "Kihnu" "Vormsi" "Vaindlo" 
+		}
+	}
+
+	heavy_cruiser = {
+		prefix = ""
+		generic = { "Heavy Cruiser" }
+		unique = {
+			"Eesti" "Tallinn" "Valga" "Tartu" "Mustvee" "Haapsalu" "Rapla" "Muhu" "Hiiumma" "Saaremaa" "Abruka" "Paldiski" "Kihnu" "Vormsi" "Vaindlo" 
+		}
+	}
+
+	light_cruiser = {
+		prefix = ""
+		generic = { "Light Cruiser" }
+		unique = {
+			"Eesti" "Tallinn" "Valga" "Tartu" "Mustvee" "Haapsalu" "Rapla" "Muhu" "Hiiumma" "Saaremaa" "Abruka" "Paldiski" "Kihnu" "Vormsi" "Vaindlo" 
+		}
+	}
+
+	submarine = {
+		prefix = ""
+		generic = { "Submarine" }
+		unique = {
+			"Eesti" "Tallinn" "Valga" "Tartu" "Mustvee" "Haapsalu" "Rapla" "Muhu" "Hiiumma" "Saaremaa" "Abruka" "Paldiski" "Kihnu" "Vormsi" "Vaindlo" 
+		}
+	}
+
+}

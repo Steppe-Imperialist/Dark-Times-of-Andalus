@@ -1,0 +1,29 @@
+ideas = {
+	# TECHNOLOGY
+	tank_manufacturer = {
+
+		designer = yes
+
+		T74_tank_manufacturer = {
+
+			picture = generic_tank_manufacturer_1
+
+			allowed = {
+				original_tag = T74
+				NOT = {
+					has_available_idea_with_traits = { idea = tank_manufacturer limit = 1 }
+				}
+			}
+
+			cost = 150
+			removal_cost = 10
+
+			research_bonus = {
+				armor = 0.15
+			}
+
+			traits = { tank_manufacturer }
+		}
+	}
+
+}

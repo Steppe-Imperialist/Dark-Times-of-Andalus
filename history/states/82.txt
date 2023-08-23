@@ -1,0 +1,30 @@
+
+state={
+	id=82
+	name="STATE_82"
+
+	history={
+		owner = BYA
+		victory_points = {
+			4716 15 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 6
+
+		}
+		add_core_of = BYA
+		add_core_of = YAK
+	}
+
+	provinces={
+		1696 1761 1762 4677 4705 4716 4719 4766 4835 4837 7725 7736 7816 7835 7854 7860 10528 10559 10574 10658 12507 12622 12644 
+	}
+	manpower=441704
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

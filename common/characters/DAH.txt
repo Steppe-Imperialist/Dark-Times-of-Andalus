@@ -1,0 +1,56 @@
+characters={
+	DAH_coujoe_agodo={
+		name=DAH_coujoe_agodo
+		portraits={
+			army={
+				large="GFX_German_Africa_Generic_land_7"
+			}
+			army={
+				small="GFX_German_Africa_Generic_land_7"
+			}
+		}
+		corps_commander={
+			skill=2
+			attack_skill=3
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	DAH_kofi_butiyi={
+		name=DAH_kofi_butiyi
+		portraits={
+			army={
+				large="GFX_GAB_Tchorere"
+			}
+			army={
+				small="GFX_GAB_Tchorere"
+			}
+		}
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	DAH_king_agoli_agbo_ii={
+		name=DAH_king_agoli_agbo_ii
+		portraits={
+			civilian={
+				large="GFX_KBR_Shehu_Masta_II"
+			}
+		}
+		country_leader={
+			ideology=absolute_monarchy
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

@@ -1,0 +1,16 @@
+characters={
+	S26_dmitriy_ostrovskiy={
+		name=S26_dmitriy_ostrovskiy
+		portraits={
+			civilian={
+				large="gfx/leaders/SOV/Portrait_Soviet_Joseph_Stalin.dds"
+			}
+		}
+		country_leader={
+			ideology=leninism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

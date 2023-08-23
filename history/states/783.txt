@@ -1,0 +1,36 @@
+
+state={
+	id=783
+	name="STATE_783"
+	resources={
+		chromium=4.000
+	}
+
+	history={
+		owner = T36
+		victory_points = {
+			12016 15 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 5
+
+		}
+		add_core_of = T36
+		add_core_of = TUR
+		add_core_of = X24
+		add_claim_by = SER
+		add_claim_by = YUG
+	}
+
+	provinces={
+		784 3876 11907 12013 12016 
+	}
+	manpower=412008
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

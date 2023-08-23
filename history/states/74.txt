@@ -1,0 +1,31 @@
+
+state={
+	id=74
+	name="STATE_74"
+
+	history={
+		owner = BAN
+		victory_points = {
+			12730 1 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = BAN
+		add_core_of = RAJ
+		add_core_of = X25
+	}
+
+	provinces={
+		1116 1996 10810 12730 
+	}
+	manpower=435928
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

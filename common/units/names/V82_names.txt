@@ -1,0 +1,58 @@
+﻿V82 = {
+	battle_cruiser = {
+		prefix = ""
+		generic = { "Battlecruiser" }
+		unique = {
+			"Newfoundland" "Labrador" "John Cabot" "Hudson" "Kirke" "Bristol" "Prince Edward" "Saint John" "Saint Lawrence" "Belle Isle" "Placentia" "Dominion" "Discovery" "Atlantis" "Leif Ericson" 
+		}
+	}
+
+	battleship = {
+		prefix = ""
+		generic = { "Battleship" }
+		unique = {
+			"Newfoundland" "Labrador" "John Cabot" "Hudson" "Kirke" "Bristol" "Prince Edward" "Saint John" "Saint Lawrence" "Belle Isle" "Placentia" "Dominion" "Discovery" "Atlantis" "Leif Ericson" 
+		}
+	}
+
+	carrier = {
+		prefix = ""
+		generic = { "Carrier" }
+		unique = {
+			"Newfoundland" "Labrador" "John Cabot" "Hudson" "Kirke" "Bristol" "Prince Edward" "Saint John" "Saint Lawrence" "Belle Isle" "Placentia" "Dominion" "Discovery" "Atlantis" "Leif Ericson" 
+		}
+	}
+
+	destroyer = {
+		prefix = ""
+		generic = { "Destroyer" }
+		unique = {
+			"Newfoundland" "Labrador" "John Cabot" "Hudson" "Kirke" "Bristol" "Prince Edward" "Saint John" "Saint Lawrence" "Belle Isle" "Placentia" "Dominion" "Discovery" "Atlantis" "Leif Ericson" 
+		}
+	}
+
+	heavy_cruiser = {
+		prefix = ""
+		generic = { "Heavy Cruiser" }
+		unique = {
+			"Newfoundland" "Labrador" "John Cabot" "Hudson" "Kirke" "Bristol" "Prince Edward" "Saint John" "Saint Lawrence" "Belle Isle" "Placentia" "Dominion" "Discovery" "Atlantis" "Leif Ericson" 
+		}
+	}
+
+	light_cruiser = {
+		prefix = ""
+		generic = { "Light Cruiser" }
+		unique = {
+			"Newfoundland" "Labrador" "John Cabot" "Hudson" "Kirke" "Bristol" "Prince Edward" "Saint John" "Saint Lawrence" "Belle Isle" "Placentia" "Dominion" "Discovery" "Atlantis" "Leif Ericson" 
+		}
+	}
+
+	submarine = {
+		prefix = ""
+		generic = { "Submarine" }
+		unique = {
+			"Newfoundland" "Labrador" "John Cabot" "Hudson" "Kirke" "Bristol" "Prince Edward" "Saint John" "Saint Lawrence" "Belle Isle" "Placentia" "Dominion" "Discovery" "Atlantis" "Leif Ericson" 
+		}
+	}
+
+}

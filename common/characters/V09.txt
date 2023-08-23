@@ -1,0 +1,16 @@
+characters={
+	V09_king_dulustaan_ii={
+		name=V09_king_dulustaan_ii
+		portraits={
+			civilian={
+				large="GFX_Ainu_Generic_Absolutist_1"
+			}
+		}
+		country_leader={
+			ideology=absolute_monarchy
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

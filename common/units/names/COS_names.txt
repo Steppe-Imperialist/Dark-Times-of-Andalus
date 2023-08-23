@@ -1,0 +1,58 @@
+﻿COS = {
+	battle_cruiser = {
+		prefix = ""
+		generic = { "Battlecruiser" }
+		unique = {
+			"Arenal" "Bebedero" "Diquís" "Jiménez" "Reventazón" "San Juan" "Sixaola" "Tárcoles" "Tempisque" "Tortuguero" 
+		}
+	}
+
+	battleship = {
+		prefix = ""
+		generic = { "Battleship" }
+		unique = {
+			"Caribe" "Centroamérica" "Costa Rica" "José María Castro" "Juan Mora" "Libertad" "Presidente" "Rafael Yglesias" "República" "Tomás Guardia" 
+		}
+	}
+
+	carrier = {
+		prefix = ""
+		generic = { "Carrier" }
+		unique = {
+			"Cacho Negro" "Chato" "Congo" "Irazú" "Miravalles" "Orosí" "Platanar" "Porvenir" "Santa María" "Tenorio" 
+		}
+	}
+
+	destroyer = {
+		prefix = ""
+		generic = { "Destroyer" }
+		unique = {
+			"Cacique" "Castillo del Oro" "Chamán" "Chorotega" "Constitución" "Cristóbal Colón" "Independencia" "Puerto Limón" "Quince de Septiembre" "Vasco Núñez de Balboa" 
+		}
+	}
+
+	heavy_cruiser = {
+		prefix = ""
+		generic = { "Heavy Cruiser" }
+		unique = {
+			"Audaz" "Intrépido" "Libertad" "San Antonio" "San Fernando" "San Juan" "Santa Isabel" "Santa Marta" "Santa Mónica" "Vigilante" 
+		}
+	}
+
+	light_cruiser = {
+		prefix = ""
+		generic = { "Light Cruiser" }
+		unique = {
+			"Barva" "Cerro de la Muerte" "Guanacaste" "Intratable" "Poás" "Rincón de la Vieja" "Talamanca" "Tilarán" "Turrialba" "Victorioso" 
+		}
+	}
+
+	submarine = {
+		prefix = ""
+		generic = { "Submarine" }
+		unique = {
+			"Alajuela" "Cartago" "Guanacaste" "Heredia" "Liberia" "Limón" "Nicoya" "Papagayo" "Puntarenas" "San José" 
+		}
+	}
+
+}

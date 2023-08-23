@@ -1,0 +1,364 @@
+characters={
+	SAX_otto_von_kleefeld={
+		name=SAX_otto_von_kleefeld
+		portraits={
+			army={
+				large="GFX_Portrait_Europe_Generic_land_2"
+			}
+			army={
+				small="GFX_Portrait_Europe_Generic_land_2"
+			}
+		}
+		corps_commander={
+			skill=2
+			attack_skill=4
+			defense_skill=2
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	SAX_pascal_ludendorff={
+		name=SAX_pascal_ludendorff
+		portraits={
+			army={
+				large="gfx/leaders/GER/Portrait_Germany_Erhard_Milch.dds"
+			}
+			army={
+				small="gfx/leaders/GER/Portrait_Germany_Erhard_Milch.dds"
+			}
+		}
+		corps_commander={
+			skill=3
+			attack_skill=1
+			defense_skill=4
+			planning_skill=3
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	SAX_gunther_von_reuter={
+		name=SAX_gunther_von_reuter
+		portraits={
+			army={
+				large="GFX_Portrait_Europe_Generic_land_4"
+			}
+			army={
+				small="GFX_Portrait_Europe_Generic_land_4"
+			}
+		}
+		corps_commander={
+			skill=3
+			attack_skill=4
+			defense_skill=3
+			planning_skill=2
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	SAX_michael_von_hessen_darmstadt={
+		name=SAX_michael_von_hessen_darmstadt
+		portraits={
+			army={
+				large="GFX_Portrait_Europe_Generic_land_5"
+			}
+			army={
+				small="GFX_Portrait_Europe_Generic_land_5"
+			}
+		}
+		corps_commander={
+			skill=2
+			attack_skill=2
+			defense_skill=2
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	SAX_hugo_von_manteuffel={
+		name=SAX_hugo_von_manteuffel
+		portraits={
+			army={
+				large="GFX_portrait_GER_fedor_von_bock"
+			}
+			army={
+				small="GFX_portrait_GER_fedor_von_bock"
+			}
+		}
+		corps_commander={
+			skill=2
+			attack_skill=1
+			defense_skill=1
+			planning_skill=2
+			logistics_skill=4
+			legacy_id=0
+		}
+	}
+
+	SAX_maximilian_von_sachsen_altenburg={
+		name=SAX_maximilian_von_sachsen_altenburg
+		portraits={
+			army={
+				large="GFX_portrait_GER_hasso_von_manteuffel"
+			}
+			army={
+				small="GFX_portrait_GER_hasso_von_manteuffel"
+			}
+		}
+		corps_commander={
+			skill=4
+			attack_skill=4
+			defense_skill=1
+			planning_skill=3
+			logistics_skill=5
+			legacy_id=0
+		}
+	}
+
+	SAX_michael_heppendorf={
+		name=SAX_michael_heppendorf
+		portraits={
+			army={
+				large="GFX_portrait_GER_hermann_hoth"
+			}
+			army={
+				small="GFX_portrait_GER_hermann_hoth"
+			}
+		}
+		corps_commander={
+			skill=2
+			attack_skill=1
+			defense_skill=1
+			planning_skill=3
+			logistics_skill=2
+			legacy_id=0
+		}
+	}
+
+	SAX_nikolaus_von_roon={
+		name=SAX_nikolaus_von_roon
+		portraits={
+			army={
+				large="gfx/leaders/GER/Portrait_Germany_Wolfram_Freiherr_von_Richthofen.dds"
+			}
+			army={
+				small="gfx/leaders/GER/Portrait_Germany_Wolfram_Freiherr_von_Richthofen.dds"
+			}
+		}
+		corps_commander={
+			skill=2
+			attack_skill=2
+			defense_skill=2
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	SAX_konrad_von_blumenthal={
+		name=SAX_konrad_von_blumenthal
+		portraits={
+			army={
+				large="GFX_portrait_GER_albert_kesselring"
+			}
+			army={
+				small="GFX_portrait_GER_albert_kesselring"
+			}
+		}
+		corps_commander={
+			skill=2
+			attack_skill=1
+			defense_skill=4
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	SAX_georg_von_halkett={
+		name=SAX_georg_von_halkett
+		portraits={
+			army={
+				large="GFX_Portrait_Germany_Generic_land_1"
+			}
+			army={
+				small="GFX_Portrait_Germany_Generic_land_1"
+			}
+		}
+		corps_commander={
+			skill=2
+			attack_skill=1
+			defense_skill=4
+			planning_skill=2
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	SAX_theodor_von_holstein_gottorp={
+		name=SAX_theodor_von_holstein_gottorp
+		portraits={
+			navy={
+				large="GFX_Portrait_Germany_Generic_navy_3"
+			}
+			navy={
+				small="GFX_Portrait_Germany_Generic_navy_3"
+			}
+		}
+		navy_leader={
+			skill=1
+			attack_skill=2
+			defense_skill=1
+			maneuvering_skill=1
+			coordination_skill=1
+			legacy_id=0
+		}
+	}
+
+	SAX_franz_von_ravensberg={
+		name=SAX_franz_von_ravensberg
+		portraits={
+			navy={
+				large="GFX_Portrait_Germany_Generic_navy_1"
+			}
+			navy={
+				small="GFX_Portrait_Germany_Generic_navy_1"
+			}
+		}
+		navy_leader={
+			skill=2
+			attack_skill=1
+			defense_skill=1
+			maneuvering_skill=1
+			coordination_skill=4
+			legacy_id=0
+		}
+	}
+
+	SAX_michael_von_blomberg={
+		name=SAX_michael_von_blomberg
+		portraits={
+			navy={
+				large="GFX_portrait_GER_karl_donitz"
+			}
+			navy={
+				small="GFX_portrait_GER_karl_donitz"
+			}
+		}
+		navy_leader={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			maneuvering_skill=1
+			coordination_skill=1
+			legacy_id=0
+		}
+	}
+
+	SAX_adelbert_von_roon={
+		name=SAX_adelbert_von_roon
+		portraits={
+			civilian={
+				large="gfx/leaders/Europe/portrait_europe_generic_5.dds"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+	UTI_maurice_gamelin={
+		advisor={
+			slot = army_chief
+			idea_token = maurice_gamelin
+			available = {
+                has_completed_focus = FRA_aggressive_focus
+            }
+			allowed = {
+                original_tag = event_target:FRA_begin_rearmament_FRA
+            }
+			traits = {
+				army_chief_offensive_2
+			}
+			cost = 100
+			ai_will_do = {
+                factor = 1.000
+            }
+		}
+		field_marshal={
+			traits={ old_guard inflexible_strategist career_officer defensive_doctrine }
+			skill=2
+			attack_skill=1
+			defense_skill=3
+			planning_skill=2
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	UTI_maxime_weygand={
+		advisor={
+			slot = army_chief
+			idea_token = maxime_weygand
+			available = {
+                has_completed_focus = FRA_defensive_focus
+            }
+			allowed = {
+                original_tag = event_target:FRA_begin_rearmament_FRA
+            }
+			traits = {
+				army_chief_defensive_2
+			}
+			cost = 100
+			ai_will_do = {
+                factor = 1.000
+            }
+		}
+		field_marshal={
+			traits={ old_guard inflexible_strategist career_officer defensive_doctrine }
+			skill=3
+			attack_skill=3
+			defense_skill=3
+			planning_skill=2
+			logistics_skill=2
+			legacy_id=0
+		}
+	}
+
+	UTI_charles_de_gaulle={
+		advisor={
+			slot = theorist
+			idea_token = charles_de_gaulle
+			ledger = army
+			available = {
+                has_completed_focus = FRA_battle_of_maneuver
+            }
+			allowed = {
+                original_tag = event_target:FRA_begin_rearmament_FRA
+            }
+			traits = {
+				blitzkrieg_theorist
+			}
+			cost = 100
+			ai_will_do = {
+                factor = 1.000
+            }
+		}
+		corps_commander={
+			traits={ media_personality harsh_leader armor_officer }
+			skill=4
+			attack_skill=4
+			defense_skill=4
+			planning_skill=3
+			logistics_skill=2
+			legacy_id=0
+		}
+	}
+
+}

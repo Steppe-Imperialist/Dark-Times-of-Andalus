@@ -1,0 +1,18 @@
+﻿converted_war_strategies_ETH = {
+	enable = {
+		tag = ETH
+		always = no
+	}
+	
+}
+
+converted_diplo_strategies_ETH = {
+	enable = {
+		tag = ETH
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+}

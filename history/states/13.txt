@@ -1,0 +1,35 @@
+
+state={
+	id=13
+	name="STATE_13"
+
+	history={
+		owner = ADU
+		victory_points = {
+			11707 10 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 2
+			arms_factory = 0
+			11707 = {
+				naval_base = 2
+			}
+			air_base = 10
+
+		}
+		add_core_of = SPR
+		add_core_of = T54
+		add_core_of = X28
+		add_claim_by = ADU
+	}
+
+	provinces={
+		726 738 794 874 885 903 918 920 3725 3727 3729 3744 3874 3918 3920 4024 6746 6749 6867 6907 6936 9699 9700 9703 9719 9770 9827 9846 9870 9872 11684 11688 11707 11806 11809 11825 11843 11852 11854 13218 13219 13220 13221 13226 13232 
+	}
+	manpower=648064
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

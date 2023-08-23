@@ -1,0 +1,36 @@
+
+state={
+	id=52
+	name="STATE_52"
+
+	history={
+		owner = X22
+		victory_points = {
+			12785 1 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			12785 = {
+				naval_base = 1
+			}
+			air_base = 0
+
+		}
+		add_core_of = GHA
+		add_core_of = U43
+		add_core_of = X22
+		add_claim_by = W58
+		add_claim_by = X54
+	}
+
+	provinces={
+		12785 
+	}
+	manpower=589552
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+
+	local_supplies=10.0
+}

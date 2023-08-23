@@ -1,0 +1,31 @@
+
+state={
+	id=647
+	name="STATE_647"
+
+	history={
+		owner = U85
+		victory_points = {
+			1623 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = T76
+		add_core_of = U85
+		add_claim_by = PER
+	}
+
+	provinces={
+		1623 12161 
+	}
+	manpower=909424
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+
+	local_supplies=10.0
+}

@@ -1,0 +1,119 @@
+﻿capital = 221
+set_research_slots = 2
+
+oob = "GHA_OOB"
+if = {
+	limit = { has_dlc = "Man the Guns" }
+		set_naval_oob = "GHA_1936_naval_mtg"
+	else = { 
+		set_naval_oob = "GHA_1936_naval_legacy"
+	}
+}
+
+# Starting tech
+# Research Bonuses
+
+set_country_flag = conv_western_africa
+set_convoys = 0
+
+set_politics = {
+    ruling_party = democratic
+    last_election = "1935.10.16"
+    election_frequency = 48
+    elections_allowed = yes
+}
+
+set_popularities = {
+	absolutist = 30
+	democratic = 69
+	neutrality = 1
+}
+
+add_ideas = {
+	uncivilized
+	volunteer_only
+	civilian_economy
+	export_focus
+	culture_akan
+}
+set_stability = 0.60
+set_war_support = 0.68
+
+recruit_character = GHA_kwabena_prempeh
+recruit_character = GHA_akyampon_panyin
+recruit_character = GHA_kwabena_panyin
+recruit_character = GHA_agyeman_prempeh
+recruit_character = GHA_owusu_dwomo
+recruit_character = GHA_akyampon_dwomo
+recruit_character = GHA_opoku_sekyere
+recruit_character = GHA_akyampon_prempeh
+
+if = {
+	limit = {
+		has_dlc = "La Resistance"
+	}
+	create_operative_leader = {
+		name = "Zahra Prempeh"
+		GFX = "gfx/leaders/Africa/portrait_africa_generic_operative_female_1.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { GHA }
+	}
+
+	create_operative_leader = {
+		name = "Zahra Panyin"
+		GFX = "gfx/leaders/Africa/portrait_africa_generic_operative_female_2.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { GHA }
+	}
+
+	create_operative_leader = {
+		name = "Nia Prempeh"
+		GFX = "gfx/leaders/Africa/portrait_africa_generic_operative_female_3.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { GHA }
+	}
+
+	create_operative_leader = {
+		name = "Onsei Karikari"
+		GFX = "gfx/leaders/Africa/portrait_africa_generic_operative_male_1.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		nationalities = { GHA }
+	}
+
+	create_operative_leader = {
+		name = "Opoku Karikari"
+		GFX = "gfx/leaders/Africa/portrait_africa_generic_operative_male_2.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		nationalities = { GHA }
+	}
+
+}
+### VARIANTS ###
+if = {
+	limit = { not = { has_dlc = "Man the Guns" } }
+}
+if = {
+	limit = { has_dlc = "Man the Guns" }
+}
+### PLANE DESIGNS ###
+if = {
+	limit = { has_dlc = "By Blood Alone" }
+}
+### TANK DESIGNS ###
+if = {
+	limit = { has_dlc = "No Step Back" }
+}
+

@@ -1,0 +1,33 @@
+
+state={
+	id=895
+	name="STATE_895"
+
+	history={
+		owner = S05
+		victory_points = {
+			11437 1 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			11683 = {
+				naval_base = 2
+			}
+			air_base = 0
+
+		}
+		add_core_of = S05
+		add_claim_by = W53
+	}
+
+	provinces={
+		574 3403 3755 6423 6451 6478 9419 9433 9573 11422 11437 11546 11561 11683 11715 
+	}
+	manpower=983728
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

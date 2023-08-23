@@ -1,0 +1,31 @@
+
+state={
+	id=639
+	name="STATE_639"
+
+	history={
+		owner = U76
+		victory_points = {
+			4901 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = AZR
+		add_core_of = T49
+		add_core_of = U76
+	}
+
+	provinces={
+		4825 4901 10454 
+	}
+	manpower=961264
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

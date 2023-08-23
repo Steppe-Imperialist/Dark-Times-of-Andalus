@@ -1,0 +1,33 @@
+
+state={
+	id=220
+	name="STATE_220"
+
+	history={
+		owner = GAB
+		victory_points = {
+			5139 15 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+			5139 = {
+				naval_base = 1
+			}
+			air_base = 5
+
+		}
+		add_core_of = GAB
+		add_claim_by = NOR
+	}
+
+	provinces={
+		5139 
+	}
+	manpower=28512
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

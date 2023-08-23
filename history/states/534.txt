@@ -1,0 +1,39 @@
+
+state={
+	id=534
+	name="STATE_534"
+	resources={
+		aluminium=2.000
+		chromium=12.000
+		oil=1.000
+		steel=11.000
+	}
+
+	history={
+		owner = SOV
+		victory_points = {
+			1821 15 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 0
+			air_base = 6
+
+		}
+		add_core_of = BSK
+		add_core_of = SIB
+		add_core_of = SOV
+		add_core_of = TRA
+		add_claim_by = T01
+	}
+
+	provinces={
+		307 1233 1292 1294 1327 1334 1543 1704 1750 1771 1775 1808 1821 1841 3280 4242 4411 4758 4813 7228 7285 7320 7328 7401 7778 9292 9553 10133 10136 10170 10185 10189 10213 10216 10256 10329 10542 10648 10716 10720 11223 11307 12102 12106 12157 12287 12567 12584 12659 12696 
+	}
+	manpower=1533956
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

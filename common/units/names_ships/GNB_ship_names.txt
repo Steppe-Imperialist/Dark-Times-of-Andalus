@@ -1,0 +1,176 @@
+﻿GNB_BB_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_BB
+
+	for_countries = { GNB }
+
+	type = ship
+	ship_types = { ship_hull_heavy battleship }
+
+	prefix = ""
+	fallback_name = "Battleship BB-%d"
+
+	unique = {
+		"Afonso de Albuquerque" "AntÃ³nia Rodrigues" "Diogo CÃ£o" "Duarte Pacheco Pereira" "Duarte de Almeida" "JoÃ£o da Nova" "Lopo Barriga" "Mem Moniz de Gandarei" "Munio Viegas" "Nuno Ãlvares Pereira" "Vasco da Gama" 
+	}
+}
+
+GNB_BC_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_BC
+
+	for_countries = { GNB }
+
+	type = ship
+	ship_types = { ship_hull_heavy battle_cruiser }
+
+	prefix = ""
+	fallback_name = "Battlecruiser BC-%d"
+
+	unique = {
+		"Beira" "Ibo" "Chaimite" "Limpopo" "LÃºrio" "Save" "AÃ§or" "Tavira" "Faro" "Lagos" 
+	}
+}
+
+GNB_CA_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CA
+
+	for_countries = { GNB }
+
+	type = ship
+	ship_types = { ship_hull_cruiser heavy_cruiser }
+
+	prefix = ""
+	fallback_name = "Heavy Cruiser CA-%d"
+
+	unique = {
+		"PrÃ­ncipe Real" "PrÃ­ncipe do Brazil" "Rainha de Portugal" "Afonso de Albuquerque" "Princesa da Beira" "Infante Dom Pedro" "Medusa" "BelÃ©m" "Maria Primeira" "SÃ£o SebastiÃ£o" "Santo AntÃ³nio" "PrÃ­ncipe Regente" "Teresa" "Golfinho" "AmazÃ³nia" "PÃ©rola" 
+	}
+}
+
+GNB_CLAA_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CLAA
+
+	for_countries = { GNB }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser }
+
+	prefix = ""
+	fallback_name = "Light Cruiser CLAA-%d"
+
+	unique = {
+		"Bartolomeu Dias" "EstefÃ¢nia" "Duque da Terceira" "SÃ¡ da Bandeira" "Rainha de Portugal" "Mindelo" ";" 
+	}
+}
+
+GNB_CL_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CL
+
+	for_countries = { GNB }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser }
+
+	prefix = ""
+	fallback_name = "Light Cruiser CL-%d"
+
+	unique = {
+		"Bartolomeu Dias" "EstefÃ¢nia" "Duque da Terceira" "SÃ¡ da Bandeira" "Rainha de Portugal" "Mindelo" ";" 
+	}
+}
+
+GNB_CVL_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CVL
+
+	for_countries = { GNB }
+
+	type = ship
+	ship_types = { ship_hull_carrier carrier }
+
+	prefix = ""
+	fallback_name = "Carrier CVL-%d"
+
+	unique = {
+		"TÃ¢mega" "Sado" "Rio Lima" "Tejo" "Douro" "Quanza" "Bengo" "Mandovi" "Rio Ave" "Guadiana" "Tavira" "Faro" "Lagos" 
+	}
+}
+
+GNB_CV_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CARRIERS
+
+	for_countries = { GNB }
+
+	type = ship
+	ship_types = { ship_hull_carrier carrier }
+
+	prefix = ""
+	fallback_name = "Carrier CV-%d"
+
+	unique = {
+		"TÃ¢mega" "Sado" "Rio Lima" "Tejo" "Douro" "Quanza" "Bengo" "Mandovi" "Rio Ave" "Guadiana" "Tavira" "Faro" "Lagos" 
+	}
+}
+
+GNB_DD_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_DESTROYERS
+
+	for_countries = { GNB }
+
+	type = ship
+	ship_types = { ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Destroyer DD-%d"
+
+	unique = {
+		"D. Carlos I" "S. Gabriel" "S. Rafael" "Adamastor" "Rainha D. AmÃ©lia" "Almirante Reis" "RepÃºblica" "Pedro Nunes" "Gil Eannes" 
+	}
+}
+
+GNB_DE_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_DE
+
+	for_countries = { GNB }
+
+	type = ship
+	ship_types = { ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Destroyer Escort DE-%d"
+
+	unique = {
+		"D. Carlos I" "S. Gabriel" "S. Rafael" "Adamastor" "Rainha D. AmÃ©lia" "Almirante Reis" "RepÃºblica" "Pedro Nunes" "Gil Eannes" 
+	}
+}
+
+GNB_MINELAYERS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_MINELAYERS
+
+	for_countries = { GNB }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Minelayer CM-%d"
+
+	unique = {
+		"Bartolomeu Dias" "EstefÃ¢nia" "Duque da Terceira" "SÃ¡ da Bandeira" "Rainha de Portugal" "Mindelo" ";" 
+	}
+}
+
+GNB_SS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_SUBMARINES
+
+	for_countries = { GNB }
+
+	type = ship
+	ship_types = { ship_hull_submarine submarine }
+
+	prefix = ""
+	fallback_name = "Submarine SS-%d"
+
+	unique = {
+		"FÃ©nix" "Amazona" "Cisne" "Minerva" "N.Sra. da GraÃ§a" "PÃ©rola" "Princesa Carlota" "Princesa" "PrÃ­ncipe da Beira" "TristÃ£o" "Ulisses" "VÃ©nus" "Golfinho" "S. JoÃ£o PrÃ­ncipe" "ThÃ©tis" "Activa" "Dom Fernando II e GlÃ³ria" "Princesa de Abiena" "Andorinha" "Real Fonsor" "BoaVentura" "Serpente" "Diligente" "Gaivota" "Real Fonza" "Benjamim" "TritÃ£o" 
+	}
+}
+

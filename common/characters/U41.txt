@@ -1,0 +1,16 @@
+characters={
+	U41_georg_von_alten={
+		name=U41_georg_von_alten
+		portraits={
+			civilian={
+				large="gfx/leaders/GER/Portrait_Germany_Hermann_Goring.dds"
+			}
+		}
+		country_leader={
+			ideology=fascism_ideology
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

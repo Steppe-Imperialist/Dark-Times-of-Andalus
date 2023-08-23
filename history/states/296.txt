@@ -1,0 +1,35 @@
+
+state={
+	id=296
+	name="STATE_296"
+
+	history={
+		owner = ICE
+		victory_points = {
+			13003 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			13003 = {
+				naval_base = 6
+			}
+			air_base = 0
+
+		}
+		add_core_of = ENG
+		add_core_of = ICE
+		add_claim_by = NOR
+		add_claim_by = SCA
+	}
+
+	provinces={
+		13003 
+	}
+	manpower=19752
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

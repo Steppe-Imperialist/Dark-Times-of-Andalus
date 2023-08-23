@@ -1,0 +1,16 @@
+characters={
+	V15_bronislaw_poniatowski={
+		name=V15_bronislaw_poniatowski
+		portraits={
+			civilian={
+				large="gfx/leaders/CZE/Portrait_Czech_Klement_Gottwald.dds"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

@@ -1,0 +1,36 @@
+
+state={
+	id=576
+	name="STATE_576"
+
+	history={
+		owner = SAX
+		victory_points = {
+			11366 10 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 3
+			arms_factory = 0
+			11331 = {
+				naval_base = 6
+			}
+			air_base = 6
+
+		}
+		add_core_of = GER
+		add_core_of = SAX
+		add_core_of = W19
+		add_core_of = W23
+		add_claim_by = ENG
+	}
+
+	provinces={
+		317 3231 3368 6257 9320 11331 11366 
+	}
+	manpower=1148792
+	buildings_max_level_factor=1.000
+	state_category=large_town
+
+	local_supplies=10.0
+}

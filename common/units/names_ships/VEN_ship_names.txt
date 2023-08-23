@@ -1,0 +1,176 @@
+﻿VEN_BB_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_BB
+
+	for_countries = { VEN }
+
+	type = ship
+	ship_types = { ship_hull_heavy battleship }
+
+	prefix = ""
+	fallback_name = "Battleship BB-%d"
+
+	unique = {
+		"Almirante Brión" "Francisco de Miranda" "General Falcón" "General Páez" "General Zamora" "Guaicaipuro" "Mariscal Sucre" "Simón Bolivar" "Tamanaco" "Venezuela" 
+	}
+}
+
+VEN_BC_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_BC
+
+	for_countries = { VEN }
+
+	type = ship
+	ship_types = { ship_hull_heavy battle_cruiser }
+
+	prefix = ""
+	fallback_name = "Battlecruiser BC-%d"
+
+	unique = {
+		"Bolívar" "Carabobo" "General Soublette" "General Urdaneta" "Maraparari" "Monagas" "Totumo" "Trópico" "Veintitres de Mayo" 
+	}
+}
+
+VEN_CA_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CA
+
+	for_countries = { VEN }
+
+	type = ship
+	ship_types = { ship_hull_cruiser heavy_cruiser }
+
+	prefix = ""
+	fallback_name = "Heavy Cruiser CA-%d"
+
+	unique = {
+		"Brión" "Colombiana" "Conejo" "Eclipse" "Feliz" "Independencia" "Intrépido" "Mariño" "Piar" "Rita" 
+	}
+}
+
+VEN_CLAA_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CLAA
+
+	for_countries = { VEN }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser }
+
+	prefix = ""
+	fallback_name = "Light Cruiser CLAA-%d"
+
+	unique = {
+		"Aragua" "Constitución" "Federación" "General Crespo" "Independencia" "Libertad" "Marcay" "Maturín" "Miranda" "Patria" 
+	}
+}
+
+VEN_CL_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CL
+
+	for_countries = { VEN }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser }
+
+	prefix = ""
+	fallback_name = "Light Cruiser CL-%d"
+
+	unique = {
+		"Aragua" "Constitución" "Federación" "General Crespo" "Independencia" "Libertad" "Marcay" "Maturín" "Miranda" "Patria" 
+	}
+}
+
+VEN_CVL_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CVL
+
+	for_countries = { VEN }
+
+	type = ship
+	ship_types = { ship_hull_carrier carrier }
+
+	prefix = ""
+	fallback_name = "Carrier CVL-%d"
+
+	unique = {
+		"Cacique" "Carreño" "Diego de Losada" "Gran Colombia" "Gual" "Guayana" "Narvate" "Nueva Andalucía" "Tovar" "Villegas" 
+	}
+}
+
+VEN_CV_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CARRIERS
+
+	for_countries = { VEN }
+
+	type = ship
+	ship_types = { ship_hull_carrier carrier }
+
+	prefix = ""
+	fallback_name = "Carrier CV-%d"
+
+	unique = {
+		"Cacique" "Carreño" "Diego de Losada" "Gran Colombia" "Gual" "Guayana" "Narvate" "Nueva Andalucía" "Tovar" "Villegas" 
+	}
+}
+
+VEN_DD_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_DESTROYERS
+
+	for_countries = { VEN }
+
+	type = ship
+	ship_types = { ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Destroyer DD-%d"
+
+	unique = {
+		"Aragua" "Caroní" "Casiquiare" "Cumaná" "General Salom" "Maracaibo" "Orinoco" "Restaurador" "Sucre" "Zulia" 
+	}
+}
+
+VEN_DE_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_DE
+
+	for_countries = { VEN }
+
+	type = ship
+	ship_types = { ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Destroyer Escort DE-%d"
+
+	unique = {
+		"Aragua" "Caroní" "Casiquiare" "Cumaná" "General Salom" "Maracaibo" "Orinoco" "Restaurador" "Sucre" "Zulia" 
+	}
+}
+
+VEN_MINELAYERS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_MINELAYERS
+
+	for_countries = { VEN }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Minelayer CM-%d"
+
+	unique = {
+		"Aragua" "Constitución" "Federación" "General Crespo" "Independencia" "Libertad" "Marcay" "Maturín" "Miranda" "Patria" 
+	}
+}
+
+VEN_SS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_SUBMARINES
+
+	for_countries = { VEN }
+
+	type = ship
+	ship_types = { ship_hull_submarine submarine }
+
+	prefix = ""
+	fallback_name = "Submarine SS-%d"
+
+	unique = {
+		"Caribe" "Cojedes" "Lara" "Mérida" "Monagas" "Nueva Esparta" "Portuguesa" "Trujillo" "Warao" "Yecuana" 
+	}
+}
+

@@ -1,0 +1,32 @@
+
+state={
+	id=506
+	name="STATE_506"
+
+	history={
+		owner = U26
+		victory_points = {
+			4578 0 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = KAZ
+		add_core_of = U85
+		add_claim_by = U26
+		add_claim_by = V46
+	}
+
+	provinces={
+		4578 4636 4686 7501 7507 7777 10148 10353 10366 10601 
+	}
+	manpower=565764
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+
+	local_supplies=10.0
+}

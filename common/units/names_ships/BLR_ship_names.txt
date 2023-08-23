@@ -1,0 +1,176 @@
+﻿BLR_BB_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_BB
+
+	for_countries = { BLR }
+
+	type = ship
+	ship_types = { ship_hull_heavy battleship }
+
+	prefix = ""
+	fallback_name = "Battleship BB-%d"
+
+	unique = {
+		"Belarus" "Minsk" "Brest" "Hrodna" "Gomel" "Mogilev" "Vitebsk" 
+	}
+}
+
+BLR_BC_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_BC
+
+	for_countries = { BLR }
+
+	type = ship
+	ship_types = { ship_hull_heavy battle_cruiser }
+
+	prefix = ""
+	fallback_name = "Battlecruiser BC-%d"
+
+	unique = {
+		"Belarus" "Minsk" "Brest" "Hrodna" "Gomel" "Mogilev" "Vitebsk" 
+	}
+}
+
+BLR_CA_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CA
+
+	for_countries = { BLR }
+
+	type = ship
+	ship_types = { ship_hull_cruiser heavy_cruiser }
+
+	prefix = ""
+	fallback_name = "Heavy Cruiser CA-%d"
+
+	unique = {
+		"Belarus" "Minsk" "Brest" "Hrodna" "Gomel" "Mogilev" "Vitebsk" 
+	}
+}
+
+BLR_CLAA_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CLAA
+
+	for_countries = { BLR }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser }
+
+	prefix = ""
+	fallback_name = "Light Cruiser CLAA-%d"
+
+	unique = {
+		"Belarus" "Minsk" "Brest" "Hrodna" "Gomel" "Mogilev" "Vitebsk" 
+	}
+}
+
+BLR_CL_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CL
+
+	for_countries = { BLR }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser }
+
+	prefix = ""
+	fallback_name = "Light Cruiser CL-%d"
+
+	unique = {
+		"Belarus" "Minsk" "Brest" "Hrodna" "Gomel" "Mogilev" "Vitebsk" 
+	}
+}
+
+BLR_CVL_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CVL
+
+	for_countries = { BLR }
+
+	type = ship
+	ship_types = { ship_hull_carrier carrier }
+
+	prefix = ""
+	fallback_name = "Carrier CVL-%d"
+
+	unique = {
+		"Belarus" "Minsk" "Brest" "Hrodna" "Gomel" "Mogilev" "Vitebsk" 
+	}
+}
+
+BLR_CV_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CARRIERS
+
+	for_countries = { BLR }
+
+	type = ship
+	ship_types = { ship_hull_carrier carrier }
+
+	prefix = ""
+	fallback_name = "Carrier CV-%d"
+
+	unique = {
+		"Belarus" "Minsk" "Brest" "Hrodna" "Gomel" "Mogilev" "Vitebsk" 
+	}
+}
+
+BLR_DD_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_DESTROYERS
+
+	for_countries = { BLR }
+
+	type = ship
+	ship_types = { ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Destroyer DD-%d"
+
+	unique = {
+		"Belarus" "Minsk" "Brest" "Hrodna" "Gomel" "Mogilev" "Vitebsk" 
+	}
+}
+
+BLR_DE_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_DE
+
+	for_countries = { BLR }
+
+	type = ship
+	ship_types = { ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Destroyer Escort DE-%d"
+
+	unique = {
+		"Belarus" "Minsk" "Brest" "Hrodna" "Gomel" "Mogilev" "Vitebsk" 
+	}
+}
+
+BLR_MINELAYERS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_MINELAYERS
+
+	for_countries = { BLR }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Minelayer CM-%d"
+
+	unique = {
+		"Belarus" "Minsk" "Brest" "Hrodna" "Gomel" "Mogilev" "Vitebsk" 
+	}
+}
+
+BLR_SS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_SUBMARINES
+
+	for_countries = { BLR }
+
+	type = ship
+	ship_types = { ship_hull_submarine submarine }
+
+	prefix = ""
+	fallback_name = "Submarine SS-%d"
+
+	unique = {
+		"Belarus" "Minsk" "Brest" "Hrodna" "Gomel" "Mogilev" "Vitebsk" 
+	}
+}
+

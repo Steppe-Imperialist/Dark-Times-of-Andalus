@@ -1,0 +1,16 @@
+characters={
+	S34_abareybon_ag_sidi={
+		name=S34_abareybon_ag_sidi
+		portraits={
+			civilian={
+				large="GFX_EGY_Hussein_Al_Shafei"
+			}
+		}
+		country_leader={
+			ideology=dictatorship_neutral
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

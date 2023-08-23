@@ -1,0 +1,16 @@
+characters={
+	LAO_king_inthaphom_yo_ii={
+		name=LAO_king_inthaphom_yo_ii
+		portraits={
+			civilian={
+				large="gfx/leaders/SIA/Portrait_Siam_Phraya_Phahon.dds"
+			}
+		}
+		country_leader={
+			ideology=absolute_monarchy
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

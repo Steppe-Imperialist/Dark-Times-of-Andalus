@@ -1,0 +1,65 @@
+units = {
+	fleet = {
+		name = "2nd Fleet"
+		naval_base = 10855
+		task_force = {
+			name = "2nd Fleet"
+			location = 10855
+			ship = { name = "4th San José Steam Frigate" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = VEN } } }
+			ship = { name = "2nd Buenaventura Steam Frigate" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = VEN } } }
+			ship = { name = "2nd Quibdó Steam Frigate" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = VEN } } }
+			ship = { name = "5th San José Steam Frigate" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = VEN } } }
+			ship = { name = "4th Balboa Steam Frigate" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = VEN } } }
+			ship = { name = "3rd Quibdó Steam Frigate" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = VEN } } }
+			ship = { name = "6th San José Steam Frigate" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = VEN } } }
+			ship = { name = "4th Quibdó Steam Frigate" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = VEN } } }
+			ship = { name = "3rd Buenaventura Steam Frigate" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = VEN } } }
+			ship = { name = "3rd San José Steam Frigate" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = VEN } } }
+			ship = { name = "2nd Balboa Steam Frigate" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = VEN } } }
+			ship = { name = "General Crespo" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = VEN } } }
+			ship = { name = "Marcay" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = VEN } } }
+			ship = { name = "Aragua" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = VEN } } }
+			ship = { name = "Patria" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = VEN } } }
+			ship = { name = "Constitución" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = VEN } } }
+			ship = { name = "Federación" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = VEN } } }
+			ship = { name = "Independencia" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = VEN } } }
+			ship = { name = "Libertad" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = VEN } } }
+			ship = { name = "Miranda" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = VEN } } }
+			ship = { name = "4th Buenaventura Steam Frigate" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = VEN } } }
+			ship = { name = "1st Esmeraldas Steam Frigate" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = VEN } } }
+			ship = { name = "7th San José Steam Frigate" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = VEN } } }
+		}
+	}
+	fleet = {
+		name = "1st Fleet"
+		naval_base = 4969
+		task_force = {
+			name = "1st Fleet"
+			location = 4969
+			ship = { name = "5th Buenaventura Steam Frigate" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = VEN } } }
+			ship = { name = "1st Panama City Steam Frigate" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = VEN } } }
+			ship = { name = "5th Quibdó Steam Frigate" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = VEN } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = destroyer_1
+			creator = "VEN"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+	add_equipment_production = {
+		equipment = {
+			type = battleship_1
+			creator = "VEN"
+		}
+		requested_factories = 8
+		progress = 0.25
+		amount = 3
+	}
+}

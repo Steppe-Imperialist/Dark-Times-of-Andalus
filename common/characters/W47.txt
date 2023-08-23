@@ -1,0 +1,16 @@
+characters={
+	W47_fnu_von_der_b.={
+		name=W47_fnu_von_der_b.
+		portraits={
+			civilian={
+				large="gfx/leaders/GER/Portrait_Germany_Konrad_Adenauer.dds"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

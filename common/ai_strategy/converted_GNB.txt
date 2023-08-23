@@ -1,0 +1,18 @@
+﻿converted_war_strategies_GNB = {
+	enable = {
+		tag = GNB
+		always = no
+	}
+	
+}
+
+converted_diplo_strategies_GNB = {
+	enable = {
+		tag = GNB
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+}

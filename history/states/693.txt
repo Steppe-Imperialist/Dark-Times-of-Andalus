@@ -1,0 +1,30 @@
+
+state={
+	id=693
+	name="STATE_693"
+
+	history={
+		owner = USA
+		victory_points = {
+			10711 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = USA
+		add_claim_by = T05
+	}
+
+	provinces={
+		1815 4610 4723 4794 4820 7688 7814 7888 10640 10711 12561 12633 12651 
+	}
+	manpower=3630064
+	buildings_max_level_factor=1.000
+	state_category=city
+
+	local_supplies=10.0
+}

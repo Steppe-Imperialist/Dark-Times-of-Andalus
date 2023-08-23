@@ -1,0 +1,58 @@
+﻿HON = {
+	battle_cruiser = {
+		prefix = ""
+		generic = { "Battlecruiser" }
+		unique = {
+			"Barahona" "Hornett" "Lempa" "Nacaome" "Patuca" "Sigre" "Tatumbla" "Tigre" "Ulúa" "Veintidós de Febrero" 
+		}
+	}
+
+	battleship = {
+		prefix = ""
+		generic = { "Battleship" }
+		unique = {
+			"Francisco Ferrera" "Francisco Morazán" "Honduras" "José María Medina" "José Santos" "Luis Bográn" "Manuel Bonilla" "Marco Aurelio Soto" "Terencio Sierra" "Tiburcio Andino" 
+		}
+	}
+
+	carrier = {
+		prefix = ""
+		generic = { "Carrier" }
+		unique = {
+			"Atlántida" "Colón" "El Tigre" "Gracias a Dios" "La Paz" "Ocotepeque" "Utila" "Valle" "Yojoa" "Zacate Grande" 
+		}
+	}
+
+	destroyer = {
+		prefix = ""
+		generic = { "Destroyer" }
+		unique = {
+			"Cerro Palenque" "Chorti" "Copán" "Cristóbal Colón" "Curruste" "Cuyamel" "Despoloncal" "Maya" "Pedro de Alvarado" "Ticamaya" 
+		}
+	}
+
+	heavy_cruiser = {
+		prefix = ""
+		generic = { "Heavy Cruiser" }
+		unique = {
+			"Alíseo" "Federación" "Honduras" "Libertad" "Nación" "San Francisco" "Santa Catalina" "Tormenta" "Trueno" 
+		}
+	}
+
+	light_cruiser = {
+		prefix = ""
+		generic = { "Light Cruiser" }
+		unique = {
+			"Amanecer" "Búfalo" "Cabañas" "Carías" "Flotante" "Guarda" "Irreverente" "Lempira" "Víctor" "Zambrano" 
+		}
+	}
+
+	submarine = {
+		prefix = ""
+		generic = { "Submarine" }
+		unique = {
+			"Comayagua" "Gracias" "Juticalpa" "La Esperanza" "Puerto Lempira" "San Pedro Sula" "Santa Bárbara" "Tegucigalpa" "Trujillo" "Yoro" 
+		}
+	}
+
+}

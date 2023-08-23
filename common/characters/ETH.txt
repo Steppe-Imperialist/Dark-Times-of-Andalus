@@ -1,0 +1,16 @@
+characters={
+	ETH_haile_mikael={
+		name=ETH_haile_mikael
+		portraits={
+			civilian={
+				large="GFX_SOM_Ibrahim_Sultan_Ali"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

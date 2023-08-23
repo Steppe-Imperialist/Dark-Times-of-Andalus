@@ -1,0 +1,16 @@
+characters={
+	V69_yupanqui_tenza={
+		name=V69_yupanqui_tenza
+		portraits={
+			civilian={
+				large="GFX_nat_carib_absolutist"
+			}
+		}
+		country_leader={
+			ideology=dictatorship
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

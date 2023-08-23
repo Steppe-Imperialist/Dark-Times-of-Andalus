@@ -1,0 +1,176 @@
+﻿URG_BB_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_BB
+
+	for_countries = { URG }
+
+	type = ship
+	ship_types = { ship_hull_heavy battleship }
+
+	prefix = ""
+	fallback_name = "Battleship BB-%d"
+
+	unique = {
+		"Banda Oriental" "Cisplatina" "Constitución" "Coronel Gómez" "General Artigas" "General Santos" "General Suárez" "Larrañaga" "Presidente Flores" "República Oriental" 
+	}
+}
+
+URG_BC_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_BC
+
+	for_countries = { URG }
+
+	type = ship
+	ship_types = { ship_hull_heavy battle_cruiser }
+
+	prefix = ""
+	fallback_name = "Battlecruiser BC-%d"
+
+	unique = {
+		"Cerro Catedral" "Cerro de las Ánimas" "Cerro Pan de Azúcar" "Cerros de San Juan" "Cuchilla Grande" "General Artigas" "General Oribe" "General Rivera" "Río de la Plata" "Sierra Carapé" 
+	}
+}
+
+URG_CA_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CA
+
+	for_countries = { URG }
+
+	type = ship
+	ship_types = { ship_hull_cruiser heavy_cruiser }
+
+	prefix = ""
+	fallback_name = "Heavy Cruiser CA-%d"
+
+	unique = {
+		"Bonanza" "Fortuna" "Intrépido" "República Oriental" "San Antonio" "San Esteban" "San Fernando" "Supremo" "Temerario" "Valiente" 
+	}
+}
+
+URG_CLAA_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CLAA
+
+	for_countries = { URG }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser }
+
+	prefix = ""
+	fallback_name = "Light Cruiser CLAA-%d"
+
+	unique = {
+		"Audaz" "Colonia" "Dieciocho de Julio" "Fortuna" "Heroína" "Paysandú" "Quince de Noviembre" "Río Negro" "Temerario" "Veinticinco de Agosto" 
+	}
+}
+
+URG_CL_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CL
+
+	for_countries = { URG }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser }
+
+	prefix = ""
+	fallback_name = "Light Cruiser CL-%d"
+
+	unique = {
+		"Audaz" "Colonia" "Dieciocho de Julio" "Fortuna" "Heroína" "Paysandú" "Quince de Noviembre" "Río Negro" "Temerario" "Veinticinco de Agosto" 
+	}
+}
+
+URG_CVL_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CVL
+
+	for_countries = { URG }
+
+	type = ship
+	ship_types = { ship_hull_carrier carrier }
+
+	prefix = ""
+	fallback_name = "Carrier CVL-%d"
+
+	unique = {
+		"Colonia del Sacramento" "Fray Bentos" "Marín" "Melo" "Mercedes" "Minas" "Paso del Palmar" "Rincón del Bonete" "Río de la Plata" "Trinidad" 
+	}
+}
+
+URG_CV_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CARRIERS
+
+	for_countries = { URG }
+
+	type = ship
+	ship_types = { ship_hull_carrier carrier }
+
+	prefix = ""
+	fallback_name = "Carrier CV-%d"
+
+	unique = {
+		"Colonia del Sacramento" "Fray Bentos" "Marín" "Melo" "Mercedes" "Minas" "Paso del Palmar" "Rincón del Bonete" "Río de la Plata" "Trinidad" 
+	}
+}
+
+URG_DD_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_DESTROYERS
+
+	for_countries = { URG }
+
+	type = ship
+	ship_types = { ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Destroyer DD-%d"
+
+	unique = {
+		"Cabo Polonia" "Gaucho" "Laguna de Castillos" "Laguna de Garzón" "Laguna de Rocha" "Mate" "Montevideo" "Quebrada de los Cuervos" "Santa Teresa" "Valle de Lunarejo" 
+	}
+}
+
+URG_DE_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_DE
+
+	for_countries = { URG }
+
+	type = ship
+	ship_types = { ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Destroyer Escort DE-%d"
+
+	unique = {
+		"Cabo Polonia" "Gaucho" "Laguna de Castillos" "Laguna de Garzón" "Laguna de Rocha" "Mate" "Montevideo" "Quebrada de los Cuervos" "Santa Teresa" "Valle de Lunarejo" 
+	}
+}
+
+URG_MINELAYERS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_MINELAYERS
+
+	for_countries = { URG }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Minelayer CM-%d"
+
+	unique = {
+		"Audaz" "Colonia" "Dieciocho de Julio" "Fortuna" "Heroína" "Paysandú" "Quince de Noviembre" "Río Negro" "Temerario" "Veinticinco de Agosto" 
+	}
+}
+
+URG_SS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_SUBMARINES
+
+	for_countries = { URG }
+
+	type = ship
+	ship_types = { ship_hull_submarine submarine }
+
+	prefix = ""
+	fallback_name = "Submarine SS-%d"
+
+	unique = {
+		"Artigas" "Carmelo" "Delta del Tigre" "Dolores" "Las Piedras" "Oriental" "Progreso" "Rivera" "San Carlos" "Uruguay" 
+	}
+}
+

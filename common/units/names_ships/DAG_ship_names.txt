@@ -1,0 +1,176 @@
+﻿DAG_BB_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_BB
+
+	for_countries = { DAG }
+
+	type = ship
+	ship_types = { ship_hull_heavy battleship }
+
+	prefix = ""
+	fallback_name = "Battleship BB-%d"
+
+	unique = {
+		"Dagestan" "Sheikh Shamil" "Hadji Murad" "Mahackale" "Fatali Akhundov" "Mammadguluzadeh" "Mirza Alakbar Sabir" "Narimanov" "Baku" "Shirvan" "Karabakh" "Ganja" "Quba" "Shaki" "Talysh" "Erivan" "Nakchivan" 
+	}
+}
+
+DAG_BC_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_BC
+
+	for_countries = { DAG }
+
+	type = ship
+	ship_types = { ship_hull_heavy battle_cruiser }
+
+	prefix = ""
+	fallback_name = "Battlecruiser BC-%d"
+
+	unique = {
+		"Dagestan" "Sheikh Shamil" "Hadji Murad" "Mahackale" "Hasan Zardabi" "Fatali Akhundov" "Mammadguluzadeh" "Mirza Alakbar Sabir" "Narimanov" "Baku" "Shirvan" "Karabakh" "Ganja" "Quba" "Shaki" "Talysh" "Erivan" "Nakchivan" 
+	}
+}
+
+DAG_CA_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CA
+
+	for_countries = { DAG }
+
+	type = ship
+	ship_types = { ship_hull_cruiser heavy_cruiser }
+
+	prefix = ""
+	fallback_name = "Heavy Cruiser CA-%d"
+
+	unique = {
+		"Dagestan" "Sheikh Shamil" "Hadji Murad" "Mahackale" "Hasan Zardabi" "Fatali Akhundov" "Mammadguluzadeh" "Mirza Alakbar Sabir" "Narimanov" "Baku" "Shirvan" "Karabakh" "Ganja" "Quba" "Shaki" "Talysh" "Erivan" "Nakchivan" 
+	}
+}
+
+DAG_CLAA_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CLAA
+
+	for_countries = { DAG }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser }
+
+	prefix = ""
+	fallback_name = "Light Cruiser CLAA-%d"
+
+	unique = {
+		"Dagestan" "Sheikh Shamil" "Hadji Murad" "Mahackale" "Hasan Zardabi" "Fatali Akhundov" "Mammadguluzadeh" "Mirza Alakbar Sabir" "Narimanov" "Baku" "Shirvan" "Karabakh" "Ganja" "Quba" "Shaki" "Talysh" "Erivan" "Nakchivan" 
+	}
+}
+
+DAG_CL_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CL
+
+	for_countries = { DAG }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser }
+
+	prefix = ""
+	fallback_name = "Light Cruiser CL-%d"
+
+	unique = {
+		"Dagestan" "Sheikh Shamil" "Hadji Murad" "Mahackale" "Hasan Zardabi" "Fatali Akhundov" "Mammadguluzadeh" "Mirza Alakbar Sabir" "Narimanov" "Baku" "Shirvan" "Karabakh" "Ganja" "Quba" "Shaki" "Talysh" "Erivan" "Nakchivan" 
+	}
+}
+
+DAG_CVL_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CVL
+
+	for_countries = { DAG }
+
+	type = ship
+	ship_types = { ship_hull_carrier carrier }
+
+	prefix = ""
+	fallback_name = "Carrier CVL-%d"
+
+	unique = {
+		"Dagestan" "Sheikh Shamil" "Hadji Murad" "Mahackale" "Hasan Zardabi" "Fatali Akhundov" "Mammadguluzadeh" "Mirza Alakbar Sabir" "Narimanov" "Baku" "Shirvan" "Karabakh" "Ganja" "Quba" "Shaki" "Talysh" "Erivan" "Nakchivan" 
+	}
+}
+
+DAG_CV_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CARRIERS
+
+	for_countries = { DAG }
+
+	type = ship
+	ship_types = { ship_hull_carrier carrier }
+
+	prefix = ""
+	fallback_name = "Carrier CV-%d"
+
+	unique = {
+		"Dagestan" "Sheikh Shamil" "Hadji Murad" "Mahackale" "Hasan Zardabi" "Fatali Akhundov" "Mammadguluzadeh" "Mirza Alakbar Sabir" "Narimanov" "Baku" "Shirvan" "Karabakh" "Ganja" "Quba" "Shaki" "Talysh" "Erivan" "Nakchivan" 
+	}
+}
+
+DAG_DD_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_DESTROYERS
+
+	for_countries = { DAG }
+
+	type = ship
+	ship_types = { ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Destroyer DD-%d"
+
+	unique = {
+		"Dagestan" "Sheikh Shamil" "Hadji Murad" "Mahackale" "Hasan Zardabi" "Fatali Akhundov" "Mammadguluzadeh" "Mirza Alakbar Sabir" "Narimanov" "Baku" "Shirvan" "Karabakh" "Ganja" "Quba" "Shaki" "Talysh" "Erivan" "Nakchivan" 
+	}
+}
+
+DAG_DE_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_DE
+
+	for_countries = { DAG }
+
+	type = ship
+	ship_types = { ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Destroyer Escort DE-%d"
+
+	unique = {
+		"Dagestan" "Sheikh Shamil" "Hadji Murad" "Mahackale" "Hasan Zardabi" "Fatali Akhundov" "Mammadguluzadeh" "Mirza Alakbar Sabir" "Narimanov" "Baku" "Shirvan" "Karabakh" "Ganja" "Quba" "Shaki" "Talysh" "Erivan" "Nakchivan" 
+	}
+}
+
+DAG_MINELAYERS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_MINELAYERS
+
+	for_countries = { DAG }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Minelayer CM-%d"
+
+	unique = {
+		"Dagestan" "Sheikh Shamil" "Hadji Murad" "Mahackale" "Hasan Zardabi" "Fatali Akhundov" "Mammadguluzadeh" "Mirza Alakbar Sabir" "Narimanov" "Baku" "Shirvan" "Karabakh" "Ganja" "Quba" "Shaki" "Talysh" "Erivan" "Nakchivan" 
+	}
+}
+
+DAG_SS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_SUBMARINES
+
+	for_countries = { DAG }
+
+	type = ship
+	ship_types = { ship_hull_submarine submarine }
+
+	prefix = ""
+	fallback_name = "Submarine SS-%d"
+
+	unique = {
+		"Dagestan" "Sheikh Shamil" "Hadji Murad" "Mahackale" "Hasan Zardabi" "Fatali Akhundov" "Mammadguluzadeh" "Mirza Alakbar Sabir" "Narimanov" "Baku" "Shirvan" "Karabakh" "Ganja" "Quba" "Shaki" "Talysh" "Erivan" "Nakchivan" 
+	}
+}
+

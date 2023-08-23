@@ -1,0 +1,165 @@
+﻿capital = 484
+set_research_slots = 3
+
+oob = "QAT_OOB"
+
+# Starting tech
+# Research Bonuses
+
+set_country_flag = conv_arabia
+set_convoys = 0
+
+set_politics = {
+    ruling_party = absolutist
+    last_election = "1836.1.1"
+    election_frequency = 48
+    elections_allowed = no
+}
+
+set_popularities = {
+	absolutist = 73
+	democratic = 25
+	neutrality = 2
+}
+
+add_opinion_modifier = { target = ADU modifier = positive_55 }
+add_opinion_modifier = { target = BAN modifier = positive_30 }
+add_opinion_modifier = { target = BRA modifier = negative_60 }
+add_opinion_modifier = { target = BRU modifier = positive_30 }
+add_opinion_modifier = { target = CAN modifier = positive_20 }
+add_opinion_modifier = { target = ENG modifier = negative_150 }
+add_opinion_modifier = { target = HOL modifier = negative_30 }
+add_opinion_modifier = { target = HUN modifier = negative_150 }
+add_opinion_modifier = { target = ITA modifier = negative_35 }
+add_opinion_modifier = { target = KEN modifier = positive_30 }
+add_opinion_modifier = { target = LIT modifier = negative_45 }
+add_opinion_modifier = { target = MEX modifier = positive_20 }
+add_opinion_modifier = { target = PER modifier = positive_30 }
+add_opinion_modifier = { target = S05 modifier = negative_200 }
+add_opinion_modifier = { target = SAX modifier = negative_120 }
+add_opinion_modifier = { target = SIL modifier = negative_25 }
+add_opinion_modifier = { target = SOV modifier = negative_150 }
+add_opinion_modifier = { target = SWE modifier = negative_50 }
+add_opinion_modifier = { target = SWI modifier = negative_35 }
+add_opinion_modifier = { target = T05 modifier = negative_35 }
+add_opinion_modifier = { target = T13 modifier = negative_130 }
+add_opinion_modifier = { target = T27 modifier = negative_35 }
+add_opinion_modifier = { target = T28 modifier = positive_20 }
+add_opinion_modifier = { target = T29 modifier = positive_45 }
+add_opinion_modifier = { target = T30 modifier = positive_45 }
+add_opinion_modifier = { target = T33 modifier = positive_20 }
+add_opinion_modifier = { target = T39 modifier = negative_150 }
+add_opinion_modifier = { target = T43 modifier = negative_35 }
+add_opinion_modifier = { target = T44 modifier = negative_10 }
+add_opinion_modifier = { target = T65 modifier = negative_75 }
+add_opinion_modifier = { target = T66 modifier = positive_5 }
+add_opinion_modifier = { target = T81 modifier = negative_125 }
+add_opinion_modifier = { target = T83 modifier = positive_80 }
+add_opinion_modifier = { target = T90 modifier = positive_20 }
+add_opinion_modifier = { target = TUN modifier = positive_55 }
+add_opinion_modifier = { target = U53 modifier = positive_5 }
+add_opinion_modifier = { target = URG modifier = negative_25 }
+add_opinion_modifier = { target = USA modifier = negative_10 }
+add_opinion_modifier = { target = V13 modifier = negative_25 }
+add_opinion_modifier = { target = V38 modifier = negative_25 }
+add_opinion_modifier = { target = V41 modifier = negative_10 }
+add_opinion_modifier = { target = V55 modifier = positive_30 }
+add_opinion_modifier = { target = V87 modifier = negative_35 }
+add_opinion_modifier = { target = VEN modifier = negative_10 }
+add_opinion_modifier = { target = W09 modifier = negative_75 }
+add_opinion_modifier = { target = W13 modifier = positive_30 }
+add_opinion_modifier = { target = W15 modifier = positive_30 }
+add_opinion_modifier = { target = W23 modifier = negative_120 }
+add_opinion_modifier = { target = W38 modifier = negative_25 }
+add_opinion_modifier = { target = W58 modifier = positive_30 }
+add_opinion_modifier = { target = W89 modifier = positive_30 }
+add_opinion_modifier = { target = W98 modifier = positive_30 }
+add_opinion_modifier = { target = X04 modifier = positive_5 }
+add_opinion_modifier = { target = X22 modifier = negative_150 }
+add_opinion_modifier = { target = X26 modifier = positive_30 }
+add_opinion_modifier = { target = X27 modifier = positive_20 }
+add_opinion_modifier = { target = X58 modifier = positive_15 }
+add_opinion_modifier = { target = X63 modifier = negative_25 }
+add_opinion_modifier = { target = X77 modifier = negative_125 }
+add_opinion_modifier = { target = YEM modifier = positive_80 }
+add_opinion_modifier = { target = YUG modifier = negative_175 }
+
+
+add_ideas = {
+	volunteer_only
+	civilian_economy
+	export_focus
+	culture_bedouin
+}
+
+recruit_character = QAT_ishaq_ibn_hisham
+
+if = {
+	limit = {
+		has_dlc = "La Resistance"
+	}
+	create_operative_leader = {
+		name = "Maryam bint Kamil"
+		GFX = "gfx/leaders/Arabia/portrait_arabia_generic_operative_female_1.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { QAT }
+	}
+
+	create_operative_leader = {
+		name = "Amsha bint Khalid"
+		GFX = "gfx/leaders/Arabia/portrait_arabia_generic_operative_female_2.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { QAT }
+	}
+
+	create_operative_leader = {
+		name = "Taliba bint Ishaq"
+		GFX = "gfx/leaders/Arabia/portrait_arabia_generic_operative_female_3.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { QAT }
+	}
+
+	create_operative_leader = {
+		name = "Ahmad ibn Uthman"
+		GFX = "gfx/leaders/Arabia/portrait_arabia_generic_operative_male_1.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		nationalities = { QAT }
+	}
+
+	create_operative_leader = {
+		name = "Jamal ibm Kamil"
+		GFX = "gfx/leaders/Arabia/portrait_arabia_generic_operative_male_2.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		nationalities = { QAT }
+	}
+
+}
+### VARIANTS ###
+if = {
+	limit = { not = { has_dlc = "Man the Guns" } }
+}
+if = {
+	limit = { has_dlc = "Man the Guns" }
+}
+### PLANE DESIGNS ###
+if = {
+	limit = { has_dlc = "By Blood Alone" }
+}
+### TANK DESIGNS ###
+if = {
+	limit = { has_dlc = "No Step Back" }
+}
+

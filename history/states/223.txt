@@ -1,0 +1,38 @@
+
+state={
+	id=223
+	name="STATE_223"
+	resources={
+		steel=8.000
+	}
+
+	history={
+		owner = W38
+		victory_points = {
+			9857 10 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+			740 = {
+				naval_base = 4
+			}
+			air_base = 5
+
+		}
+		add_core_of = EUS
+		add_core_of = NAV
+		add_core_of = W38
+		add_claim_by = SPR
+	}
+
+	provinces={
+		740 884 932 3735 3737 3902 3931 3933 6756 6903 9857 13233 
+	}
+	manpower=698656
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

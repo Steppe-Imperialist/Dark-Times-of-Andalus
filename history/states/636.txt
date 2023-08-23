@@ -1,0 +1,31 @@
+
+state={
+	id=636
+	name="STATE_636"
+
+	history={
+		owner = U76
+		victory_points = {
+			9893 1 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 1
+
+		}
+		add_core_of = ARM
+		add_core_of = U76
+		add_core_of = X84
+	}
+
+	provinces={
+		3889 9893 
+	}
+	manpower=753044
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+
+	local_supplies=10.0
+}

@@ -1,0 +1,31 @@
+
+state={
+	id=353
+	name="STATE_353"
+
+	history={
+		owner = W90
+		victory_points = {
+			5040 15 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 6
+
+		}
+		add_core_of = RAJ
+		add_core_of = U97
+		add_core_of = W90
+	}
+
+	provinces={
+		2005 5040 5055 7064 7334 7938 10751 12786 
+	}
+	manpower=7731020
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

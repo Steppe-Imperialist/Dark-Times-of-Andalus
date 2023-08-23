@@ -1,0 +1,18 @@
+﻿converted_war_strategies_X39 = {
+	enable = {
+		tag = X39
+		always = no
+	}
+	
+}
+
+converted_diplo_strategies_X39 = {
+	enable = {
+		tag = X39
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+}

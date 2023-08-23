@@ -1,0 +1,42 @@
+
+state={
+	id=435
+	name="STATE_435"
+
+	history={
+		owner = MEX
+		victory_points = {
+			4991 10 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 6
+			arms_factory = 1
+			dockyard = 1
+			13085 = {
+				naval_base = 6
+			}
+			air_base = 10
+
+		}
+		add_core_of = BLZ
+		add_core_of = GUA
+		add_core_of = MEX
+		add_core_of = T93
+		add_core_of = V00
+		add_core_of = V23
+		add_core_of = V31
+		add_core_of = W84
+		add_core_of = X78
+		add_claim_by = T03
+	}
+
+	provinces={
+		2077 4991 10842 10886 13085 
+	}
+	manpower=1382272
+	buildings_max_level_factor=1.000
+	state_category=city
+
+	local_supplies=10.0
+}

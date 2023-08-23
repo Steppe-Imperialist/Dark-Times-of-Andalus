@@ -1,0 +1,16 @@
+characters={
+	X87_makalo_mirambo={
+		name=X87_makalo_mirambo
+		portraits={
+			civilian={
+				large="GFX_TOG_Olympio"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

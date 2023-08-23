@@ -1,0 +1,39 @@
+
+state={
+	id=793
+	name="STATE_793"
+	resources={
+		aluminium=2.000
+		rubber=4.000
+		steel=2.000
+	}
+
+	history={
+		owner = T44
+		victory_points = {
+			5107 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			dockyard = 1
+			5220 = {
+				naval_base = 6
+			}
+			air_base = 0
+
+		}
+		add_core_of = BRA
+		add_core_of = T44
+	}
+
+	provinces={
+		2132 2150 2164 2178 2228 5107 5153 5204 5220 8179 10984 12913 12933 12947 
+	}
+	manpower=1505524
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

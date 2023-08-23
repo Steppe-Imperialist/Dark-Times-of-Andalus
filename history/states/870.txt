@@ -1,0 +1,33 @@
+
+state={
+	id=870
+	name="STATE_870"
+
+	history={
+		owner = S01
+		victory_points = {
+			7256 0 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = T89
+		add_core_of = U51
+		add_core_of = W71
+		add_claim_by = CHI
+		add_claim_by = U72
+	}
+
+	provinces={
+		1893 2030 2091 4041 4141 4431 5048 6999 7256 7948 10144 10304 10822 11865 12274 12767 
+	}
+	manpower=22360300
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

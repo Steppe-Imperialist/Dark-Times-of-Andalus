@@ -1,0 +1,149 @@
+﻿add_namespace = news
+
+news_event = {
+	id = news.500
+	title = communist_summit.t
+	desc = fascist_summit.d
+	picture = GFX_news_event_generic_rally_3
+
+	is_triggered_only = yes
+
+	option = {
+		name = fascist_summit.a
+		effect_tooltip = { FROM = { add_threat = 3 } }
+	}
+}
+
+news_event = {
+	id = news.501
+	title = fascist_summit.t
+	desc = fascist_summit.d
+	picture = GFX_news_event_fascist_gathering
+
+	is_triggered_only = yes
+
+	option = {
+		name = fascist_summit.a
+		effect_tooltip = { FROM = { add_threat = 3 } }
+	}
+}
+
+news_event = {
+	id = news.502
+	title = "[From.GetName] formalizes alliance with [ITA.GetName]"
+	desc = "The leaders of both countries have announced their intent of military cooperation."
+	picture = news_event_generic_sign_treaty1
+	
+	major = yes
+
+	is_triggered_only = yes
+
+	option = {
+		name = "Interesting"
+	}
+}
+
+news_event = {
+	id = news.503
+	title = "[From.GetName] refuses the alliance offer of [ITA.GetName]"
+	desc = "The alliance negotiations ended in disagreement."
+	picture = news_event_generic_sign_treaty1
+	
+	major = yes
+
+	is_triggered_only = yes
+
+	option = {
+		name = "Interesting"
+	}
+}
+
+news_event = {
+	id = news.504
+	title = "[From.GetName] formalizes alliance with [ITA.GetName]"
+	desc = "The leaders of both countries have announced their intent of military cooperation."
+	picture = news_event_generic_sign_treaty1
+	
+	major = yes
+
+	is_triggered_only = yes
+
+	option = {
+		name = "Interesting"
+	}
+}
+
+news_event = {
+	id = news.505
+	title = "[From.GetName] refuses the alliance offer of [ITA.GetName]"
+	desc = "The alliance negotiations ended in disagreement."
+	picture = news_event_generic_sign_treaty1
+	
+	major = yes
+
+	is_triggered_only = yes
+
+	option = {
+		name = "Interesting"
+	}
+}
+
+news_event = {
+	id = news.506
+	title = "[From.GetName] formalizes alliance with [W09.GetName]"
+	desc = "The leaders of both countries have announced their intent of military cooperation."
+	picture = news_event_generic_sign_treaty1
+	
+	major = yes
+
+	is_triggered_only = yes
+
+	option = {
+		name = "Interesting"
+	}
+}
+
+news_event = {
+	id = news.507
+	title = "[From.GetName] refuses the alliance offer of [W09.GetName]"
+	desc = "The alliance negotiations ended in disagreement."
+	picture = news_event_generic_sign_treaty1
+	
+	major = yes
+
+	is_triggered_only = yes
+
+	option = {
+		name = "Interesting"
+	}
+}
+
+news_event = {
+	id = news.508
+	title = "[From.GetName] formalizes alliance with [W09.GetName]"
+	desc = "The leaders of both countries have announced their intent of military cooperation."
+	picture = news_event_generic_sign_treaty1
+	
+	major = yes
+
+	is_triggered_only = yes
+
+	option = {
+		name = "Interesting"
+	}
+}
+
+news_event = {
+	id = news.509
+	title = "[From.GetName] refuses the alliance offer of [W09.GetName]"
+	desc = "The alliance negotiations ended in disagreement."
+	picture = news_event_generic_sign_treaty1
+	
+	major = yes
+
+	is_triggered_only = yes
+
+	option = {
+		name = "Interesting"
+	}
+}

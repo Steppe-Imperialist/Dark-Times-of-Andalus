@@ -1,0 +1,36 @@
+characters={
+	IRE_robert_fitzgerald={
+		name=IRE_robert_fitzgerald
+		portraits={
+			army={
+				large="GFX_portrait_ENG_jock_campbell"
+			}
+			army={
+				small="GFX_portrait_ENG_jock_campbell"
+			}
+		}
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	IRE_john_o'brien={
+		name=IRE_john_o'brien
+		portraits={
+			civilian={
+				large="gfx/leaders/DEN/Portrait_Denmark_Erik_Scavenius.dds"
+			}
+		}
+		country_leader={
+			ideology=socialism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

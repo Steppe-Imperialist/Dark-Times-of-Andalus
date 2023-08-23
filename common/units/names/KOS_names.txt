@@ -1,0 +1,58 @@
+﻿KOS = {
+	battle_cruiser = {
+		prefix = ""
+		generic = { "Battlecruiser" }
+		unique = {
+			"Shqipëria" "Skënderbeu" "Bishti i Palles" "Gjiri i Drinit" "Gjiri i Rondonit" "Jube" "Kalaja e Turres" "Kepi i Rodonit" "Kyrekuq" "Shengjin" "Shetaj" "Velipoje" 
+		}
+	}
+
+	battleship = {
+		prefix = ""
+		generic = { "Battleship" }
+		unique = {
+			"Shqipëria" "Skënderbeu" "Bishti i Palles" "Gjiri i Drinit" "Gjiri i Rondonit" "Jube" "Kalaja e Turres" "Kepi i Rodonit" "Kyrekuq" "Shengjin" "Shetaj" "Velipoje" 
+		}
+	}
+
+	carrier = {
+		prefix = ""
+		generic = { "Carrier" }
+		unique = {
+			"Shqipëria" "Skënderbeu" "Bishti i Palles" "Gjiri i Drinit" "Gjiri i Rondonit" "Jube" "Kalaja e Turres" "Kepi i Rodonit" "Kyrekuq" "Shengjin" "Shetaj" "Velipoje" 
+		}
+	}
+
+	destroyer = {
+		prefix = ""
+		generic = { "Destroyer" }
+		unique = {
+			"Shqipëria" "Skënderbeu" "Bishti i Palles" "Gjiri i Drinit" "Gjiri i Rondonit" "Jube" "Kalaja e Turres" "Kepi i Rodonit" "Kyrekuq" "Shengjin" "Shetaj" "Velipoje" 
+		}
+	}
+
+	heavy_cruiser = {
+		prefix = ""
+		generic = { "Heavy Cruiser" }
+		unique = {
+			"Shqipëria" "Skënderbeu" "Bishti i Palles" "Gjiri i Drinit" "Gjiri i Rondonit" "Jube" "Kalaja e Turres" "Kepi i Rodonit" "Kyrekuq" "Shengjin" "Shetaj" "Velipoje" 
+		}
+	}
+
+	light_cruiser = {
+		prefix = ""
+		generic = { "Light Cruiser" }
+		unique = {
+			"Shqipëria" "Skënderbeu" "Bishti i Palles" "Gjiri i Drinit" "Gjiri i Rondonit" "Jube" "Kalaja e Turres" "Kepi i Rodonit" "Kyrekuq" "Shengjin" "Shetaj" "Velipoje" 
+		}
+	}
+
+	submarine = {
+		prefix = ""
+		generic = { "Submarine" }
+		unique = {
+			"Shqipëria" "Skënderbeu" "Bishti i Palles" "Gjiri i Drinit" "Gjiri i Rondonit" "Jube" "Kalaja e Turres" "Kepi i Rodonit" "Kyrekuq" "Shengjin" "Shetaj" "Velipoje" 
+		}
+	}
+
+}

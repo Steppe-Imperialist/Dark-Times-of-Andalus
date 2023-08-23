@@ -1,0 +1,16 @@
+characters={
+	MLT_lawrenz_vella={
+		name=MLT_lawrenz_vella
+		portraits={
+			civilian={
+				large="gfx/leaders/ITA/portrait_ita_ferruccio_parri.dds"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

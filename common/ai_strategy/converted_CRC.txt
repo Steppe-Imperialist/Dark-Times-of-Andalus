@@ -1,0 +1,148 @@
+﻿converted_war_strategies_CRC = {
+	enable = {
+		tag = CRC
+		always = no
+	}
+	
+	ai_strategy = {
+		type = conquer
+		id = "T28"
+		value = 266
+	}
+	ai_strategy = {
+		type = conquer
+		id = "BAH"
+		value = 76
+	}
+	ai_strategy = {
+		type = conquer
+		id = "JAM"
+		value = 76
+	}
+	ai_strategy = {
+		type = conquer
+		id = "PUE"
+		value = 76
+	}
+	ai_strategy = {
+		type = conquer
+		id = "X15"
+		value = 68
+	}
+	ai_strategy = {
+		type = conquer
+		id = "X06"
+		value = 38
+	}
+	ai_strategy = {
+		type = conquer
+		id = "X49"
+		value = 38
+	}
+	ai_strategy = {
+		type = conquer
+		id = "V61"
+		value = 38
+	}
+	ai_strategy = {
+		type = conquer
+		id = "U56"
+		value = 38
+	}
+	ai_strategy = {
+		type = conquer
+		id = "USA"
+		value = 38
+	}
+}
+
+converted_diplo_strategies_CRC = {
+	enable = {
+		tag = CRC
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+	ai_strategy = {
+		type = contain
+		id = "X49"
+		value = 100
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "X15"
+		value = 400
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "T72"
+		value = 377
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "S01"
+		value = 239
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "X06"
+		value = 239
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "X49"
+		value = 239
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "V61"
+		value = 239
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "U56"
+		value = 239
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "BAH"
+		value = 204
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "JAM"
+		value = 204
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "PUE"
+		value = 204
+	}
+	ai_strategy = {
+		type = alliance
+		id = "T28"
+		value = 200
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "T81"
+		value = 100
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "X63"
+		value = 94
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "X50"
+		value = 49
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "W23"
+		value = 37
+	}
+}

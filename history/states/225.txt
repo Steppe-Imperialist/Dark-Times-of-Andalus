@@ -1,0 +1,35 @@
+
+state={
+	id=225
+	name="STATE_225"
+
+	history={
+		owner = W41
+		victory_points = {
+			10105 15 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			dockyard = 1
+			4160 = {
+				naval_base = 1
+			}
+			air_base = 6
+
+		}
+		add_core_of = S02
+		add_core_of = W41
+		add_claim_by = CHI
+	}
+
+	provinces={
+		1087 1131 1187 4092 4160 7039 7135 9963 10105 11941 11981 12077 
+	}
+	manpower=6246152
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

@@ -1,0 +1,36 @@
+
+state={
+	id=592
+	name="STATE_592"
+	resources={
+		steel=236.000
+	}
+
+	history={
+		owner = LOT
+		victory_points = {
+			9503 10 
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 3
+			arms_factory = 0
+			air_base = 10
+
+		}
+		add_core_of = V30
+		add_core_of = X12
+	    add_core_of = LOT
+		add_claim_by = GER
+		add_claim_by = V32
+	}
+
+	provinces={
+		549 678 1346 3629 6529 9503 9559 11502 
+	}
+	manpower=2235548
+	buildings_max_level_factor=1.000
+	state_category=city
+
+	local_supplies=10.0
+}

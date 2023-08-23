@@ -1,0 +1,36 @@
+
+state={
+	id=63
+	name="STATE_63"
+	resources={
+		steel=1.000
+	}
+
+	history={
+		owner = BEL
+		victory_points = {
+			11519 10 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+			air_base = 10
+
+		}
+		add_core_of = BEL
+		add_core_of = V26
+		add_core_of = V32
+		add_core_of = W57
+		add_core_of = WLL
+	}
+
+	provinces={
+		3516 3576 6537 9418 9444 9536 11407 11519 13081 
+	}
+	manpower=1418432
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

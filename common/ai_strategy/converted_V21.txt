@@ -1,0 +1,173 @@
+﻿converted_war_strategies_V21 = {
+	enable = {
+		tag = V21
+		always = no
+	}
+	
+	ai_strategy = {
+		type = conquer
+		id = "V36"
+		value = 169
+	}
+	ai_strategy = {
+		type = conquer
+		id = "V04"
+		value = 78
+	}
+	ai_strategy = {
+		type = conquer
+		id = "V14"
+		value = 47
+	}
+	ai_strategy = {
+		type = conquer
+		id = "ZAM"
+		value = 44
+	}
+	ai_strategy = {
+		type = conquer
+		id = "ADU"
+		value = 26
+	}
+}
+
+converted_diplo_strategies_V21 = {
+	enable = {
+		tag = V21
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+	ai_strategy = {
+		type = contain
+		id = "ZAM"
+		value = 339
+	}
+	ai_strategy = {
+		type = contain
+		id = "V36"
+		value = 271
+	}
+	ai_strategy = {
+		type = contain
+		id = "V14"
+		value = 258
+	}
+	ai_strategy = {
+		type = contain
+		id = "ADU"
+		value = 232
+	}
+	ai_strategy = {
+		type = contain
+		id = "V04"
+		value = 155
+	}
+	ai_strategy = {
+		type = contain
+		id = "COG"
+		value = 25
+	}
+	ai_strategy = {
+		type = contain
+		id = "KEN"
+		value = 16
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "V36"
+		value = 400
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "T72"
+		value = 373
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "ZAM"
+		value = 329
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "S01"
+		value = 224
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "T64"
+		value = 176
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "V04"
+		value = 133
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "V14"
+		value = 90
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "ADU"
+		value = 77
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "COG"
+		value = 21
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "KAZ"
+		value = 19
+	}
+	ai_strategy = {
+		type = alliance
+		id = "KEN"
+		value = 200
+	}
+	ai_strategy = {
+		type = alliance
+		id = "SOV"
+		value = 142
+	}
+	ai_strategy = {
+		type = alliance
+		id = "ITA"
+		value = 115
+	}
+	ai_strategy = {
+		type = alliance
+		id = "ENG"
+		value = 104
+	}
+	ai_strategy = {
+		type = protect
+		id = "ZAM"
+		value = 40
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "V36"
+		value = 120
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "AST"
+		value = 110
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "BAH"
+		value = 60
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "SAF"
+		value = 56
+	}
+}

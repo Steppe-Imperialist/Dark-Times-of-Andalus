@@ -1,0 +1,29 @@
+
+state={
+	id=369
+	name="STATE_369"
+
+	history={
+		owner = V04
+		victory_points = {
+			4171 0 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = TZN
+	}
+
+	provinces={
+		2176 4171 5180 8144 10932 
+	}
+	manpower=954820
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+
+	local_supplies=10.0
+}

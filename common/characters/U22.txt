@@ -1,0 +1,16 @@
+characters={
+	U22_wladyslaw_hauke_boask={
+		name=U22_wladyslaw_hauke_boask
+		portraits={
+			civilian={
+				large="GFX_Baltic_August_Rei"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

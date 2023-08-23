@@ -1,0 +1,56 @@
+characters={
+	MAL_shahabuddin_riayat_shah={
+		name=MAL_shahabuddin_riayat_shah
+		portraits={
+			army={
+				large="GFX_AOG_Generic_1"
+			}
+			army={
+				small="GFX_AOG_Generic_1"
+			}
+		}
+		corps_commander={
+			skill=2
+			attack_skill=2
+			defense_skill=2
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	MAL_muhammad_raja_ahmad={
+		name=MAL_muhammad_raja_ahmad
+		portraits={
+			army={
+				large="GFX_Philippines_Carlos_P_Romulo"
+			}
+			army={
+				small="GFX_Philippines_Carlos_P_Romulo"
+			}
+		}
+		corps_commander={
+			skill=2
+			attack_skill=2
+			defense_skill=1
+			planning_skill=3
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	MAL_riayat_murshidul={
+		name=MAL_riayat_murshidul
+		portraits={
+			civilian={
+				large="gfx/leaders/Asia/Portrait_Asia_Generic_democracy.dds"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

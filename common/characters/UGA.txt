@@ -1,0 +1,16 @@
+characters={
+	UGA_okoth_oneko={
+		name=UGA_okoth_oneko
+		portraits={
+			civilian={
+				large="GFX_SUD_Ali_Latif"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

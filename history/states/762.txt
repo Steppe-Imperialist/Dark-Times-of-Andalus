@@ -1,0 +1,33 @@
+
+state={
+	id=762
+	name="STATE_762"
+
+	history={
+		owner = T30
+		victory_points = {
+			12349 1 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			10981 = {
+				naval_base = 1
+			}
+			air_base = 0
+
+		}
+		add_core_of = T30
+		add_claim_by = ARG
+	}
+
+	provinces={
+		10981 11005 12349 
+	}
+	manpower=17332
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

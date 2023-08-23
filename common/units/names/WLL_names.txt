@@ -1,0 +1,58 @@
+﻿WLL = {
+	battle_cruiser = {
+		prefix = ""
+		generic = { "Battlecruiser" }
+		unique = {
+			"Vallonia" "Henogovia" "Comte de Hainaut" "Comte de Namur" "Prince de Liege" "Louis Boisot" "Olivier Brunel" "Simon de Cordes" "Albert Dorville" "Jessé de Forest" "Louis Hennepin" "Arlon" "Charleroi" "Liege" "Namur" "Meuse" "Ourthe" "Sambre" "l'Escaut" "Semois" 
+		}
+	}
+
+	battleship = {
+		prefix = ""
+		generic = { "Battleship" }
+		unique = {
+			"Vallonia" "Henogovia" "Comte de Hainaut" "Comte de Namur" "Prince de Liege" "Louis Boisot" "Olivier Brunel" "Simon de Cordes" "Albert Dorville" "Jessé de Forest" "Louis Hennepin" "Arlon" "Charleroi" "Liege" "Namur" "Meuse" "Ourthe" "Sambre" "l'Escaut" "Semois" 
+		}
+	}
+
+	carrier = {
+		prefix = ""
+		generic = { "Carrier" }
+		unique = {
+			"Vallonia" "Henogovia" "Comte de Hainaut" "Comte de Namur" "Prince de Liege" "Louis Boisot" "Olivier Brunel" "Simon de Cordes" "Albert Dorville" "Jessé de Forest" "Louis Hennepin" "Arlon" "Charleroi" "Liege" "Namur" "Meuse" "Ourthe" "Sambre" "l'Escaut" "Semois" 
+		}
+	}
+
+	destroyer = {
+		prefix = ""
+		generic = { "Destroyer" }
+		unique = {
+			"Vallonia" "Henogovia" "Comte de Hainaut" "Comte de Namur" "Prince de Liege" "Louis Boisot" "Olivier Brunel" "Simon de Cordes" "Albert Dorville" "Jessé de Forest" "Louis Hennepin" "Arlon" "Charleroi" "Liege" "Namur" "Meuse" "Ourthe" "Sambre" "l'Escaut" "Semois" 
+		}
+	}
+
+	heavy_cruiser = {
+		prefix = ""
+		generic = { "Heavy Cruiser" }
+		unique = {
+			"Vallonia" "Henogovia" "Comte de Hainaut" "Comte de Namur" "Prince de Liege" "Louis Boisot" "Olivier Brunel" "Simon de Cordes" "Albert Dorville" "Jessé de Forest" "Louis Hennepin" "Arlon" "Charleroi" "Liege" "Namur" "Meuse" "Ourthe" "Sambre" "l'Escaut" "Semois" 
+		}
+	}
+
+	light_cruiser = {
+		prefix = ""
+		generic = { "Light Cruiser" }
+		unique = {
+			"Vallonia" "Henogovia" "Comte de Hainaut" "Comte de Namur" "Prince de Liege" "Louis Boisot" "Olivier Brunel" "Simon de Cordes" "Albert Dorville" "Jessé de Forest" "Louis Hennepin" "Arlon" "Charleroi" "Liege" "Namur" "Meuse" "Ourthe" "Sambre" "l'Escaut" "Semois" 
+		}
+	}
+
+	submarine = {
+		prefix = ""
+		generic = { "Submarine" }
+		unique = {
+			"Vallonia" "Henogovia" "Comte de Hainaut" "Comte de Namur" "Prince de Liege" "Louis Boisot" "Olivier Brunel" "Simon de Cordes" "Albert Dorville" "Jessé de Forest" "Louis Hennepin" "Arlon" "Charleroi" "Liege" "Namur" "Meuse" "Ourthe" "Sambre" "l'Escaut" "Semois" 
+		}
+	}
+
+}

@@ -1,0 +1,37 @@
+
+state={
+	id=586
+	name="STATE_586"
+
+	history={
+		owner = SAX
+		victory_points = {
+			3288 10 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 2
+			dockyard = 1
+			3288 = {
+				naval_base = 2
+			}
+			air_base = 10
+
+		}
+		add_core_of = LIT
+		add_core_of = PRE
+		add_core_of = U19
+		add_core_of = V59
+		add_claim_by = T02
+	}
+
+	provinces={
+		266 281 348 395 3288 3384 6332 6375 9327 9346 9372 9398 11245 11265 11386 
+	}
+	manpower=4162708
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

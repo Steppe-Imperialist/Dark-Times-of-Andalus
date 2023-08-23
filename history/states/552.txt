@@ -1,0 +1,35 @@
+
+state={
+	id=552
+	name="STATE_552"
+	resources={
+		oil=1.000
+		steel=26.000
+	}
+
+	history={
+		owner = SOV
+		victory_points = {
+			3338 0 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			3338 = {
+				naval_base = 2
+			}
+			air_base = 0
+
+		}
+	}
+
+	provinces={
+		140 154 180 183 312 3064 3065 3075 3080 3086 3092 3130 3147 3168 3338 6016 6102 6105 6159 6192 9041 9055 9099 9101 9248 11038 11042 11089 11171 
+	}
+	manpower=222848
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

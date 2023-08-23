@@ -1,0 +1,33 @@
+
+state={
+	id=420
+	name="STATE_420"
+
+	history={
+		owner = MAN
+		victory_points = {
+			4067 1 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			4067 = {
+				naval_base = 2
+			}
+			air_base = 0
+
+		}
+		add_core_of = JAP
+		add_core_of = MAN
+	}
+
+	provinces={
+		1063 3848 4067 4153 9865 12056 
+	}
+	manpower=766444
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+
+	local_supplies=10.0
+}

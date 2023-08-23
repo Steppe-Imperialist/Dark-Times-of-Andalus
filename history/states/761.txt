@@ -1,0 +1,29 @@
+
+state={
+	id=761
+	name="STATE_761"
+
+	history={
+		owner = T30
+		victory_points = {
+			5219 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = T30
+	}
+
+	provinces={
+		5152 5184 5219 8208 10975 10985 11022 12942 12970 
+	}
+	manpower=634920
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+
+	local_supplies=10.0
+}

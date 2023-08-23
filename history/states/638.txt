@@ -1,0 +1,34 @@
+
+state={
+	id=638
+	name="STATE_638"
+	resources={
+		oil=13.000
+	}
+
+	history={
+		owner = U76
+		victory_points = {
+			9715 1 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = ARM
+		add_core_of = U76
+		add_claim_by = T49
+	}
+
+	provinces={
+		1467 1610 9715 11704 
+	}
+	manpower=148608
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

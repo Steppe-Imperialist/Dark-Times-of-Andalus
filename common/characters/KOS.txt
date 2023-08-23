@@ -1,0 +1,16 @@
+characters={
+	KOS_m._von_g.={
+		name=KOS_m._von_g.
+		portraits={
+			civilian={
+				large="GFX_Germany_Wilhelm_III"
+			}
+		}
+		country_leader={
+			ideology=absolute_monarchy
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

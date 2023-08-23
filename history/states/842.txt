@@ -1,0 +1,39 @@
+
+state={
+	id=842
+	name="STATE_842"
+	resources={
+		steel=15.000
+	}
+
+	history={
+		owner = T90
+		victory_points = {
+			7669 10 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 3
+			arms_factory = 0
+			7481 = {
+				naval_base = 2
+			}
+			air_base = 10
+
+		}
+		add_core_of = T90
+		add_core_of = U84
+		add_core_of = X02
+		add_core_of = X34
+		add_core_of = X40
+	}
+
+	provinces={
+		1217 1410 1422 1431 1454 1478 2139 4415 4441 4462 4487 7457 7481 7669 10276 10288 10316 10518 12104 12246 12290 12311 12326 12339 12499 
+	}
+	manpower=81836
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

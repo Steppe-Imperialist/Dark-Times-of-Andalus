@@ -1,0 +1,18 @@
+﻿converted_war_strategies_TAH = {
+	enable = {
+		tag = TAH
+		always = no
+	}
+	
+}
+
+converted_diplo_strategies_TAH = {
+	enable = {
+		tag = TAH
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+}

@@ -1,0 +1,176 @@
+﻿BRA_BB_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_BB
+
+	for_countries = { BRA }
+
+	type = ship
+	ship_types = { ship_hull_heavy battleship }
+
+	prefix = ""
+	fallback_name = "Battleship BB-%d"
+
+	unique = {
+		"Sao Paulo" "Minas Gerais" "Marechal Floriano" "Marechal Deodoro" "Rio de Janeiro" "Riachuelo" "Constituicao" "Santa Catarina" "Almirante Amazonas" 
+	}
+}
+
+BRA_BC_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_BC
+
+	for_countries = { BRA }
+
+	type = ship
+	ship_types = { ship_hull_heavy battle_cruiser }
+
+	prefix = ""
+	fallback_name = "Battlecruiser BC-%d"
+
+	unique = {
+		"Brasil" "Tamandaré" "Mariz e Barros" "Colombo" "Bahia" "Rio Grande Do Norte" "Alagoas" "Espirito Santo" "Fonseca" 
+	}
+}
+
+BRA_CA_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CA
+
+	for_countries = { BRA }
+
+	type = ship
+	ship_types = { ship_hull_cruiser heavy_cruiser }
+
+	prefix = ""
+	fallback_name = "Heavy Cruiser CA-%d"
+
+	unique = {
+		"Primeiro De Março" "Paraíba" "Guanabara" "Trajano" "Vital De Oliveira" "Niterói" "Sergipe" "Paraná" "Greenhalgh" "Macapá" 
+	}
+}
+
+BRA_CLAA_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CLAA
+
+	for_countries = { BRA }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser }
+
+	prefix = ""
+	fallback_name = "Light Cruiser CLAA-%d"
+
+	unique = {
+		"Belmonte" "Jequitinhonha" "Amazonas" "Beberibe" "Iguatemi" "Mearim" "Araguari" "Parnaíba" "Cabral" "Barroso" "Herval" "Silvado" "Lima Barros" 
+	}
+}
+
+BRA_CL_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CL
+
+	for_countries = { BRA }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser }
+
+	prefix = ""
+	fallback_name = "Light Cruiser CL-%d"
+
+	unique = {
+		"Belmonte" "Jequitinhonha" "Amazonas" "Beberibe" "Iguatemi" "Mearim" "Araguari" "Parnaíba" "Cabral" "Barroso" "Herval" "Silvado" "Lima Barros" 
+	}
+}
+
+BRA_CVL_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CVL
+
+	for_countries = { BRA }
+
+	type = ship
+	ship_types = { ship_hull_carrier carrier }
+
+	prefix = ""
+	fallback_name = "Carrier CVL-%d"
+
+	unique = {
+		"Javary" "Solimões" "Sete de Setembro" "Ipiranga" "Independência" "Mato Grosso" "Maranhão" "GuanaBara" "Ceará" "Humaitá" 
+	}
+}
+
+BRA_CV_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CARRIERS
+
+	for_countries = { BRA }
+
+	type = ship
+	ship_types = { ship_hull_carrier carrier }
+
+	prefix = ""
+	fallback_name = "Carrier CV-%d"
+
+	unique = {
+		"Javary" "Solimões" "Sete de Setembro" "Ipiranga" "Independência" "Mato Grosso" "Maranhão" "GuanaBara" "Ceará" "Humaitá" 
+	}
+}
+
+BRA_DD_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_DESTROYERS
+
+	for_countries = { BRA }
+
+	type = ship
+	ship_types = { ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Destroyer DD-%d"
+
+	unique = {
+		"Almirante Barrozo" "República" "Almirante Tamandaré" "Benjamin Constant" "Aquidaban" "Riachuelo" "Toneleros" "Fortaleza" "Tiradentes" 
+	}
+}
+
+BRA_DE_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_DE
+
+	for_countries = { BRA }
+
+	type = ship
+	ship_types = { ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Destroyer Escort DE-%d"
+
+	unique = {
+		"Almirante Barrozo" "República" "Almirante Tamandaré" "Benjamin Constant" "Aquidaban" "Riachuelo" "Toneleros" "Fortaleza" "Tiradentes" 
+	}
+}
+
+BRA_MINELAYERS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_MINELAYERS
+
+	for_countries = { BRA }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Minelayer CM-%d"
+
+	unique = {
+		"Belmonte" "Jequitinhonha" "Amazonas" "Beberibe" "Iguatemi" "Mearim" "Araguari" "Parnaíba" "Cabral" "Barroso" "Herval" "Silvado" "Lima Barros" 
+	}
+}
+
+BRA_SS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_SUBMARINES
+
+	for_countries = { BRA }
+
+	type = ship
+	ship_types = { ship_hull_submarine submarine }
+
+	prefix = ""
+	fallback_name = "Submarine SS-%d"
+
+	unique = {
+		"Almirante Saldanha" "Pernambuco" "Inhauma" "Jaceguay" "Frontin" "Julio De Noronha" "Niterói" "Uniao" "Belém" "Vigia" 
+	}
+}
+

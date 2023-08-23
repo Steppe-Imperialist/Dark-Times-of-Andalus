@@ -1,0 +1,36 @@
+characters={
+	W53_mander_beshaley={
+		name=W53_mander_beshaley
+		portraits={
+			army={
+				large="GFX_Madras_Thimayya"
+			}
+			army={
+				small="GFX_Madras_Thimayya"
+			}
+		}
+		corps_commander={
+			skill=2
+			attack_skill=1
+			defense_skill=4
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	W53_tawno_petulengro={
+		name=W53_tawno_petulengro
+		portraits={
+			civilian={
+				large="GFX_BHC_Chandra_Bose"
+			}
+		}
+		country_leader={
+			ideology=fascism_ideology
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

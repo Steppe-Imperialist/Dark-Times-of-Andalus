@@ -1,0 +1,38 @@
+units = {
+	fleet = {
+		name = "3rd Fleet"
+		naval_base = 2210
+		task_force = {
+			name = "3rd Fleet"
+			location = 2210
+			ship = { name = "1st Trujillo Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = T29 } } }
+			ship = { name = "1st Lima Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = T29 } } }
+			ship = { name = "1st Ica Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = T29 } } }
+			ship = { name = "1st Lima Cruiser" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = T29 } } }
+			ship = { name = "1st Trujillo Cruiser" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = T29 } } }
+			ship = { name = "2nd Trujillo Cruiser" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = T29 } } }
+			ship = { name = "3rd Trujillo Cruiser" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = T29 } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = destroyer_1
+			creator = "T29"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+	add_equipment_production = {
+		equipment = {
+			type = battleship_1
+			creator = "T29"
+		}
+		requested_factories = 8
+		progress = 0.25
+		amount = 3
+	}
+}

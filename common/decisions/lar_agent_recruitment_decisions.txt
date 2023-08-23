@@ -1,0 +1,1091 @@
+lar_local_recruitment = {
+
+	recruit_in_europe = {
+
+		available = {
+			
+		}
+
+		visible = {
+			capital_scope = {
+				NOT = {
+					is_on_continent = europe
+				}
+			}
+			OR = {
+				any_owned_state = {
+					is_on_continent = europe
+				}
+				any_allied_country = {
+					any_owned_state = {
+						is_on_continent = europe
+					}
+				}
+				any_of_scopes = {
+					array = subjects
+					any_owned_state = {
+						is_on_continent = europe
+					}
+				}
+			}
+		}
+
+		fire_only_once = yes
+
+		modifier = {
+			civilian_factory_use = 3
+		}
+
+		days_remove = 90
+
+		cost = 50
+
+		remove_effect = {
+			set_country_flag = europe_recruitment_unlocked
+		}
+
+		ai_will_do = {
+			base = 0
+		}
+	}
+
+	recruit_in_europe_state = {
+
+		icon = onmap_recruit_operative
+
+		available = {
+			
+		}
+
+		state_target = yes
+
+		target_trigger = {
+			FROM = {
+				is_on_continent = europe
+				OR = {
+					AND = {
+						has_variable = historical_capital_for_country
+						var:historical_capital_for_country = {
+							exists = yes
+							has_capitulated = yes
+							NOT = { tag = ROOT }
+						}
+					}
+					AND = {
+						is_capital = yes
+						CONTROLLER = {
+							NOT = {
+								tag = ROOT
+							}
+						}
+					}
+				}
+			}
+		}
+
+		visible = {
+			OR = {
+				has_country_flag = europe_recruitment_unlocked
+				capital_scope = { is_on_continent = europe }
+			}
+			NOT = { has_country_flag = europe_recruitment_in_process }
+		}
+
+		fire_only_once = no
+		days_re_enable = 180
+
+		cost = 0
+
+		on_map_mode = map_only
+
+		complete_effect = {
+			set_country_flag = { flag = europe_recruitment_in_process days = 180 value = 1 }
+			if = {
+				limit = {
+					num_of_operatives < num_operative_slots
+				}
+				custom_effect_tooltip = recruit_in_state_tt
+			}
+			else = {
+				custom_effect_tooltip = recruit_in_state_to_pool_tt
+			}
+			hidden_effect = {
+				create_operative_leader = {
+					bypass_recruitment = yes
+					nationalities = { FROM.OWNER }
+					portrait_tag_override = FROM.OWNER
+				}
+			}
+		}
+
+		ai_will_do = {
+			base = 0
+		}
+	}
+
+	recruit_in_north_america = {
+
+		available = {
+			
+		}
+
+		visible = {
+			capital_scope = {
+				NOT = {
+					is_on_continent = north_america
+				}
+			}
+			OR = {
+				any_owned_state = {
+					is_on_continent = north_america
+				}
+				any_allied_country = {
+					any_owned_state = {
+						is_on_continent = north_america
+					}
+				}
+				any_of_scopes = {
+					array = subjects
+					any_owned_state = {
+						is_on_continent = north_america
+					}
+				}
+			}
+		}
+
+		fire_only_once = yes
+
+		modifier = {
+			civilian_factory_use = 3
+		}
+
+		days_remove = 90
+
+		cost = 50
+
+		remove_effect = {
+			set_country_flag = north_america_recruitment_unlocked
+		}
+
+		ai_will_do = {
+			base = 0
+		}
+	}
+
+	recruit_in_north_america_state = {
+
+		icon = onmap_recruit_operative
+
+		name = recruit_in_europe_state
+
+		available = {
+			
+		}
+
+		state_target = yes
+
+		target_trigger = {
+			FROM = {
+				is_on_continent = north_america
+				OR = {
+					AND = {
+						has_variable = historical_capital_for_country
+						var:historical_capital_for_country = {
+							OR = {
+								has_capitulated = yes
+								exists = no
+							}
+							NOT = { tag = ROOT }
+						}
+					}
+					AND = {
+						is_capital = yes
+						CONTROLLER = {
+							NOT = {
+								tag = ROOT
+							}
+						}
+					}
+				}
+			}
+		}
+
+		visible = {
+			OR = {
+				has_country_flag = north_america_recruitment_unlocked
+				capital_scope = { is_on_continent = north_america }
+			}
+			NOT = { has_country_flag = north_america_recruitment_in_process }
+		}
+
+		fire_only_once = no
+		days_re_enable = 180
+
+		cost = 0
+
+		on_map_mode = map_only
+
+		complete_effect = {
+			set_country_flag = { flag = north_america_recruitment_in_process days = 180 value = 1 }
+			if = {
+				limit = {
+					num_of_operatives < num_operative_slots
+				}
+				custom_effect_tooltip = recruit_in_state_tt
+			}
+			else = {
+				custom_effect_tooltip = recruit_in_state_to_pool_tt
+			}
+			hidden_effect = {
+				create_operative_leader = {
+					bypass_recruitment = yes
+					nationalities = { FROM.OWNER }
+					portrait_tag_override = FROM.OWNER
+				}
+			}
+		}
+
+		ai_will_do = {
+			base = 0
+		}
+	}
+
+	recruit_in_south_america = {
+
+		available = {
+			
+		}
+
+		visible = {
+			capital_scope = {
+				NOT = {
+					is_on_continent = south_america
+				}
+			}
+			OR = {
+				any_owned_state = {
+					is_on_continent = south_america
+				}
+				any_allied_country = {
+					any_owned_state = {
+						is_on_continent = south_america
+					}
+				}
+				any_of_scopes = {
+					array = subjects
+					any_owned_state = {
+						is_on_continent = south_america
+					}
+				}
+			}
+		}
+
+		fire_only_once = yes
+
+		modifier = {
+			civilian_factory_use = 3
+		}
+
+		days_remove = 90
+
+		cost = 50
+
+		remove_effect = {
+			set_country_flag = south_america_recruitment_unlocked
+		}
+
+		ai_will_do = {
+			base = 0
+		}
+	}
+
+	recruit_in_south_america_state = {
+
+		icon = onmap_recruit_operative
+
+		name = recruit_in_europe_state
+
+		available = {
+			
+		}
+
+		state_target = yes
+
+		target_trigger = {
+			FROM = {
+				is_on_continent = south_america
+				OR = {
+					AND = {
+						has_variable = historical_capital_for_country
+						var:historical_capital_for_country = {
+							OR = {
+								has_capitulated = yes
+								exists = no
+							}
+							NOT = { tag = ROOT }
+						}
+					}
+					AND = {
+						is_capital = yes
+						CONTROLLER = {
+							NOT = {
+								tag = ROOT
+							}
+						}
+					}
+				}
+			}
+		}
+
+		visible = {
+			OR = {
+				has_country_flag = south_america_recruitment_unlocked
+				capital_scope = { is_on_continent = south_america }
+			}
+			NOT = { has_country_flag = south_america_recruitment_in_process }
+		}
+
+		fire_only_once = no
+		days_re_enable = 180
+
+		cost = 0
+
+		on_map_mode = map_only
+
+		complete_effect = {
+			set_country_flag = { flag = south_america_recruitment_in_process days = 180 value = 1 }
+			if = {
+				limit = {
+					num_of_operatives < num_operative_slots
+				}
+				custom_effect_tooltip = recruit_in_state_tt
+			}
+			else = {
+				custom_effect_tooltip = recruit_in_state_to_pool_tt
+			}
+			hidden_effect = {
+				create_operative_leader = {
+					bypass_recruitment = yes
+					nationalities = { FROM.OWNER }
+					portrait_tag_override = FROM.OWNER
+				}
+			}
+		}
+
+		ai_will_do = {
+			base = 0
+		}
+	}
+
+	recruit_in_africa = {
+
+		available = {
+			
+		}
+
+		visible = {
+			capital_scope = {
+				NOT = {
+					is_on_continent = africa
+				}
+			}
+			OR = {
+				any_owned_state = {
+					is_on_continent = africa
+				}
+				any_allied_country = {
+					any_owned_state = {
+						is_on_continent = africa
+					}
+				}
+				any_of_scopes = {
+					array = subjects
+					any_owned_state = {
+						is_on_continent = africa
+					}
+				}
+			}
+		}
+
+		fire_only_once = yes
+
+		modifier = {
+			civilian_factory_use = 3
+		}
+
+		days_remove = 90
+
+		cost = 50
+
+		remove_effect = {
+			set_country_flag = africa_recruitment_unlocked
+		}
+
+		ai_will_do = {
+			base = 0
+		}
+	}
+
+	recruit_in_africa_state = {
+
+		icon = onmap_recruit_operative
+
+		name = recruit_in_europe_state
+
+		available = {
+			
+		}
+
+		state_target = yes
+
+		target_trigger = {
+			FROM = {
+				is_on_continent = africa
+				OR = {
+					AND = {
+						has_variable = historical_capital_for_country
+						var:historical_capital_for_country = {
+							OR = {
+								has_capitulated = yes
+								exists = no
+							}
+							NOT = { tag = ROOT }
+						}
+					}
+					AND = {
+						is_capital = yes
+						CONTROLLER = {
+							NOT = {
+								tag = ROOT
+							}
+						}
+					}
+				}
+			}
+		}
+
+		visible = {
+			OR = {
+				has_country_flag = africa_recruitment_unlocked
+				capital_scope = { is_on_continent = africa }
+			}
+			NOT = { has_country_flag = africa_recruitment_in_process }
+		}
+
+		fire_only_once = no
+		days_re_enable = 180
+
+		cost = 0
+
+		on_map_mode = map_only
+
+		complete_effect = {
+			set_country_flag = { flag = africa_recruitment_in_process days = 180 value = 1 }
+			if = {
+				limit = {
+					num_of_operatives < num_operative_slots
+				}
+				custom_effect_tooltip = recruit_in_state_tt
+			}
+			else = {
+				custom_effect_tooltip = recruit_in_state_to_pool_tt
+			}
+			hidden_effect = {
+				create_operative_leader = {
+					bypass_recruitment = yes
+					nationalities = { FROM.OWNER }
+					portrait_tag_override = FROM.OWNER
+				}
+			}
+		}
+
+		ai_will_do = {
+			base = 0
+		}
+	}
+
+	recruit_in_middle_east = {
+
+		available = {
+			
+		}
+
+		visible = {
+			capital_scope = {
+				NOT = {
+					is_on_continent = middle_east
+				}
+			}
+			OR = {
+				any_owned_state = {
+					is_on_continent = middle_east
+				}
+				any_allied_country = {
+					any_owned_state = {
+						is_on_continent = middle_east
+					}
+				}
+				any_of_scopes = {
+					array = subjects
+					any_owned_state = {
+						is_on_continent = middle_east
+					}
+				}
+			}
+		}
+
+		fire_only_once = yes
+
+		modifier = {
+			civilian_factory_use = 3
+		}
+
+		days_remove = 90
+
+		cost = 50
+
+		remove_effect = {
+			set_country_flag = middle_east_recruitment_unlocked
+		}
+
+		ai_will_do = {
+			base = 0
+		}
+	}
+
+	recruit_in_middle_east_state = {
+
+		icon = onmap_recruit_operative
+
+		name = recruit_in_europe_state
+
+		available = {
+			
+		}
+
+		state_target = yes
+
+		target_trigger = {
+			FROM = {
+				is_on_continent = middle_east
+				OR = {
+					AND = {
+						has_variable = historical_capital_for_country
+						var:historical_capital_for_country = {
+							OR = {
+								has_capitulated = yes
+								exists = no
+							}
+							NOT = { tag = ROOT }
+						}
+					}
+					AND = {
+						is_capital = yes
+						CONTROLLER = {
+							NOT = {
+								tag = ROOT
+							}
+						}
+					}
+				}
+			}
+		}
+
+		visible = {
+			OR = {
+				has_country_flag = middle_east_recruitment_unlocked
+				capital_scope = { is_on_continent = middle_east }
+			}
+			NOT = { has_country_flag = middle_east_recruitment_in_process }
+		}
+
+		fire_only_once = no
+		days_re_enable = 180
+
+		cost = 0
+
+		on_map_mode = map_only
+
+		complete_effect = {
+			set_country_flag = { flag = middle_east_recruitment_in_process days = 180 value = 1 }
+			if = {
+				limit = {
+					num_of_operatives < num_operative_slots
+				}
+				custom_effect_tooltip = recruit_in_state_tt
+			}
+			else = {
+				custom_effect_tooltip = recruit_in_state_to_pool_tt
+			}
+			hidden_effect = {
+				create_operative_leader = {
+					bypass_recruitment = yes
+					nationalities = { FROM.OWNER }
+					portrait_tag_override = FROM.OWNER
+				}
+			}
+		}
+
+		ai_will_do = {
+			base = 0
+		}
+	}
+
+	recruit_in_asia = {
+
+		available = {
+			
+		}
+
+		visible = {
+			capital_scope = {
+				NOT = {
+					is_on_continent = asia
+				}
+			}
+			OR = {
+				any_owned_state = {
+					is_on_continent = asia
+				}
+				any_allied_country = {
+					any_owned_state = {
+						is_on_continent = asia
+					}
+				}
+				any_of_scopes = {
+					array = subjects
+					any_owned_state = {
+						is_on_continent = asia
+					}
+				}
+			}
+		}
+
+		fire_only_once = yes
+
+		modifier = {
+			civilian_factory_use = 3
+		}
+
+		days_remove = 90
+
+		cost = 50
+
+		remove_effect = {
+			set_country_flag = asia_recruitment_unlocked
+		}
+
+		ai_will_do = {
+			base = 0
+		}
+	}
+
+	recruit_in_asia_state = {
+
+		icon = onmap_recruit_operative
+
+		name = recruit_in_europe_state
+
+		available = {
+			
+		}
+
+		state_target = yes
+
+		target_trigger = {
+			FROM = {
+				is_on_continent = asia
+				OR = {
+					AND = {
+						has_variable = historical_capital_for_country
+						var:historical_capital_for_country = {
+							OR = {
+								has_capitulated = yes
+								exists = no
+							}
+							NOT = { tag = ROOT }
+							NOT = { has_country_flag = conv_south_asia }
+						}
+					}
+					AND = {
+						is_capital = yes
+						CONTROLLER = {
+							NOT = {
+								tag = ROOT
+							}
+							NOT = { has_country_flag = conv_south_asia }
+						}
+					}
+				}
+			}
+		}
+
+		visible = {
+			OR = {
+				has_country_flag = asia_recruitment_unlocked
+				capital_scope = {
+					is_on_continent = asia
+				}
+			}
+			NOT = {
+				has_country_flag = conv_south_asia
+			}
+			NOT = { has_country_flag = asia_recruitment_in_process }
+		}
+
+		fire_only_once = no
+		days_re_enable = 180
+
+		cost = 0
+
+		on_map_mode = map_only
+
+		complete_effect = {
+			set_country_flag = { flag = asia_recruitment_in_process days = 180 value = 1 }
+			if = {
+				limit = {
+					num_of_operatives < num_operative_slots
+				}
+				custom_effect_tooltip = recruit_in_state_tt
+			}
+			else = {
+				custom_effect_tooltip = recruit_in_state_to_pool_tt
+			}
+			hidden_effect = {
+				create_operative_leader = {
+					bypass_recruitment = yes
+					nationalities = { FROM.OWNER }
+					portrait_tag_override = FROM.OWNER
+				}
+			}
+		}
+
+		ai_will_do = {
+			base = 0
+		}
+	}
+
+	recruit_in_australia = {
+
+		available = {
+			
+		}
+
+		visible = {
+			capital_scope = {
+				NOT = {
+					is_on_continent = australia
+				}
+			}
+			OR = {
+				any_owned_state = {
+					is_on_continent = australia
+				}
+				any_allied_country = {
+					any_owned_state = {
+						is_on_continent = australia
+					}
+				}
+				any_of_scopes = {
+					array = subjects
+					any_owned_state = {
+						is_on_continent = australia
+					}
+				}
+			}
+		}
+
+		fire_only_once = yes
+
+		modifier = {
+			civilian_factory_use = 3
+		}
+
+		days_remove = 90
+
+		cost = 50
+
+		remove_effect = {
+			set_country_flag = australia_recruitment_unlocked
+		}
+
+		ai_will_do = {
+			base = 0
+		}
+	}
+
+	recruit_in_australia_state = {
+
+		icon = onmap_recruit_operative
+
+		name = recruit_in_europe_state
+
+		available = {
+			
+		}
+
+		state_target = yes
+
+		target_trigger = {
+			FROM = {
+				is_on_continent = australia
+				OR = {
+					AND = {
+						has_variable = historical_capital_for_country
+						var:historical_capital_for_country = {
+							OR = {
+								has_capitulated = yes
+								exists = no
+							}
+							NOT = { tag = ROOT }
+						}
+					}
+					AND = {
+						is_capital = yes
+						CONTROLLER = {
+							NOT = {
+								tag = ROOT
+							}
+						}
+					}
+				}
+			}
+		}
+
+		visible = {
+			OR = {
+				has_country_flag = australia_recruitment_unlocked
+				capital_scope = { is_on_continent = australia }
+			}
+			NOT = { has_country_flag = australia_recruitment_in_process }
+		}
+
+		fire_only_once = no
+		days_re_enable = 180
+
+		cost = 0
+
+		on_map_mode = map_only
+
+		complete_effect = {
+			set_country_flag = { flag = australia_recruitment_in_process days = 180 value = 1 }
+			if = {
+				limit = {
+					num_of_operatives < num_operative_slots
+				}
+				custom_effect_tooltip = recruit_in_state_tt
+			}
+			else = {
+				custom_effect_tooltip = recruit_in_state_to_pool_tt
+			}
+			hidden_effect = {
+				create_operative_leader = {
+					bypass_recruitment = yes
+					nationalities = { FROM.OWNER }
+					portrait_tag_override = FROM.OWNER
+				}
+			}
+		}
+
+		ai_will_do = {
+			base = 0
+		}
+	}
+
+	recruit_in_india = {
+
+		available = {
+			
+		}
+
+		visible = {
+			NOT = {
+				has_country_flag = conv_south_asia
+			}
+			OR = {
+				any_owned_state = {
+					OR = {
+						is_core_of = BAN
+						is_core_of = JAP
+						is_core_of = MLD
+						is_core_of = NEP
+						is_core_of = RAJ
+						is_core_of = SRL
+						is_core_of = T53
+						is_core_of = T94
+						is_core_of = U14
+						is_core_of = U26
+						is_core_of = U48
+						is_core_of = U53
+						is_core_of = U93
+						is_core_of = U97
+						is_core_of = V43
+						is_core_of = V46
+						is_core_of = V60
+						is_core_of = V66
+						is_core_of = V73
+						is_core_of = V83
+						is_core_of = V99
+						is_core_of = W14
+						is_core_of = W18
+						is_core_of = W35
+						is_core_of = W37
+						is_core_of = W43
+						is_core_of = W49
+						is_core_of = W80
+						is_core_of = W86
+						is_core_of = W87
+						is_core_of = W90
+						is_core_of = W94
+						is_core_of = W97
+						is_core_of = X25
+						is_core_of = X42
+						is_core_of = X52
+						is_core_of = X58
+						is_core_of = X65
+					}
+				}
+				is_in_faction_with = BAN
+				is_in_faction_with = JAP
+				is_in_faction_with = MLD
+				is_in_faction_with = NEP
+				is_in_faction_with = RAJ
+				is_in_faction_with = SRL
+				is_in_faction_with = T53
+				is_in_faction_with = T94
+				is_in_faction_with = U14
+				is_in_faction_with = U26
+				is_in_faction_with = U48
+				is_in_faction_with = U53
+				is_in_faction_with = U93
+				is_in_faction_with = U97
+				is_in_faction_with = V43
+				is_in_faction_with = V46
+				is_in_faction_with = V60
+				is_in_faction_with = V66
+				is_in_faction_with = V73
+				is_in_faction_with = V83
+				is_in_faction_with = V99
+				is_in_faction_with = W14
+				is_in_faction_with = W18
+				is_in_faction_with = W35
+				is_in_faction_with = W37
+				is_in_faction_with = W43
+				is_in_faction_with = W49
+				is_in_faction_with = W80
+				is_in_faction_with = W86
+				is_in_faction_with = W87
+				is_in_faction_with = W90
+				is_in_faction_with = W94
+				is_in_faction_with = W97
+				is_in_faction_with = X25
+				is_in_faction_with = X42
+				is_in_faction_with = X52
+				is_in_faction_with = X58
+				is_in_faction_with = X65
+				any_of_scopes = {
+					array = subjects
+					has_country_flag = conv_south_asia
+				}
+			}
+		}
+
+		fire_only_once = yes
+
+		modifier = {
+			civilian_factory_use = 3
+		}
+
+		days_remove = 90
+
+		cost = 50
+
+		remove_effect = {
+			set_country_flag = india_recruitment_unlocked
+		}
+
+		ai_will_do = {
+			base = 0
+		}
+	}
+
+	recruit_in_india_state = {
+
+		icon = onmap_recruit_operative
+
+		name = recruit_in_europe_state
+
+		available = {
+			
+		}
+
+		state_target = yes
+
+		target_trigger = {
+			FROM = {
+				OR = {
+					AND = {
+						has_variable = historical_capital_for_country
+						var:historical_capital_for_country = {
+							OR = {
+								has_capitulated = yes
+								exists = no
+							}
+							NOT = { tag = ROOT }
+							has_country_flag = conv_south_asia
+						}
+					}
+					AND = {
+						is_capital = yes
+						CONTROLLER = {
+							NOT = {
+								tag = ROOT
+							}
+							has_country_flag = conv_south_asia
+						}
+					}
+				}
+			}
+		}
+
+		visible = {
+			OR = {
+				has_country_flag = india_recruitment_unlocked
+				has_country_flag = conv_south_asia
+			}
+			NOT = { has_country_flag = india_recruitment_in_process }
+		}
+
+		fire_only_once = no
+		days_re_enable = 180
+
+		cost = 0
+
+		on_map_mode = map_only
+
+		complete_effect = {
+			set_country_flag = { flag = india_recruitment_in_process days = 180 value = 1 }
+			if = {
+				limit = {
+					num_of_operatives < num_operative_slots
+				}
+				custom_effect_tooltip = recruit_in_state_tt
+			}
+			else = {
+				custom_effect_tooltip = recruit_in_state_to_pool_tt
+			}
+			hidden_effect = {
+				create_operative_leader = {
+					bypass_recruitment = yes
+					nationalities = { FROM.OWNER }
+					portrait_tag_override = FROM.OWNER
+				}
+			}
+		}
+
+		ai_will_do = {
+			base = 0
+		}
+	}
+}
+

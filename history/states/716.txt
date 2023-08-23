@@ -1,0 +1,36 @@
+
+state={
+	id=716
+	name="STATE_716"
+
+	history={
+		owner = T13
+		victory_points = {
+			599 1 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 0
+			arms_factory = 1
+			11735 = {
+				naval_base = 1
+			}
+			air_base = 1
+
+		}
+		add_core_of = ITA
+		add_core_of = SLV
+		add_core_of = T13
+		add_claim_by = W16
+		add_claim_by = YUG
+	}
+
+	provinces={
+		599 11595 11735 
+	}
+	manpower=1147660
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

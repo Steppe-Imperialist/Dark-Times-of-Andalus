@@ -1,0 +1,18 @@
+﻿converted_war_strategies_AFA = {
+	enable = {
+		tag = AFA
+		always = no
+	}
+	
+}
+
+converted_diplo_strategies_AFA = {
+	enable = {
+		tag = AFA
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+}

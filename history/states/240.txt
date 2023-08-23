@@ -1,0 +1,37 @@
+
+state={
+	id=240
+	name="STATE_240"
+	resources={
+		chromium=4.000
+	}
+
+	history={
+		owner = GRE
+		victory_points = {
+			6990 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			11774 = {
+				naval_base = 2
+			}
+			air_base = 0
+
+		}
+		add_core_of = GRE
+		add_core_of = SER
+		add_claim_by = YUG
+	}
+
+	provinces={
+		6990 9791 9930 11774 11905 
+	}
+	manpower=1141512
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

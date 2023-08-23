@@ -1,0 +1,31 @@
+
+state={
+	id=907
+	name="STATE_907"
+
+	history={
+		owner = W39
+		victory_points = {
+			422 10
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 3
+
+		}
+		add_core_of = SOV
+        add_core_of = W39
+        add_core_of = X77
+
+	}
+
+	provinces={
+		422 513
+	}
+	manpower=31192
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=10.000
+}

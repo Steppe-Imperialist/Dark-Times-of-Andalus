@@ -1,0 +1,18 @@
+﻿converted_war_strategies_KAL = {
+	enable = {
+		tag = KAL
+		always = no
+	}
+	
+}
+
+converted_diplo_strategies_KAL = {
+	enable = {
+		tag = KAL
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+}

@@ -1,0 +1,636 @@
+focus_tree = {
+	id = T36_focus
+	
+	country = {
+		factor = 0
+		
+		modifier = {
+			add = 10
+			tag = T36
+		}
+	}
+	
+	default = no
+	
+	shared_focus = army_effort
+	shared_focus = aviation_effort
+	shared_focus = naval_effort
+	shared_focus = industrial_effort
+	shared_focus = political_effort
+
+	focus = {
+		id = border_disputesT36GRE
+		icon = GFX_goal_generic_more_territorial_claims
+		text = border_disputesGRE
+		x = 28
+		y = 0
+		cost = 10
+		available = {
+			is_subject = no
+			has_war = no
+			GRE = {
+				exists = yes
+				not_allies_or_subjects = yes
+				owns_state = 245
+			}
+		}
+		completion_reward = {
+			add_war_support = 0.05
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				OR = {
+					has_government = democratic
+					has_government = neutrality
+				}
+			}
+			modifier = {
+				factor = 0
+				has_opinion = { target = GRE value > 0 }
+			}
+			modifier = {
+				factor = 0
+				GRE = { in_weak_faction = no }
+			}
+			modifier = {
+				factor = 0
+				any_country = {
+					has_subject = GRE
+					in_weak_faction = no
+				}
+			}
+			modifier = {
+				factor = 0
+				date < 1938.8.1
+			}
+			modifier = {
+				factor = 0
+				threat > 0.25
+				date < 1939.4.1
+			}
+			modifier = {
+				factor = 0
+				threat > 0.4
+				date < 1939.8.1
+			}
+			modifier = {
+				factor = 0
+				threat > 0.5
+			}
+			modifier = {
+				factor = 2
+				GRE = { surrender_progress > 0.2 }
+			}
+		}
+	}
+
+	focus = {
+		id = assert_claimsT36GRE
+		icon = GFX_goal_generic_territory_or_war
+		text = assert_claimsGRE
+		prerequisite = { focus = border_disputesT36GRE }
+		x = 0
+		y = 1
+		relative_position_id = border_disputesT36GRE
+		cost = 10
+		available = {
+			date > 1936.1.1
+			is_subject = no
+			has_war = no
+			GRE = {
+				exists = yes
+				not_allies_or_subjects = yes
+				owns_state = 245
+			}
+		}
+		completion_reward = {
+			add_state_claim = 245
+			add_named_threat = { threat = 3 name = neighbor_war_NF_threat }
+			hidden_effect = {
+				GRE = { country_event = { id = reconquest_news.1 } }
+			}
+		}
+		ai_will_do = {
+			factor = 10
+			modifier = {
+				factor = 0
+				OR = {
+					has_government = democratic
+					has_government = neutrality
+				}
+			}
+			modifier = {
+				factor = 0
+				has_opinion = { target = GRE value > 0 }
+			}
+			modifier = {
+				factor = 0
+				GRE = { in_weak_faction = no }
+			}
+			modifier = {
+				factor = 0
+				any_country = {
+					has_subject = GRE
+					in_weak_faction = no
+				}
+			}
+			modifier = {
+				factor = 0
+				date < 1938.8.1
+			}
+			modifier = {
+				factor = 0
+				threat > 0.25
+				date < 1939.4.1
+			}
+			modifier = {
+				factor = 0
+				threat > 0.4
+				date < 1939.8.1
+			}
+			modifier = {
+				factor = 0
+				threat > 0.5
+			}
+			modifier = {
+				factor = 2
+				GRE = { surrender_progress > 0.2 }
+			}
+		}
+	}
+
+	focus = {
+		id = prepare_for_warT36GRE
+		icon = GFX_goal_generic_position_armies
+		text = prepare_for_warGRE
+		prerequisite = { focus = assert_claimsT36GRE }
+		bypass = {
+			has_war_with = GRE
+		}
+		x = 0
+		y = 1
+		relative_position_id = assert_claimsT36GRE
+		cost = 10
+		available = {
+			is_subject = no
+			has_war = no
+			GRE = {
+				exists = yes
+				not_allies_or_subjects = yes
+				owns_state = 245
+			}
+		}
+		completion_reward = {
+			add_manpower = 10000
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+
+	focus = {
+		id = neighbor_warT36GRE
+		icon = GFX_goal_generic_occupy_states_ongoing_war
+		text = neighbor_warGRE
+		prerequisite = { focus = prepare_for_warT36GRE }
+		bypass = {
+			has_war_with = GRE
+		}
+		x = 0
+		y = 1
+		relative_position_id = prepare_for_warT36GRE
+		cost = 10
+		available = {
+			is_subject = no
+			has_war = no
+			GRE = {
+				exists = yes
+				not_allies_or_subjects = yes
+				owns_state = 245
+			}
+		}
+		completion_reward = {
+			declare_war_on = {
+				target = GRE
+				type = take_state_focus
+				generator = { 245 }
+			}
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+
+	focus = {
+		id = border_disputesT36T66
+		icon = GFX_goal_generic_more_territorial_claims
+		text = border_disputesT66
+		x = 30
+		y = 0
+		cost = 10
+		available = {
+			is_subject = no
+			has_war = no
+			T66 = {
+				exists = yes
+				not_allies_or_subjects = yes
+				owns_state = 811
+			}
+		}
+		completion_reward = {
+			add_war_support = 0.05
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				OR = {
+					has_government = democratic
+					has_government = neutrality
+				}
+			}
+			modifier = {
+				factor = 0
+				has_opinion = { target = T66 value > 0 }
+			}
+			modifier = {
+				factor = 0
+				T66 = { in_weak_faction = no }
+			}
+			modifier = {
+				factor = 0
+				any_country = {
+					has_subject = T66
+					in_weak_faction = no
+				}
+			}
+			modifier = {
+				factor = 0
+				date < 1938.8.1
+			}
+			modifier = {
+				factor = 0
+				threat > 0.25
+				date < 1939.4.1
+			}
+			modifier = {
+				factor = 0
+				threat > 0.4
+				date < 1939.8.1
+			}
+			modifier = {
+				factor = 0
+				threat > 0.5
+			}
+			modifier = {
+				factor = 2
+				T66 = { surrender_progress > 0.2 }
+			}
+		}
+	}
+
+	focus = {
+		id = assert_claimsT36T66
+		icon = GFX_goal_generic_territory_or_war
+		text = assert_claimsT66
+		prerequisite = { focus = border_disputesT36T66 }
+		x = 0
+		y = 1
+		relative_position_id = border_disputesT36T66
+		cost = 10
+		available = {
+			date > 1937.8.1
+			is_subject = no
+			has_war = no
+			T66 = {
+				exists = yes
+				not_allies_or_subjects = yes
+				owns_state = 811
+			}
+		}
+		completion_reward = {
+			add_state_claim = 811
+			add_named_threat = { threat = 3 name = neighbor_war_NF_threat }
+			hidden_effect = {
+				T66 = { country_event = { id = reconquest_news.1 } }
+			}
+		}
+		ai_will_do = {
+			factor = 10
+			modifier = {
+				factor = 0
+				OR = {
+					has_government = democratic
+					has_government = neutrality
+				}
+			}
+			modifier = {
+				factor = 0
+				has_opinion = { target = T66 value > 0 }
+			}
+			modifier = {
+				factor = 0
+				T66 = { in_weak_faction = no }
+			}
+			modifier = {
+				factor = 0
+				any_country = {
+					has_subject = T66
+					in_weak_faction = no
+				}
+			}
+			modifier = {
+				factor = 0
+				date < 1938.8.1
+			}
+			modifier = {
+				factor = 0
+				threat > 0.25
+				date < 1939.4.1
+			}
+			modifier = {
+				factor = 0
+				threat > 0.4
+				date < 1939.8.1
+			}
+			modifier = {
+				factor = 0
+				threat > 0.5
+			}
+			modifier = {
+				factor = 2
+				T66 = { surrender_progress > 0.2 }
+			}
+		}
+	}
+
+	focus = {
+		id = prepare_for_warT36T66
+		icon = GFX_goal_generic_position_armies
+		text = prepare_for_warT66
+		prerequisite = { focus = assert_claimsT36T66 }
+		bypass = {
+			has_war_with = T66
+		}
+		x = 0
+		y = 1
+		relative_position_id = assert_claimsT36T66
+		cost = 10
+		available = {
+			is_subject = no
+			has_war = no
+			T66 = {
+				exists = yes
+				not_allies_or_subjects = yes
+				owns_state = 811
+			}
+		}
+		completion_reward = {
+			add_manpower = 10000
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+
+	focus = {
+		id = neighbor_warT36T66
+		icon = GFX_goal_generic_occupy_states_ongoing_war
+		text = neighbor_warT66
+		prerequisite = { focus = prepare_for_warT36T66 }
+		bypass = {
+			has_war_with = T66
+		}
+		x = 0
+		y = 1
+		relative_position_id = prepare_for_warT36T66
+		cost = 10
+		available = {
+			is_subject = no
+			has_war = no
+			T66 = {
+				exists = yes
+				not_allies_or_subjects = yes
+				owns_state = 811
+			}
+		}
+		completion_reward = {
+			declare_war_on = {
+				target = T66
+				type = take_state_focus
+				generator = { 811 }
+			}
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+
+	focus = {
+		id = border_disputesT36YUG
+		icon = GFX_goal_generic_more_territorial_claims
+		text = border_disputesYUG
+		x = 32
+		y = 0
+		cost = 10
+		available = {
+			is_subject = no
+			has_war = no
+			YUG = {
+				exists = yes
+				not_allies_or_subjects = yes
+				owns_state = 887
+			}
+		}
+		completion_reward = {
+			add_war_support = 0.05
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				OR = {
+					has_government = democratic
+					has_government = neutrality
+				}
+			}
+			modifier = {
+				factor = 0
+				has_opinion = { target = YUG value > 0 }
+			}
+			modifier = {
+				factor = 0
+				YUG = { in_weak_faction = no }
+			}
+			modifier = {
+				factor = 0
+				any_country = {
+					has_subject = YUG
+					in_weak_faction = no
+				}
+			}
+			modifier = {
+				factor = 0
+				date < 1938.8.1
+			}
+			modifier = {
+				factor = 0
+				threat > 0.25
+				date < 1939.4.1
+			}
+			modifier = {
+				factor = 0
+				threat > 0.4
+				date < 1939.8.1
+			}
+			modifier = {
+				factor = 0
+				threat > 0.5
+			}
+			modifier = {
+				factor = 2
+				YUG = { surrender_progress > 0.2 }
+			}
+		}
+	}
+
+	focus = {
+		id = assert_claimsT36YUG
+		icon = GFX_goal_generic_territory_or_war
+		text = assert_claimsYUG
+		prerequisite = { focus = border_disputesT36YUG }
+		x = 0
+		y = 1
+		relative_position_id = border_disputesT36YUG
+		cost = 10
+		available = {
+			date > 1936.1.1
+			is_subject = no
+			has_war = no
+			YUG = {
+				exists = yes
+				not_allies_or_subjects = yes
+				owns_state = 887
+			}
+		}
+		completion_reward = {
+			add_state_claim = 887
+			add_named_threat = { threat = 3 name = neighbor_war_NF_threat }
+			hidden_effect = {
+				YUG = { country_event = { id = reconquest_news.1 } }
+			}
+		}
+		ai_will_do = {
+			factor = 10
+			modifier = {
+				factor = 0
+				OR = {
+					has_government = democratic
+					has_government = neutrality
+				}
+			}
+			modifier = {
+				factor = 0
+				has_opinion = { target = YUG value > 0 }
+			}
+			modifier = {
+				factor = 0
+				YUG = { in_weak_faction = no }
+			}
+			modifier = {
+				factor = 0
+				any_country = {
+					has_subject = YUG
+					in_weak_faction = no
+				}
+			}
+			modifier = {
+				factor = 0
+				date < 1938.8.1
+			}
+			modifier = {
+				factor = 0
+				threat > 0.25
+				date < 1939.4.1
+			}
+			modifier = {
+				factor = 0
+				threat > 0.4
+				date < 1939.8.1
+			}
+			modifier = {
+				factor = 0
+				threat > 0.5
+			}
+			modifier = {
+				factor = 2
+				YUG = { surrender_progress > 0.2 }
+			}
+		}
+	}
+
+	focus = {
+		id = prepare_for_warT36YUG
+		icon = GFX_goal_generic_position_armies
+		text = prepare_for_warYUG
+		prerequisite = { focus = assert_claimsT36YUG }
+		bypass = {
+			has_war_with = YUG
+		}
+		x = 0
+		y = 1
+		relative_position_id = assert_claimsT36YUG
+		cost = 10
+		available = {
+			is_subject = no
+			has_war = no
+			YUG = {
+				exists = yes
+				not_allies_or_subjects = yes
+				owns_state = 887
+			}
+		}
+		completion_reward = {
+			add_manpower = 10000
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+
+	focus = {
+		id = neighbor_warT36YUG
+		icon = GFX_goal_generic_occupy_states_ongoing_war
+		text = neighbor_warYUG
+		prerequisite = { focus = prepare_for_warT36YUG }
+		bypass = {
+			has_war_with = YUG
+		}
+		x = 0
+		y = 1
+		relative_position_id = prepare_for_warT36YUG
+		cost = 10
+		available = {
+			is_subject = no
+			has_war = no
+			YUG = {
+				exists = yes
+				not_allies_or_subjects = yes
+				owns_state = 887
+			}
+		}
+		completion_reward = {
+			declare_war_on = {
+				target = YUG
+				type = take_state_focus
+				generator = { 887 }
+			}
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+
+}

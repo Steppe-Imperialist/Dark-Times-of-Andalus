@@ -1,0 +1,36 @@
+
+state={
+	id=588
+	name="STATE_588"
+	resources={
+		aluminium=2.000
+	}
+
+	history={
+		owner = SAX
+		victory_points = {
+			11251 1 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 0
+			11251 = {
+				naval_base = 6
+			}
+			air_base = 1
+
+		}
+		add_core_of = GER
+		add_claim_by = ENG
+	}
+
+	provinces={
+		332 11251 
+	}
+	manpower=251740
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

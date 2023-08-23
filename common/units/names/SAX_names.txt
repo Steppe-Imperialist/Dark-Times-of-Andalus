@@ -1,0 +1,58 @@
+﻿SAX = {
+	battle_cruiser = {
+		prefix = ""
+		generic = { "Battlecruiser" }
+		unique = {
+			"Sachsen" "August der Starke" "Heinrich der Löwe" "König von Polen" "Wettin" "Friedrich August" "König Albert" "Kurfürst" "Askanien" "Aurora" 
+		}
+	}
+
+	battleship = {
+		prefix = ""
+		generic = { "Battleship" }
+		unique = {
+			"Sachsen" "August der Starke" "Heinrich der Löwe" "König von Polen" "Wettin" "Friedrich August" "König Albert" "Kurfürst" "Askanien" "Aurora" 
+		}
+	}
+
+	carrier = {
+		prefix = ""
+		generic = { "Carrier" }
+		unique = {
+			"Sachsen" "August der Starke" "Heinrich der Löwe" "König von Polen" "Wettin" "Friedrich August" "König Albert" "Kurfürst" "Askanien" "Aurora" 
+		}
+	}
+
+	destroyer = {
+		prefix = ""
+		generic = { "Destroyer" }
+		unique = {
+			"Dresden" "Bautzen" "Chemnitz" "Freiberg" "Leipzig" "Löbau" "Meißen" "Plauen" "Schwarzenberg" "Zwickau" 
+		}
+	}
+
+	heavy_cruiser = {
+		prefix = ""
+		generic = { "Heavy Cruiser" }
+		unique = {
+			"Sachsen" "August der Starke" "Heinrich der Löwe" "König von Polen" "Wettin" "Friedrich August" "König Albert" "Kurfürst" "Askanien" "Aurora" 
+		}
+	}
+
+	light_cruiser = {
+		prefix = ""
+		generic = { "Light Cruiser" }
+		unique = {
+			"Sachsen" "August der Starke" "Heinrich der Löwe" "König von Polen" "Wettin" "Friedrich August" "König Albert" "Kurfürst" "Askanien" "Aurora" 
+		}
+	}
+
+	submarine = {
+		prefix = ""
+		generic = { "Submarine" }
+		unique = {
+			"Dresden" "Bautzen" "Chemnitz" "Freiberg" "Leipzig" "Löbau" "Meißen" "Plauen" "Schwarzenberg" "Zwickau" 
+		}
+	}
+
+}

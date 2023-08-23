@@ -1,0 +1,148 @@
+﻿converted_war_strategies_DAH = {
+	enable = {
+		tag = DAH
+		always = no
+	}
+	
+	ai_strategy = {
+		type = conquer
+		id = "W58"
+		value = 548
+	}
+	ai_strategy = {
+		type = conquer
+		id = "ITA"
+		value = 151
+	}
+}
+
+converted_diplo_strategies_DAH = {
+	enable = {
+		tag = DAH
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+	ai_strategy = {
+		type = contain
+		id = "ITA"
+		value = 345
+	}
+	ai_strategy = {
+		type = contain
+		id = "W58"
+		value = 203
+	}
+	ai_strategy = {
+		type = contain
+		id = "GHA"
+		value = 125
+	}
+	ai_strategy = {
+		type = contain
+		id = "IVO"
+		value = 100
+	}
+	ai_strategy = {
+		type = contain
+		id = "NGA"
+		value = 100
+	}
+	ai_strategy = {
+		type = contain
+		id = "X22"
+		value = 25
+	}
+	ai_strategy = {
+		type = contain
+		id = "W91"
+		value = 25
+	}
+	ai_strategy = {
+		type = contain
+		id = "V10"
+		value = 25
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "T72"
+		value = 400
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "W58"
+		value = 341
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "S01"
+		value = 254
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "T64"
+		value = 200
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "ITA"
+		value = 198
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "KAZ"
+		value = 22
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "T00"
+		value = 2
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "TUN"
+		value = 1
+	}
+	ai_strategy = {
+		type = alliance
+		id = "X22"
+		value = 200
+	}
+	ai_strategy = {
+		type = alliance
+		id = "V10"
+		value = 185
+	}
+	ai_strategy = {
+		type = alliance
+		id = "W91"
+		value = 163
+	}
+	ai_strategy = {
+		type = alliance
+		id = "GHA"
+		value = 154
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "W15"
+		value = 125
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "S10"
+		value = 63
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "W98"
+		value = 43
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "NEP"
+		value = 35
+	}
+}

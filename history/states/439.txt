@@ -1,0 +1,32 @@
+
+state={
+	id=439
+	name="STATE_439"
+
+	history={
+		owner = MEX
+		victory_points = {
+			5008 0 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			2035 = {
+				naval_base = 1
+			}
+			air_base = 0
+
+		}
+		add_core_of = BRA
+	}
+
+	provinces={
+		1979 2035 2214 5008 8172 10956 
+	}
+	manpower=2217248
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

@@ -1,0 +1,36 @@
+characters={
+	X61_pierre_jezeguel={
+		name=X61_pierre_jezeguel
+		portraits={
+			army={
+				large="GFX_Portrait_Europe_Generic_land_2"
+			}
+			army={
+				small="GFX_Portrait_Europe_Generic_land_2"
+			}
+		}
+		corps_commander={
+			skill=3
+			attack_skill=3
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=4
+			legacy_id=0
+		}
+	}
+
+	X61_segal_moreau={
+		name=X61_segal_moreau
+		portraits={
+			civilian={
+				large="GFX_NFA_Napoleon_VI"
+			}
+		}
+		country_leader={
+			ideology=dictatorship
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

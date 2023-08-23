@@ -1,0 +1,58 @@
+﻿MAD = {
+	battle_cruiser = {
+		prefix = ""
+		generic = { "Battlecruiser" }
+		unique = {
+			"Madagascar" "Radama" "Andrianampoinimerina" "Ranavalona" "Rainilaiarivony" "Merina" "Antananarivo" "Ambohimanga" "Betsileo" "Sihanaka" "Bezanozano" "Bara" "Sakalava" "Ikaloy" "Anjafy" 
+		}
+	}
+
+	battleship = {
+		prefix = ""
+		generic = { "Battleship" }
+		unique = {
+			"Madagascar" "Radama" "Andrianampoinimerina" "Ranavalona" "Rainilaiarivony" "Merina" "Antananarivo" "Ambohimanga" "Betsileo" "Sihanaka" "Bezanozano" "Bara" "Sakalava" "Ikaloy" "Anjafy" 
+		}
+	}
+
+	carrier = {
+		prefix = ""
+		generic = { "Carrier" }
+		unique = {
+			"Madagascar" "Radama" "Andrianampoinimerina" "Ranavalona" "Rainilaiarivony" "Merina" "Antananarivo" "Ambohimanga" "Betsileo" "Sihanaka" "Bezanozano" "Bara" "Sakalava" "Ikaloy" "Anjafy" 
+		}
+	}
+
+	destroyer = {
+		prefix = ""
+		generic = { "Destroyer" }
+		unique = {
+			"Madagascar" "Radama" "Andrianampoinimerina" "Ranavalona" "Rainilaiarivony" "Merina" "Antananarivo" "Ambohimanga" "Betsileo" "Sihanaka" "Bezanozano" "Bara" "Sakalava" "Ikaloy" "Anjafy" 
+		}
+	}
+
+	heavy_cruiser = {
+		prefix = ""
+		generic = { "Heavy Cruiser" }
+		unique = {
+			"Madagascar" "Radama" "Andrianampoinimerina" "Ranavalona" "Rainilaiarivony" "Merina" "Antananarivo" "Ambohimanga" "Betsileo" "Sihanaka" "Bezanozano" "Bara" "Sakalava" "Ikaloy" "Anjafy" 
+		}
+	}
+
+	light_cruiser = {
+		prefix = ""
+		generic = { "Light Cruiser" }
+		unique = {
+			"Madagascar" "Radama" "Andrianampoinimerina" "Ranavalona" "Rainilaiarivony" "Merina" "Antananarivo" "Ambohimanga" "Betsileo" "Sihanaka" "Bezanozano" "Bara" "Sakalava" "Ikaloy" "Anjafy" 
+		}
+	}
+
+	submarine = {
+		prefix = ""
+		generic = { "Submarine" }
+		unique = {
+			"Madagascar" "Radama" "Andrianampoinimerina" "Ranavalona" "Rainilaiarivony" "Merina" "Antananarivo" "Ambohimanga" "Betsileo" "Sihanaka" "Bezanozano" "Bara" "Sakalava" "Ikaloy" "Anjafy" 
+		}
+	}
+
+}

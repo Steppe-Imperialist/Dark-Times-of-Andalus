@@ -1,0 +1,16 @@
+characters={
+	HON_felix_andino={
+		name=HON_felix_andino
+		portraits={
+			civilian={
+				large="GFX_COS_Leon_Cortes_Castro"
+			}
+		}
+		country_leader={
+			ideology=dictatorship_neutral
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

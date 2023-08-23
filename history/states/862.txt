@@ -1,0 +1,38 @@
+
+state={
+	id=862
+	name="STATE_862"
+
+	history={
+		owner = S01
+		victory_points = {
+			10068 10 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+			arms_factory = 1
+			dockyard = 1
+			4137 = {
+				naval_base = 2
+			}
+			air_base = 7
+
+		}
+		add_core_of = CHI
+		add_core_of = MEN
+		add_core_of = S01
+		add_core_of = T89
+		add_core_of = T95
+		add_claim_by = V16
+	}
+
+	provinces={
+		814 828 881 900 934 952 972 1052 1134 1137 1489 1508 1590 3814 3828 3830 3881 3900 3955 3978 4137 4140 4495 4514 6852 6898 6904 6937 6969 7545 7575 7633 7674 9768 9776 9843 9873 9905 9927 9969 10003 10022 10068 10331 10397 10426 10429 11761 11801 11822 11855 11944 11980 11996 12043 
+	}
+	manpower=24064172
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

@@ -1,0 +1,16 @@
+characters={
+	U20_gabriel_tabajara={
+		name=U20_gabriel_tabajara
+		portraits={
+			civilian={
+				large="GFX_quechua_saturnino"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

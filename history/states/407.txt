@@ -1,0 +1,33 @@
+
+state={
+	id=407
+	name="STATE_407"
+	resources={
+		oil=1.000
+	}
+
+	history={
+		owner = W39
+		victory_points = {
+			11479 1 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 1
+
+		}
+		add_core_of = LIT
+		add_core_of = W39
+	}
+
+	provinces={
+		536 9558 11479 
+	}
+	manpower=505368
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+
+	local_supplies=10.0
+}

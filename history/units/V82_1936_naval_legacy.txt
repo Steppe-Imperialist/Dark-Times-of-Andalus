@@ -1,0 +1,32 @@
+units = {
+	fleet = {
+		name = "1st Fleet"
+		naval_base = 373
+		task_force = {
+			name = "1st Fleet"
+			location = 373
+			ship = { name = "1st St Pierre & Miquelon Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = V82 } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = destroyer_1
+			creator = "V82"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+	add_equipment_production = {
+		equipment = {
+			type = battleship_2
+			creator = "V82"
+		}
+		requested_factories = 8
+		progress = 0.25
+		amount = 3
+	}
+}

@@ -1,0 +1,56 @@
+characters={
+	ALG_abd_al_karim_al_shawiyyati={
+		name=ALG_abd_al_karim_al_shawiyyati
+		portraits={
+			army={
+				large="GFX_JOR_Jafar_Askari"
+			}
+			army={
+				small="GFX_JOR_Jafar_Askari"
+			}
+		}
+		corps_commander={
+			skill=2
+			attack_skill=1
+			defense_skill=1
+			planning_skill=3
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	ALG_abd_al_karim_al_jazuli={
+		name=ALG_abd_al_karim_al_jazuli
+		portraits={
+			navy={
+				large="GFX_Portrait_Arabia_Generic_navy_1"
+			}
+			navy={
+				small="GFX_Portrait_Arabia_Generic_navy_1"
+			}
+		}
+		navy_leader={
+			skill=2
+			attack_skill=2
+			defense_skill=1
+			maneuvering_skill=1
+			coordination_skill=2
+			legacy_id=0
+		}
+	}
+
+	ALG_khalid_al_shiluhi={
+		name=ALG_khalid_al_shiluhi
+		portraits={
+			civilian={
+				large="gfx/leaders/EGY/Portrait_EGY_faud_i.dds"
+			}
+		}
+		country_leader={
+			ideology=absolute_monarchy
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

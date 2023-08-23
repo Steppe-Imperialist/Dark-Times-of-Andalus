@@ -1,0 +1,58 @@
+﻿V40 = {
+	battle_cruiser = {
+		prefix = ""
+		generic = { "Battlecruiser" }
+		unique = {
+			"Ambon" "Maluku" "Ari" "Ceram" "Banda" "Sunda" "Buru" "Samarinda" "Parepare" "Krakatau" "Morowali" "Teku" "Saparua" "Sula" "Peruhumpenai" "Morotai" "Tukangbesi" "Tidore" 
+		}
+	}
+
+	battleship = {
+		prefix = ""
+		generic = { "Battleship" }
+		unique = {
+			"Ambon" "Maluku" "Ari" "Ceram" "Banda" "Sunda" "Buru" "Samarinda" "Parepare" "Krakatau" "Morowali" "Teku" "SaparuaSula" "Peruhumpenai" "Morotai" "Tukangbesi" "Tidore" 
+		}
+	}
+
+	carrier = {
+		prefix = ""
+		generic = { "Carrier" }
+		unique = {
+			"Ambon" "Maluku" "Ari" "Ceram" "Banda" "Sunda" "Buru" "Samarinda" "Parepare" "Krakatau" "Morowali" "Teku" "Saparua" "Sula" "Peruhumpenai" "Morotai" "Tukangbesi" "Tidore" 
+		}
+	}
+
+	destroyer = {
+		prefix = ""
+		generic = { "Destroyer" }
+		unique = {
+			"Ambon" "Maluku" "Ari" "Ceram" "Banda" "Sunda" "Buru" "Samarinda" "Parepare" "Krakatau" "Morowali" "Teku" "Saparua" "Sula" "Peruhumpenai" "Morotai" "Tukangbesi" "Tidore" 
+		}
+	}
+
+	heavy_cruiser = {
+		prefix = ""
+		generic = { "Heavy Cruiser" }
+		unique = {
+			"Ambon" "Maluku" "Ari" "Ceram" "Banda" "Sunda" "Buru" "Samarinda" "Parepare" "Krakatau" "Morowali" "Teku" "Saparua" "Sula" "Peruhumpenai" "Morotai" "Tukangbesi" "Tidore" 
+		}
+	}
+
+	light_cruiser = {
+		prefix = ""
+		generic = { "Light Cruiser" }
+		unique = {
+			"Ambon" "Maluku" "Ari" "Ceram" "Banda" "Sunda" "Buru" "Samarinda" "Parepare" "Krakatau" "Morowali" "Teku" "Saparua" "Sula" "Peruhumpenai" "Morotai" "Tukangbesi" "Tidore" 
+		}
+	}
+
+	submarine = {
+		prefix = ""
+		generic = { "Submarine" }
+		unique = {
+			"Ambon" "Maluku" "Ari" "Ceram" "Banda" "Sunda" "Buru" "Samarinda" "Parepare" "Krakatau" "Morowali" "Teku" "Saparua" "Sula" "Peruhumpenai" "Morotai" "Tukangbesi" "Tidore" 
+		}
+	}
+
+}

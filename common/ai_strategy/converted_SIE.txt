@@ -1,0 +1,18 @@
+﻿converted_war_strategies_SIE = {
+	enable = {
+		tag = SIE
+		always = no
+	}
+	
+}
+
+converted_diplo_strategies_SIE = {
+	enable = {
+		tag = SIE
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+}

@@ -1,0 +1,16 @@
+characters={
+	T31_ernesto_miramon={
+		name=T31_ernesto_miramon
+		portraits={
+			civilian={
+				large="GFX_Chile_Arturo_Alessandri_Palma"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

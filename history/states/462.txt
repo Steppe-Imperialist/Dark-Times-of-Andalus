@@ -1,0 +1,36 @@
+
+state={
+	id=462
+	name="STATE_462"
+	resources={
+		oil=1.000
+		steel=1.000
+		tungsten=5.000
+	}
+
+	history={
+		owner = V87
+		victory_points = {
+			12682 10 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 1
+			air_base = 6
+
+		}
+		add_core_of = V84
+		add_core_of = V87
+		add_claim_by = CAN
+	}
+
+	provinces={
+		736 1671 3498 3769 9669 10552 10656 11440 12682 
+	}
+	manpower=648224
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

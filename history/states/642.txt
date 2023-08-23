@@ -1,0 +1,33 @@
+
+state={
+	id=642
+	name="STATE_642"
+
+	history={
+		owner = U79
+		victory_points = {
+			7290 15 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+			7290 = {
+				naval_base = 1
+			}
+			air_base = 5
+
+		}
+		add_core_of = SAM
+		add_core_of = U79
+	}
+
+	provinces={
+		7290 
+	}
+	manpower=8904
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+
+	local_supplies=10.0
+}

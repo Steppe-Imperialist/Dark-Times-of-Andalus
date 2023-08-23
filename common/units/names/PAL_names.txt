@@ -1,0 +1,58 @@
+﻿PAL = {
+	battle_cruiser = {
+		prefix = ""
+		generic = { "Battlecruiser" }
+		unique = {
+			"Beirut" "Mount Olive" "Sidon" "Triploitana" "Bakaa" "Baghdad" "Al Mawsil" "Salah al-Din" "Huth" "Sa'dah" "Ma'rib" "Salalah" "Raysut" "Mirbah" "Sawqirah" "Karbala" "Baqubah" "Al Amarah" "Al Küt" "Sulaimanya" "Al Najaf" "Al Basrah" 
+		}
+	}
+
+	battleship = {
+		prefix = ""
+		generic = { "Battleship" }
+		unique = {
+			"Beirut" "Mount Olive" "Sidon" "Triploitana" "Bakaa" "Phoenicia" "Baghdad" "Al Mawsil" "Salah al-Din" "Huth" "Sa'dah" "Ma'rib" "Salalah" "Raysut" "Mirbah" "Sawqirah" "Karbala" "Baqubah" "Al Amarah" "Al Küt" "Sulaimanya" "Al Najaf" "Al Basrah" 
+		}
+	}
+
+	carrier = {
+		prefix = ""
+		generic = { "Carrier" }
+		unique = {
+			"Beirut" "Mount Olive" "Sidon" "Triploitana" "Bakaa" "Baghdad" "Al Mawsil" "Salah al-Din" "Huth" "Sa'dah" "Ma'rib" "Salalah" "Raysut" "Mirbah" "Sawqirah" "Karbala" "Baqubah" "Al Amarah" "Al Küt" "Sulaimanya" "Al Najaf" "Al Basrah" 
+		}
+	}
+
+	destroyer = {
+		prefix = ""
+		generic = { "Destroyer" }
+		unique = {
+			"Beirut" "Mount Olive" "Sidon" "Triploitana" "Bakaa" "Baghdad" "Al Mawsil" "Salah al-Din" "Huth" "Sa'dah" "Ma'rib" "Salalah" "Raysut" "Mirbah" "Sawqirah" "Karbala" "Baqubah" "Al Amarah" "Al Küt" "Sulaimanya" "Al Najaf" "Al Basrah" 
+		}
+	}
+
+	heavy_cruiser = {
+		prefix = ""
+		generic = { "Heavy Cruiser" }
+		unique = {
+			"Beirut" "Mount Olive" "Sidon" "Triploitana" "Bakaa" "Baghdad" "Al Mawsil" "Salah al-Din" "Huth" "Sa'dah" "Ma'rib" "Salalah" "Raysut" "Mirbah" "Sawqirah" "Karbala" "Baqubah" "Al Amarah" "Al Küt" "Sulaimanya" "Al Najaf" "Al Basrah" 
+		}
+	}
+
+	light_cruiser = {
+		prefix = ""
+		generic = { "Light Cruiser" }
+		unique = {
+			"Beirut" "Mount Olive" "Sidon" "Triploitana" "Bakaa" "Baghdad" "Al Mawsil" "Salah al-Din" "Huth" "Sa'dah" "Ma'rib" "Salalah" "Raysut" "Mirbah" "Sawqirah" "Karbala" "Baqubah" "Al Amarah" "Al Küt" "Sulaimanya" "Al Najaf" "Al Basrah" 
+		}
+	}
+
+	submarine = {
+		prefix = ""
+		generic = { "Submarine" }
+		unique = {
+			"Beirut" "Mount Olive" "Sidon" "Triploitana" "Bakaa" "Baghdad" "Al Mawsil" "Salah al-Din" "Huth" "Sa'dah" "Ma'rib" "Salalah" "Raysut" "Mirbah" "Sawqirah" "Karbala" "Baqubah" "Al Amarah" "Al Küt" "Sulaimanya" "Al Najaf" "Al Basrah" 
+		}
+	}
+
+}

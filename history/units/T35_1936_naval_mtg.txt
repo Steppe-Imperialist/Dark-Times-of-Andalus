@@ -1,0 +1,31 @@
+units = {
+	fleet = {
+		name = "2nd Fleet"
+		naval_base = 4054
+		task_force = {
+			name = "2nd Fleet"
+			location = 4054
+			ship = { name = "1st Edo Steam Frigate" definition = destroyer start_experience_factor = 0.05 equipment = { ship_hull_light_1 = { amount = 1 owner = T35 version_name = "Early Destroyer" } } }
+			ship = { name = "4th Edo Steam Frigate" definition = destroyer start_experience_factor = 0.05 equipment = { ship_hull_light_1 = { amount = 1 owner = T35 version_name = "Early Destroyer" } } }
+			ship = { name = "1st Nara Steam Frigate" definition = destroyer start_experience_factor = 0.05 equipment = { ship_hull_light_1 = { amount = 1 owner = T35 version_name = "Early Destroyer" } } }
+			ship = { name = "5th Edo Steam Frigate" definition = destroyer start_experience_factor = 0.05 equipment = { ship_hull_light_1 = { amount = 1 owner = T35 version_name = "Early Destroyer" } } }
+			ship = { name = "1st Sado Steam Frigate" definition = destroyer start_experience_factor = 0.05 equipment = { ship_hull_light_1 = { amount = 1 owner = T35 version_name = "Early Destroyer" } } }
+			ship = { name = "2nd Sado Steam Frigate" definition = destroyer start_experience_factor = 0.05 equipment = { ship_hull_light_1 = { amount = 1 owner = T35 version_name = "Early Destroyer" } } }
+			ship = { name = "2nd Nara Steam Frigate" definition = destroyer start_experience_factor = 0.05 equipment = { ship_hull_light_1 = { amount = 1 owner = T35 version_name = "Early Destroyer" } } }
+			ship = { name = "3rd Sado Steam Frigate" definition = destroyer start_experience_factor = 0.05 equipment = { ship_hull_light_1 = { amount = 1 owner = T35 version_name = "Early Destroyer" } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_light_1
+			creator = "T35"
+			version_name = "Early Destroyer"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+}

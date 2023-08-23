@@ -1,0 +1,44 @@
+units = {
+	fleet = {
+		name = "1st Fleet"
+		naval_base = 9853
+		task_force = {
+			name = "1st Fleet"
+			location = 4225
+			ship = { name = "Brennus" definition = heavy_cruiser start_experience_factor = 0.07446 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = FRA version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "Vercingetorix" definition = light_cruiser start_experience_factor = 0.1 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = FRA version_name = "1936 Light Cruiser" } } }
+		}
+	}
+	fleet = {
+		name = "2nd Fleet"
+		naval_base = 485
+		task_force = {
+			name = "2nd Fleet"
+			location = 485
+			ship = { name = "Charles Martel" definition = heavy_cruiser start_experience_factor = 0.1 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = FRA version_name = "1936 Heavy Cruiser" } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_light_1
+			creator = "FRA"
+			version_name = "Early Destroyer"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_heavy_1
+			creator = "FRA"
+			version_name = "Early Battleship"
+		}
+		requested_factories = 8
+		progress = 0.25
+		amount = 3
+	}
+}

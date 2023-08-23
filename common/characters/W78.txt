@@ -1,0 +1,56 @@
+characters={
+	W78_thommo_tong={
+		name=W78_thommo_tong
+		portraits={
+			army={
+				large="GFX_INC_Hoang_Van_Thai"
+			}
+			army={
+				small="GFX_INC_Hoang_Van_Thai"
+			}
+		}
+		corps_commander={
+			skill=2
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=5
+			legacy_id=0
+		}
+	}
+
+	W78_thommo_chan={
+		name=W78_thommo_chan
+		portraits={
+			navy={
+				large="GFX_Vietnam_Le_Quang_My"
+			}
+			navy={
+				small="GFX_Vietnam_Le_Quang_My"
+			}
+		}
+		navy_leader={
+			skill=2
+			attack_skill=2
+			defense_skill=1
+			maneuvering_skill=3
+			coordination_skill=1
+			legacy_id=0
+		}
+	}
+
+	W78_thommo_chan_1={
+		name=W78_thommo_chan_1
+		portraits={
+			civilian={
+				large="GFX_CAM_Norodom_Sihanouk"
+			}
+		}
+		country_leader={
+			ideology=absolute_monarchy
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

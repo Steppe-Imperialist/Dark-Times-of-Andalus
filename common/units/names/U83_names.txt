@@ -1,0 +1,58 @@
+﻿U83 = {
+	battle_cruiser = {
+		prefix = ""
+		generic = { "Battlecruiser" }
+		unique = {
+			"Hum" "Trabant" "Taurus" "Vesta" "Dalmat" "Camälion" "Kopernik" "Drach" "Salamander" "Aquila" "Sterneck" "Principesse Augusta" "Maros" "Leitha" "Szamos" "Körös" "Réka" "Gäa" "Gigant" 
+		}
+	}
+
+	battleship = {
+		prefix = ""
+		generic = { "Battleship" }
+		unique = {
+			"Kaiser Max" "Don Juan D'Austria" "Austria" "Hungary" "Budapest" "Wien" "Praha" "Erz. Karl" "Erz. Ferndinand Max" "Erz. Friedrich" "K. Erz. Stephanie" "K. Erz. Rudolf" "Szent László" "Monarch" "Arpad" "Babenburg" "Custoza" "Kaiser Franz I" "Kaiser Karl V" "Kaiser Franz Joseph II" "Kaiserin Maria Theresia" "Erz. Franz Ferdinand" "Radetzky" "Zrinyi" "Viribis Unitis" "Tegetthoff" "Prinz Eugen" "Prinz Metternich" "Szent Istvan" 
+		}
+	}
+
+	carrier = {
+		prefix = ""
+		generic = { "Carrier" }
+		unique = {
+			"Principesse Augusta" "Maros" "Leitha" "Szamos" "Körös" "Réka" "Gäa" "Gigant" "Hum" "Trabant" "Taurus" "Vesta" "Dalmat" "Camälion" "Kopernik" "Drach" "Salamander" "Aquila" "Sterneck" 
+		}
+	}
+
+	destroyer = {
+		prefix = ""
+		generic = { "Destroyer" }
+		unique = {
+			"Habsburg" "Kaiser Karl IV" "Sankt Georg" "Admiral Spaun" "Saida" "Helgoland" "Novara" "Donau" "Laudon" "Minerva" "Tiger" "Leopold" "Panther" "Csepel" "Dukla" "Kaiman" "Zenta" "Szigetvár" "Aspern" "Boa" "Pluto" "Zenta" "Uzsok" "Ulan" "Warasdiner" "Streiter" "Schrafschutze" "Wildfang" "Höchstädt" "Schwarzenberg" "Frundsberg" "Kaiserin Elizabeth" "Kaiser Franz Joseph I" "Aurora" "Inn" "Pola" "Triest" "Lissa" "Tatra" "Triglav" "Balaton" "Csepel" "Huszár" 
+		}
+	}
+
+	heavy_cruiser = {
+		prefix = ""
+		generic = { "Heavy Cruiser" }
+		unique = {
+			"Habsburg" "Viribus Unitis" "Ferdinand Max" "Aquila" "Montecuccoli" "Sterneck" "Kaiserin Maria Theresia" "Radetzky" 
+		}
+	}
+
+	light_cruiser = {
+		prefix = ""
+		generic = { "Light Cruiser" }
+		unique = {
+			"Novara" "Schwarzenberg" "Helgoland" "Frundsberg" "Aurora" "Saida" "Nautilus" "Albatros" "Donau" "Lacroma" "Lika" "Principesse Augusta" "Austria" "Saida" "Maria Theresia" "Höchstädt" "Falke" "Adler" "Delphin" 
+		}
+	}
+
+	submarine = {
+		prefix = ""
+		generic = { "Submarine" }
+		unique = {
+			"Guerriera" "Bellona" "Medea" "Venus" "Admiral Spaun" "Kaiserin Elisabeth" "Saida" "Sankt Georg" "Austria" "Schwarzenberg" "Aurora" "Donau" "Inn" "Pola" "Triest" 
+		}
+	}
+
+}

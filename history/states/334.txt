@@ -1,0 +1,36 @@
+
+state={
+	id=334
+	name="STATE_334"
+
+	history={
+		owner = ITA
+		victory_points = {
+			3943 10 
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 2
+			arms_factory = 0
+			3943 = {
+				naval_base = 6
+			}
+			air_base = 10
+
+		}
+		add_core_of = ITA
+		add_core_of = V65
+		add_core_of = W16
+		add_claim_by = SER
+		add_claim_by = YUG
+	}
+
+	provinces={
+		3943 
+	}
+	manpower=361240
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

@@ -1,0 +1,30 @@
+
+state={
+	id=635
+	name="STATE_635"
+
+	history={
+		owner = U76
+		victory_points = {
+			7470 1 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 1
+			air_base = 0
+
+		}
+		add_core_of = ARM
+		add_core_of = U76
+	}
+
+	provinces={
+		864 6935 7470 9858 10399 11880 12318 
+	}
+	manpower=1324584
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

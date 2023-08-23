@@ -1,0 +1,31 @@
+
+state={
+	id=408
+	name="STATE_408"
+
+	history={
+		owner = LIT
+		victory_points = {
+			3393 1 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 1
+
+		}
+		add_core_of = LIT
+		add_claim_by = SOV
+		add_claim_by = T88
+	}
+
+	provinces={
+		400 3254 3393 11357 13206 
+	}
+	manpower=635804
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+
+	local_supplies=10.0
+}

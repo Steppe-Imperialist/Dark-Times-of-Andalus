@@ -1,0 +1,35 @@
+
+state={
+	id=600
+	name="STATE_600"
+	resources={
+		aluminium=18.000
+	}
+
+	history={
+		owner = SAX
+		victory_points = {
+			6631 0 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = ITA
+		add_claim_by = GER
+		add_claim_by = U83
+		add_claim_by = W23
+	}
+
+	provinces={
+		6631 6675 9598 9630 11598 11615 
+	}
+	manpower=835484
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

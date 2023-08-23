@@ -1,0 +1,35 @@
+
+state={
+	id=493
+	name="STATE_493"
+
+	history={
+		owner = U09
+		victory_points = {
+			10382 10 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			arms_factory = 0
+			1428 = {
+				naval_base = 1
+			}
+			air_base = 10
+
+		}
+		add_core_of = MAL
+		add_core_of = U09
+		add_core_of = W82
+		add_claim_by = V52
+	}
+
+	provinces={
+		1428 1460 7368 10354 10382 12126 
+	}
+	manpower=377796
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

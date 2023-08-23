@@ -1,0 +1,16 @@
+characters={
+	W31_costanzo_pacoret_de_saint_bon={
+		name=W31_costanzo_pacoret_de_saint_bon
+		portraits={
+			civilian={
+				large="GFX_SRI_Giacomo_Matteotti"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

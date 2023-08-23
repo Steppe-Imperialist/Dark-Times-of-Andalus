@@ -1,0 +1,35 @@
+
+state={
+	id=652
+	name="STATE_652"
+	resources={
+		aluminium=15.000
+		steel=27.000
+	}
+
+	history={
+		owner = T00
+		victory_points = {
+			3594 15 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 1
+			air_base = 6
+
+		}
+		add_core_of = FRA
+		add_core_of = OCC
+		add_core_of = T00
+	}
+
+	provinces={
+		3594 3770 6786 11593 11716 
+	}
+	manpower=775544
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

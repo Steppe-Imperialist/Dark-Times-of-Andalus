@@ -1,0 +1,36 @@
+
+state={
+	id=607
+	name="STATE_607"
+	resources={
+		aluminium=58.000
+		oil=1.000
+		steel=175.000
+	}
+
+	history={
+		owner = SIL
+		victory_points = {
+			9570 20 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 5
+			arms_factory = 3
+			air_base = 8
+
+		}
+		add_core_of = POL
+		add_core_of = SIL
+		add_core_of = T24
+	}
+
+	provinces={
+		479 506 552 3283 3438 3485 3510 3545 6462 6464 6512 6534 6595 9457 9470 9511 9570 11467 11517 13205 
+	}
+	manpower=4612816
+	buildings_max_level_factor=1.000
+	state_category=large_city
+
+	local_supplies=10.0
+}

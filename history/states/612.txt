@@ -1,0 +1,30 @@
+
+state={
+	id=612
+	name="STATE_612"
+
+	history={
+		owner = U64
+		victory_points = {
+			10764 15 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 6
+
+		}
+		add_core_of = U64
+		add_claim_by = U68
+	}
+
+	provinces={
+		1953 2096 4033 7996 10764 10857 10859 10877 10908 
+	}
+	manpower=2325120
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

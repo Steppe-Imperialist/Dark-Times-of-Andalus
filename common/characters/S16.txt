@@ -1,0 +1,16 @@
+characters={
+	S16_arthur_madden={
+		name=S16_arthur_madden
+		portraits={
+			civilian={
+				large="gfx/leaders/USA/Portrait_USA_Harold_Rainsford_Stark.dds"
+			}
+		}
+		country_leader={
+			ideology=fascism_ideology
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

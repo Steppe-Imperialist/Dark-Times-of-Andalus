@@ -1,0 +1,116 @@
+﻿capital = 266
+set_research_slots = 2
+
+oob = "W60_OOB"
+if = {
+	limit = { has_dlc = "Man the Guns" }
+		set_naval_oob = "W60_1936_naval_mtg"
+	else = { 
+		set_naval_oob = "W60_1936_naval_legacy"
+	}
+}
+
+# Starting tech
+# Research Bonuses
+
+set_country_flag = conv_arabia
+set_convoys = 0
+
+set_politics = {
+    ruling_party = absolutist
+    last_election = "1836.1.1"
+    election_frequency = 48
+    elections_allowed = no
+}
+
+set_popularities = {
+	absolutist = 56
+	democratic = 42
+	neutrality = 2
+}
+
+add_ideas = {
+	uncivilized
+	limited_conscription
+	civilian_economy
+	export_focus
+	culture_mashriqi
+}
+set_stability = 0.60
+set_war_support = 0.60
+
+recruit_character = W60_tawfiq_al_hamawi
+recruit_character = W60_kamil_ibn_hasan
+recruit_character = W60_nur_al_din_al_himsi
+recruit_character = W60_fuad_ibn_halil
+recruit_character = W60_mustafa_al_hamawi
+
+if = {
+	limit = {
+		has_dlc = "La Resistance"
+	}
+	create_operative_leader = {
+		name = "Asiya ibm Kamil"
+		GFX = "gfx/leaders/Arabia/portrait_arabia_generic_operative_female_1.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { W60 }
+	}
+
+	create_operative_leader = {
+		name = "Paywand ibn Hasan"
+		GFX = "gfx/leaders/Arabia/portrait_arabia_generic_operative_female_2.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { W60 }
+	}
+
+	create_operative_leader = {
+		name = "Sajida ibn Yusuf"
+		GFX = "gfx/leaders/Arabia/portrait_arabia_generic_operative_female_3.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { W60 }
+	}
+
+	create_operative_leader = {
+		name = "Tawfiq ibn Mustafa"
+		GFX = "gfx/leaders/Arabia/portrait_arabia_generic_operative_male_1.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		nationalities = { W60 }
+	}
+
+	create_operative_leader = {
+		name = "Khalid al-Nablusi"
+		GFX = "gfx/leaders/Arabia/portrait_arabia_generic_operative_male_2.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		nationalities = { W60 }
+	}
+
+}
+### VARIANTS ###
+if = {
+	limit = { not = { has_dlc = "Man the Guns" } }
+}
+if = {
+	limit = { has_dlc = "Man the Guns" }
+}
+### PLANE DESIGNS ###
+if = {
+	limit = { has_dlc = "By Blood Alone" }
+}
+### TANK DESIGNS ###
+if = {
+	limit = { has_dlc = "No Step Back" }
+}
+

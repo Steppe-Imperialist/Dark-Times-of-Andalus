@@ -1,0 +1,18 @@
+﻿converted_war_strategies_X19 = {
+	enable = {
+		tag = X19
+		always = no
+	}
+	
+}
+
+converted_diplo_strategies_X19 = {
+	enable = {
+		tag = X19
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+}

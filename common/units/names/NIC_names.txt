@@ -1,0 +1,58 @@
+﻿NIC = {
+	battle_cruiser = {
+		prefix = ""
+		generic = { "Battlecruiser" }
+		unique = {
+			"Caribe" "Cocibolca" "Coco" "Escondido" "Hernández de Córdoba" "Intendencia" "Prinzapolka" "Río Grande" "San Juan" "Xolotlán" 
+		}
+	}
+
+	battleship = {
+		prefix = ""
+		generic = { "Battleship" }
+		unique = {
+			"Cristóbal Colón" "Diriangén" "Emiliano Chamorro" "Fruto Chamorro" "José Núñez" "Libertad" "Manuel de la Cerda" "Nicaragua" "Nicarao" "Patricio Rivas" 
+		}
+	}
+
+	carrier = {
+		prefix = ""
+		generic = { "Carrier" }
+		unique = {
+			"Concepción" "Consiguina" "Las Lajas" "Las Pilas" "Maderas" "Mombacho" "Momotombo" "Rota" "San Cristóbal" "Telica" 
+		}
+	}
+
+	destroyer = {
+		prefix = ""
+		generic = { "Destroyer" }
+		unique = {
+			"Caribí" "Chorotega" "Descubridor" "Dirián" "Matagalpa" "Miskito" "Nagrandano" "Niquirano" "Rama" "Sumo" 
+		}
+	}
+
+	heavy_cruiser = {
+		prefix = ""
+		generic = { "Heavy Cruiser" }
+		unique = {
+			"Avance" "Colón" "Florida" "Navegante" "Sagrada Familia" "San José" "Santa María" "Santiago" "Ventoso" "Ventura" 
+		}
+	}
+
+	light_cruiser = {
+		prefix = ""
+		generic = { "Light Cruiser" }
+		unique = {
+			"Destructor" "Feroz" "Invencible" "Mortal" "Neptuno" "Nicaragüense" "República" "Sirena" "Terremoto" "Tritón" 
+		}
+	}
+
+	submarine = {
+		prefix = ""
+		generic = { "Submarine" }
+		unique = {
+			"Boaco" "Carazo" "Estelí" "Granada" "Jinotega" "León" "Madriz" "Managua" "Masaya" "San Carlos" 
+		}
+	}
+
+}

@@ -1,0 +1,32 @@
+
+state={
+	id=411
+	name="STATE_411"
+
+	history={
+		owner = V36
+		victory_points = {
+			1731 10 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 6
+
+		}
+		add_core_of = V05
+		add_core_of = V20
+		add_core_of = V36
+		add_claim_by = COG
+	}
+
+	provinces={
+		1731 
+	}
+	manpower=487208
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

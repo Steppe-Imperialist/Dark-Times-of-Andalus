@@ -1,0 +1,30 @@
+
+state={
+	id=509
+	name="STATE_509"
+
+	history={
+		owner = U26
+		victory_points = {
+			4949 0 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = U26
+		add_claim_by = V46
+	}
+
+	provinces={
+		4949 5020 5064 5082 8090 10789 12769 12831 
+	}
+	manpower=997084
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

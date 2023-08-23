@@ -1,0 +1,16 @@
+characters={
+	T73_king_i.={
+		name=T73_king_i.
+		portraits={
+			civilian={
+				large="GFX_Germany_Wilhelm_II"
+			}
+		}
+		country_leader={
+			ideology=absolute_monarchy
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

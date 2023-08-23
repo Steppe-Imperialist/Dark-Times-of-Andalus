@@ -1,0 +1,18 @@
+﻿converted_war_strategies_BOL = {
+	enable = {
+		tag = BOL
+		always = no
+	}
+	
+}
+
+converted_diplo_strategies_BOL = {
+	enable = {
+		tag = BOL
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+}

@@ -1,0 +1,33 @@
+
+state={
+	id=644
+	name="STATE_644"
+
+	history={
+		owner = U81
+		victory_points = {
+			10342 15 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+			1437 = {
+				naval_base = 1
+			}
+			air_base = 5
+
+		}
+		add_core_of = U81
+		add_core_of = V40
+	}
+
+	provinces={
+		1437 7369 10342 
+	}
+	manpower=138484
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

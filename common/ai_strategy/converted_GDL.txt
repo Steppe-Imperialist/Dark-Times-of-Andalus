@@ -1,0 +1,18 @@
+﻿converted_war_strategies_GDL = {
+	enable = {
+		tag = GDL
+		always = no
+	}
+	
+}
+
+converted_diplo_strategies_GDL = {
+	enable = {
+		tag = GDL
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+}

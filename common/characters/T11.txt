@@ -1,0 +1,16 @@
+characters={
+	T11_rafael_cort_heyligers={
+		name=T11_rafael_cort_heyligers
+		portraits={
+			civilian={
+				large="gfx/leaders/FRA/Portrait_France_Paul_Reynaud.dds"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

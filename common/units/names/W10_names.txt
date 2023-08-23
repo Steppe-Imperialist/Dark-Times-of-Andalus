@@ -1,0 +1,58 @@
+﻿W10 = {
+	battle_cruiser = {
+		prefix = ""
+		generic = { "Battlecruiser" }
+		unique = {
+			"Louis Riel" "Gabriel Dumont" "Jean-Baptiste Wilkie" "Pitikwahanapiwiyin" "Kamiokisihkwew" "Saskatchewan" "St. Laurent" "Fish Creek" "Duck Lake" "Cut Knife" "Coureur des bois" "Voyageur" 
+		}
+	}
+
+	battleship = {
+		prefix = ""
+		generic = { "Battleship" }
+		unique = {
+			"Louis Riel" "Gabriel Dumont" "Jean-Baptiste Wilkie" "Pitikwahanapiwiyin" "Kamiokisihkwew" "Saskatchewan" "St. Laurent" "Fish Creek" "Duck Lake" "Cut Knife" "Coureur des bois" "Voyageur" 
+		}
+	}
+
+	carrier = {
+		prefix = ""
+		generic = { "Carrier" }
+		unique = {
+			"Louis Riel" "Gabriel Dumont" "Jean-Baptiste Wilkie" "Pitikwahanapiwiyin" "Kamiokisihkwew" "Saskatchewan" "St. Laurent" "Fish Creek" "Duck Lake" "Cut Knife" "Coureur des bois" "Voyageur" 
+		}
+	}
+
+	destroyer = {
+		prefix = ""
+		generic = { "Destroyer" }
+		unique = {
+			"Louis Riel" "Gabriel Dumont" "Jean-Baptiste Wilkie" "Pitikwahanapiwiyin" "Kamiokisihkwew" "Saskatchewan" "St. Laurent" "Fish Creek" "Duck Lake" "Cut Knife" "Coureur des bois" "Voyageur" 
+		}
+	}
+
+	heavy_cruiser = {
+		prefix = ""
+		generic = { "Heavy Cruiser" }
+		unique = {
+			"Louis Riel" "Gabriel Dumont" "Jean-Baptiste Wilkie" "Pitikwahanapiwiyin" "Kamiokisihkwew" "Saskatchewan" "St. Laurent" "Fish Creek" "Duck Lake" "Cut Knife" "Coureur des bois" "Voyageur" 
+		}
+	}
+
+	light_cruiser = {
+		prefix = ""
+		generic = { "Light Cruiser" }
+		unique = {
+			"Louis Riel" "Gabriel Dumont" "Jean-Baptiste Wilkie" "Pitikwahanapiwiyin" "Kamiokisihkwew" "Saskatchewan" "St. Laurent" "Fish Creek" "Duck Lake" "Cut Knife" "Coureur des bois" "Voyageur" 
+		}
+	}
+
+	submarine = {
+		prefix = ""
+		generic = { "Submarine" }
+		unique = {
+			"Louis Riel" "Gabriel Dumont" "Jean-Baptiste Wilkie" "Pitikwahanapiwiyin" "Kamiokisihkwew" "Saskatchewan" "St. Laurent" "Fish Creek" "Duck Lake" "Cut Knife" "Coureur des bois" "Voyageur" 
+		}
+	}
+
+}

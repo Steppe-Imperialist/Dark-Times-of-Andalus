@@ -1,0 +1,16 @@
+characters={
+	SOM_taban_doreh={
+		name=SOM_taban_doreh
+		portraits={
+			civilian={
+				large="GFX_SUD_Ali_Latif"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

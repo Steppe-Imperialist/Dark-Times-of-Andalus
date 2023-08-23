@@ -1,0 +1,33 @@
+
+state={
+	id=158
+	name="STATE_158"
+
+	history={
+		owner = W18
+		victory_points = {
+			1317 10 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1
+			air_base = 6
+
+		}
+		add_core_of = RAJ
+		add_core_of = W18
+		add_core_of = W43
+		add_core_of = X58
+		add_claim_by = V66
+	}
+
+	provinces={
+		1275 1317 1359 4280 4472 5019 5063 5104 7060 7411 8087 10259 10311 10324 10511 10799 11950 12114 12226 
+	}
+	manpower=6164112
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

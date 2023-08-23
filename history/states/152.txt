@@ -1,0 +1,37 @@
+
+state={
+	id=152
+	name="STATE_152"
+
+	history={
+		owner = W18
+		victory_points = {
+			10001 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			dockyard = 1
+			10001 = {
+				naval_base = 2
+			}
+			air_base = 0
+
+		}
+		add_core_of = RAJ
+		add_core_of = W18
+		add_core_of = W43
+		add_core_of = X58
+		add_claim_by = V99
+	}
+
+	provinces={
+		1228 1430 1622 4237 4321 4365 4414 5032 7297 7310 7340 7372 7428 7465 10001 10152 10255 10296 10469 10756 10897 11978 12180 12241 12462 12490 12779 
+	}
+	manpower=7555944
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

@@ -1,0 +1,58 @@
+﻿X46 = {
+	battle_cruiser = {
+		prefix = ""
+		generic = { "Battlecruiser" }
+		unique = {
+			"Baden" "Zähringen" "Markgraf" "Großherzog Leopold" "Großherzog Karl Friedrich" "Türkenlouis" "Reichsgraf" "Durlach" "Sausenberg" "Hachberg" 
+		}
+	}
+
+	battleship = {
+		prefix = ""
+		generic = { "Battleship" }
+		unique = {
+			"Baden" "Zähringen" "Markgraf" "Großherzog Leopold" "Großherzog Karl Friedrich" "Türkenlouis" "Reichsgraf" "Durlach" "Sausenberg" "Hachberg" 
+		}
+	}
+
+	carrier = {
+		prefix = ""
+		generic = { "Carrier" }
+		unique = {
+			"Baden" "Zähringen" "Markgraf" "Großherzog Leopold" "Großherzog Karl Friedrich" "Türkenlouis" "Reichsgraf" "Durlach" "Sausenberg" "Hachberg" 
+		}
+	}
+
+	destroyer = {
+		prefix = ""
+		generic = { "Destroyer" }
+		unique = {
+			"Baden" "Zähringen" "Markgraf" "Großherzog Leopold" "Großherzog Karl Friedrich" "Türkenlouis" "Reichsgraf" "Durlach" "Sausenberg" "Hachberg" 
+		}
+	}
+
+	heavy_cruiser = {
+		prefix = ""
+		generic = { "Heavy Cruiser" }
+		unique = {
+			"Baden" "Zähringen" "Markgraf" "Großherzog Leopold" "Großherzog Karl Friedrich" "Türkenlouis" "Reichsgraf" "Durlach" "Sausenberg" "Hachberg" 
+		}
+	}
+
+	light_cruiser = {
+		prefix = ""
+		generic = { "Light Cruiser" }
+		unique = {
+			"Baden" "Zähringen" "Markgraf" "Großherzog Leopold" "Großherzog Karl Friedrich" "Türkenlouis" "Reichsgraf" "Durlach" "Sausenberg" "Hachberg" 
+		}
+	}
+
+	submarine = {
+		prefix = ""
+		generic = { "Submarine" }
+		unique = {
+			"Baden" "Zähringen" "Markgraf" "Großherzog Leopold" "Großherzog Karl Friedrich" "Türkenlouis" "Reichsgraf" "Durlach" "Sausenberg" "Hachberg" 
+		}
+	}
+
+}

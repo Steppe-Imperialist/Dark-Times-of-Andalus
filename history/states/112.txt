@@ -1,0 +1,33 @@
+
+state={
+	id=112
+	name="STATE_112"
+
+	history={
+		owner = CHA
+		victory_points = {
+			4978 10 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 3
+			arms_factory = 0
+			air_base = 10
+
+		}
+		add_core_of = T17
+		add_core_of = T96
+		add_core_of = W95
+		add_core_of = X43
+		add_claim_by = CHA
+	}
+
+	provinces={
+		1473 3123 4897 4978 
+	}
+	manpower=268956
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

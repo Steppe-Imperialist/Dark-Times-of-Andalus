@@ -1,0 +1,58 @@
+﻿S29 = {
+	battle_cruiser = {
+		prefix = ""
+		generic = { "Battlecruiser" }
+		unique = {
+			"Coburg" "Gotha" "Thüringen" "Herzog Ernst" "Prinzession Luise" "Carl Eduard" "Victoria" "Von Carlowitz" "Freiherr" "Landgraf" 
+		}
+	}
+
+	battleship = {
+		prefix = ""
+		generic = { "Battleship" }
+		unique = {
+			"Coburg" "Gotha" "Thüringen" "Herzog Ernst" "Prinzession Luise" "Carl Eduard" "Victoria" "Von Carlowitz" "Freiherr" "Landgraf" 
+		}
+	}
+
+	carrier = {
+		prefix = ""
+		generic = { "Carrier" }
+		unique = {
+			"Coburg" "Gotha" "Thüringen" "Herzog Ernst" "Prinzession Luise" "Carl Eduard" "Victoria" "Von Carlowitz" "Freiherr" "Landgraf" 
+		}
+	}
+
+	destroyer = {
+		prefix = ""
+		generic = { "Destroyer" }
+		unique = {
+			"Coburg" "Gotha" "Thüringen" "Herzog Ernst" "Prinzession Luise" "Carl Eduard" "Victoria" "Von Carlowitz" "Freiherr" "Landgraf" 
+		}
+	}
+
+	heavy_cruiser = {
+		prefix = ""
+		generic = { "Heavy Cruiser" }
+		unique = {
+			"Coburg" "Gotha" "Thüringen" "Herzog Ernst" "Prinzession Luise" "Carl Eduard" "Victoria" "Von Carlowitz" "Freiherr" "Landgraf" 
+		}
+	}
+
+	light_cruiser = {
+		prefix = ""
+		generic = { "Light Cruiser" }
+		unique = {
+			"Coburg" "Gotha" "Thüringen" "Herzog Ernst" "Prinzession Luise" "Carl Eduard" "Victoria" "Von Carlowitz" "Freiherr" "Landgraf" 
+		}
+	}
+
+	submarine = {
+		prefix = ""
+		generic = { "Submarine" }
+		unique = {
+			"Coburg" "Gotha" "Thüringen" "Herzog Ernst" "Prinzession Luise" "Carl Eduard" "Victoria" "Von Carlowitz" "Freiherr" "Landgraf" 
+		}
+	}
+
+}

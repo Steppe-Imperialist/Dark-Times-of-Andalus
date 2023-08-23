@@ -1,0 +1,18 @@
+﻿converted_war_strategies_U62 = {
+	enable = {
+		tag = U62
+		always = no
+	}
+	
+}
+
+converted_diplo_strategies_U62 = {
+	enable = {
+		tag = U62
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+}

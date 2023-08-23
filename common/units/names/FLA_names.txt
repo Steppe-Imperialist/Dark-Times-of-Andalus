@@ -1,0 +1,58 @@
+﻿FLA = {
+	battle_cruiser = {
+		prefix = ""
+		generic = { "Battlecruiser" }
+		unique = {
+			"De Vlaamse Leeuw" "Ambiorix" "Godfried van Boullion" "Guldensporenslag" "Gwijde van Dampierre" "Jacob van Artevelde" "Graaf Boudewijn" "Graaf van Vlaanderen" "Jan Baert" "Jacob van Brugge" "Willem van Rubroeck" "Simon van Salingen" "Joris van Spilbergen" "Willem Usselincx" "Mercator" 
+		}
+	}
+
+	battleship = {
+		prefix = ""
+		generic = { "Battleship" }
+		unique = {
+			"De Vlaamse Leeuw" "Ambiorix" "Godfried van Boullion" "Guldensporenslag" "Gwijde van Dampierre" "Jacob van Artevelde" "Graaf Boudewijn" "Graaf van Vlaanderen" "Jan Baert" "Jacob van Brugge" "Willem van Rubroeck" "Simon van Salingen" "Joris van Spilbergen" "Willem Usselincx" "Mercator" 
+		}
+	}
+
+	carrier = {
+		prefix = ""
+		generic = { "Carrier" }
+		unique = {
+			"De Vlaamse Leeuw" "Ambiorix" "Godfried van Boullion" "Guldensporenslag" "Gwijde van Dampierre" "Jacob van Artevelde" "Graaf Boudewijn" "Graaf van Vlaanderen" "Jan Baert" "Jacob van Brugge" "Willem van Rubroeck" "Simon van Salingen" "Joris van Spilbergen" "Willem Usselincx" "Mercator" 
+		}
+	}
+
+	destroyer = {
+		prefix = ""
+		generic = { "Destroyer" }
+		unique = {
+			"De Vlaamse Leeuw" "Ambiorix" "Godfried van Boullion" "Guldensporenslag" "Gwijde van Dampierre" "Jacob van Artevelde" "Graaf Boudewijn" "Graaf van Vlaanderen" "Jan Baert" "Jacob van Brugge" "Willem van Rubroeck" "Simon van Salingen" "Joris van Spilbergen" "Willem Usselincx" "Mercator" 
+		}
+	}
+
+	heavy_cruiser = {
+		prefix = ""
+		generic = { "Heavy Cruiser" }
+		unique = {
+			"De Vlaamse Leeuw" "Ambiorix" "Godfried van Boullion" "Guldensporenslag" "Gwijde van Dampierre" "Jacob van Artevelde" "Graaf Boudewijn" "Graaf van Vlaanderen" "Jan Baert" "Jacob van Brugge" "Willem van Rubroeck" "Simon van Salingen" "Joris van Spilbergen" "Willem Usselincx" "Mercator" 
+		}
+	}
+
+	light_cruiser = {
+		prefix = ""
+		generic = { "Light Cruiser" }
+		unique = {
+			"De Vlaamse Leeuw" "Ambiorix" "Godfried van Boullion" "Guldensporenslag" "Gwijde van Dampierre" "Jacob van Artevelde" "Graaf Boudewijn" "Graaf van Vlaanderen" "Jan Baert" "Jacob van Brugge" "Willem van Rubroeck" "Simon van Salingen" "Joris van Spilbergen" "Willem Usselincx" "Mercator" 
+		}
+	}
+
+	submarine = {
+		prefix = ""
+		generic = { "Submarine" }
+		unique = {
+			"De Vlaamse Leeuw" "Ambiorix" "Godfried van Boullion" "Guldensporenslag" "Gwijde van Dampierre" "Jacob van Artevelde" "Graaf Boudewijn" "Graaf van Vlaanderen" "Jan Baert" "Jacob van Brugge" "Willem van Rubroeck" "Simon van Salingen" "Joris van Spilbergen" "Willem Usselincx" "Mercator" 
+		}
+	}
+
+}

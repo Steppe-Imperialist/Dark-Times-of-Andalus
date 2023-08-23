@@ -1,0 +1,176 @@
+﻿capital = 885
+set_research_slots = 3
+
+oob = "ALB_OOB"
+
+# Starting tech
+# Research Bonuses
+set_convoys = 0
+
+set_politics = {
+    ruling_party = absolutist
+    last_election = "1836.1.1"
+    election_frequency = 48
+    elections_allowed = no
+}
+
+set_popularities = {
+	absolutist = 90
+	democratic = 7
+	neutrality = 3
+}
+
+add_opinion_modifier = { target = ANG modifier = negative_200 }
+add_opinion_modifier = { target = BOT modifier = negative_200 }
+add_opinion_modifier = { target = BRA modifier = negative_45 }
+add_opinion_modifier = { target = CAN modifier = negative_10 }
+add_opinion_modifier = { target = CAR modifier = negative_200 }
+add_opinion_modifier = { target = COG modifier = negative_200 }
+add_opinion_modifier = { target = ENG modifier = negative_135 }
+add_opinion_modifier = { target = FRA modifier = positive_30 }
+add_opinion_modifier = { target = GAB modifier = negative_200 }
+add_opinion_modifier = { target = GHA modifier = negative_200 }
+add_opinion_modifier = { target = HOL modifier = negative_15 }
+add_opinion_modifier = { target = HUN modifier = negative_150 }
+add_opinion_modifier = { target = ITA modifier = negative_20 }
+add_opinion_modifier = { target = KEN modifier = negative_150 }
+add_opinion_modifier = { target = KYR modifier = positive_15 }
+add_opinion_modifier = { target = LIT modifier = negative_45 }
+add_opinion_modifier = { target = MEX modifier = negative_10 }
+add_opinion_modifier = { target = NGA modifier = negative_200 }
+add_opinion_modifier = { target = S05 modifier = negative_200 }
+add_opinion_modifier = { target = S10 modifier = negative_150 }
+add_opinion_modifier = { target = SAX modifier = negative_105 }
+add_opinion_modifier = { target = SIL modifier = negative_10 }
+add_opinion_modifier = { target = SOV modifier = negative_135 }
+add_opinion_modifier = { target = SUD modifier = negative_200 }
+add_opinion_modifier = { target = SWE modifier = negative_20 }
+add_opinion_modifier = { target = SWI modifier = negative_20 }
+add_opinion_modifier = { target = T00 modifier = positive_30 }
+add_opinion_modifier = { target = T05 modifier = negative_5 }
+add_opinion_modifier = { target = T13 modifier = negative_115 }
+add_opinion_modifier = { target = T27 modifier = negative_5 }
+add_opinion_modifier = { target = T28 modifier = negative_10 }
+add_opinion_modifier = { target = T29 modifier = negative_10 }
+add_opinion_modifier = { target = T30 modifier = negative_10 }
+add_opinion_modifier = { target = T33 modifier = negative_10 }
+add_opinion_modifier = { target = T37 modifier = negative_200 }
+add_opinion_modifier = { target = T39 modifier = negative_150 }
+add_opinion_modifier = { target = T43 modifier = negative_20 }
+add_opinion_modifier = { target = T44 modifier = positive_5 }
+add_opinion_modifier = { target = T55 modifier = positive_15 }
+add_opinion_modifier = { target = T64 modifier = positive_15 }
+add_opinion_modifier = { target = T65 modifier = negative_60 }
+add_opinion_modifier = { target = T66 modifier = negative_25 }
+add_opinion_modifier = { target = T67 modifier = positive_15 }
+add_opinion_modifier = { target = T72 modifier = positive_15 }
+add_opinion_modifier = { target = T81 modifier = negative_110 }
+add_opinion_modifier = { target = T90 modifier = negative_35 }
+add_opinion_modifier = { target = U18 modifier = positive_15 }
+add_opinion_modifier = { target = U34 modifier = positive_15 }
+add_opinion_modifier = { target = U53 modifier = negative_25 }
+add_opinion_modifier = { target = U67 modifier = negative_200 }
+add_opinion_modifier = { target = UGA modifier = negative_200 }
+add_opinion_modifier = { target = URG modifier = negative_25 }
+add_opinion_modifier = { target = USA modifier = positive_20 }
+add_opinion_modifier = { target = V04 modifier = negative_150 }
+add_opinion_modifier = { target = V13 modifier = negative_10 }
+add_opinion_modifier = { target = V14 modifier = negative_170 }
+add_opinion_modifier = { target = V21 modifier = negative_150 }
+add_opinion_modifier = { target = V36 modifier = negative_150 }
+add_opinion_modifier = { target = V38 modifier = negative_25 }
+add_opinion_modifier = { target = V41 modifier = positive_5 }
+add_opinion_modifier = { target = V67 modifier = positive_15 }
+add_opinion_modifier = { target = V87 modifier = negative_5 }
+add_opinion_modifier = { target = VEN modifier = positive_5 }
+add_opinion_modifier = { target = W09 modifier = negative_60 }
+add_opinion_modifier = { target = W23 modifier = negative_105 }
+add_opinion_modifier = { target = W38 modifier = positive_5 }
+add_opinion_modifier = { target = W58 modifier = negative_150 }
+add_opinion_modifier = { target = X04 modifier = negative_175 }
+add_opinion_modifier = { target = X11 modifier = positive_15 }
+add_opinion_modifier = { target = X22 modifier = negative_150 }
+add_opinion_modifier = { target = X27 modifier = positive_40 }
+add_opinion_modifier = { target = X63 modifier = negative_25 }
+add_opinion_modifier = { target = X77 modifier = negative_110 }
+add_opinion_modifier = { target = YUG modifier = negative_175 }
+
+
+add_ideas = {
+	volunteer_only
+	civilian_economy
+	export_focus
+	culture_albanian
+}
+
+recruit_character = ALB_king_filippo_iii
+
+if = {
+	limit = {
+		has_dlc = "La Resistance"
+	}
+	create_operative_leader = {
+		name = "Shpresa Belishi"
+		GFX = "gfx/leaders/Europe/portrait_europe_generic_operative_female_1.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { ALB }
+	}
+
+	create_operative_leader = {
+		name = "Dafina Çabej"
+		GFX = "gfx/leaders/Europe/portrait_europe_generic_operative_female_2.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { ALB }
+	}
+
+	create_operative_leader = {
+		name = "Lule Bushati"
+		GFX = "gfx/leaders/Europe/portrait_europe_generic_operative_female_3.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { ALB }
+	}
+
+	create_operative_leader = {
+		name = "Idhomene Thaçi"
+		GFX = "gfx/leaders/Europe/portrait_europe_generic_operative_male_1.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		nationalities = { ALB }
+	}
+
+	create_operative_leader = {
+		name = "Kara Bej Biçakçiu"
+		GFX = "gfx/leaders/Europe/portrait_europe_generic_operative_male_2.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		nationalities = { ALB }
+	}
+
+}
+### VARIANTS ###
+if = {
+	limit = { not = { has_dlc = "Man the Guns" } }
+}
+if = {
+	limit = { has_dlc = "Man the Guns" }
+}
+### PLANE DESIGNS ###
+if = {
+	limit = { has_dlc = "By Blood Alone" }
+}
+### TANK DESIGNS ###
+if = {
+	limit = { has_dlc = "No Step Back" }
+}
+

@@ -1,0 +1,32 @@
+
+state={
+	id=491
+	name="STATE_491"
+
+	history={
+		owner = PER
+		victory_points = {
+			10414 15 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 5
+
+		}
+		add_core_of = PER
+		add_core_of = T47
+		add_claim_by = T62
+		add_claim_by = W44
+	}
+
+	provinces={
+		756 1493 1593 1632 1649 4482 4549 4599 4958 5003 7477 7491 7560 7563 7618 7635 7924 8099 9605 10348 10357 10359 10406 10414 10485 10510 10742 12333 12359 12491 
+	}
+	manpower=39324
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

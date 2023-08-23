@@ -1,0 +1,35 @@
+
+state={
+	id=701
+	name="STATE_701"
+	resources={
+		oil=4.000
+		steel=53.000
+	}
+
+	history={
+		owner = USA
+		victory_points = {
+			695 10 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 5
+
+		}
+		add_core_of = USA
+		add_core_of = V58
+		add_claim_by = T05
+	}
+
+	provinces={
+		691 695 3766 6710 6769 6782 7420 9684 9724 9746 9747 10233 10303 11641 11656 11669 11685 11714 11731 
+	}
+	manpower=704824
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

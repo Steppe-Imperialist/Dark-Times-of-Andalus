@@ -1,0 +1,16 @@
+characters={
+	X54_silvio_ceccherini={
+		name=X54_silvio_ceccherini
+		portraits={
+			civilian={
+				large="GFX_Papal_State_Angelo_Cerica"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

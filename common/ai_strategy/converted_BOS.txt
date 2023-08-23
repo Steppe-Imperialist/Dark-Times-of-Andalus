@@ -1,0 +1,18 @@
+﻿converted_war_strategies_BOS = {
+	enable = {
+		tag = BOS
+		always = no
+	}
+	
+}
+
+converted_diplo_strategies_BOS = {
+	enable = {
+		tag = BOS
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+}

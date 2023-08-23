@@ -1,0 +1,16 @@
+characters={
+	PAR_ignacio_saenz={
+		name=PAR_ignacio_saenz
+		portraits={
+			civilian={
+				large="GFX_Alfonso_XIII"
+			}
+		}
+		country_leader={
+			ideology=dictatorship
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

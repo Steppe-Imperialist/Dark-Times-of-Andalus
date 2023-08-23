@@ -1,0 +1,35 @@
+
+state={
+	id=778
+	name="STATE_778"
+
+	history={
+		owner = T35
+		victory_points = {
+			1182 2 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 1
+			dockyard = 1
+			1182 = {
+				naval_base = 2
+			}
+			air_base = 1
+
+		}
+		add_core_of = JAP
+		add_core_of = MAN
+		add_core_of = T35
+	}
+
+	provinces={
+		993 1097 1113 1182 4000 4100 4184 4188 7016 9998 11908 
+	}
+	manpower=8538816
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

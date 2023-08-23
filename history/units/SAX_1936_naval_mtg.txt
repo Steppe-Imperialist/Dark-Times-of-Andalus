@@ -1,0 +1,38 @@
+units = {
+	fleet = {
+		name = "1st Fleet"
+		naval_base = 6282
+		task_force = {
+			name = "1st Fleet"
+			location = 6282
+			ship = { name = "1st Reval Steam Frigate" definition = destroyer start_experience_factor = 0.3 equipment = { ship_hull_light_1 = { amount = 1 owner = SAX version_name = "Early Destroyer" } } }
+			ship = { name = "1st Stade Steam Frigate" definition = destroyer start_experience_factor = 0.3 equipment = { ship_hull_light_1 = { amount = 1 owner = SAX version_name = "Early Destroyer" } } }
+			ship = { name = "1st Leeuwarden Steam Frigate" definition = destroyer start_experience_factor = 0.3 equipment = { ship_hull_light_1 = { amount = 1 owner = SAX version_name = "Early Destroyer" } } }
+			ship = { name = "1st Kiel Steam Frigate" definition = destroyer start_experience_factor = 0.3 equipment = { ship_hull_light_1 = { amount = 1 owner = SAX version_name = "Early Destroyer" } } }
+			ship = { name = "1st Valmiera Steam Frigate" definition = destroyer start_experience_factor = 0.3 equipment = { ship_hull_light_1 = { amount = 1 owner = SAX version_name = "Early Destroyer" } } }
+			ship = { name = "1st Oldenburg Steam Frigate" definition = destroyer start_experience_factor = 0.3 equipment = { ship_hull_light_1 = { amount = 1 owner = SAX version_name = "Early Destroyer" } } }
+			ship = { name = "1st Aabenraa Steam Frigate" definition = destroyer start_experience_factor = 0.3 equipment = { ship_hull_light_1 = { amount = 1 owner = SAX version_name = "Early Destroyer" } } }
+			ship = { name = "1st Stralsund Steam Frigate" definition = destroyer start_experience_factor = 0.3 equipment = { ship_hull_light_1 = { amount = 1 owner = SAX version_name = "Early Destroyer" } } }
+			ship = { name = "2nd Reval Steam Frigate" definition = destroyer start_experience_factor = 0.3 equipment = { ship_hull_light_1 = { amount = 1 owner = SAX version_name = "Early Destroyer" } } }
+			ship = { name = "1st Memel Steam Frigate" definition = destroyer start_experience_factor = 0.3 equipment = { ship_hull_light_1 = { amount = 1 owner = SAX version_name = "Early Destroyer" } } }
+			ship = { name = "2nd Valmiera Steam Frigate" definition = destroyer start_experience_factor = 0.3 equipment = { ship_hull_light_1 = { amount = 1 owner = SAX version_name = "Early Destroyer" } } }
+			ship = { name = "2nd Aabenraa Steam Frigate" definition = destroyer start_experience_factor = 0.3 equipment = { ship_hull_light_1 = { amount = 1 owner = SAX version_name = "Early Destroyer" } } }
+			ship = { name = "1st Stettin Steam Frigate" definition = destroyer start_experience_factor = 0.3 equipment = { ship_hull_light_1 = { amount = 1 owner = SAX version_name = "Early Destroyer" } } }
+			ship = { name = "2nd Kiel Steam Frigate" definition = destroyer start_experience_factor = 0.3 equipment = { ship_hull_light_1 = { amount = 1 owner = SAX version_name = "Early Destroyer" } } }
+			ship = { name = "1st Elbing Steam Frigate" definition = destroyer start_experience_factor = 0.3 equipment = { ship_hull_light_1 = { amount = 1 owner = SAX version_name = "Early Destroyer" } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_light_1
+			creator = "SAX"
+			version_name = "Early Destroyer"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+}

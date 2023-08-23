@@ -1,0 +1,58 @@
+﻿DNZ = {
+	battle_cruiser = {
+		prefix = ""
+		generic = { "Battlecruiser" }
+		unique = {
+			"Danzig" "Hansa" "Peter von Danzig" "Pommerellen" "Elbing" "Paul Beneke" "Kopernikus" "Kalckreuth" "Arnswalde" "Dirschau" "Stargard" "Teutonicus" "Marienwerder" "Thorn" "Georg Giese" 
+		}
+	}
+
+	battleship = {
+		prefix = ""
+		generic = { "Battleship" }
+		unique = {
+			"Danzig" "Hansa" "Peter von Danzig" "Pommerellen" "Elbing" "Paul Beneke" "Kopernikus" "Kalckreuth" "Arnswalde" "Dirschau" "Stargard" "Teutonicus" "Marienwerder" "Thorn" "Georg Giese" 
+		}
+	}
+
+	carrier = {
+		prefix = ""
+		generic = { "Carrier" }
+		unique = {
+			"Danzig" "Hansa" "Peter von Danzig" "Pommerellen" "Elbing" "Paul Beneke" "Kopernikus" "Kalckreuth" "Arnswalde" "Dirschau" "Stargard" "Teutonicus" "Marienwerder" "Thorn" "Georg Giese" 
+		}
+	}
+
+	destroyer = {
+		prefix = ""
+		generic = { "Destroyer" }
+		unique = {
+			"Danzig" "Hansa" "Peter von Danzig" "Pommerellen" "Elbing" "Paul Beneke" "Kopernikus" "Kalckreuth" "Arnswalde" "Dirschau" "Stargard" "Teutonicus" "Marienwerder" "Thorn" "Georg Giese" 
+		}
+	}
+
+	heavy_cruiser = {
+		prefix = ""
+		generic = { "Heavy Cruiser" }
+		unique = {
+			"Danzig" "Hansa" "Peter von Danzig" "Pommerellen" "Elbing" "Paul Beneke" "Kopernikus" "Kalckreuth" "Arnswalde" "Dirschau" "Stargard" "Teutonicus" "Marienwerder" "Thorn" "Georg Giese" 
+		}
+	}
+
+	light_cruiser = {
+		prefix = ""
+		generic = { "Light Cruiser" }
+		unique = {
+			"Danzig" "Hansa" "Peter von Danzig" "Pommerellen" "Elbing" "Paul Beneke" "Kopernikus" "Kalckreuth" "Arnswalde" "Dirschau" "Stargard" "Teutonicus" "Marienwerder" "Thorn" "Georg Giese" 
+		}
+	}
+
+	submarine = {
+		prefix = ""
+		generic = { "Submarine" }
+		unique = {
+			"Danzig" "Hansa" "Peter von Danzig" "Pommerellen" "Elbing" "Paul Beneke" "Kopernikus" "Kalckreuth" "Arnswalde" "Dirschau" "Stargard" "Teutonicus" "Marienwerder" "Thorn" "Georg Giese" 
+		}
+	}
+
+}

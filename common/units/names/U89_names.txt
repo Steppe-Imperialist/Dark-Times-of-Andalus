@@ -1,0 +1,58 @@
+﻿U89 = {
+	battle_cruiser = {
+		prefix = ""
+		generic = { "Battlecruiser" }
+		unique = {
+			"Sumba" "Bima" "Ari" "Sumbawa" "Flores" "Sunda" "Buru" "Kaupeng" "Parepare" "Krakatau" "Morowali" "Teku" "Saparua" "Sula" "Peruhumpenai" "Lembata" "Tukangbesi" "Solor" 
+		}
+	}
+
+	battleship = {
+		prefix = ""
+		generic = { "Battleship" }
+		unique = {
+			"Sumba" "Bima" "Ari" "Sumbawa" "Flores" "Sunda" "Buru" "Kaupeng" "Parepare" "Krakatau" "Morowali" "Teku" "Saparua" "Sula" "Peruhumpenai" "Lembata" "Tukangbesi" "Solor" 
+		}
+	}
+
+	carrier = {
+		prefix = ""
+		generic = { "Carrier" }
+		unique = {
+			"Sumba" "Bima" "Ari" "Sumbawa" "Flores" "Sunda" "Buru" "Kaupeng" "Parepare" "Krakatau" "Morowali" "Teku" "Saparua" "Sula" "Peruhumpenai" "Lembata" "Tukangbesi" "Solor" 
+		}
+	}
+
+	destroyer = {
+		prefix = ""
+		generic = { "Destroyer" }
+		unique = {
+			"Sumba" "Bima" "Ari" "Sumbawa" "Flores" "Sunda" "Buru" "Kaupeng" "Parepare" "Krakatau" "Morowali" "Teku" "Saparua" "Sula" "Peruhumpenai" "Lembata" "Tukangbesi" "Solor" 
+		}
+	}
+
+	heavy_cruiser = {
+		prefix = ""
+		generic = { "Heavy Cruiser" }
+		unique = {
+			"Sumba" "Bima" "Ari" "Sumbawa" "Flores" "Sunda" "Buru" "Kaupeng" "Parepare" "Krakatau" "Morowali" "Teku" "Saparua" "Sula" "Peruhumpenai" "Lembata" "Tukangbesi" "Solor" 
+		}
+	}
+
+	light_cruiser = {
+		prefix = ""
+		generic = { "Light Cruiser" }
+		unique = {
+			"Sumba" "Bima" "Ari" "Sumbawa" "Flores" "Sunda" "Buru" "Kaupeng" "Parepare" "Krakatau" "Morowali" "Teku" "Saparua" "Sula" "Peruhumpenai" "Lembata" "Tukangbesi" "Solor" 
+		}
+	}
+
+	submarine = {
+		prefix = ""
+		generic = { "Submarine" }
+		unique = {
+			"Sumba" "Bima" "Ari" "Sumbawa" "Flores" "Sunda" "Buru" "Kaupeng" "Parepare" "Krakatau" "Morowali" "Teku" "Saparua" "Sula" "Peruhumpenai" "Lembata" "Tukangbesi" "Solor" 
+		}
+	}
+
+}

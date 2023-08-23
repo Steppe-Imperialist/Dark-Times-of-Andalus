@@ -1,0 +1,16 @@
+characters={
+	PNG_ti_abel_cokanauto={
+		name=PNG_ti_abel_cokanauto
+		portraits={
+			civilian={
+				large="gfx/leaders/HAI/portrait_hai_stenio_vincent.dds"
+			}
+		}
+		country_leader={
+			ideology=dictatorship_neutral
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

@@ -1,0 +1,32 @@
+
+state={
+	id=222
+	name="STATE_222"
+
+	history={
+		owner = W38
+		victory_points = {
+			857 15 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 6
+
+		}
+		add_core_of = EUS
+		add_core_of = NAV
+		add_core_of = W38
+		add_claim_by = SPR
+	}
+
+	provinces={
+		857 3859 3887 11766 
+	}
+	manpower=282848
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

@@ -1,0 +1,35 @@
+
+state={
+	id=832
+	name="STATE_832"
+
+	history={
+		owner = T83
+		victory_points = {
+			2029 15 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+			2029 = {
+				naval_base = 1
+			}
+			air_base = 5
+
+		}
+		add_core_of = SAU
+		add_core_of = T83
+		add_core_of = T87
+		add_core_of = YEM
+	}
+
+	provinces={
+		2029 4976 
+	}
+	manpower=107148
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

@@ -1,0 +1,33 @@
+units = {
+	fleet = {
+		name = "1st Fleet"
+		naval_base = 4137
+		task_force = {
+			name = "1st Fleet"
+			location = 4137
+			ship = { name = "Chagaan" definition = destroyer start_experience_factor = 0.04885 equipment = { ship_hull_light_1 = { amount = 1 owner = S01 version_name = "Early Destroyer" } } }
+			ship = { name = "BÃ¶ke" definition = destroyer start_experience_factor = 0.05 equipment = { ship_hull_light_1 = { amount = 1 owner = S01 version_name = "Early Destroyer" } } }
+			ship = { name = "JÃ¶chi" definition = destroyer start_experience_factor = 0.04838 equipment = { ship_hull_light_1 = { amount = 1 owner = S01 version_name = "Early Destroyer" } } }
+			ship = { name = "Ghengis Khan" definition = destroyer start_experience_factor = 0.0466 equipment = { ship_hull_light_1 = { amount = 1 owner = S01 version_name = "Early Destroyer" } } }
+			ship = { name = "Qubilai" definition = destroyer start_experience_factor = 0.05 equipment = { ship_hull_light_1 = { amount = 1 owner = S01 version_name = "Early Destroyer" } } }
+			ship = { name = "Yingchang" definition = destroyer start_experience_factor = 0.04925 equipment = { ship_hull_light_1 = { amount = 1 owner = S01 version_name = "Early Destroyer" } } }
+			ship = { name = "Hohhot" definition = destroyer start_experience_factor = 0.04905 equipment = { ship_hull_light_1 = { amount = 1 owner = S01 version_name = "Early Destroyer" } } }
+			ship = { name = "HÃ¼legÃ¼" definition = destroyer start_experience_factor = 0.05 equipment = { ship_hull_light_1 = { amount = 1 owner = S01 version_name = "Early Destroyer" } } }
+			ship = { name = "Ã–gÃ¶dei" definition = destroyer start_experience_factor = 0.05 equipment = { ship_hull_light_1 = { amount = 1 owner = S01 version_name = "Early Destroyer" } } }
+			ship = { name = "MÃ¶ngke" definition = destroyer start_experience_factor = 0.05 equipment = { ship_hull_light_1 = { amount = 1 owner = S01 version_name = "Early Destroyer" } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_light_1
+			creator = "S01"
+			version_name = "Early Destroyer"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+}

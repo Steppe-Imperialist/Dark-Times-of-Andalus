@@ -1,0 +1,36 @@
+
+state={
+	id=294
+	name="STATE_294"
+
+	history={
+		owner = W74
+		victory_points = {
+			13049 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			13048 = {
+				naval_base = 1
+			}
+			air_base = 0
+
+		}
+		add_core_of = HAW
+		add_core_of = W73
+		add_core_of = W74
+		add_core_of = W75
+		add_core_of = W76
+	}
+
+	provinces={
+		13048 13049 13053 
+	}
+	manpower=35204
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

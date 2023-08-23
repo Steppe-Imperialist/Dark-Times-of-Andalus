@@ -1,0 +1,133 @@
+﻿converted_war_strategies_T27 = {
+	enable = {
+		tag = T27
+		always = no
+	}
+	
+	ai_strategy = {
+		type = conquer
+		id = "VEN"
+		value = 442
+	}
+	ai_strategy = {
+		type = conquer
+		id = "T29"
+		value = 205
+	}
+	ai_strategy = {
+		type = conquer
+		id = "MEX"
+		value = 52
+	}
+	ai_strategy = {
+		type = conquer
+		id = "GUY"
+		value = 39
+	}
+}
+
+converted_diplo_strategies_T27 = {
+	enable = {
+		tag = T27
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+	ai_strategy = {
+		type = contain
+		id = "VEN"
+		value = 352
+	}
+	ai_strategy = {
+		type = contain
+		id = "T29"
+		value = 164
+	}
+	ai_strategy = {
+		type = contain
+		id = "MEX"
+		value = 103
+	}
+	ai_strategy = {
+		type = contain
+		id = "GUY"
+		value = 101
+	}
+	ai_strategy = {
+		type = contain
+		id = "USA"
+		value = 43
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "T72"
+		value = 400
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "S01"
+		value = 221
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "VEN"
+		value = 217
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "T64"
+		value = 215
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "T29"
+		value = 121
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "GUY"
+		value = 114
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "KAZ"
+		value = 58
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "MEX"
+		value = 44
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "USA"
+		value = 7
+	}
+	ai_strategy = {
+		type = alliance
+		id = "USA"
+		value = 200
+	}
+	ai_strategy = {
+		type = protect
+		id = "GUY"
+		value = 49
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "SWE"
+		value = 94
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "GUY"
+		value = 52
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "SAF"
+		value = 19
+	}
+}

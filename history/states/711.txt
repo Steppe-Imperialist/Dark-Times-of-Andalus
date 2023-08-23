@@ -1,0 +1,40 @@
+
+state={
+	id=711
+	name="STATE_711"
+	resources={
+		rubber=1.000
+	}
+
+	history={
+		owner = USA
+		victory_points = {
+			10765 10 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			arms_factory = 0
+			8119 = {
+				naval_base = 4
+			}
+			air_base = 5
+
+		}
+		add_core_of = CAL
+		add_core_of = U62
+		add_core_of = USA
+		add_claim_by = MEX
+		add_claim_by = S09
+		add_claim_by = T32
+	}
+
+	provinces={
+		1904 2069 4908 4977 5071 8012 8033 8119 10765 10848 12736 12833 13214 
+	}
+	manpower=538208
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

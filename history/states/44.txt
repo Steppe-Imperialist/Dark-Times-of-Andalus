@@ -1,0 +1,32 @@
+
+state={
+	id=44
+	name="STATE_44"
+
+	history={
+		owner = ANG
+		victory_points = {
+			12985 15 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+			12985 = {
+				naval_base = 2
+			}
+			air_base = 5
+
+		}
+		add_core_of = ANG
+	}
+
+	provinces={
+		8138 8202 12391 12985 
+	}
+	manpower=355060
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

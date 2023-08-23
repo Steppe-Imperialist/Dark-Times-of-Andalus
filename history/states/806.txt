@@ -1,0 +1,32 @@
+
+state={
+	id=806
+	name="STATE_806"
+
+	history={
+		owner = T55
+		victory_points = {
+			10762 10 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			arms_factory = 0
+			10762 = {
+				naval_base = 2
+			}
+			air_base = 5
+
+		}
+		add_core_of = IVO
+	}
+
+	provinces={
+		10762 
+	}
+	manpower=204952
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

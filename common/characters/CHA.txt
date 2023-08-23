@@ -1,0 +1,76 @@
+characters={
+	CHA_carlo_cusani={
+		name=CHA_carlo_cusani
+		portraits={
+			army={
+				large="GFX_portrait_ITA_ubaldo_soddu"
+			}
+			army={
+				small="GFX_portrait_ITA_ubaldo_soddu"
+			}
+		}
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	CHA_leopoldo_filomarino={
+		name=CHA_leopoldo_filomarino
+		portraits={
+			army={
+				large="GFX_Portrait_europe_generic_land_9"
+			}
+			army={
+				small="GFX_Portrait_europe_generic_land_9"
+			}
+		}
+		corps_commander={
+			skill=2
+			attack_skill=3
+			defense_skill=1
+			planning_skill=3
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	CHA_pietro_di_borbone_di_parma={
+		name=CHA_pietro_di_borbone_di_parma
+		portraits={
+			navy={
+				large="GFX_Europe_Generic_navy_new_4"
+			}
+			navy={
+				small="GFX_Europe_Generic_navy_new_4"
+			}
+		}
+		navy_leader={
+			skill=2
+			attack_skill=1
+			defense_skill=2
+			maneuvering_skill=1
+			coordination_skill=2
+			legacy_id=0
+		}
+	}
+
+	CHA_carlo_di_robilant={
+		name=CHA_carlo_di_robilant
+		portraits={
+			civilian={
+				large="GFX_Italy_Alcide_de_Gasperi"
+			}
+		}
+		country_leader={
+			ideology=fascism_ideology
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

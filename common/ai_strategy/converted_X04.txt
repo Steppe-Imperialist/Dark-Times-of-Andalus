@@ -1,0 +1,198 @@
+﻿converted_war_strategies_X04 = {
+	enable = {
+		tag = X04
+		always = no
+	}
+	
+	ai_strategy = {
+		type = conquer
+		id = "KEN"
+		value = 345
+	}
+	ai_strategy = {
+		type = conquer
+		id = "T37"
+		value = 210
+	}
+	ai_strategy = {
+		type = conquer
+		id = "U64"
+		value = 94
+	}
+	ai_strategy = {
+		type = conquer
+		id = "ITA"
+		value = 70
+	}
+	ai_strategy = {
+		type = conquer
+		id = "SOV"
+		value = 68
+	}
+	ai_strategy = {
+		type = conquer
+		id = "SUD"
+		value = 66
+	}
+}
+
+converted_diplo_strategies_X04 = {
+	enable = {
+		tag = X04
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+	ai_strategy = {
+		type = contain
+		id = "ITA"
+		value = 400
+	}
+	ai_strategy = {
+		type = contain
+		id = "SAX"
+		value = 266
+	}
+	ai_strategy = {
+		type = contain
+		id = "KEN"
+		value = 217
+	}
+	ai_strategy = {
+		type = contain
+		id = "SOV"
+		value = 195
+	}
+	ai_strategy = {
+		type = contain
+		id = "T37"
+		value = 135
+	}
+	ai_strategy = {
+		type = contain
+		id = "SUD"
+		value = 111
+	}
+	ai_strategy = {
+		type = contain
+		id = "U26"
+		value = 50
+	}
+	ai_strategy = {
+		type = contain
+		id = "V04"
+		value = 18
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "T37"
+		value = 400
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "T72"
+		value = 338
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "T64"
+		value = 189
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "S01"
+		value = 184
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "KEN"
+		value = 159
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "U64"
+		value = 152
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "SUD"
+		value = 129
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "ITA"
+		value = 119
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "YEM"
+		value = 86
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "UGA"
+		value = 67
+	}
+	ai_strategy = {
+		type = alliance
+		id = "SOV"
+		value = 200
+	}
+	ai_strategy = {
+		type = alliance
+		id = "ENG"
+		value = 142
+	}
+	ai_strategy = {
+		type = alliance
+		id = "SAX"
+		value = 95
+	}
+	ai_strategy = {
+		type = alliance
+		id = "ADU"
+		value = 25
+	}
+	ai_strategy = {
+		type = protect
+		id = "UGA"
+		value = 96
+	}
+	ai_strategy = {
+		type = protect
+		id = "T83"
+		value = 20
+	}
+	ai_strategy = {
+		type = protect
+		id = "YEM"
+		value = 20
+	}
+	ai_strategy = {
+		type = protect
+		id = "W89"
+		value = 12
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "W30"
+		value = 119
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "T37"
+		value = 97
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "V67"
+		value = 69
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "U64"
+		value = 58
+	}
+}

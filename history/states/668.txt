@@ -1,0 +1,35 @@
+
+state={
+	id=668
+	name="STATE_668"
+
+	history={
+		owner = URG
+		victory_points = {
+			10362 15 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 1
+			dockyard = 1
+			10362 = {
+				naval_base = 1
+			}
+			air_base = 6
+
+		}
+		add_core_of = URG
+		add_claim_by = T45
+		add_claim_by = W53
+	}
+
+	provinces={
+		1626 10362 12336 12440 
+	}
+	manpower=5629548
+	buildings_max_level_factor=1.000
+	state_category=metropolis
+
+	local_supplies=10.0
+}

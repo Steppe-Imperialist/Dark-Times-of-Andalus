@@ -1,0 +1,53 @@
+﻿converted_war_strategies_T45 = {
+	enable = {
+		tag = T45
+		always = no
+	}
+	
+	ai_strategy = {
+		type = conquer
+		id = "ENG"
+		value = 2774
+	}
+	ai_strategy = {
+		type = conquer
+		id = "T30"
+		value = 75
+	}
+	ai_strategy = {
+		type = conquer
+		id = "ICE"
+		value = 73
+	}
+}
+
+converted_diplo_strategies_T45 = {
+	enable = {
+		tag = T45
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+	ai_strategy = {
+		type = contain
+		id = "T30"
+		value = 176
+	}
+	ai_strategy = {
+		type = contain
+		id = "T29"
+		value = 106
+	}
+	ai_strategy = {
+		type = contain
+		id = "T44"
+		value = 102
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "ENG"
+		value = 267
+	}
+}

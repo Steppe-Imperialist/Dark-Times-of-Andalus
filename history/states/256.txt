@@ -1,0 +1,22 @@
+
+state={
+	id=256
+	name="STATE_256"
+	impassable = yes
+
+	history={
+		owner = W58
+		add_core_of = NGR
+		add_core_of = X43
+		add_claim_by = W58
+	}
+
+	provinces={
+		4913 7939 10917 
+	}
+	manpower=139360
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+
+	local_supplies=10.0
+}

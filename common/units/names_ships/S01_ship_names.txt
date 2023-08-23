@@ -1,0 +1,176 @@
+﻿S01_BB_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_BB
+
+	for_countries = { S01 }
+
+	type = ship
+	ship_types = { ship_hull_heavy battleship }
+
+	prefix = ""
+	fallback_name = "Battleship BB-%d"
+
+	unique = {
+		"Yingchang" "Karakorum" "Hohhot" "Chagaan" "Ghengis Khan" "JÃ¶chi" "Ã–gÃ¶dei" "Tolui" "MÃ¶ngke" "Qubilai" "HÃ¼legÃ¼" "BÃ¶ke" "Jinggim" "Kamala" "Dharmapala" "Ã–rÃ¼g TemÃ¼r" "Adai" "Elbeg" "Batu" "Mugali" "Bo'orchu" "Borokhula" "Chilaun" "Khubilai" "Jelme" "Jebe" "Subutai" "YelÃ¼ Chucai" "Shikhikhutug" "Sorqan Shira" "Khar Khiruge" "DÃ¶rben KÃ¼lÃ¼'Ã¼d" "DÃ¶rben Noyas" 
+	}
+}
+
+S01_BC_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_BC
+
+	for_countries = { S01 }
+
+	type = ship
+	ship_types = { ship_hull_heavy battle_cruiser }
+
+	prefix = ""
+	fallback_name = "Battlecruiser BC-%d"
+
+	unique = {
+		"Yingchang" "Karakorum" "Hohhot" "Chagaan" "Ghengis Khan" "JÃ¶chi" "Ã–gÃ¶dei" "Tolui" "MÃ¶ngke" "Qubilai" "HÃ¼legÃ¼" "BÃ¶ke" "Jinggim" "Kamala" "Dharmapala" "Ã–rÃ¼g TemÃ¼r" "Adai" "Elbeg" "Batu" "Mugali" "Bo'orchu" "Borokhula" "Chilaun" "Khubilai" "Jelme" "Jebe" "Subutai" "YelÃ¼ Chucai" "Shikhikhutug" "Sorqan Shira" "Khar Khiruge" "DÃ¶rben KÃ¼lÃ¼'Ã¼d" "DÃ¶rben Noyas" 
+	}
+}
+
+S01_CA_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CA
+
+	for_countries = { S01 }
+
+	type = ship
+	ship_types = { ship_hull_cruiser heavy_cruiser }
+
+	prefix = ""
+	fallback_name = "Heavy Cruiser CA-%d"
+
+	unique = {
+		"Yingchang" "Karakorum" "Hohhot" "Chagaan" "Ghengis Khan" "JÃ¶chi" "Ã–gÃ¶dei" "Tolui" "MÃ¶ngke" "Qubilai" "HÃ¼legÃ¼" "BÃ¶ke" "Jinggim" "Kamala" "Dharmapala" "Ã–rÃ¼g TemÃ¼r" "Adai" "Elbeg" "Batu" "Mugali" "Bo'orchu" "Borokhula" "Chilaun" "Khubilai" "Jelme" "Jebe" "Subutai" "YelÃ¼ Chucai" "Shikhikhutug" "Sorqan Shira" "Khar Khiruge" "DÃ¶rben KÃ¼lÃ¼'Ã¼d" "DÃ¶rben Noyas" 
+	}
+}
+
+S01_CLAA_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CLAA
+
+	for_countries = { S01 }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser }
+
+	prefix = ""
+	fallback_name = "Light Cruiser CLAA-%d"
+
+	unique = {
+		"Yingchang" "Karakorum" "Hohhot" "Chagaan" "Ghengis Khan" "JÃ¶chi" "Ã–gÃ¶dei" "Tolui" "MÃ¶ngke" "Qubilai" "HÃ¼legÃ¼" "BÃ¶ke" "Jinggim" "Kamala" "Dharmapala" "Ã–rÃ¼g TemÃ¼r" "Adai" "Elbeg" "Batu" "Mugali" "Bo'orchu" "Borokhula" "Chilaun" "Khubilai" "Jelme" "Jebe" "Subutai" "YelÃ¼ Chucai" "Shikhikhutug" "Sorqan Shira" "Khar Khiruge" "DÃ¶rben KÃ¼lÃ¼'Ã¼d" "DÃ¶rben Noyas" 
+	}
+}
+
+S01_CL_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CL
+
+	for_countries = { S01 }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser }
+
+	prefix = ""
+	fallback_name = "Light Cruiser CL-%d"
+
+	unique = {
+		"Yingchang" "Karakorum" "Hohhot" "Chagaan" "Ghengis Khan" "JÃ¶chi" "Ã–gÃ¶dei" "Tolui" "MÃ¶ngke" "Qubilai" "HÃ¼legÃ¼" "BÃ¶ke" "Jinggim" "Kamala" "Dharmapala" "Ã–rÃ¼g TemÃ¼r" "Adai" "Elbeg" "Batu" "Mugali" "Bo'orchu" "Borokhula" "Chilaun" "Khubilai" "Jelme" "Jebe" "Subutai" "YelÃ¼ Chucai" "Shikhikhutug" "Sorqan Shira" "Khar Khiruge" "DÃ¶rben KÃ¼lÃ¼'Ã¼d" "DÃ¶rben Noyas" 
+	}
+}
+
+S01_CVL_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CVL
+
+	for_countries = { S01 }
+
+	type = ship
+	ship_types = { ship_hull_carrier carrier }
+
+	prefix = ""
+	fallback_name = "Carrier CVL-%d"
+
+	unique = {
+		"Yingchang" "Karakorum" "Hohhot" "Chagaan" "Ghengis Khan" "JÃ¶chi" "Ã–gÃ¶dei" "Tolui" "MÃ¶ngke" "Qubilai" "HÃ¼legÃ¼" "BÃ¶ke" "Jinggim" "Kamala" "Dharmapala" "Ã–rÃ¼g TemÃ¼r" "Adai" "Elbeg" "Batu" "Mugali" "Bo'orchu" "Borokhula" "Chilaun" "Khubilai" "Jelme" "Jebe" "Subutai" "YelÃ¼ Chucai" "Shikhikhutug" "Sorqan Shira" "Khar Khiruge" "DÃ¶rben KÃ¼lÃ¼'Ã¼d" "DÃ¶rben Noyas" 
+	}
+}
+
+S01_CV_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CARRIERS
+
+	for_countries = { S01 }
+
+	type = ship
+	ship_types = { ship_hull_carrier carrier }
+
+	prefix = ""
+	fallback_name = "Carrier CV-%d"
+
+	unique = {
+		"Yingchang" "Karakorum" "Hohhot" "Chagaan" "Ghengis Khan" "JÃ¶chi" "Ã–gÃ¶dei" "Tolui" "MÃ¶ngke" "Qubilai" "HÃ¼legÃ¼" "BÃ¶ke" "Jinggim" "Kamala" "Dharmapala" "Ã–rÃ¼g TemÃ¼r" "Adai" "Elbeg" "Batu" "Mugali" "Bo'orchu" "Borokhula" "Chilaun" "Khubilai" "Jelme" "Jebe" "Subutai" "YelÃ¼ Chucai" "Shikhikhutug" "Sorqan Shira" "Khar Khiruge" "DÃ¶rben KÃ¼lÃ¼'Ã¼d" "DÃ¶rben Noyas" 
+	}
+}
+
+S01_DD_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_DESTROYERS
+
+	for_countries = { S01 }
+
+	type = ship
+	ship_types = { ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Destroyer DD-%d"
+
+	unique = {
+		"Yingchang" "Karakorum" "Hohhot" "Chagaan" "Ghengis Khan" "JÃ¶chi" "Ã–gÃ¶dei" "Tolui" "MÃ¶ngke" "Qubilai" "HÃ¼legÃ¼" "BÃ¶ke" "Jinggim" "Kamala" "Dharmapala" "Ã–rÃ¼g TemÃ¼r" "Adai" "Elbeg" "Batu" "Mugali" "Bo'orchu" "Borokhula" "Chilaun" "Khubilai" "Jelme" "Jebe" "Subutai" "YelÃ¼ Chucai" "Shikhikhutug" "Sorqan Shira" "Khar Khiruge" "DÃ¶rben KÃ¼lÃ¼'Ã¼d" "DÃ¶rben Noyas" 
+	}
+}
+
+S01_DE_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_DE
+
+	for_countries = { S01 }
+
+	type = ship
+	ship_types = { ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Destroyer Escort DE-%d"
+
+	unique = {
+		"Yingchang" "Karakorum" "Hohhot" "Chagaan" "Ghengis Khan" "JÃ¶chi" "Ã–gÃ¶dei" "Tolui" "MÃ¶ngke" "Qubilai" "HÃ¼legÃ¼" "BÃ¶ke" "Jinggim" "Kamala" "Dharmapala" "Ã–rÃ¼g TemÃ¼r" "Adai" "Elbeg" "Batu" "Mugali" "Bo'orchu" "Borokhula" "Chilaun" "Khubilai" "Jelme" "Jebe" "Subutai" "YelÃ¼ Chucai" "Shikhikhutug" "Sorqan Shira" "Khar Khiruge" "DÃ¶rben KÃ¼lÃ¼'Ã¼d" "DÃ¶rben Noyas" 
+	}
+}
+
+S01_MINELAYERS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_MINELAYERS
+
+	for_countries = { S01 }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Minelayer CM-%d"
+
+	unique = {
+		"Yingchang" "Karakorum" "Hohhot" "Chagaan" "Ghengis Khan" "JÃ¶chi" "Ã–gÃ¶dei" "Tolui" "MÃ¶ngke" "Qubilai" "HÃ¼legÃ¼" "BÃ¶ke" "Jinggim" "Kamala" "Dharmapala" "Ã–rÃ¼g TemÃ¼r" "Adai" "Elbeg" "Batu" "Mugali" "Bo'orchu" "Borokhula" "Chilaun" "Khubilai" "Jelme" "Jebe" "Subutai" "YelÃ¼ Chucai" "Shikhikhutug" "Sorqan Shira" "Khar Khiruge" "DÃ¶rben KÃ¼lÃ¼'Ã¼d" "DÃ¶rben Noyas" 
+	}
+}
+
+S01_SS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_SUBMARINES
+
+	for_countries = { S01 }
+
+	type = ship
+	ship_types = { ship_hull_submarine submarine }
+
+	prefix = ""
+	fallback_name = "Submarine SS-%d"
+
+	unique = {
+		"Yingchang" "Karakorum" "Hohhot" "Chagaan" "Ghengis Khan" "JÃ¶chi" "Ã–gÃ¶dei" "Tolui" "MÃ¶ngke" "Qubilai" "HÃ¼legÃ¼" "BÃ¶ke" "Jinggim" "Kamala" "Dharmapala" "Ã–rÃ¼g TemÃ¼r" "Adai" "Elbeg" "Batu" "Mugali" "Bo'orchu" "Borokhula" "Chilaun" "Khubilai" "Jelme" "Jebe" "Subutai" "YelÃ¼ Chucai" "Shikhikhutug" "Sorqan Shira" "Khar Khiruge" "DÃ¶rben KÃ¼lÃ¼'Ã¼d" "DÃ¶rben Noyas" 
+	}
+}
+

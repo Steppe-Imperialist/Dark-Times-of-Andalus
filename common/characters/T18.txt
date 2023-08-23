@@ -1,0 +1,16 @@
+characters={
+	T18_king_c.={
+		name=T18_king_c.
+		portraits={
+			civilian={
+				large="GFX_Germany_Wilhelm_II"
+			}
+		}
+		country_leader={
+			ideology=absolute_monarchy
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

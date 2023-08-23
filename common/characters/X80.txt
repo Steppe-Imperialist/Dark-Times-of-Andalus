@@ -1,0 +1,16 @@
+characters={
+	X80_taimah_hudesabina={
+		name=X80_taimah_hudesabina
+		portraits={
+			civilian={
+				large="GFX_nat_north_absolutist"
+			}
+		}
+		country_leader={
+			ideology=absolute_monarchy
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

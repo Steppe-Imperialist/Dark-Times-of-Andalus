@@ -1,0 +1,16 @@
+characters={
+	W25_king_ioannes_v={
+		name=W25_king_ioannes_v
+		portraits={
+			civilian={
+				large="gfx/leaders/ITA/Portrait_Italy_Vittorio_Emanuele_III.dds"
+			}
+		}
+		country_leader={
+			ideology=absolute_monarchy
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

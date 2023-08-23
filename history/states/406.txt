@@ -1,0 +1,33 @@
+
+state={
+	id=406
+	name="STATE_406"
+	resources={
+		steel=2.000
+	}
+
+	history={
+		owner = LIT
+		victory_points = {
+			3544 0 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = LIT
+		add_claim_by = SOV
+
+	}
+
+	provinces={
+		467 524 584 3230 3482 3544 3586 6259 6321 6511 6567 9290 9316 9400 9508 11274 11329 11385 11428 11492 11532 12562 
+	}
+	manpower=1199528
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=10.000
+}

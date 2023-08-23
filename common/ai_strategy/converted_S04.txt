@@ -1,0 +1,18 @@
+﻿converted_war_strategies_S04 = {
+	enable = {
+		tag = S04
+		always = no
+	}
+	
+}
+
+converted_diplo_strategies_S04 = {
+	enable = {
+		tag = S04
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+}

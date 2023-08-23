@@ -1,0 +1,58 @@
+﻿X03 = {
+	battle_cruiser = {
+		prefix = ""
+		generic = { "Battlecruiser" }
+		unique = {
+			"QuÃ©bec" "MontrÃ©al" "Acadie" "Canada" "Cartier" "Montcalm" "De la Salle" "DÃ©troit" "Vaudreuil" "Frontenac" "Chevalier" "Saint-Laurent" "Trois-RiviÃ¨res" "Champlain" "Richelieu" 
+		}
+	}
+
+	battleship = {
+		prefix = ""
+		generic = { "Battleship" }
+		unique = {
+			"QuÃ©bec" "MontrÃ©al" "Acadie" "Canada" "Cartier" "Montcalm" "De la Salle" "DÃ©troit" "Vaudreuil" "Frontenac" "Chevalier" "Saint-Laurent" "Trois-RiviÃ¨res" "Champlain" "Richelieu" 
+		}
+	}
+
+	carrier = {
+		prefix = ""
+		generic = { "Carrier" }
+		unique = {
+			"QuÃ©bec" "MontrÃ©al" "Acadie" "Canada" "Cartier" "Montcalm" "De la Salle" "DÃ©troit" "Vaudreuil" "Frontenac" "Chevalier" "Saint-Laurent" "Trois-RiviÃ¨res" "Champlain" "Richelieu" 
+		}
+	}
+
+	destroyer = {
+		prefix = ""
+		generic = { "Destroyer" }
+		unique = {
+			"QuÃ©bec" "MontrÃ©al" "Acadie" "Canada" "Cartier" "Montcalm" "De la Salle" "DÃ©troit" "Vaudreuil" "Frontenac" "Chevalier" "Saint-Laurent" "Trois-RiviÃ¨res" "Champlain" "Richelieu" 
+		}
+	}
+
+	heavy_cruiser = {
+		prefix = ""
+		generic = { "Heavy Cruiser" }
+		unique = {
+			"QuÃ©bec" "MontrÃ©al" "Acadie" "Canada" "Cartier" "Montcalm" "De la Salle" "DÃ©troit" "Vaudreuil" "Frontenac" "Chevalier" "Saint-Laurent" "Trois-RiviÃ¨res" "Champlain" "Richelieu" 
+		}
+	}
+
+	light_cruiser = {
+		prefix = ""
+		generic = { "Light Cruiser" }
+		unique = {
+			"QuÃ©bec" "MontrÃ©al" "Acadie" "Canada" "Cartier" "Montcalm" "De la Salle" "DÃ©troit" "Vaudreuil" "Frontenac" "Chevalier" "Saint-Laurent" "Trois-RiviÃ¨res" "Champlain" "Richelieu" 
+		}
+	}
+
+	submarine = {
+		prefix = ""
+		generic = { "Submarine" }
+		unique = {
+			"QuÃ©bec" "MontrÃ©al" "Acadie" "Canada" "Cartier" "Montcalm" "De la Salle" "DÃ©troit" "Vaudreuil" "Frontenac" "Chevalier" "Saint-Laurent" "Trois-RiviÃ¨res" "Champlain" "Richelieu" 
+		}
+	}
+
+}

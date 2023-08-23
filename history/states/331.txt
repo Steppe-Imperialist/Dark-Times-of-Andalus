@@ -1,0 +1,25 @@
+
+state={
+	id=331
+	name="STATE_331"
+	resources={
+		steel=1.000
+	}
+	impassable = yes
+
+	history={
+		owner = S22
+		add_core_of = S22
+		add_claim_by = MLI
+		add_claim_by = W58
+	}
+
+	provinces={
+		1115 2068 10725 10868 
+	}
+	manpower=16166
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+
+	local_supplies=10.0
+}

@@ -1,0 +1,18 @@
+﻿converted_war_strategies_LUX = {
+	enable = {
+		tag = LUX
+		always = no
+	}
+	
+}
+
+converted_diplo_strategies_LUX = {
+	enable = {
+		tag = LUX
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+}

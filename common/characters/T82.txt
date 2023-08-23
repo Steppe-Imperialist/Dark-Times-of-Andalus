@@ -1,0 +1,16 @@
+characters={
+	T82_king_k.={
+		name=T82_king_k.
+		portraits={
+			civilian={
+				large="GFX_Austria_Otto_I"
+			}
+		}
+		country_leader={
+			ideology=absolute_monarchy
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

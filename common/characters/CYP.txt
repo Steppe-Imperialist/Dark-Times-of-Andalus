@@ -1,0 +1,16 @@
+characters={
+	CYP_petros_tsolakoglou={
+		name=CYP_petros_tsolakoglou
+		portraits={
+			civilian={
+				large="GFX_SRI_Giacomo_Matteotti"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

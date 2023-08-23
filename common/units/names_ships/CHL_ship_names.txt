@@ -1,0 +1,176 @@
+﻿CHL_BB_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_BB
+
+	for_countries = { CHL }
+
+	type = ship
+	ship_types = { ship_hull_heavy battleship }
+
+	prefix = ""
+	fallback_name = "Battleship BB-%d"
+
+	unique = {
+		"Almirante Montt" "Antofagasta" "Atacama" "Iquique" "Latorre" "O'Higgins" "República" "San Martín" "Santiago de Chile" "Valparaíso" 
+	}
+}
+
+CHL_BC_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_BC
+
+	for_countries = { CHL }
+
+	type = ship
+	ship_types = { ship_hull_heavy battle_cruiser }
+
+	prefix = ""
+	fallback_name = "Battlecruiser BC-%d"
+
+	unique = {
+		"Almirante Williams" "Austral" "Blanco" "Blanco Encalada" "Capitán Prat" "Cochrane" "Isla de Pascua" "Norte Chico" "Norte Grande" "Ojos del Salado" 
+	}
+}
+
+CHL_CA_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CA
+
+	for_countries = { CHL }
+
+	type = ship
+	ship_types = { ship_hull_cruiser heavy_cruiser }
+
+	prefix = ""
+	fallback_name = "Heavy Cruiser CA-%d"
+
+	unique = {
+		"Abtao" "Águila" "Araucano" "Chacabuco" "Fortunata" "Galvarino" "Lautaro" "O'Higgins" "Potrillo" "San Martín" 
+	}
+}
+
+CHL_CLAA_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CLAA
+
+	for_countries = { CHL }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser }
+
+	prefix = ""
+	fallback_name = "Light Cruiser CLAA-%d"
+
+	unique = {
+		"Almirante Condell" "Almirante Lynch" "Angamos" "Aquiles" "Casma" "Chacabuco" "Chipana" "Covadonga" "Magallanes" "Orompello" 
+	}
+}
+
+CHL_CL_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CL
+
+	for_countries = { CHL }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser }
+
+	prefix = ""
+	fallback_name = "Light Cruiser CL-%d"
+
+	unique = {
+		"Almirante Condell" "Almirante Lynch" "Angamos" "Aquiles" "Casma" "Chacabuco" "Chipana" "Covadonga" "Magallanes" "Orompello" 
+	}
+}
+
+CHL_CVL_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CVL
+
+	for_countries = { CHL }
+
+	type = ship
+	ship_types = { ship_hull_carrier carrier }
+
+	prefix = ""
+	fallback_name = "Carrier CVL-%d"
+
+	unique = {
+		"Anganemon" "Butapichón" "Colo-Colo" "Curiñancu" "Guaiquimilla" "Huáscar" "Lientur" "Pedro de Valdivia" "Pelantaru" "Vilumilla" 
+	}
+}
+
+CHL_CV_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CARRIERS
+
+	for_countries = { CHL }
+
+	type = ship
+	ship_types = { ship_hull_carrier carrier }
+
+	prefix = ""
+	fallback_name = "Carrier CV-%d"
+
+	unique = {
+		"Anganemon" "Butapichón" "Colo-Colo" "Curiñancu" "Guaiquimilla" "Huáscar" "Lientur" "Pedro de Valdivia" "Pelantaru" "Vilumilla" 
+	}
+}
+
+CHL_DD_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_DESTROYERS
+
+	for_countries = { CHL }
+
+	type = ship
+	ship_types = { ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Destroyer DD-%d"
+
+	unique = {
+		"Aguamarina" "Diamante" "Director Eyzaguirre" "Director Freire" "Esmeralda" "Llullaillaco" "Parinacota" "Presidente Errázuriz" "Presidente Pinto" "Tupungato" 
+	}
+}
+
+CHL_DE_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_DE
+
+	for_countries = { CHL }
+
+	type = ship
+	ship_types = { ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Destroyer Escort DE-%d"
+
+	unique = {
+		"Aguamarina" "Diamante" "Director Eyzaguirre" "Director Freire" "Esmeralda" "Llullaillaco" "Parinacota" "Presidente Errázuriz" "Presidente Pinto" "Tupungato" 
+	}
+}
+
+CHL_MINELAYERS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_MINELAYERS
+
+	for_countries = { CHL }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Minelayer CM-%d"
+
+	unique = {
+		"Almirante Condell" "Almirante Lynch" "Angamos" "Aquiles" "Casma" "Chacabuco" "Chipana" "Covadonga" "Magallanes" "Orompello" 
+	}
+}
+
+CHL_SS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_SUBMARINES
+
+	for_countries = { CHL }
+
+	type = ship
+	ship_types = { ship_hull_submarine submarine }
+
+	prefix = ""
+	fallback_name = "Submarine SS-%d"
+
+	unique = {
+		"Aisén" "Araucania" "Arica" "Biobío" "Coquimbo" "Los Lagos" "Los Ríos" "Maule" "Tarapacá" "Valdivia" 
+	}
+}
+

@@ -1,0 +1,58 @@
+﻿LAT = {
+	battle_cruiser = {
+		prefix = ""
+		generic = { "Battlecruiser" }
+		unique = {
+			"Latvija" "Riga" "Jokubas Ketleris" "Heinrihs Foks" "Oto Stils" "Kornelijs Lampsijs" "Kurzemes" "Zemgales" "Valmiera" "Mazsalaca" "Dundaga" "Bauska" "Jurmala" "Kuldiga" "Madona" "Rezekne" "Cesis" "Liepaja" "Priekule" "Daugavpils" "Aglona" "Auce" "Virsaitis" "Namejs" 
+		}
+	}
+
+	battleship = {
+		prefix = ""
+		generic = { "Battleship" }
+		unique = {
+			"Latvija" "Riga" "Jokubas Ketleris" "Heinrihs Foks" "Oto Stils" "Kornelijs Lampsijs" "Kurzemes" "Zemgales" "Valmiera" "Mazsalaca" "Dundaga" "Bauska" "Jurmala" "Kuldiga" "Madona" "Rezekne" "Cesis" "Liepaja" "Priekule" "Daugavpils" "Aglona" "Auce" "Virsaitis" "Namejs" 
+		}
+	}
+
+	carrier = {
+		prefix = ""
+		generic = { "Carrier" }
+		unique = {
+			"Latvija" "Riga" "Jokubas Ketleris" "Heinrihs Foks" "Oto Stils" "Kornelijs Lampsijs" "Kurzemes" "Zemgales" "Valmiera" "Mazsalaca" "Dundaga" "Bauska" "Jurmala" "Kuldiga" "Madona" "Rezekne" "Cesis" "Liepaja" "Priekule" "Daugavpils" "Aglona" "Auce" "Virsaitis" "Namejs" 
+		}
+	}
+
+	destroyer = {
+		prefix = ""
+		generic = { "Destroyer" }
+		unique = {
+			"Latvija" "Riga" "Jokubas Ketleris" "Heinrihs Foks" "Oto Stils" "Kornelijs Lampsijs" "Kurzemes" "Zemgales" "Valmiera" "Mazsalaca" "Dundaga" "Bauska" "Jurmala" "Kuldiga" "Madona" "Rezekne" "Cesis" "Liepaja" "Priekule" "Daugavpils" "Aglona" "Auce" "Virsaitis" "Namejs" 
+		}
+	}
+
+	heavy_cruiser = {
+		prefix = ""
+		generic = { "Heavy Cruiser" }
+		unique = {
+			"Latvija" "Riga" "Jokubas Ketleris" "Heinrihs Foks" "Oto Stils" "Kornelijs Lampsijs" "Kurzemes" "Zemgales" "Valmiera" "Mazsalaca" "Dundaga" "Bauska" "Jurmala" "Kuldiga" "Madona" "Rezekne" "Cesis" "Liepaja" "Priekule" "Daugavpils" "Aglona" "Auce" "Virsaitis" "Namejs" 
+		}
+	}
+
+	light_cruiser = {
+		prefix = ""
+		generic = { "Light Cruiser" }
+		unique = {
+			"Latvija" "Riga" "Jokubas Ketleris" "Heinrihs Foks" "Oto Stils" "Kornelijs Lampsijs" "Kurzemes" "Zemgales" "Valmiera" "Mazsalaca" "Dundaga" "Bauska" "Jurmala" "Kuldiga" "Madona" "Rezekne" "Cesis" "Liepaja" "Priekule" "Daugavpils" "Aglona" "Auce" "Virsaitis" "Namejs" 
+		}
+	}
+
+	submarine = {
+		prefix = ""
+		generic = { "Submarine" }
+		unique = {
+			"Latvija" "Riga" "Jokubas Ketleris" "Heinrihs Foks" "Oto Stils" "Kornelijs Lampsijs" "Kurzemes" "Zemgales" "Valmiera" "Mazsalaca" "Dundaga" "Bauska" "Jurmala" "Kuldiga" "Madona" "Rezekne" "Cesis" "Liepaja" "Priekule" "Daugavpils" "Aglona" "Auce" "Virsaitis" "Namejs" 
+		}
+	}
+
+}

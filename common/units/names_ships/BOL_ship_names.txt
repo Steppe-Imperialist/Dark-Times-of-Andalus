@@ -1,0 +1,176 @@
+﻿BOL_BB_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_BB
+
+	for_countries = { BOL }
+
+	type = ship
+	ship_types = { ship_hull_heavy battleship }
+
+	prefix = ""
+	fallback_name = "Battleship BB-%d"
+
+	unique = {
+		"Alto Perú" "Bolivia" "Charcas" "Cristo de la Concordia" "General Sucre" "Iscanahuaya" "Samapaita" "Seis de Agosto" "Simón Bolivar" "Tricolor" 
+	}
+}
+
+BOL_BC_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_BC
+
+	for_countries = { BOL }
+
+	type = ship
+	ship_types = { ship_hull_heavy battle_cruiser }
+
+	prefix = ""
+	fallback_name = "Battlecruiser BC-%d"
+
+	unique = {
+		"Altiplano" "Andes" "Independencia" "Júpiter" "Neptuno" "Occidental" "Oriental" "Plutón" "Real" "Republiquetas" 
+	}
+}
+
+BOL_CA_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CA
+
+	for_countries = { BOL }
+
+	type = ship
+	ship_types = { ship_hull_cruiser heavy_cruiser }
+
+	prefix = ""
+	fallback_name = "Heavy Cruiser CA-%d"
+
+	unique = {
+		"Confederación" "Congreso" "La Fállete" "Libertad" "María Luisa" "Morro" "San Bartolomé" "San Francisco" "Santo Tomás" "Yanacocha" 
+	}
+}
+
+BOL_CLAA_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CLAA
+
+	for_countries = { BOL }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser }
+
+	prefix = ""
+	fallback_name = "Light Cruiser CLAA-%d"
+
+	unique = {
+		"Audaz" "Castro Rojas" "Destructora" "Fortaleza" "Madre de Dios" "Manoa" "Manu" "Pando" "Sorata" "Temor" 
+	}
+}
+
+BOL_CL_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CL
+
+	for_countries = { BOL }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser }
+
+	prefix = ""
+	fallback_name = "Light Cruiser CL-%d"
+
+	unique = {
+		"Audaz" "Castro Rojas" "Destructora" "Fortaleza" "Madre de Dios" "Manoa" "Manu" "Pando" "Sorata" "Temor" 
+	}
+}
+
+BOL_CVL_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CVL
+
+	for_countries = { BOL }
+
+	type = ship
+	ship_types = { ship_hull_carrier carrier }
+
+	prefix = ""
+	fallback_name = "Carrier CVL-%d"
+
+	unique = {
+		"Constitución" "Gran Chaco" "Inca" "Libertador" "Mercurio" "Saturno" "Tihauano" "Urano" "Vulcano" "Yungas" 
+	}
+}
+
+BOL_CV_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CARRIERS
+
+	for_countries = { BOL }
+
+	type = ship
+	ship_types = { ship_hull_carrier carrier }
+
+	prefix = ""
+	fallback_name = "Carrier CV-%d"
+
+	unique = {
+		"Constitución" "Gran Chaco" "Inca" "Libertador" "Mercurio" "Saturno" "Tihauano" "Urano" "Vulcano" "Yungas" 
+	}
+}
+
+BOL_DD_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_DESTROYERS
+
+	for_countries = { BOL }
+
+	type = ship
+	ship_types = { ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Destroyer DD-%d"
+
+	unique = {
+		"Cobija" "Desaguadero" "Illampu" "Illimani" "Madera" "Mamore" "Nevado Sajada" "Poopó" "Titicaca" "Trinidad" 
+	}
+}
+
+BOL_DE_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_DE
+
+	for_countries = { BOL }
+
+	type = ship
+	ship_types = { ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Destroyer Escort DE-%d"
+
+	unique = {
+		"Cobija" "Desaguadero" "Illampu" "Illimani" "Madera" "Mamore" "Nevado Sajada" "Poopó" "Titicaca" "Trinidad" 
+	}
+}
+
+BOL_MINELAYERS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_MINELAYERS
+
+	for_countries = { BOL }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Minelayer CM-%d"
+
+	unique = {
+		"Audaz" "Castro Rojas" "Destructora" "Fortaleza" "Madre de Dios" "Manoa" "Manu" "Pando" "Sorata" "Temor" 
+	}
+}
+
+BOL_SS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_SUBMARINES
+
+	for_countries = { BOL }
+
+	type = ship
+	ship_types = { ship_hull_submarine submarine }
+
+	prefix = ""
+	fallback_name = "Submarine SS-%d"
+
+	unique = {
+		"Antofagasta" "Beni" "Chuquisaca" "Cochabamba" "La Paz" "Oruro" "Pando" "Potosí" "Santa Cruz" "Tarija" 
+	}
+}
+

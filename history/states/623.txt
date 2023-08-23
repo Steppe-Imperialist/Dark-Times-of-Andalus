@@ -1,0 +1,35 @@
+
+state={
+	id=623
+	name="STATE_623"
+
+	history={
+		owner = SWE
+		victory_points = {
+			11105 1 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			3061 = {
+				naval_base = 2
+			}
+			air_base = 0
+
+		}
+		add_core_of = FIN
+		add_core_of = SCA
+		add_core_of = SWE
+		add_claim_by = W85
+	}
+
+	provinces={
+		37 52 67 136 139 165 204 3013 3061 3131 3161 6009 6033 6082 6108 6144 6163 6186 9056 9073 9129 9160 9163 9167 9183 11043 11056 11066 11105 11138 11211 
+	}
+	manpower=241924
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

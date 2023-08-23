@@ -1,0 +1,16 @@
+characters={
+	V79_king_nguvenge={
+		name=V79_king_nguvenge
+		portraits={
+			civilian={
+				large="GFX_Mittelafrika_Achirimbi"
+			}
+		}
+		country_leader={
+			ideology=absolute_monarchy
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

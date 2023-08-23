@@ -1,0 +1,58 @@
+﻿T22 = {
+	battle_cruiser = {
+		prefix = ""
+		generic = { "Battlecruiser" }
+		unique = {
+			"Weimar" "Karl-August" "Anna-Amalia" "Karl-Alexander" "Goethe" "Schiller" "Eisenach" "Jena" "Dornburg" "Wartburg" 
+		}
+	}
+
+	battleship = {
+		prefix = ""
+		generic = { "Battleship" }
+		unique = {
+			"Weimar" "Karl-August" "Anna-Amalia" "Karl-Alexander" "Goethe" "Schiller" "Eisenach" "Jena" "Dornburg" "Wartburg" 
+		}
+	}
+
+	carrier = {
+		prefix = ""
+		generic = { "Carrier" }
+		unique = {
+			"Weimar" "Karl-August" "Anna-Amalia" "Karl-Alexander" "Goethe" "Schiller" "Eisenach" "Jena" "Dornburg" "Wartburg" 
+		}
+	}
+
+	destroyer = {
+		prefix = ""
+		generic = { "Destroyer" }
+		unique = {
+			"Weimar" "Karl-August" "Anna-Amalia" "Karl-Alexander" "Goethe" "Schiller" "Eisenach" "Jena" "Dornburg" "Wartburg" 
+		}
+	}
+
+	heavy_cruiser = {
+		prefix = ""
+		generic = { "Heavy Cruiser" }
+		unique = {
+			"Weimar" "Karl-August" "Anna-Amalia" "Karl-Alexander" "Goethe" "Schiller" "Eisenach" "Jena" "Dornburg" "Wartburg" 
+		}
+	}
+
+	light_cruiser = {
+		prefix = ""
+		generic = { "Light Cruiser" }
+		unique = {
+			"Weimar" "Karl-August" "Anna-Amalia" "Karl-Alexander" "Goethe" "Schiller" "Eisenach" "Jena" "Dornburg" "Wartburg" 
+		}
+	}
+
+	submarine = {
+		prefix = ""
+		generic = { "Submarine" }
+		unique = {
+			"Weimar" "Karl-August" "Anna-Amalia" "Karl-Alexander" "Goethe" "Schiller" "Eisenach" "Jena" "Dornburg" "Wartburg" 
+		}
+	}
+
+}

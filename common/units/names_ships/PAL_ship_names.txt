@@ -1,0 +1,176 @@
+﻿PAL_BB_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_BB
+
+	for_countries = { PAL }
+
+	type = ship
+	ship_types = { ship_hull_heavy battleship }
+
+	prefix = ""
+	fallback_name = "Battleship BB-%d"
+
+	unique = {
+		"Beirut" "Mount Olive" "Sidon" "Triploitana" "Bakaa" "Phoenicia" "Baghdad" "Al Mawsil" "Salah al-Din" "Huth" "Sa'dah" "Ma'rib" "Salalah" "Raysut" "Mirbah" "Sawqirah" "Karbala" "Baqubah" "Al Amarah" "Al Küt" "Sulaimanya" "Al Najaf" "Al Basrah" 
+	}
+}
+
+PAL_BC_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_BC
+
+	for_countries = { PAL }
+
+	type = ship
+	ship_types = { ship_hull_heavy battle_cruiser }
+
+	prefix = ""
+	fallback_name = "Battlecruiser BC-%d"
+
+	unique = {
+		"Beirut" "Mount Olive" "Sidon" "Triploitana" "Bakaa" "Baghdad" "Al Mawsil" "Salah al-Din" "Huth" "Sa'dah" "Ma'rib" "Salalah" "Raysut" "Mirbah" "Sawqirah" "Karbala" "Baqubah" "Al Amarah" "Al Küt" "Sulaimanya" "Al Najaf" "Al Basrah" 
+	}
+}
+
+PAL_CA_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CA
+
+	for_countries = { PAL }
+
+	type = ship
+	ship_types = { ship_hull_cruiser heavy_cruiser }
+
+	prefix = ""
+	fallback_name = "Heavy Cruiser CA-%d"
+
+	unique = {
+		"Beirut" "Mount Olive" "Sidon" "Triploitana" "Bakaa" "Baghdad" "Al Mawsil" "Salah al-Din" "Huth" "Sa'dah" "Ma'rib" "Salalah" "Raysut" "Mirbah" "Sawqirah" "Karbala" "Baqubah" "Al Amarah" "Al Küt" "Sulaimanya" "Al Najaf" "Al Basrah" 
+	}
+}
+
+PAL_CLAA_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CLAA
+
+	for_countries = { PAL }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser }
+
+	prefix = ""
+	fallback_name = "Light Cruiser CLAA-%d"
+
+	unique = {
+		"Beirut" "Mount Olive" "Sidon" "Triploitana" "Bakaa" "Baghdad" "Al Mawsil" "Salah al-Din" "Huth" "Sa'dah" "Ma'rib" "Salalah" "Raysut" "Mirbah" "Sawqirah" "Karbala" "Baqubah" "Al Amarah" "Al Küt" "Sulaimanya" "Al Najaf" "Al Basrah" 
+	}
+}
+
+PAL_CL_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CL
+
+	for_countries = { PAL }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser }
+
+	prefix = ""
+	fallback_name = "Light Cruiser CL-%d"
+
+	unique = {
+		"Beirut" "Mount Olive" "Sidon" "Triploitana" "Bakaa" "Baghdad" "Al Mawsil" "Salah al-Din" "Huth" "Sa'dah" "Ma'rib" "Salalah" "Raysut" "Mirbah" "Sawqirah" "Karbala" "Baqubah" "Al Amarah" "Al Küt" "Sulaimanya" "Al Najaf" "Al Basrah" 
+	}
+}
+
+PAL_CVL_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CVL
+
+	for_countries = { PAL }
+
+	type = ship
+	ship_types = { ship_hull_carrier carrier }
+
+	prefix = ""
+	fallback_name = "Carrier CVL-%d"
+
+	unique = {
+		"Beirut" "Mount Olive" "Sidon" "Triploitana" "Bakaa" "Baghdad" "Al Mawsil" "Salah al-Din" "Huth" "Sa'dah" "Ma'rib" "Salalah" "Raysut" "Mirbah" "Sawqirah" "Karbala" "Baqubah" "Al Amarah" "Al Küt" "Sulaimanya" "Al Najaf" "Al Basrah" 
+	}
+}
+
+PAL_CV_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CARRIERS
+
+	for_countries = { PAL }
+
+	type = ship
+	ship_types = { ship_hull_carrier carrier }
+
+	prefix = ""
+	fallback_name = "Carrier CV-%d"
+
+	unique = {
+		"Beirut" "Mount Olive" "Sidon" "Triploitana" "Bakaa" "Baghdad" "Al Mawsil" "Salah al-Din" "Huth" "Sa'dah" "Ma'rib" "Salalah" "Raysut" "Mirbah" "Sawqirah" "Karbala" "Baqubah" "Al Amarah" "Al Küt" "Sulaimanya" "Al Najaf" "Al Basrah" 
+	}
+}
+
+PAL_DD_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_DESTROYERS
+
+	for_countries = { PAL }
+
+	type = ship
+	ship_types = { ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Destroyer DD-%d"
+
+	unique = {
+		"Beirut" "Mount Olive" "Sidon" "Triploitana" "Bakaa" "Baghdad" "Al Mawsil" "Salah al-Din" "Huth" "Sa'dah" "Ma'rib" "Salalah" "Raysut" "Mirbah" "Sawqirah" "Karbala" "Baqubah" "Al Amarah" "Al Küt" "Sulaimanya" "Al Najaf" "Al Basrah" 
+	}
+}
+
+PAL_DE_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_DE
+
+	for_countries = { PAL }
+
+	type = ship
+	ship_types = { ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Destroyer Escort DE-%d"
+
+	unique = {
+		"Beirut" "Mount Olive" "Sidon" "Triploitana" "Bakaa" "Baghdad" "Al Mawsil" "Salah al-Din" "Huth" "Sa'dah" "Ma'rib" "Salalah" "Raysut" "Mirbah" "Sawqirah" "Karbala" "Baqubah" "Al Amarah" "Al Küt" "Sulaimanya" "Al Najaf" "Al Basrah" 
+	}
+}
+
+PAL_MINELAYERS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_MINELAYERS
+
+	for_countries = { PAL }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Minelayer CM-%d"
+
+	unique = {
+		"Beirut" "Mount Olive" "Sidon" "Triploitana" "Bakaa" "Baghdad" "Al Mawsil" "Salah al-Din" "Huth" "Sa'dah" "Ma'rib" "Salalah" "Raysut" "Mirbah" "Sawqirah" "Karbala" "Baqubah" "Al Amarah" "Al Küt" "Sulaimanya" "Al Najaf" "Al Basrah" 
+	}
+}
+
+PAL_SS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_SUBMARINES
+
+	for_countries = { PAL }
+
+	type = ship
+	ship_types = { ship_hull_submarine submarine }
+
+	prefix = ""
+	fallback_name = "Submarine SS-%d"
+
+	unique = {
+		"Beirut" "Mount Olive" "Sidon" "Triploitana" "Bakaa" "Baghdad" "Al Mawsil" "Salah al-Din" "Huth" "Sa'dah" "Ma'rib" "Salalah" "Raysut" "Mirbah" "Sawqirah" "Karbala" "Baqubah" "Al Amarah" "Al Küt" "Sulaimanya" "Al Najaf" "Al Basrah" 
+	}
+}
+

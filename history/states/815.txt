@@ -1,0 +1,34 @@
+
+state={
+	id=815
+	name="STATE_815"
+
+	history={
+		owner = T66
+		victory_points = {
+			7454 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			3653 = {
+				naval_base = 1
+			}
+			air_base = 0
+
+		}
+		add_core_of = GEO
+		add_core_of = T66
+		add_core_of = TUR
+	}
+
+	provinces={
+		3653 7454 10403 
+	}
+	manpower=647004
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+
+	local_supplies=10.0
+}

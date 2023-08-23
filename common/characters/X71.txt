@@ -1,0 +1,16 @@
+characters={
+	X71_fabio_pena={
+		name=X71_fabio_pena
+		portraits={
+			civilian={
+				large="GFX_Mexico_Emilio_Gil"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

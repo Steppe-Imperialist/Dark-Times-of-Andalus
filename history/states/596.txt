@@ -1,0 +1,37 @@
+
+state={
+	id=596
+	name="STATE_596"
+	resources={
+		aluminium=1.000
+		steel=2.000
+		tungsten=2.000
+	}
+
+	history={
+		owner = SAX
+		victory_points = {
+			673 10 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 5
+
+		}
+		add_core_of = GER
+		add_core_of = U83
+		add_core_of = W23
+		add_claim_by = SWI
+	}
+
+	provinces={
+		671 673 688 3675 6678 6680 9633 9636 11618 11634 
+	}
+	manpower=813060
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

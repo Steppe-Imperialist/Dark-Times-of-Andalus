@@ -1,0 +1,16 @@
+characters={
+	OCC_pelfort_rabastens={
+		name=OCC_pelfort_rabastens
+		portraits={
+			civilian={
+				large="gfx/leaders/ENG/Portrait_Britain_Winston_Churchill.dds"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

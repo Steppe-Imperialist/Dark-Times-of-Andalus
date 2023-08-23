@@ -1,0 +1,32 @@
+
+state={
+	id=855
+	name="STATE_855"
+
+	history={
+		owner = S01
+		victory_points = {
+			12732 2 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			arms_factory = 1
+			air_base = 0
+
+		}
+		add_core_of = CHI
+		add_core_of = S01
+		add_core_of = X98
+		add_claim_by = MON
+	}
+
+	provinces={
+		517 531 556 1630 1647 1933 1985 2022 3742 3745 4313 4888 4939 5025 5057 5193 6638 7397 7911 8081 10724 12327 12732 12776 12797 12882 
+	}
+	manpower=12067144
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

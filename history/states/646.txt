@@ -1,0 +1,31 @@
+
+state={
+	id=646
+	name="STATE_646"
+
+	history={
+		owner = U85
+		victory_points = {
+			11701 1 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = PER
+		add_core_of = T62
+		add_core_of = U85
+	}
+
+	provinces={
+		475 1517 3593 4523 4563 4620 7641 10262 11701 12383 
+	}
+	manpower=67600
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

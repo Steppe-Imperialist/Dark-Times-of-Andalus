@@ -1,0 +1,31 @@
+
+state={
+	id=469
+	name="STATE_469"
+
+	history={
+		owner = SUD
+		victory_points = {
+			12806 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = SUD
+		add_core_of = U68
+		add_claim_by = T26
+	}
+
+	provinces={
+		1914 4918 7925 10743 12806 12887 
+	}
+	manpower=1388640
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

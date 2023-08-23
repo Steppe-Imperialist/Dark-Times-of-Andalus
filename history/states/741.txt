@@ -1,0 +1,41 @@
+
+state={
+	id=741
+	name="STATE_741"
+	resources={
+		oil=2.000
+	}
+
+	history={
+		owner = T29
+		victory_points = {
+			12997 10 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 6
+			arms_factory = 0
+			12997 = {
+				naval_base = 8
+			}
+			air_base = 10
+
+		}
+		add_core_of = PRU
+		add_core_of = T29
+		add_core_of = W00
+		add_core_of = W62
+		add_core_of = W77
+		add_core_of = X75
+		add_claim_by = W04
+	}
+
+	provinces={
+		2162 2212 2226 5190 12983 12997 
+	}
+	manpower=5434772
+	buildings_max_level_factor=1.000
+	state_category=metropolis
+
+	local_supplies=10.0
+}

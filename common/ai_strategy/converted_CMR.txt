@@ -1,0 +1,18 @@
+﻿converted_war_strategies_CMR = {
+	enable = {
+		tag = CMR
+		always = no
+	}
+	
+}
+
+converted_diplo_strategies_CMR = {
+	enable = {
+		tag = CMR
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+}

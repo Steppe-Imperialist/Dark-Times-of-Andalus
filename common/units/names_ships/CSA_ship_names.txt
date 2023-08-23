@@ -1,0 +1,176 @@
+﻿CSA_BB_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_BB
+
+	for_countries = { CSA }
+
+	type = ship
+	ship_types = { ship_hull_heavy battleship }
+
+	prefix = ""
+	fallback_name = "Battleship BB-%d"
+
+	unique = {
+		"CSS Virginia" "CSS South Carolina" "CSS Texas" "CSS Tennessee" "CSS Georgia" "CSS Louisiana" "CSS North Carolina" "CSS Alabama" "CSS Florida" "CSS Mississippi" "CSS Arkansas" "CSS Kentucky" "CSS Missouri" "CSS Semmes" "CSS Hood" "CSS Picket" "CSS Beauregard" "CSS Johnson" "CSS Johnston" "CSS Davis" "CSS Lee" "CSS Stonewall" "CSS Stuart" 
+	}
+}
+
+CSA_BC_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_BC
+
+	for_countries = { CSA }
+
+	type = ship
+	ship_types = { ship_hull_heavy battle_cruiser }
+
+	prefix = ""
+	fallback_name = "Battlecruiser BC-%d"
+
+	unique = {
+		"CSS Stonewall" "CSS North Carolina I" "CSS Mississippi II" "Cheops" "CSS Savannah" "CSS North Carolina" "CSS Virginia II" "CSS Georgia II" "CSS Calhoun" "CSS Carondelet" "CSS Black Warrior" "CSS Fulton" "CSS Equator" "CSS General Quitman" "CSS Dixie Star" "CSS Jefferson" 
+	}
+}
+
+CSA_CA_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CA
+
+	for_countries = { CSA }
+
+	type = ship
+	ship_types = { ship_hull_cruiser heavy_cruiser }
+
+	prefix = ""
+	fallback_name = "Heavy Cruiser CA-%d"
+
+	unique = {
+		"CSS Confederate States" "CSS Independance" "CSS President Davis" "CSS Freedom" "CSS Dixie" "CSS Liberty" "CSS Republic" "CSS Southern Cross" "CSS Osceola" "CSS Southern Star" "CSS Tecumseh" 
+	}
+}
+
+CSA_CLAA_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CLAA
+
+	for_countries = { CSA }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser }
+
+	prefix = ""
+	fallback_name = "Light Cruiser CLAA-%d"
+
+	unique = {
+		"CSS Alabama" "CSS Tallahassee" "CSS Georgia" "CSS Shenandoah" "CSS Nashville" "CSS Rappahanock" "CSS Sumter" "CSS Florida" "CSS Alexandra" "CSS Florida" "CSS Tacony" "CSS Chickamauga" 
+	}
+}
+
+CSA_CL_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CL
+
+	for_countries = { CSA }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser }
+
+	prefix = ""
+	fallback_name = "Light Cruiser CL-%d"
+
+	unique = {
+		"CSS Alabama" "CSS Tallahassee" "CSS Georgia" "CSS Shenandoah" "CSS Nashville" "CSS Rappahanock" "CSS Sumter" "CSS Florida" "CSS Alexandra" "CSS Florida" "CSS Tacony" "CSS Chickamauga" 
+	}
+}
+
+CSA_CVL_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CVL
+
+	for_countries = { CSA }
+
+	type = ship
+	ship_types = { ship_hull_carrier carrier }
+
+	prefix = ""
+	fallback_name = "Carrier CVL-%d"
+
+	unique = {
+		"CSS Fredericksburg" "CSS Manassas" "CSS Mississippi" "CSS Neuse" "CSS Baltic" "CSS Richmond" "CSS Texas" "CSS Wilmington" "CSS Tennessee" "CSS Charleston" "CSS Virginia" "CSS Arkansas" "CSS Chicora" "CSS Columbia" "CSS Chattahoochee" "CSS Clifton" "CSS Colonel Lovell" "CSS David" "CSS De Soto" "CSS Gaines" "CSS George Page" "CSS Little Rebel" "CSS Bayou City" 
+	}
+}
+
+CSA_CV_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CARRIERS
+
+	for_countries = { CSA }
+
+	type = ship
+	ship_types = { ship_hull_carrier carrier }
+
+	prefix = ""
+	fallback_name = "Carrier CV-%d"
+
+	unique = {
+		"CSS Fredericksburg" "CSS Manassas" "CSS Mississippi" "CSS Neuse" "CSS Baltic" "CSS Richmond" "CSS Texas" "CSS Wilmington" "CSS Tennessee" "CSS Charleston" "CSS Virginia" "CSS Arkansas" "CSS Chicora" "CSS Columbia" "CSS Chattahoochee" "CSS Clifton" "CSS Colonel Lovell" "CSS David" "CSS De Soto" "CSS Gaines" "CSS George Page" "CSS Little Rebel" "CSS Bayou City" 
+	}
+}
+
+CSA_DD_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_DESTROYERS
+
+	for_countries = { CSA }
+
+	type = ship
+	ship_types = { ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Destroyer DD-%d"
+
+	unique = {
+		"CSS Houston" "CSS Fayetteville" "CSS New Orleans" "CSS Biloxi" "CSS Mobile" "CSS Pensacola" "CSS Savannah" "CSS Memphis" "CSS Charleston" "CSS New Bern" "CSS Norfolk" "CSS Paducah" "CSS St. Louis" "CSS Tulsa" "CSS Wilmington" "CSS Memphis" "CSS Hope" "CSS Arkadelphia" "CSS Jackson" "CSS Macon" "CSS San Antonio" "CSS Knoxville" "CSS Richmond" "CSS Marietta" "CSS Montgomery" 
+	}
+}
+
+CSA_DE_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_DE
+
+	for_countries = { CSA }
+
+	type = ship
+	ship_types = { ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Destroyer Escort DE-%d"
+
+	unique = {
+		"CSS Houston" "CSS Fayetteville" "CSS New Orleans" "CSS Biloxi" "CSS Mobile" "CSS Pensacola" "CSS Savannah" "CSS Memphis" "CSS Charleston" "CSS New Bern" "CSS Norfolk" "CSS Paducah" "CSS St. Louis" "CSS Tulsa" "CSS Wilmington" "CSS Memphis" "CSS Hope" "CSS Arkadelphia" "CSS Jackson" "CSS Macon" "CSS San Antonio" "CSS Knoxville" "CSS Richmond" "CSS Marietta" "CSS Montgomery" 
+	}
+}
+
+CSA_MINELAYERS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_MINELAYERS
+
+	for_countries = { CSA }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Minelayer CM-%d"
+
+	unique = {
+		"CSS Alabama" "CSS Tallahassee" "CSS Georgia" "CSS Shenandoah" "CSS Nashville" "CSS Rappahanock" "CSS Sumter" "CSS Florida" "CSS Alexandra" "CSS Florida" "CSS Tacony" "CSS Chickamauga" 
+	}
+}
+
+CSA_SS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_SUBMARINES
+
+	for_countries = { CSA }
+
+	type = ship
+	ship_types = { ship_hull_submarine submarine }
+
+	prefix = ""
+	fallback_name = "Submarine SS-%d"
+
+	unique = {
+		"CSS Raphael Semmes" "CSS Catesby Jones" "CSS G. E. Dixon" "CSS John Taylor Wood" "CSS H. L. Hunley" "CSS James D. Bulloch" "CSS Stephen Mallory" "CSS John Maffitt" "CSS S. D. Porter" "CSS Josiah Tatnall" "CSS Commodore Buchanan" 
+	}
+}
+

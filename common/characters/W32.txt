@@ -1,0 +1,16 @@
+characters={
+	W32_lodewijk_engelvaart={
+		name=W32_lodewijk_engelvaart
+		portraits={
+			civilian={
+				large="gfx/leaders/ENG/Portrait_Britain_Stanley_Baldwin.dds"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

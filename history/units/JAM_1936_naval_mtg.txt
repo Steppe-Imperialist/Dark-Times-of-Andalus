@@ -1,0 +1,24 @@
+units = {
+	fleet = {
+		name = "1st Fleet"
+		naval_base = 12477
+		task_force = {
+			name = "1st Fleet"
+			location = 12477
+			ship = { name = "1st Cayman Islands Battleship" definition = heavy_cruiser start_experience_factor = 0.15 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = JAM version_name = "Early Heavy Cruiser" } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_light_1
+			creator = "JAM"
+			version_name = "Early Destroyer"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+}

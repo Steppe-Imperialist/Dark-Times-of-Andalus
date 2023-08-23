@@ -1,0 +1,29 @@
+
+state={
+	id=789
+	name="STATE_789"
+
+	history={
+		owner = T44
+		victory_points = {
+			2195 1 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = T44
+	}
+
+	provinces={
+		2195 2209 
+	}
+	manpower=12420
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

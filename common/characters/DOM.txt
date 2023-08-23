@@ -1,0 +1,36 @@
+characters={
+	DOM_cesareo_batista={
+		name=DOM_cesareo_batista
+		portraits={
+			army={
+				large="GFX_ECU_Luis_Larrea_Alba"
+			}
+			army={
+				small="GFX_ECU_Luis_Larrea_Alba"
+			}
+		}
+		corps_commander={
+			skill=2
+			attack_skill=1
+			defense_skill=1
+			planning_skill=3
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	DOM_guillermo_alfau={
+		name=DOM_guillermo_alfau
+		portraits={
+			civilian={
+				large="gfx/leaders/NIC/portrait_nic_anastasio_somoza_garcia.dds"
+			}
+		}
+		country_leader={
+			ideology=dictatorship_neutral
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

@@ -1,0 +1,33 @@
+
+state={
+	id=567
+	name="STATE_567"
+
+	history={
+		owner = S26
+		victory_points = {
+			4879 10 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+			12921 = {
+				naval_base = 2
+			}
+			air_base = 5
+
+		}
+		add_core_of = NMB
+		add_core_of = S26
+	}
+
+	provinces={
+		4879 7770 8136 10957 10978 12519 12921 13217 
+	}
+	manpower=243700
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

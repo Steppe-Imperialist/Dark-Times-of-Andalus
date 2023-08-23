@@ -1,0 +1,16 @@
+characters={
+	NIC_benjamin_escalon={
+		name=NIC_benjamin_escalon
+		portraits={
+			civilian={
+				large="GFX_Cuba_Carlos_Mendieta_Montefur"
+			}
+		}
+		country_leader={
+			ideology=dictatorship_neutral
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

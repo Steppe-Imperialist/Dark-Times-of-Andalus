@@ -1,0 +1,36 @@
+characters={
+	SUR_felix_bustamante={
+		name=SUR_felix_bustamante
+		portraits={
+			army={
+				large="GFX_Cuba_Martin_Diaz"
+			}
+			army={
+				small="GFX_Cuba_Martin_Diaz"
+			}
+		}
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	SUR_alvaro_cervantes={
+		name=SUR_alvaro_cervantes
+		portraits={
+			civilian={
+				large="GFX_SPR_Jaime_I"
+			}
+		}
+		country_leader={
+			ideology=absolute_monarchy
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

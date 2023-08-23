@@ -1,0 +1,41 @@
+units = {
+	fleet = {
+		name = "1st Fleet"
+		naval_base = 4137
+		task_force = {
+			name = "1st Fleet"
+			location = 4137
+			ship = { name = "Chagaan" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = S01 } } }
+			ship = { name = "BÃ¶ke" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = S01 } } }
+			ship = { name = "JÃ¶chi" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = S01 } } }
+			ship = { name = "Ghengis Khan" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = S01 } } }
+			ship = { name = "Qubilai" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = S01 } } }
+			ship = { name = "Yingchang" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = S01 } } }
+			ship = { name = "Hohhot" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = S01 } } }
+			ship = { name = "HÃ¼legÃ¼" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = S01 } } }
+			ship = { name = "Ã–gÃ¶dei" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = S01 } } }
+			ship = { name = "MÃ¶ngke" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = S01 } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = destroyer_1
+			creator = "S01"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+	add_equipment_production = {
+		equipment = {
+			type = battleship_1
+			creator = "S01"
+		}
+		requested_factories = 8
+		progress = 0.25
+		amount = 3
+	}
+}

@@ -1,0 +1,16 @@
+characters={
+	S19_arthur_madden={
+		name=S19_arthur_madden
+		portraits={
+			civilian={
+				large="GFX_USA_glasses_douglas_macarthur"
+			}
+		}
+		country_leader={
+			ideology=fascism_ideology
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

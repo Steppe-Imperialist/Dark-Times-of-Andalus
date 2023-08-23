@@ -1,0 +1,38 @@
+
+state={
+	id=826
+	name="STATE_826"
+	resources={
+		oil=1.000
+	}
+
+	history={
+		owner = T66
+		victory_points = {
+			8085 10 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+			2089 = {
+				naval_base = 2
+			}
+			air_base = 5
+
+		}
+		add_core_of = IRQ
+		add_core_of = KUW
+		add_core_of = W89
+		add_claim_by = PER
+	}
+
+	provinces={
+		78 2004 2089 7977 7994 8001 8085 10744 10876 12726 12839 12879 
+	}
+	manpower=875896
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

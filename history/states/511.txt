@@ -1,0 +1,33 @@
+
+state={
+	id=511
+	name="STATE_511"
+
+	history={
+		owner = U26
+		victory_points = {
+			10905 10 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 5
+
+		}
+		add_core_of = RAJ
+		add_core_of = W94
+		add_claim_by = TIB
+		add_claim_by = U26
+		add_claim_by = V46
+	}
+
+	provinces={
+		1910 2041 2084 7316 8005 10905 12754 12884 
+	}
+	manpower=1457732
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

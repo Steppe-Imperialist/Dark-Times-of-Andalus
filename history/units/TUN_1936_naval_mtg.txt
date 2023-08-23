@@ -1,0 +1,25 @@
+units = {
+	fleet = {
+		name = "1st Fleet"
+		naval_base = 11969
+		task_force = {
+			name = "1st Fleet"
+			location = 11969
+			ship = { name = "Bahir" definition = destroyer start_experience_factor = 0.1 equipment = { ship_hull_light_1 = { amount = 1 owner = TUN version_name = "Early Destroyer" } } }
+			ship = { name = "Dhakwan" definition = destroyer start_experience_factor = 0.15 equipment = { ship_hull_light_1 = { amount = 1 owner = TUN version_name = "Early Destroyer" } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_light_1
+			creator = "TUN"
+			version_name = "Early Destroyer"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+}

@@ -1,0 +1,16 @@
+characters={
+	ARG_carlos_de_rosas={
+		name=ARG_carlos_de_rosas
+		portraits={
+			civilian={
+				large="gfx/leaders/South America/Portrait_South_America_Generic_6.dds"
+			}
+		}
+		country_leader={
+			ideology=dictatorship_neutral
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

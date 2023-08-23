@@ -1,0 +1,16 @@
+characters={
+	S30_ganado_alvarez={
+		name=S30_ganado_alvarez
+		portraits={
+			civilian={
+				large="gfx/leaders/leader_unknown.dds"
+			}
+		}
+		country_leader={
+			ideology=dictatorship_neutral
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

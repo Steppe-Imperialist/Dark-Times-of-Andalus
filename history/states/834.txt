@@ -1,0 +1,37 @@
+
+state={
+	id=834
+	name="STATE_834"
+	resources={
+		aluminium=5.000
+		chromium=5.000
+	}
+
+	history={
+		owner = T90
+		victory_points = {
+			7859 10 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 3
+			arms_factory = 0
+			7520 = {
+				naval_base = 2
+			}
+			air_base = 10
+
+		}
+		add_core_of = T90
+		add_core_of = X31
+	}
+
+	provinces={
+		1537 1611 1667 1861 2114 2146 2163 4453 4478 4500 4658 4673 4836 4864 5134 5161 7450 7471 7496 7520 7533 7649 7664 7859 8234 8249 10388 10427 10455 10458 10500 10682 10977 10991 11019 12377 12406 12435 12532 12560 12934 12968 
+	}
+	manpower=511784
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

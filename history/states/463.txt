@@ -1,0 +1,37 @@
+
+state={
+	id=463
+	name="STATE_463"
+	resources={
+		aluminium=3.000
+		steel=5.000
+	}
+
+	history={
+		owner = V87
+		victory_points = {
+			4872 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+			5239 = {
+				naval_base = 1
+			}
+			air_base = 0
+
+		}
+		add_core_of = V87
+		add_claim_by = CAN
+	}
+
+	provinces={
+		1848 1873 3721 4218 4426 4790 4872 5119 5239 6728 7782 9615 10585 12145 12636 12688 
+	}
+	manpower=1225364
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

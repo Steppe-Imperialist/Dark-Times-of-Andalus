@@ -1,0 +1,16 @@
+characters={
+	V93_eduardo_ji_jzio={
+		name=V93_eduardo_ji_jzio
+		portraits={
+			civilian={
+				large="GFX_r56_generic_politician_south_america_1"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

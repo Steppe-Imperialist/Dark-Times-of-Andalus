@@ -1,0 +1,58 @@
+﻿W11 = {
+	battle_cruiser = {
+		prefix = ""
+		generic = { "Battlecruiser" }
+		unique = {
+			"Brigham Young" "Joseph Smith" "Deseret" "Zion" "St. John the Baptist" "Saint Peter" "Saint James" "Saint John" "Moroni" "New Jerusalem" "Nimrod" "Zedekiah" "Gideon" "The Holy Spirit" "The Apostle" 
+		}
+	}
+
+	battleship = {
+		prefix = ""
+		generic = { "Battleship" }
+		unique = {
+			"Brigham Young" "Joseph Smith" "Deseret" "Zion" "St. John the Baptist" "Saint Peter" "Saint James" "Saint John" "Moroni" "New Jerusalem" "Nimrod" "Zedekiah" "Gideon" "The Holy Spirit" "The Apostle" 
+		}
+	}
+
+	carrier = {
+		prefix = ""
+		generic = { "Carrier" }
+		unique = {
+			"Brigham Young" "Joseph Smith" "Deseret" "Zion" "St. John the Baptist" "Saint Peter" "Saint James" "Saint John" "Moroni" "New Jerusalem" "Nimrod" "Zedekiah" "Gideon" "The Holy Spirit" "The Apostle" 
+		}
+	}
+
+	destroyer = {
+		prefix = ""
+		generic = { "Destroyer" }
+		unique = {
+			"Brigham Young" "Joseph Smith" "Deseret" "Zion" "St. John the Baptist" "Saint Peter" "Saint James" "Saint John" "Moroni" "New Jerusalem" "Nimrod" "Zedekiah" "Gideon" "The Holy Spirit" "The Apostle" 
+		}
+	}
+
+	heavy_cruiser = {
+		prefix = ""
+		generic = { "Heavy Cruiser" }
+		unique = {
+			"Brigham Young" "Joseph Smith" "Deseret" "Zion" "St. John the Baptist" "Saint Peter" "Saint James" "Saint John" "Moroni" "New Jerusalem" "Nimrod" "Zedekiah" "Gideon" "The Holy Spirit" "The Apostle" 
+		}
+	}
+
+	light_cruiser = {
+		prefix = ""
+		generic = { "Light Cruiser" }
+		unique = {
+			"Brigham Young" "Joseph Smith" "Deseret" "Zion" "St. John the Baptist" "Saint Peter" "Saint James" "Saint John" "Moroni" "New Jerusalem" "Nimrod" "Zedekiah" "Gideon" "The Holy Spirit" "The Apostle" 
+		}
+	}
+
+	submarine = {
+		prefix = ""
+		generic = { "Submarine" }
+		unique = {
+			"Brigham Young" "Joseph Smith" "Deseret" "Zion" "St. John the Baptist" "Saint Peter" "Saint James" "Saint John" "Moroni" "New Jerusalem" "Nimrod" "Zedekiah" "Gideon" "The Holy Spirit" "The Apostle" 
+		}
+	}
+
+}

@@ -1,0 +1,33 @@
+
+state={
+	id=812
+	name="STATE_812"
+
+	history={
+		owner = T66
+		victory_points = {
+			11747 1 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 1
+			air_base = 0
+
+		}
+		add_core_of = T66
+		add_core_of = TUR
+		add_core_of = X24
+		add_claim_by = SER
+		add_claim_by = YUG
+	}
+
+	provinces={
+		804 919 921 961 3807 3862 3870 3964 6888 6908 6925 6977 6978 9806 9830 9871 9900 9901 11747 11784 11826 11839 11844 11897 
+	}
+	manpower=903612
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

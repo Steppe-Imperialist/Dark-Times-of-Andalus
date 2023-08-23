@@ -1,0 +1,16 @@
+characters={
+	S32_kenojuak_ashoona={
+		name=S32_kenojuak_ashoona
+		portraits={
+			civilian={
+				large="GFX_Ainu_Ukaji_Takashi"
+			}
+		}
+		country_leader={
+			ideology=dictatorship_neutral
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

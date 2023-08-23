@@ -1,0 +1,18 @@
+﻿converted_war_strategies_TAN = {
+	enable = {
+		tag = TAN
+		always = no
+	}
+	
+}
+
+converted_diplo_strategies_TAN = {
+	enable = {
+		tag = TAN
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+}

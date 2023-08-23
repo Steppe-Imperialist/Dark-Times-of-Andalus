@@ -1,0 +1,58 @@
+﻿BUL = {
+	battle_cruiser = {
+		prefix = ""
+		generic = { "Battlecruiser" }
+		unique = {
+			"Krum" "Ivan Aleksandar" "Levski" "Botev" "Aleksandrov" 
+		}
+	}
+
+	battleship = {
+		prefix = ""
+		generic = { "Battleship" }
+		unique = {
+			"Sofia" "Varna" "Burgas" "Plovdiv" "Stara Zagora" 
+		}
+	}
+
+	carrier = {
+		prefix = ""
+		generic = { "Carrier" }
+		unique = {
+			"Konstantinov" "Dalchev" "Debelyanov" "Voykikov" "Vazov" 
+		}
+	}
+
+	destroyer = {
+		prefix = ""
+		generic = { "Destroyer" }
+		unique = {
+			"Maritsa" "Iskar" "Vit" "Osam" "Yantra" 
+		}
+	}
+
+	heavy_cruiser = {
+		prefix = ""
+		generic = { "Heavy Cruiser" }
+		unique = {
+			"Lyuben Karavelov" "Stoykov Rakovski" "Panayot Hitov" "Karavelo" "Stefan Karadzha" 
+		}
+	}
+
+	light_cruiser = {
+		prefix = ""
+		generic = { "Light Cruiser" }
+		unique = {
+			"Kaliakra" "Vratsa" "Veliko Turnovo" "Sliven" "Kopriva" 
+		}
+	}
+
+	submarine = {
+		prefix = ""
+		generic = { "Submarine" }
+		unique = {
+			"Musala" "Ruy" "Belasica" "Vrah Botev" "Bilo" 
+		}
+	}
+
+}

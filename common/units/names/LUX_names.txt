@@ -1,0 +1,58 @@
+﻿LUX = {
+	battle_cruiser = {
+		prefix = ""
+		generic = { "Battlecruiser" }
+		unique = {
+			"Lëtzebuerg" "Groussherzog Wëllem" "Siegfried" "Heng de Blannen" "Dikrech" "Gréiwemaacher" "Dideleng" "Ëlwen" "Mäertert" "Sankt Maximin" 
+		}
+	}
+
+	battleship = {
+		prefix = ""
+		generic = { "Battleship" }
+		unique = {
+			"Lëtzebuerg" "Groussherzog Wëllem" "Siegfried" "Heng de Blannen" "Dikrech" "Gréiwemaacher" "Dideleng" "Ëlwen" "Mäertert" "Sankt Maximin" 
+		}
+	}
+
+	carrier = {
+		prefix = ""
+		generic = { "Carrier" }
+		unique = {
+			"Lëtzebuerg" "Groussherzog Wëllem" "Siegfried" "Heng de Blannen" "Dikrech" "Gréiwemaacher" "Dideleng" "Ëlwen" "Mäertert" "Sankt Maximin" 
+		}
+	}
+
+	destroyer = {
+		prefix = ""
+		generic = { "Destroyer" }
+		unique = {
+			"Lëtzebuerg" "Groussherzog Wëllem" "Siegfried" "Heng de Blannen" "Dikrech" "Gréiwemaacher" "Dideleng" "Ëlwen" "Mäertert" "Sankt Maximin" 
+		}
+	}
+
+	heavy_cruiser = {
+		prefix = ""
+		generic = { "Heavy Cruiser" }
+		unique = {
+			"Lëtzebuerg" "Groussherzog Wëllem" "Siegfried" "Heng de Blannen" "Dikrech" "Gréiwemaacher" "Dideleng" "Ëlwen" "Mäertert" "Sankt Maximin" 
+		}
+	}
+
+	light_cruiser = {
+		prefix = ""
+		generic = { "Light Cruiser" }
+		unique = {
+			"Lëtzebuerg" "Groussherzog Wëllem" "Siegfried" "Heng de Blannen" "Dikrech" "Gréiwemaacher" "Dideleng" "Ëlwen" "Mäertert" "Sankt Maximin" 
+		}
+	}
+
+	submarine = {
+		prefix = ""
+		generic = { "Submarine" }
+		unique = {
+			"Lëtzebuerg" "Groussherzog Wëllem" "Siegfried" "Heng de Blannen" "Dikrech" "Gréiwemaacher" "Dideleng" "Ëlwen" "Mäertert" "Sankt Maximin" 
+		}
+	}
+
+}

@@ -1,0 +1,18 @@
+	characters={
+        LOT_adrien_linville={
+		name=LOT_adrien_linville
+		portraits={
+			civilian={
+				large="gfx/leaders/LOT/Portrait_LOT_adrien_linville.dds"
+			}
+		}
+		country_leader={
+			desc=LOT_adrien_linville_DESC
+			ideology=socialism_neutral
+			expire="1965.1.1.1"
+			id=-1
+			traits = { internal_politics_balance_supporter }
+		}
+	}
+
+}

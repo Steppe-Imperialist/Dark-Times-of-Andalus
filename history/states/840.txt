@@ -1,0 +1,41 @@
+
+state={
+	id=840
+	name="STATE_840"
+	resources={
+		aluminium=12.000
+		chromium=1.000
+		oil=1.000
+		steel=4.000
+	}
+
+	history={
+		owner = T90
+		victory_points = {
+			5207 10 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 2
+			arms_factory = 0
+			4645 = {
+				naval_base = 2
+			}
+			air_base = 10
+
+		}
+		add_core_of = T90
+		add_core_of = X02
+		add_core_of = X37
+		add_core_of = X41
+	}
+
+	provinces={
+		1498 1511 1526 1540 1652 2157 2191 2201 4630 4645 5125 5170 5175 5207 7453 7579 7608 8130 8152 8200 8209 8228 8243 8247 10937 10949 10950 10958 10969 10971 10983 10997 11011 11016 12323 12948 12962 12976 12990 12993 
+	}
+	manpower=272609
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

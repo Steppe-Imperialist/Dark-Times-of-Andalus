@@ -1,0 +1,58 @@
+﻿U57 = {
+	battle_cruiser = {
+		prefix = ""
+		generic = { "Battlecruiser" }
+		unique = {
+			"Makassar" "Luwuk" "Kendari" "Gowa" "Bulon" "Palu" "Bone" "Manado" "Parepare" "Krakatau" "Morowali" "Teku" "Randangan Panua" "Peruhumpenai" "Mamuju" "Tukangbesi" "Watampone" 
+		}
+	}
+
+	battleship = {
+		prefix = ""
+		generic = { "Battleship" }
+		unique = {
+			"Makassar" "Luwuk" "Kendari" "Gowa" "Bulon" "Palu" "Bone" "Manado" "Parepare" "Krakatau" "Morowali" "Teku" "Randangan Panua" "Peruhumpenai" "Mamuju" "Tukangbesi" "Watampone" 
+		}
+	}
+
+	carrier = {
+		prefix = ""
+		generic = { "Carrier" }
+		unique = {
+			"Makassar" "Luwuk" "Kendari" "Gowa" "Bulon" "Palu" "Bone" "Manado" "Parepare" "Krakatau" "Morowali" "Teku" "Randangan Panua" "Peruhumpenai" "Mamuju" "Tukangbesi" "Watampone" 
+		}
+	}
+
+	destroyer = {
+		prefix = ""
+		generic = { "Destroyer" }
+		unique = {
+			"Makassar" "Luwuk" "Kendari" "Gowa" "Bulon" "Palu" "Bone" "Manado" "Parepare" "Krakatau" "Morowali" "Teku" "Randangan Panua" "Peruhumpenai" "Mamuju" "Tukangbesi" "Watampone" 
+		}
+	}
+
+	heavy_cruiser = {
+		prefix = ""
+		generic = { "Heavy Cruiser" }
+		unique = {
+			"Makassar" "Luwuk" "Kendari" "Gowa" "Bulon" "Palu" "Bone" "Manado" "Parepare" "Krakatau" "Morowali" "Teku" "Randangan Panua" "Peruhumpenai" "Mamuju" "Tukangbesi" "Watampone" 
+		}
+	}
+
+	light_cruiser = {
+		prefix = ""
+		generic = { "Light Cruiser" }
+		unique = {
+			"Makassar" "Luwuk" "Kendari" "Gowa" "Bulon" "Palu" "Bone" "Manado" "Parepare" "Krakatau" "Morowali" "Teku" "Randangan Panua" "Peruhumpenai" "Mamuju" "Tukangbesi" "Watampone" 
+		}
+	}
+
+	submarine = {
+		prefix = ""
+		generic = { "Submarine" }
+		unique = {
+			"Makassar" "Luwuk" "Kendari" "Gowa" "Bulon" "Palu" "Bone" "Manado" "Parepare" "Krakatau" "Morowali" "Teku" "Randangan Panua" "Peruhumpenai" "Mamuju" "Tukangbesi" "Watampone" 
+		}
+	}
+
+}

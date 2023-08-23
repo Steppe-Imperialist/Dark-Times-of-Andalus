@@ -1,0 +1,35 @@
+
+state={
+	id=213
+	name="STATE_213"
+	resources={
+		aluminium=16.000
+		steel=19.000
+	}
+
+	history={
+		owner = FRA
+		victory_points = {
+			3650 15 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+			air_base = 6
+
+		}
+		add_core_of = FRA
+		add_core_of = T78
+		add_core_of = V32
+	}
+
+	provinces={
+		641 648 667 817 3646 3650 3652 3669 3681 6644 6668 9607 9609 9625 11576 11628 11794 
+	}
+	manpower=1991884
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

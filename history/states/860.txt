@@ -1,0 +1,30 @@
+
+state={
+	id=860
+	name="STATE_860"
+
+	history={
+		owner = S01
+		victory_points = {
+			1838 1 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = MON
+		add_core_of = S01
+	}
+
+	provinces={
+		1838 4704 4843 12598 
+	}
+	manpower=414140
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

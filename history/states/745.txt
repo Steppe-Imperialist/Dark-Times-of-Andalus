@@ -1,0 +1,35 @@
+
+state={
+	id=745
+	name="STATE_745"
+	resources={
+		tungsten=9.000
+	}
+
+	history={
+		owner = T29
+		victory_points = {
+			12930 10 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+			air_base = 10
+
+		}
+		add_core_of = BOL
+		add_core_of = T29
+		add_core_of = U06
+		add_core_of = X94
+	}
+
+	provinces={
+		2174 5179 10952 10987 12930 
+	}
+	manpower=2037936
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

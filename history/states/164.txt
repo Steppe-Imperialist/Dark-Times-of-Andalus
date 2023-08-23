@@ -1,0 +1,37 @@
+
+state={
+	id=164
+	name="STATE_164"
+	resources={
+		aluminium=1.000
+		steel=4.000
+	}
+
+	history={
+		owner = ENG
+		victory_points = {
+			377 10 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			3274 = {
+				naval_base = 2
+			}
+			air_base = 6
+
+		}
+		add_core_of = ENG
+		add_core_of = WLS
+	}
+
+	provinces={
+		253 311 377 407 3274 6363 9364 11361 
+	}
+	manpower=614724
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

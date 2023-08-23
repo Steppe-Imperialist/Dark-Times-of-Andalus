@@ -1,0 +1,18 @@
+﻿converted_war_strategies_TIG = {
+	enable = {
+		tag = TIG
+		always = no
+	}
+	
+}
+
+converted_diplo_strategies_TIG = {
+	enable = {
+		tag = TIG
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+}

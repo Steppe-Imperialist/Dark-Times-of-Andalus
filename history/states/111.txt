@@ -1,0 +1,37 @@
+
+state={
+	id=111
+	name="STATE_111"
+	resources={
+		steel=1.000
+	}
+
+	history={
+		owner = CHA
+		victory_points = {
+			2081 15 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 6
+
+		}
+		add_core_of = CHA
+		add_core_of = T96
+		add_core_of = W95
+		add_core_of = X43
+		add_claim_by = CAR
+		add_claim_by = W58
+	}
+
+	provinces={
+		1883 1993 2081 3181 7919 9152 13211 
+	}
+	manpower=1001140
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

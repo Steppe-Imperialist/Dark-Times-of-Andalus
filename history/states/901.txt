@@ -1,0 +1,32 @@
+
+state={
+	id=901
+	name="STATE_901"
+
+	history={
+		owner = S32
+		victory_points = {
+			12512 0 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			10245 = {
+				naval_base = 0
+			}
+			air_base = 0
+
+		}
+		add_core_of = S32
+	}
+
+	provinces={
+		10245 10636 12512 13058 13066 
+	}
+	manpower=7904
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+
+	local_supplies=10.0
+}

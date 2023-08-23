@@ -1,0 +1,37 @@
+units = {
+	fleet = {
+		name = "1st Fleet"
+		naval_base = 3957
+		task_force = {
+			name = "1st Fleet"
+			location = 3957
+			ship = { name = "South Carolina" definition = battleship equipment = { battleship_2 = { amount = 1 owner = USA } } }
+			ship = { name = "Maine" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = USA } } }
+			ship = { name = "Texas" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = USA } } }
+			ship = { name = "Charleston" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = USA } } }
+			ship = { name = "Newark" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = USA } } }
+			ship = { name = "Baltimore" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = USA } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = destroyer_1
+			creator = "USA"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+	add_equipment_production = {
+		equipment = {
+			type = battleship_2
+			creator = "USA"
+		}
+		requested_factories = 8
+		progress = 0.25
+		amount = 3
+	}
+}

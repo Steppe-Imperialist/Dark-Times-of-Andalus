@@ -1,0 +1,36 @@
+characters={
+	ZAM_ian_jellicoe={
+		name=ZAM_ian_jellicoe
+		portraits={
+			army={
+				large="GFX_portrait_ENG_harold_alexander"
+			}
+			army={
+				small="GFX_portrait_ENG_harold_alexander"
+			}
+		}
+		corps_commander={
+			skill=2
+			attack_skill=4
+			defense_skill=1
+			planning_skill=2
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	ZAM_bernard_hamilton={
+		name=ZAM_bernard_hamilton
+		portraits={
+			civilian={
+				large="gfx/leaders/ENG/Portrait_Britain_Generic_3.dds"
+			}
+		}
+		country_leader={
+			ideology=dictatorship_neutral
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

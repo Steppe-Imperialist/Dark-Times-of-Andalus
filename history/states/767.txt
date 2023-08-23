@@ -1,0 +1,32 @@
+
+state={
+	id=767
+	name="STATE_767"
+
+	history={
+		owner = T33
+		victory_points = {
+			7315 1 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			4296 = {
+				naval_base = 1
+			}
+			air_base = 0
+
+		}
+		add_core_of = T33
+	}
+
+	provinces={
+		1320 1690 4296 4398 4747 7255 7315 7386 7414 7442 10155 10157 10198 10242 10271 10327 10687 10690 10693 12155 12214 12673 
+	}
+	manpower=11448
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

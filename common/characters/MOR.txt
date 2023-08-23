@@ -1,0 +1,36 @@
+characters={
+	MOR_umar_ibn_ja'far={
+		name=MOR_umar_ibn_ja'far
+		portraits={
+			army={
+				large="GFX_JOR_Jafar_Askari"
+			}
+			army={
+				small="GFX_JOR_Jafar_Askari"
+			}
+		}
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	MOR_yusuf_al_warqali={
+		name=MOR_yusuf_al_warqali
+		portraits={
+			civilian={
+				large="GFX_JOR_Salih_Jabr"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

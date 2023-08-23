@@ -1,0 +1,78 @@
+﻿converted_war_strategies_W74 = {
+	enable = {
+		tag = W74
+		always = no
+	}
+	
+}
+
+converted_diplo_strategies_W74 = {
+	enable = {
+		tag = W74
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+	ai_strategy = {
+		type = antagonize
+		id = "T72"
+		value = 400
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "S01"
+		value = 254
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "T64"
+		value = 200
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "W41"
+		value = 38
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "KAZ"
+		value = 22
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "W71"
+		value = 8
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "U73"
+		value = 4
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "X90"
+		value = 3
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "U79"
+		value = 75
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "JAP"
+		value = 49
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "SAM"
+		value = 43
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "U89"
+		value = 40
+	}
+}

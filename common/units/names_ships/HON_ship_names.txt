@@ -1,0 +1,176 @@
+﻿HON_BB_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_BB
+
+	for_countries = { HON }
+
+	type = ship
+	ship_types = { ship_hull_heavy battleship }
+
+	prefix = ""
+	fallback_name = "Battleship BB-%d"
+
+	unique = {
+		"Francisco Ferrera" "Francisco Morazán" "Honduras" "José María Medina" "José Santos" "Luis Bográn" "Manuel Bonilla" "Marco Aurelio Soto" "Terencio Sierra" "Tiburcio Andino" 
+	}
+}
+
+HON_BC_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_BC
+
+	for_countries = { HON }
+
+	type = ship
+	ship_types = { ship_hull_heavy battle_cruiser }
+
+	prefix = ""
+	fallback_name = "Battlecruiser BC-%d"
+
+	unique = {
+		"Barahona" "Hornett" "Lempa" "Nacaome" "Patuca" "Sigre" "Tatumbla" "Tigre" "Ulúa" "Veintidós de Febrero" 
+	}
+}
+
+HON_CA_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CA
+
+	for_countries = { HON }
+
+	type = ship
+	ship_types = { ship_hull_cruiser heavy_cruiser }
+
+	prefix = ""
+	fallback_name = "Heavy Cruiser CA-%d"
+
+	unique = {
+		"Alíseo" "Federación" "Honduras" "Libertad" "Nación" "San Francisco" "Santa Catalina" "Tormenta" "Trueno" 
+	}
+}
+
+HON_CLAA_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CLAA
+
+	for_countries = { HON }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser }
+
+	prefix = ""
+	fallback_name = "Light Cruiser CLAA-%d"
+
+	unique = {
+		"Amanecer" "Búfalo" "Cabañas" "Carías" "Flotante" "Guarda" "Irreverente" "Lempira" "Víctor" "Zambrano" 
+	}
+}
+
+HON_CL_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CL
+
+	for_countries = { HON }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser }
+
+	prefix = ""
+	fallback_name = "Light Cruiser CL-%d"
+
+	unique = {
+		"Amanecer" "Búfalo" "Cabañas" "Carías" "Flotante" "Guarda" "Irreverente" "Lempira" "Víctor" "Zambrano" 
+	}
+}
+
+HON_CVL_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CVL
+
+	for_countries = { HON }
+
+	type = ship
+	ship_types = { ship_hull_carrier carrier }
+
+	prefix = ""
+	fallback_name = "Carrier CVL-%d"
+
+	unique = {
+		"Atlántida" "Colón" "El Tigre" "Gracias a Dios" "La Paz" "Ocotepeque" "Utila" "Valle" "Yojoa" "Zacate Grande" 
+	}
+}
+
+HON_CV_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CARRIERS
+
+	for_countries = { HON }
+
+	type = ship
+	ship_types = { ship_hull_carrier carrier }
+
+	prefix = ""
+	fallback_name = "Carrier CV-%d"
+
+	unique = {
+		"Atlántida" "Colón" "El Tigre" "Gracias a Dios" "La Paz" "Ocotepeque" "Utila" "Valle" "Yojoa" "Zacate Grande" 
+	}
+}
+
+HON_DD_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_DESTROYERS
+
+	for_countries = { HON }
+
+	type = ship
+	ship_types = { ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Destroyer DD-%d"
+
+	unique = {
+		"Cerro Palenque" "Chorti" "Copán" "Cristóbal Colón" "Curruste" "Cuyamel" "Despoloncal" "Maya" "Pedro de Alvarado" "Ticamaya" 
+	}
+}
+
+HON_DE_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_DE
+
+	for_countries = { HON }
+
+	type = ship
+	ship_types = { ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Destroyer Escort DE-%d"
+
+	unique = {
+		"Cerro Palenque" "Chorti" "Copán" "Cristóbal Colón" "Curruste" "Cuyamel" "Despoloncal" "Maya" "Pedro de Alvarado" "Ticamaya" 
+	}
+}
+
+HON_MINELAYERS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_MINELAYERS
+
+	for_countries = { HON }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Minelayer CM-%d"
+
+	unique = {
+		"Amanecer" "Búfalo" "Cabañas" "Carías" "Flotante" "Guarda" "Irreverente" "Lempira" "Víctor" "Zambrano" 
+	}
+}
+
+HON_SS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_SUBMARINES
+
+	for_countries = { HON }
+
+	type = ship
+	ship_types = { ship_hull_submarine submarine }
+
+	prefix = ""
+	fallback_name = "Submarine SS-%d"
+
+	unique = {
+		"Comayagua" "Gracias" "Juticalpa" "La Esperanza" "Puerto Lempira" "San Pedro Sula" "Santa Bárbara" "Tegucigalpa" "Trujillo" "Yoro" 
+	}
+}
+

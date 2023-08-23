@@ -1,0 +1,29 @@
+
+state={
+	id=15
+	name="STATE_15"
+
+	history={
+		owner = ADU
+		victory_points = {
+			3938 1 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = ADU
+	}
+
+	provinces={
+		858 896 3938 3953 3986 6800 6832 6896 6914 9778 9828 9881 11820 11863 12081 13224 13229 
+	}
+	manpower=867880
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+
+	local_supplies=10.0
+}

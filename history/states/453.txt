@@ -1,0 +1,31 @@
+
+state={
+	id=453
+	name="STATE_453"
+
+	history={
+		owner = NEP
+		victory_points = {
+			4987 15 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 5
+
+		}
+		add_core_of = NEP
+		add_claim_by = RAJ
+		add_claim_by = TIB
+	}
+
+	provinces={
+		4435 4987 5310 8010 12860 12892 
+	}
+	manpower=825180
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

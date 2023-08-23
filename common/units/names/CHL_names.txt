@@ -1,0 +1,58 @@
+﻿CHL = {
+	battle_cruiser = {
+		prefix = ""
+		generic = { "Battlecruiser" }
+		unique = {
+			"Almirante Williams" "Austral" "Blanco" "Blanco Encalada" "Capitán Prat" "Cochrane" "Isla de Pascua" "Norte Chico" "Norte Grande" "Ojos del Salado" 
+		}
+	}
+
+	battleship = {
+		prefix = ""
+		generic = { "Battleship" }
+		unique = {
+			"Almirante Montt" "Antofagasta" "Atacama" "Iquique" "Latorre" "O'Higgins" "República" "San Martín" "Santiago de Chile" "Valparaíso" 
+		}
+	}
+
+	carrier = {
+		prefix = ""
+		generic = { "Carrier" }
+		unique = {
+			"Anganemon" "Butapichón" "Colo-Colo" "Curiñancu" "Guaiquimilla" "Huáscar" "Lientur" "Pedro de Valdivia" "Pelantaru" "Vilumilla" 
+		}
+	}
+
+	destroyer = {
+		prefix = ""
+		generic = { "Destroyer" }
+		unique = {
+			"Aguamarina" "Diamante" "Director Eyzaguirre" "Director Freire" "Esmeralda" "Llullaillaco" "Parinacota" "Presidente Errázuriz" "Presidente Pinto" "Tupungato" 
+		}
+	}
+
+	heavy_cruiser = {
+		prefix = ""
+		generic = { "Heavy Cruiser" }
+		unique = {
+			"Abtao" "Águila" "Araucano" "Chacabuco" "Fortunata" "Galvarino" "Lautaro" "O'Higgins" "Potrillo" "San Martín" 
+		}
+	}
+
+	light_cruiser = {
+		prefix = ""
+		generic = { "Light Cruiser" }
+		unique = {
+			"Almirante Condell" "Almirante Lynch" "Angamos" "Aquiles" "Casma" "Chacabuco" "Chipana" "Covadonga" "Magallanes" "Orompello" 
+		}
+	}
+
+	submarine = {
+		prefix = ""
+		generic = { "Submarine" }
+		unique = {
+			"Aisén" "Araucania" "Arica" "Biobío" "Coquimbo" "Los Lagos" "Los Ríos" "Maule" "Tarapacá" "Valdivia" 
+		}
+	}
+
+}

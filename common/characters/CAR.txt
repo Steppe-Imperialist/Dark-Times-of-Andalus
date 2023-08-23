@@ -1,0 +1,56 @@
+characters={
+	CAR_luigi_canevaro={
+		name=CAR_luigi_canevaro
+		portraits={
+			army={
+				large="GFX_Portrait_Italy_Generic_land_6"
+			}
+			army={
+				small="GFX_Portrait_Italy_Generic_land_6"
+			}
+		}
+		corps_commander={
+			skill=2
+			attack_skill=3
+			defense_skill=3
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	CAR_federico_pacoret_de_saint_bon={
+		name=CAR_federico_pacoret_de_saint_bon
+		portraits={
+			navy={
+				large="GFX_Europe_Generic_navy_new_2"
+			}
+			navy={
+				small="GFX_Europe_Generic_navy_new_2"
+			}
+		}
+		navy_leader={
+			skill=2
+			attack_skill=1
+			defense_skill=1
+			maneuvering_skill=3
+			coordination_skill=1
+			legacy_id=0
+		}
+	}
+
+	CAR_simone_acton={
+		name=CAR_simone_acton
+		portraits={
+			civilian={
+				large="gfx/leaders/ITA/Portrait_Italy_Benito_Mussolini.dds"
+			}
+		}
+		country_leader={
+			ideology=fascism_ideology
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

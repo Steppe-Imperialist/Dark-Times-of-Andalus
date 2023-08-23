@@ -1,0 +1,32 @@
+
+state={
+	id=402
+	name="STATE_402"
+
+	history={
+		owner = V21
+		victory_points = {
+			12907 10 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			arms_factory = 1
+			air_base = 10
+
+		}
+		add_core_of = V02
+		add_core_of = V21
+		add_core_of = V24
+		add_claim_by = COG
+	}
+
+	provinces={
+		191 1817 1929 4515 12907 
+	}
+	manpower=3702192
+	buildings_max_level_factor=1.000
+	state_category=city
+
+	local_supplies=10.0
+}

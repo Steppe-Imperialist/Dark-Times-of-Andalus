@@ -1,0 +1,56 @@
+characters={
+	U85_yaqub_bahadur={
+		name=U85_yaqub_bahadur
+		portraits={
+			army={
+				large="GFX_Portrait_Arabia_Generic_land_2"
+			}
+			army={
+				small="GFX_Portrait_Arabia_Generic_land_2"
+			}
+		}
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	U85_iltazar_bukhari={
+		name=U85_iltazar_bukhari
+		portraits={
+			army={
+				large="GFX_OTT_Mustafa_Kemal"
+			}
+			army={
+				small="GFX_OTT_Mustafa_Kemal"
+			}
+		}
+		corps_commander={
+			skill=2
+			attack_skill=2
+			defense_skill=3
+			planning_skill=2
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	U85_qutlugh_bahadur={
+		name=U85_qutlugh_bahadur
+		portraits={
+			civilian={
+				large="gfx/leaders/JOR/Portrait_Arabia_Generic_1.dds"
+			}
+		}
+		country_leader={
+			ideology=leninism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

@@ -1,0 +1,16 @@
+characters={
+	T80_massimo_d'austria_este={
+		name=T80_massimo_d'austria_este
+		portraits={
+			civilian={
+				large="GFX_SRI_Giacomo_Matteotti"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

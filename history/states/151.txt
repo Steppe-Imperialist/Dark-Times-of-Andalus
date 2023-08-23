@@ -1,0 +1,35 @@
+
+state={
+	id=151
+	name="STATE_151"
+
+	history={
+		owner = W18
+		victory_points = {
+			1409 15 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 0
+			4416 = {
+				naval_base = 2
+			}
+			air_base = 6
+
+		}
+		add_core_of = RAJ
+		add_core_of = T94
+		add_core_of = W18
+		add_claim_by = U93
+	}
+
+	provinces={
+		1268 1344 1381 1409 4315 4327 4416 4420 7265 7288 7363 7436 8067 10130 10149 10246 10274 10278 10808 12164 12247 
+	}
+	manpower=12642432
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

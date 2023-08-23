@@ -1,0 +1,33 @@
+
+state={
+	id=643
+	name="STATE_643"
+
+	history={
+		owner = W41
+		victory_points = {
+			2045 15 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 5
+
+		}
+		add_core_of = TIB
+		add_claim_by = S02
+		add_claim_by = T48
+		add_claim_by = U72
+		add_claim_by = W71
+	}
+
+	provinces={
+		1257 2045 4375 4403 9966 10132 10787 10817 10903 
+	}
+	manpower=2918216
+	buildings_max_level_factor=1.000
+	state_category=city
+
+	local_supplies=10.0
+}

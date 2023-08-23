@@ -1,0 +1,58 @@
+﻿BRA = {
+	battle_cruiser = {
+		prefix = ""
+		generic = { "Battlecruiser" }
+		unique = {
+			"Brasil" "Tamandaré" "Mariz e Barros" "Colombo" "Bahia" "Rio Grande Do Norte" "Alagoas" "Espirito Santo" "Fonseca" 
+		}
+	}
+
+	battleship = {
+		prefix = ""
+		generic = { "Battleship" }
+		unique = {
+			"Sao Paulo" "Minas Gerais" "Marechal Floriano" "Marechal Deodoro" "Rio de Janeiro" "Riachuelo" "Constituicao" "Santa Catarina" "Almirante Amazonas" 
+		}
+	}
+
+	carrier = {
+		prefix = ""
+		generic = { "Carrier" }
+		unique = {
+			"Javary" "Solimões" "Sete de Setembro" "Ipiranga" "Independência" "Mato Grosso" "Maranhão" "GuanaBara" "Ceará" "Humaitá" 
+		}
+	}
+
+	destroyer = {
+		prefix = ""
+		generic = { "Destroyer" }
+		unique = {
+			"Almirante Barrozo" "República" "Almirante Tamandaré" "Benjamin Constant" "Aquidaban" "Riachuelo" "Toneleros" "Fortaleza" "Tiradentes" 
+		}
+	}
+
+	heavy_cruiser = {
+		prefix = ""
+		generic = { "Heavy Cruiser" }
+		unique = {
+			"Primeiro De Março" "Paraíba" "Guanabara" "Trajano" "Vital De Oliveira" "Niterói" "Sergipe" "Paraná" "Greenhalgh" "Macapá" 
+		}
+	}
+
+	light_cruiser = {
+		prefix = ""
+		generic = { "Light Cruiser" }
+		unique = {
+			"Belmonte" "Jequitinhonha" "Amazonas" "Beberibe" "Iguatemi" "Mearim" "Araguari" "Parnaíba" "Cabral" "Barroso" "Herval" "Silvado" "Lima Barros" 
+		}
+	}
+
+	submarine = {
+		prefix = ""
+		generic = { "Submarine" }
+		unique = {
+			"Almirante Saldanha" "Pernambuco" "Inhauma" "Jaceguay" "Frontin" "Julio De Noronha" "Niterói" "Uniao" "Belém" "Vigia" 
+		}
+	}
+
+}

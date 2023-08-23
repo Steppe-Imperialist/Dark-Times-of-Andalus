@@ -1,0 +1,31 @@
+
+state={
+	id=352
+	name="STATE_352"
+
+	history={
+		owner = W90
+		victory_points = {
+			4459 10 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 5
+
+		}
+		add_core_of = NEP
+		add_core_of = U97
+		add_claim_by = RAJ
+	}
+
+	provinces={
+		1541 4459 4516 10361 10878 
+	}
+	manpower=2436012
+	buildings_max_level_factor=1.000
+	state_category=large_town
+
+	local_supplies=10.0
+}

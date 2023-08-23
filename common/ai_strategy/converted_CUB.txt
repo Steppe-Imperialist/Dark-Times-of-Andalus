@@ -1,0 +1,93 @@
+﻿converted_war_strategies_CUB = {
+	enable = {
+		tag = CUB
+		always = no
+	}
+	
+	ai_strategy = {
+		type = conquer
+		id = "PUE"
+		value = 13
+	}
+}
+
+converted_diplo_strategies_CUB = {
+	enable = {
+		tag = CUB
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+	ai_strategy = {
+		type = contain
+		id = "JAM"
+		value = 100
+	}
+	ai_strategy = {
+		type = contain
+		id = "BAH"
+		value = 25
+	}
+	ai_strategy = {
+		type = contain
+		id = "USA"
+		value = 10
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "T72"
+		value = 400
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "S01"
+		value = 230
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "T64"
+		value = 194
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "PUE"
+		value = 81
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "KAZ"
+		value = 60
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "T28"
+		value = 3
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "USA"
+		value = 2
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "GUY"
+		value = 92
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "X81"
+		value = 65
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "BEL"
+		value = 48
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "T28"
+		value = 39
+	}
+}

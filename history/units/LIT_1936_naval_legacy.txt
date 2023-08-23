@@ -1,0 +1,32 @@
+units = {
+	fleet = {
+		name = "2nd Fleet"
+		naval_base = 6314
+		task_force = {
+			name = "2nd Fleet"
+			location = 6314
+			ship = { name = "Lietuva" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = LIT } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = destroyer_1
+			creator = "LIT"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+	add_equipment_production = {
+		equipment = {
+			type = battleship_1
+			creator = "LIT"
+		}
+		requested_factories = 8
+		progress = 0.25
+		amount = 3
+	}
+}

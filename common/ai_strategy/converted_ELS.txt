@@ -1,0 +1,18 @@
+﻿converted_war_strategies_ELS = {
+	enable = {
+		tag = ELS
+		always = no
+	}
+	
+}
+
+converted_diplo_strategies_ELS = {
+	enable = {
+		tag = ELS
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+}

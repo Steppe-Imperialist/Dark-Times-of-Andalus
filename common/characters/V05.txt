@@ -1,0 +1,16 @@
+characters={
+	V05_king_umpafu={
+		name=V05_king_umpafu
+		portraits={
+			civilian={
+				large="GFX_Zanzibar_Sultan_Khalifa"
+			}
+		}
+		country_leader={
+			ideology=absolute_monarchy
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

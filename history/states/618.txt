@@ -1,0 +1,36 @@
+
+state={
+	id=618
+	name="STATE_618"
+	resources={
+		aluminium=21.000
+	}
+
+	history={
+		owner = SUR
+		victory_points = {
+			10906 15 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			dockyard = 1
+			10906 = {
+				naval_base = 4
+			}
+			air_base = 6
+
+		}
+		add_core_of = SUR
+	}
+
+	provinces={
+		1928 10906 12828 
+	}
+	manpower=1080024
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

@@ -1,0 +1,32 @@
+
+state={
+	id=852
+	name="STATE_852"
+
+	history={
+		owner = S01
+		victory_points = {
+			10627 15 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 5
+
+		}
+		add_core_of = S01
+		add_core_of = TAN
+		add_core_of = YAK
+		add_claim_by = SOV
+	}
+
+	provinces={
+		1676 1877 4680 7703 7731 7804 7819 10597 10627 10646 12610 12625 
+	}
+	manpower=312068
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

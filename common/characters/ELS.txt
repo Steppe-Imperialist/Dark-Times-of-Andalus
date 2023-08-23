@@ -1,0 +1,16 @@
+characters={
+	ELS_jorge_montiel={
+		name=ELS_jorge_montiel
+		portraits={
+			civilian={
+				large="GFX_Bolivia_Enrique_Castillo"
+			}
+		}
+		country_leader={
+			ideology=dictatorship_neutral
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

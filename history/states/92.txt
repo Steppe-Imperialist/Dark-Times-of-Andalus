@@ -1,0 +1,30 @@
+
+state={
+	id=92
+	name="STATE_92"
+
+	history={
+		owner = U13
+		victory_points = {
+			6413 15 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1
+			air_base = 6
+
+		}
+		add_core_of = BLR
+		add_core_of = T81
+		add_core_of = U13
+	        }
+	provinces={
+		233 277 318 358 406 3309 3366 6340 6359 6413 9236 9304 9341 9359 11341 11342 11391 
+	}
+	manpower=1477248
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

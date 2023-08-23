@@ -1,0 +1,16 @@
+characters={
+	SCA_verner_brakenhielm={
+		name=SCA_verner_brakenhielm
+		portraits={
+			civilian={
+				large="GFX_Estonia_Jaan_Tonisson"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

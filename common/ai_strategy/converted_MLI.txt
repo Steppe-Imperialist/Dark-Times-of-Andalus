@@ -1,0 +1,18 @@
+﻿converted_war_strategies_MLI = {
+	enable = {
+		tag = MLI
+		always = no
+	}
+	
+}
+
+converted_diplo_strategies_MLI = {
+	enable = {
+		tag = MLI
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+}

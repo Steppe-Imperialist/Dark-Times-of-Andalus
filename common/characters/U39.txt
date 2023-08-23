@@ -1,0 +1,16 @@
+characters={
+	U39_kase_oyo={
+		name=U39_kase_oyo
+		portraits={
+			civilian={
+				large="GFX_LIB_William_Tubman"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

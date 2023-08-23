@@ -1,0 +1,16 @@
+characters={
+	V35_boris_surkov={
+		name=V35_boris_surkov
+		portraits={
+			civilian={
+				large="gfx/leaders/POL/Portrait_POL_Wincenty_Witos.dds"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

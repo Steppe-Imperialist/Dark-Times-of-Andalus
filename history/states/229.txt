@@ -1,0 +1,35 @@
+
+state={
+	id=229
+	name="STATE_229"
+
+	history={
+		owner = W41
+		victory_points = {
+			10016 0 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			1157 = {
+				naval_base = 1
+			}
+			air_base = 0
+
+		}
+		add_core_of = S02
+		add_core_of = VIN
+		add_core_of = W78
+		add_claim_by = CHI
+	}
+
+	provinces={
+		1073 1157 1185 4119 7015 7093 7518 9948 9988 10016 11909 11936 12008 12065 
+	}
+	manpower=2689176
+	buildings_max_level_factor=1.000
+	state_category=large_town
+
+	local_supplies=10.0
+}

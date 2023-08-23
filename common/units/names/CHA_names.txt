@@ -1,0 +1,58 @@
+﻿CHA = {
+	battle_cruiser = {
+		prefix = ""
+		generic = { "Battlecruiser" }
+		unique = {
+			"Abuja" "Ede" "Enugu" "Kaduna" "Kano" "Katsina" "Jos" "Owo" "Bornu" "Kanem" 
+		}
+	}
+
+	battleship = {
+		prefix = ""
+		generic = { "Battleship" }
+		unique = {
+			"Abuja" "Ede" "Enugu" "Kaduna" "Kano" "Katsina" "Jos" "Owo" "Bornu" "Kanem" 
+		}
+	}
+
+	carrier = {
+		prefix = ""
+		generic = { "Carrier" }
+		unique = {
+			"Abuja" "Ede" "Enugu" "Kaduna" "Kano" "Katsina" "Jos" "Owo" "Bornu" "Kanem" 
+		}
+	}
+
+	destroyer = {
+		prefix = ""
+		generic = { "Destroyer" }
+		unique = {
+			"Abuja" "Ede" "Enugu" "Kaduna" "Kano" "Katsina" "Jos" "Owo" "Bornu" "Kanem" 
+		}
+	}
+
+	heavy_cruiser = {
+		prefix = ""
+		generic = { "Heavy Cruiser" }
+		unique = {
+			"Abuja" "Ede" "Enugu" "Kaduna" "Kano" "Katsina" "Jos" "Owo" "Bornu" "Kanem" 
+		}
+	}
+
+	light_cruiser = {
+		prefix = ""
+		generic = { "Light Cruiser" }
+		unique = {
+			"Abuja" "Ede" "Enugu" "Kaduna" "Kano" "Katsina" "Jos" "Owo" "Bornu" "Kanem" 
+		}
+	}
+
+	submarine = {
+		prefix = ""
+		generic = { "Submarine" }
+		unique = {
+			"Abuja" "Ede" "Enugu" "Kaduna" "Kano" "Katsina" "Jos" "Owo" "Bornu" "Kanem" 
+		}
+	}
+
+}

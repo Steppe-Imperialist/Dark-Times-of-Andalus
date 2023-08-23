@@ -1,0 +1,29 @@
+
+state={
+	id=45
+	name="STATE_45"
+
+	history={
+		owner = ANG
+		victory_points = {
+			10966 0 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = ANG
+	}
+
+	provinces={
+		1552 2126 4735 10966 
+	}
+	manpower=244312
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

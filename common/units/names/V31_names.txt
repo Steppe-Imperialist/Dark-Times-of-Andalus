@@ -1,0 +1,58 @@
+﻿V31 = {
+	battle_cruiser = {
+		prefix = ""
+		generic = { "Battlecruiser" }
+		unique = {
+			"Arenal" "Barahona" "Cocibolca" "Goascorán" "Hondo" "Paz" "San Juan" "Suchiate" "Tatumbla" "Tempisque" 
+		}
+	}
+
+	battleship = {
+		prefix = ""
+		generic = { "Battleship" }
+		unique = {
+			"Centroamérica" "Costa Rica" "Diriangén" "El Salvador" "Francisco Dueñas" "Francisco Morazán" "Guatemala" "Honduras" "Nicaragua" "Pedro Molina" 
+		}
+	}
+
+	carrier = {
+		prefix = ""
+		generic = { "Carrier" }
+		unique = {
+			"Apaneca" "Concepción" "El Tigre" "Orosí" "Platanar" "San Cristóbal" "Santa Ana" "Tacaná" "Tajumulco" "Yojoa" 
+		}
+	}
+
+	destroyer = {
+		prefix = ""
+		generic = { "Destroyer" }
+		unique = {
+			"Bartolomé de las Casas" "Castilla del Oro" "Chorti" "Cristobal Colón" "Lenca" "Miskito" "Niquirano" "Olmeca" "Pedro de Alvarado" "Pipil" 
+		}
+	}
+
+	heavy_cruiser = {
+		prefix = ""
+		generic = { "Heavy Cruiser" }
+		unique = {
+			"Audaz" "Federación" "Independencia" "Libertad" "Neptuno" "Sagrada Familia" "San José" "San Juan" "Santa Catalina" "Santiago" 
+		}
+	}
+
+	light_cruiser = {
+		prefix = ""
+		generic = { "Light Cruiser" }
+		unique = {
+			"Carías" "Chingo" "Guanacaste" "Guatemalteco" "Invencible" "Lempira" "Nicaragüense" "Salvadoreño" "Tilarán" "Victorioso" 
+		}
+	}
+
+	submarine = {
+		prefix = ""
+		generic = { "Submarine" }
+		unique = {
+			"Cartago" "Ciudad de Guatemala" "Comayagua" "Flores" "León" "Managua" "San José" "San Salvador" "Santa Tecla" "Tegucigalpa" 
+		}
+	}
+
+}

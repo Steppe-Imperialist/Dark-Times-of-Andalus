@@ -1,0 +1,35 @@
+
+state={
+	id=77
+	name="STATE_77"
+
+	history={
+		owner = X61
+		victory_points = {
+			3552 15 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1
+			dockyard = 1
+			3552 = {
+				naval_base = 8
+			}
+			air_base = 6
+
+		}
+		add_core_of = FRA
+		add_core_of = X61
+		add_claim_by = ADU
+	}
+
+	provinces={
+		542 3552 3758 6536 6548 6572 9495 9510 9525 11465 11508 11616 
+	}
+	manpower=2471048
+	buildings_max_level_factor=1.000
+	state_category=large_town
+
+	local_supplies=10.0
+}

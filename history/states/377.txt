@@ -1,0 +1,36 @@
+
+state={
+	id=377
+	name="STATE_377"
+
+	history={
+		owner = KEN
+		victory_points = {
+			2120 0 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			2120 = {
+				naval_base = 4
+			}
+			air_base = 0
+
+		}
+		add_core_of = S08
+		add_core_of = U49
+		add_claim_by = KEN
+		add_claim_by = MLW
+		add_claim_by = MZB
+	}
+
+	provinces={
+		2120 5155 12935 
+	}
+	manpower=1678016
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

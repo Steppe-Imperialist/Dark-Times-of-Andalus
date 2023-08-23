@@ -1,0 +1,30 @@
+
+state={
+	id=661
+	name="STATE_661"
+
+	history={
+		owner = TUN
+		victory_points = {
+			9960 1 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = ALG
+		add_core_of = TUN
+	}
+
+	provinces={
+		1126 1128 1967 4018 4970 5053 7033 7040 7149 9943 9960 12020 12888 
+	}
+	manpower=223976
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

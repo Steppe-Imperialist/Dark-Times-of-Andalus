@@ -1,0 +1,38 @@
+
+state={
+	id=59
+	name="STATE_59"
+	resources={
+		chromium=1.000
+	}
+
+	history={
+		owner = X27
+		victory_points = {
+			10993 15 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 0
+			2200 = {
+				naval_base = 8
+			}
+			air_base = 6
+
+		}
+		add_core_of = MAD
+		add_core_of = U55
+		add_core_of = X27
+		add_claim_by = KEN
+	}
+
+	provinces={
+		2200 5185 8180 8246 10993 11015 12956 
+	}
+	manpower=1849772
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

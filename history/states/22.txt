@@ -1,0 +1,32 @@
+
+state={
+	id=22
+	name="STATE_22"
+
+	history={
+		owner = ADU
+		victory_points = {
+			6986 1 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			3790 = {
+				naval_base = 1
+			}
+			air_base = 0
+
+		}
+		add_core_of = ADU
+	}
+
+	provinces={
+		3790 3846 3866 3886 3926 6880 6884 6933 6986 9765 9819 9869 
+	}
+	manpower=789256
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+
+	local_supplies=10.0
+}

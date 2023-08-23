@@ -1,0 +1,39 @@
+
+state={
+	id=740
+	name="STATE_740"
+	resources={
+		oil=2.000
+	}
+
+	history={
+		owner = T29
+		victory_points = {
+			8199 10 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 1
+			8199 = {
+				naval_base = 8
+			}
+			air_base = 6
+
+		}
+		add_core_of = T29
+		add_core_of = W62
+		add_core_of = X75
+		add_claim_by = PRU
+		add_claim_by = W77
+	}
+
+	provinces={
+		2156 8199 12969 
+	}
+	manpower=2430436
+	buildings_max_level_factor=1.000
+	state_category=city
+
+	local_supplies=10.0
+}

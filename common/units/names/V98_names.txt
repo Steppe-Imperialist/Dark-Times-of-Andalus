@@ -1,0 +1,58 @@
+﻿V98 = {
+	battle_cruiser = {
+		prefix = ""
+		generic = { "Battlecruiser" }
+		unique = {
+			"Oldenburg" "Birkenfeld" "Großherzog Paul" "Reichsfürst" "Erbprinz" "Gerd der Mutige" "Christian Thomesen" "Arnd Stuke" "Nikolaus Milies" "Magister Wigbold" "Gödeke Michels" 
+		}
+	}
+
+	battleship = {
+		prefix = ""
+		generic = { "Battleship" }
+		unique = {
+			"Oldenburg" "Birkenfeld" "Großherzog Paul" "Reichsfürst" "Erbprinz" "Gerd der Mutige" "Christian Thomesen" "Arnd Stuke" "Nikolaus Milies" "Magister Wigbold" "Gödeke Michels" 
+		}
+	}
+
+	carrier = {
+		prefix = ""
+		generic = { "Carrier" }
+		unique = {
+			"Oldenburg" "Birkenfeld" "Großherzog Paul" "Reichsfürst" "Erbprinz" "Gerd der Mutige" "Christian Thomesen" "Arnd Stuke" "Nikolaus Milies" "Magister Wigbold" "Gödeke Michels" 
+		}
+	}
+
+	destroyer = {
+		prefix = ""
+		generic = { "Destroyer" }
+		unique = {
+			"Oldenburg" "Birkenfeld" "Großherzog Paul" "Reichsfürst" "Erbprinz" "Gerd der Mutige" "Christian Thomesen" "Arnd Stuke" "Nikolaus Milies" "Magister Wigbold" "Gödeke Michels" 
+		}
+	}
+
+	heavy_cruiser = {
+		prefix = ""
+		generic = { "Heavy Cruiser" }
+		unique = {
+			"Oldenburg" "Birkenfeld" "Großherzog Paul" "Reichsfürst" "Erbprinz" "Gerd der Mutige" "Christian Thomesen" "Arnd Stuke" "Nikolaus Milies" "Magister Wigbold" "Gödeke Michels" 
+		}
+	}
+
+	light_cruiser = {
+		prefix = ""
+		generic = { "Light Cruiser" }
+		unique = {
+			"Oldenburg" "Birkenfeld" "Großherzog Paul" "Reichsfürst" "Erbprinz" "Gerd der Mutige" "Christian Thomesen" "Arnd Stuke" "Nikolaus Milies" "Magister Wigbold" "Gödeke Michels" 
+		}
+	}
+
+	submarine = {
+		prefix = ""
+		generic = { "Submarine" }
+		unique = {
+			"Oldenburg" "Birkenfeld" "Großherzog Paul" "Reichsfürst" "Erbprinz" "Gerd der Mutige" "Christian Thomesen" "Arnd Stuke" "Nikolaus Milies" "Magister Wigbold" "Gödeke Michels" 
+		}
+	}
+
+}

@@ -1,0 +1,33 @@
+
+state={
+	id=78
+	name="STATE_78"
+
+	history={
+		owner = BRU
+		victory_points = {
+			7387 15 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			7371 = {
+				naval_base = 1
+			}
+			air_base = 6
+
+		}
+		add_core_of = BRU
+		add_claim_by = MAL
+	}
+
+	provinces={
+		7371 7387 
+	}
+	manpower=138920
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

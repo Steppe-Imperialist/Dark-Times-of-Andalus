@@ -1,0 +1,41 @@
+
+state={
+	id=245
+	name="STATE_245"
+	resources={
+		chromium=20.000
+	}
+
+	history={
+		owner = GRE
+		victory_points = {
+			947 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+			6864 = {
+				naval_base = 6
+			}
+			air_base = 0
+
+		}
+		add_core_of = GRE
+		add_core_of = SER
+		add_core_of = T13
+		add_core_of = T60
+		add_claim_by = ITA
+		add_claim_by = W53
+		add_claim_by = YUG
+	}
+
+	provinces={
+		785 856 947 981 3786 3851 3856 6864 6871 6912 9799 9887 11778 11811 11829 11831 11867 
+	}
+	manpower=2047244
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

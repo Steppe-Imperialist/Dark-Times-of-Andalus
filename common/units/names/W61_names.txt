@@ -1,0 +1,58 @@
+﻿W61 = {
+	battle_cruiser = {
+		prefix = ""
+		generic = { "Battlecruiser" }
+		unique = {
+			"Hessen" "Großherzog Ludwig" "Mainz" "Darmstadt" "Gießen" "Landgraf" "Worms" "Von Gagern" "Philipp der Großmütige" "Fridericus" 
+		}
+	}
+
+	battleship = {
+		prefix = ""
+		generic = { "Battleship" }
+		unique = {
+			"Hessen" "Großherzog Ludwig" "Mainz" "Darmstadt" "Gießen" "Landgraf" "Worms" "Von Gagern" "Philipp der Großmütige" "Fridericus" 
+		}
+	}
+
+	carrier = {
+		prefix = ""
+		generic = { "Carrier" }
+		unique = {
+			"Hessen" "Großherzog Ludwig" "Mainz" "Darmstadt" "Gießen" "Landgraf" "Worms" "Von Gagern" "Philipp der Großmütige" "Fridericus" 
+		}
+	}
+
+	destroyer = {
+		prefix = ""
+		generic = { "Destroyer" }
+		unique = {
+			"Hessen" "Großherzog Ludwig" "Mainz" "Darmstadt" "Gießen" "Landgraf" "Worms" "Von Gagern" "Philipp der Großmütige" "Fridericus" 
+		}
+	}
+
+	heavy_cruiser = {
+		prefix = ""
+		generic = { "Heavy Cruiser" }
+		unique = {
+			"Hessen" "Großherzog Ludwig" "Mainz" "Darmstadt" "Gießen" "Landgraf" "Worms" "Von Gagern" "Philipp der Großmütige" "Fridericus" 
+		}
+	}
+
+	light_cruiser = {
+		prefix = ""
+		generic = { "Light Cruiser" }
+		unique = {
+			"Hessen" "Großherzog Ludwig" "Mainz" "Darmstadt" "Gießen" "Landgraf" "Worms" "Von Gagern" "Philipp der Großmütige" "Fridericus" 
+		}
+	}
+
+	submarine = {
+		prefix = ""
+		generic = { "Submarine" }
+		unique = {
+			"Hessen" "Großherzog Ludwig" "Mainz" "Darmstadt" "Gießen" "Landgraf" "Worms" "Von Gagern" "Philipp der Großmütige" "Fridericus" 
+		}
+	}
+
+}

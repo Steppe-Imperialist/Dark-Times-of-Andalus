@@ -1,0 +1,16 @@
+characters={
+	V57_king_nga_nu_ii={
+		name=V57_king_nga_nu_ii
+		portraits={
+			civilian={
+				large="gfx/leaders/SIA/Portrait_Siam_Phraya_Phahon.dds"
+			}
+		}
+		country_leader={
+			ideology=absolute_monarchy
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

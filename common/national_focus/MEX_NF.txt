@@ -1,0 +1,410 @@
+focus_tree = {
+	id = MEX_focus
+	
+	country = {
+		factor = 0
+		
+		modifier = {
+			add = 10
+			tag = MEX
+		}
+	}
+	
+	default = no
+	
+	shared_focus = army_effort
+	shared_focus = aviation_effort
+	shared_focus = naval_effort
+	shared_focus = industrial_effort
+	shared_focus = political_effort
+
+	focus = {
+		id = WarPropMEX
+		icon = GFX_goal_generic_propaganda
+		text = WarProp
+		x = 30
+		y = 0
+		cost = 10
+		available = {
+		threat > 0.000000
+	}
+		completion_reward = {
+		add_stability = 0.05
+	}
+		ai_will_do = {
+		factor = 10
+	}
+	}
+
+	focus = {
+		id = PrepInterMEX
+		icon = GFX_goal_generic_occupy_states_ongoing_war
+		text = PrepInter
+		prerequisite = { focus = WarPropMEX }
+		x = 0
+		y = 1
+		relative_position_id = WarPropMEX
+		cost = 10
+		available = {
+		threat > 0.000000
+	}
+		completion_reward = {
+		add_political_power = 120
+		set_rule = { can_send_volunteers = yes }
+	}
+		ai_will_do = {
+		factor = 10
+	}
+	}
+
+	focus = {
+		id = LimMEX
+		icon = GFX_goal_generic_more_territorial_claims
+		text = Lim
+		prerequisite = { focus = PrepInterMEX }
+		x = 0
+		y = 1
+		relative_position_id = PrepInterMEX
+		cost = 10
+		available = {
+		threat > 0.000000
+	}
+		completion_reward = {
+		add_ideas = limited_interventionism
+	}
+		ai_will_do = {
+		factor = 10
+	}
+	}
+
+	focus = {
+		id = WarPlanMEXSOV
+		icon = GFX_goal_generic_position_armies
+		text = WarPlanSOV
+		prerequisite = { focus = LimMEX }
+		bypass = {
+		has_war_with = SOV
+	}
+		x = -2
+		y = 1
+		relative_position_id = LimMEX
+		cost = 10
+		available = {
+		any_other_country = {
+			original_tag = SOV
+			exists = yes
+			NOT = { has_government = democratic }
+			NOT = { is_in_faction_with = ROOT }
+			OR = {
+				has_offensive_war = yes
+				has_added_tension_amount > 30
+			}
+		}
+	}
+		completion_reward = {
+		army_experience = 20
+		add_doctrine_cost_reduction = {
+			name = land_doc_bonus
+			cost_reduction = 0.3
+			uses = 1
+			category = land_doctrine
+		}
+	}
+		ai_will_do = {
+		factor = 10
+	}
+	}
+
+	focus = {
+		id = EmbargoMEXSOV
+		icon = GFX_goal_generic_trade
+		text = EmbargoSOV
+		prerequisite = { focus =  WarPlanMEXSOV }
+		bypass = {
+		has_war_with = SOV
+	}
+		x = 0
+		y = 1
+		relative_position_id = WarPlanMEXSOV
+		cost = 10
+		available = {
+		any_other_country = {
+			original_tag = SOV
+			exists = yes
+			NOT = { has_government = democratic }
+			NOT = { is_in_faction_with = ROOT }
+			OR = {
+				has_offensive_war = yes
+				has_added_tension_amount > 30
+				threat > 0.6
+			}
+		}
+	}
+		completion_reward = {
+		SOV = {
+			add_opinion_modifier = { target = ROOT modifier = embargo }
+		}
+	}
+		ai_will_do = {
+		factor = 10
+	}
+	}
+
+	focus = {
+		id = WARMEXSOV
+		icon = GFX_goal_support_democracy
+		text = WARSOV
+		prerequisite = { focus =  EmbargoMEXSOV }
+		bypass = {
+		has_war_with = SOV
+	}
+		x = 0
+		y = 1
+		relative_position_id = EmbargoMEXSOV
+		cost = 10
+		available = {
+		has_war = no
+		any_other_country = {
+			original_tag = SOV
+			exists = yes
+			NOT = { has_government = democratic }
+			NOT = { is_in_faction_with = ROOT }
+			OR = {
+				has_offensive_war = yes
+				has_added_tension_amount > 30
+				threat > 0.6
+			}
+		}
+	}
+		completion_reward = {
+		declare_war_on = {
+			type = puppet_wargoal_focus
+			target = SOV
+		}
+	}
+		ai_will_do = {
+		factor = 10
+	}
+	}
+
+	focus = {
+		id = WarPlanMEXW18
+		icon = GFX_goal_generic_position_armies
+		text = WarPlanW18
+		prerequisite = { focus = LimMEX }
+		bypass = {
+		has_war_with = W18
+	}
+		x = 0
+		y = 1
+		relative_position_id = LimMEX
+		cost = 10
+		available = {
+		any_other_country = {
+			original_tag = W18
+			exists = yes
+			NOT = { has_government = democratic }
+			NOT = { is_in_faction_with = ROOT }
+			OR = {
+				has_offensive_war = yes
+				has_added_tension_amount > 30
+			}
+		}
+	}
+		completion_reward = {
+		army_experience = 20
+		add_doctrine_cost_reduction = {
+			name = land_doc_bonus
+			cost_reduction = 0.3
+			uses = 1
+			category = land_doctrine
+		}
+	}
+		ai_will_do = {
+		factor = 10
+	}
+	}
+
+	focus = {
+		id = EmbargoMEXW18
+		icon = GFX_goal_generic_trade
+		text = EmbargoW18
+		prerequisite = { focus =  WarPlanMEXW18 }
+		bypass = {
+		has_war_with = W18
+	}
+		x = 0
+		y = 1
+		relative_position_id = WarPlanMEXW18
+		cost = 10
+		available = {
+		any_other_country = {
+			original_tag = W18
+			exists = yes
+			NOT = { has_government = democratic }
+			NOT = { is_in_faction_with = ROOT }
+			OR = {
+				has_offensive_war = yes
+				has_added_tension_amount > 30
+				threat > 0.6
+			}
+		}
+	}
+		completion_reward = {
+		W18 = {
+			add_opinion_modifier = { target = ROOT modifier = embargo }
+		}
+	}
+		ai_will_do = {
+		factor = 10
+	}
+	}
+
+	focus = {
+		id = WARMEXW18
+		icon = GFX_goal_support_democracy
+		text = WARW18
+		prerequisite = { focus =  EmbargoMEXW18 }
+		bypass = {
+		has_war_with = W18
+	}
+		x = 0
+		y = 1
+		relative_position_id = EmbargoMEXW18
+		cost = 10
+		available = {
+		has_war = no
+		any_other_country = {
+			original_tag = W18
+			exists = yes
+			NOT = { has_government = democratic }
+			NOT = { is_in_faction_with = ROOT }
+			OR = {
+				has_offensive_war = yes
+				has_added_tension_amount > 30
+				threat > 0.6
+			}
+		}
+	}
+		completion_reward = {
+		declare_war_on = {
+			type = puppet_wargoal_focus
+			target = W18
+		}
+	}
+		ai_will_do = {
+		factor = 10
+	}
+	}
+
+	focus = {
+		id = WarPlanMEXW09
+		icon = GFX_goal_generic_position_armies
+		text = WarPlanW09
+		prerequisite = { focus = LimMEX }
+		bypass = {
+		has_war_with = W09
+	}
+		x = 2
+		y = 1
+		relative_position_id = LimMEX
+		cost = 10
+		available = {
+		any_other_country = {
+			original_tag = W09
+			exists = yes
+			NOT = { has_government = democratic }
+			NOT = { is_in_faction_with = ROOT }
+			OR = {
+				has_offensive_war = yes
+				has_added_tension_amount > 30
+			}
+		}
+	}
+		completion_reward = {
+		army_experience = 20
+		add_doctrine_cost_reduction = {
+			name = land_doc_bonus
+			cost_reduction = 0.3
+			uses = 1
+			category = land_doctrine
+		}
+	}
+		ai_will_do = {
+		factor = 10
+	}
+	}
+
+	focus = {
+		id = EmbargoMEXW09
+		icon = GFX_goal_generic_trade
+		text = EmbargoW09
+		prerequisite = { focus =  WarPlanMEXW09 }
+		bypass = {
+		has_war_with = W09
+	}
+		x = 0
+		y = 1
+		relative_position_id = WarPlanMEXW09
+		cost = 10
+		available = {
+		any_other_country = {
+			original_tag = W09
+			exists = yes
+			NOT = { has_government = democratic }
+			NOT = { is_in_faction_with = ROOT }
+			OR = {
+				has_offensive_war = yes
+				has_added_tension_amount > 30
+				threat > 0.6
+			}
+		}
+	}
+		completion_reward = {
+		W09 = {
+			add_opinion_modifier = { target = ROOT modifier = embargo }
+		}
+	}
+		ai_will_do = {
+		factor = 10
+	}
+	}
+
+	focus = {
+		id = WARMEXW09
+		icon = GFX_goal_support_democracy
+		text = WARW09
+		prerequisite = { focus =  EmbargoMEXW09 }
+		bypass = {
+		has_war_with = W09
+	}
+		x = 0
+		y = 1
+		relative_position_id = EmbargoMEXW09
+		cost = 10
+		available = {
+		has_war = no
+		any_other_country = {
+			original_tag = W09
+			exists = yes
+			NOT = { has_government = democratic }
+			NOT = { is_in_faction_with = ROOT }
+			OR = {
+				has_offensive_war = yes
+				has_added_tension_amount > 30
+				threat > 0.6
+			}
+		}
+	}
+		completion_reward = {
+		declare_war_on = {
+			type = puppet_wargoal_focus
+			target = W09
+		}
+	}
+		ai_will_do = {
+		factor = 10
+	}
+	}
+
+}

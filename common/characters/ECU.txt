@@ -1,0 +1,16 @@
+characters={
+	ECU_juan_melo={
+		name=ECU_juan_melo
+		portraits={
+			civilian={
+				large="gfx/leaders/COS/portrait_cos_ricardo_jiminez_oreamuno.dds"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

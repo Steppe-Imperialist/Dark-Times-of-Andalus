@@ -1,0 +1,34 @@
+
+state={
+	id=737
+	name="STATE_737"
+
+	history={
+		owner = T28
+		victory_points = {
+			4450 10 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 1
+			4450 = {
+				naval_base = 1
+			}
+			air_base = 10
+
+		}
+		add_core_of = T28
+		add_core_of = U56
+		add_core_of = V61
+	}
+
+	provinces={
+		4450 
+	}
+	manpower=1257168
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

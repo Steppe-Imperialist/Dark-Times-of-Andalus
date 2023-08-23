@@ -1,0 +1,31 @@
+
+state={
+	id=228
+	name="STATE_228"
+
+	history={
+		owner = W41
+		victory_points = {
+			12017 0 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = S02
+		add_core_of = T89
+		add_claim_by = CHI
+	}
+
+	provinces={
+		4480 12017 12053 12310 
+	}
+	manpower=1333476
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

@@ -1,0 +1,18 @@
+﻿converted_war_strategies_W80 = {
+	enable = {
+		tag = W80
+		always = no
+	}
+	
+}
+
+converted_diplo_strategies_W80 = {
+	enable = {
+		tag = W80
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+}

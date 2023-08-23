@@ -1,0 +1,16 @@
+characters={
+	V80_augusto_haab={
+		name=V80_augusto_haab
+		portraits={
+			civilian={
+				large="GFX_Germany_Wilhelm_V"
+			}
+		}
+		country_leader={
+			ideology=dictatorship
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

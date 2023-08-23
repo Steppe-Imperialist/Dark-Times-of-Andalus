@@ -1,0 +1,58 @@
+﻿V76 = {
+	battle_cruiser = {
+		prefix = ""
+		generic = { "Battlecruiser" }
+		unique = {
+			"Goliath" "Joshua" "Samson" "Gideon" "Genesis" "Armageddon" 
+		}
+	}
+
+	battleship = {
+		prefix = ""
+		generic = { "Battleship" }
+		unique = {
+			"Voorniksniebangnie" "Natalia" "Eendrag" "Onoorwinlik" "Afrika" "Leeu" "Olifant" "Groot Trek" "Piet Retief" "Gerrit Maritz" "Andries Pretorius" "Louis Trichardt" "Hendrik Potgieter" "Sarel Cilliers" "Pieter Uys" "Jan van Riebeeck" "Jan-Willem Spruyt" 
+		}
+	}
+
+	carrier = {
+		prefix = ""
+		generic = { "Carrier" }
+		unique = {
+			"Natalia" "Eendrag" "Onoorwinlik" "Afrika" "Leeu" "Olifant" "Groot Trek" "Piet Retief" "Gerrit Maritz" "Andries Pretorius" "Louis Trichardt" "Hendrik Potgieter" "Sarel Cilliers" "Pieter Uys" "Jan van Riebeeck" "Jan-Willem Spruyt" 
+		}
+	}
+
+	destroyer = {
+		prefix = ""
+		generic = { "Destroyer" }
+		unique = {
+			"Natalia" "Eendrag" "Onoorwinlik" "Afrika" "Leeu" "Olifant" "Groot Trek" "Piet Retief" "Gerrit Maritz" "Andries Pretorius" "Louis Trichardt" "Hendrik Potgieter" "Sarel Cilliers" "Pieter Uys" "Jan van Riebeeck" "Jan-Willem Spruyt" 
+		}
+	}
+
+	heavy_cruiser = {
+		prefix = ""
+		generic = { "Heavy Cruiser" }
+		unique = {
+			"Natalia" "Eendrag" "Onoorwinlik" "Afrika" "Leeu" "Olifant" "Groot Trek" "Piet Retief" "Gerrit Maritz" "Andries Pretorius" "Louis Trichardt" "Hendrik Potgieter" "Sarel Cilliers" "Pieter Uys" "Jan van Riebeeck" "Jan-Willem Spruyt" 
+		}
+	}
+
+	light_cruiser = {
+		prefix = ""
+		generic = { "Light Cruiser" }
+		unique = {
+			"Natalia" "Eendrag" "Onoorwinlik" "Afrika" "Leeu" "Olifant" "Groot Trek" "Piet Retief" "Gerrit Maritz" "Andries Pretorius" "Louis Trichardt" "Hendrik Potgieter" "Sarel Cilliers" "Pieter Uys" "Jan van Riebeeck" "Jan-Willem Spruyt" 
+		}
+	}
+
+	submarine = {
+		prefix = ""
+		generic = { "Submarine" }
+		unique = {
+			"Natalia" "Eendrag" "Onoorwinlik" "Afrika" "Leeu" "Olifant" "Groot Trek" "Piet Retief" "Gerrit Maritz" "Andries Pretorius" "Louis Trichardt" "Hendrik Potgieter" "Sarel Cilliers" "Pieter Uys" "Jan van Riebeeck" "Jan-Willem Spruyt" 
+		}
+	}
+
+}

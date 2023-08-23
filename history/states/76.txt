@@ -1,0 +1,31 @@
+
+state={
+	id=76
+	name="STATE_76"
+
+	history={
+		owner = BAN
+		victory_points = {
+			4318 1 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = BAN
+		add_core_of = W78
+		add_core_of = W96
+	}
+
+	provinces={
+		1082 1197 1934 4318 4425 4996 8063 10920 12464 
+	}
+	manpower=1020056
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

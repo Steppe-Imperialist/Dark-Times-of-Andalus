@@ -1,0 +1,18 @@
+﻿converted_war_strategies_NAV = {
+	enable = {
+		tag = NAV
+		always = no
+	}
+	
+}
+
+converted_diplo_strategies_NAV = {
+	enable = {
+		tag = NAV
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+}

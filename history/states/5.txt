@@ -1,0 +1,33 @@
+
+state={
+	id=5
+	name="STATE_5"
+
+	history={
+		owner = X04
+		victory_points = {
+			7980 10 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 0
+			air_base = 10
+
+		}
+		add_core_of = ETH
+		add_core_of = W92
+		add_core_of = X04
+		add_claim_by = HAR
+		add_claim_by = X08
+	}
+
+	provinces={
+		2009 5010 7912 7980 8036 10734 12714 12856 13239 13243 13244 13245 13249 
+	}
+	manpower=2944104
+	buildings_max_level_factor=1.000
+	state_category=city
+
+	local_supplies=10.0
+}

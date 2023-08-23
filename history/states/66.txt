@@ -1,0 +1,33 @@
+
+state={
+	id=66
+	name="STATE_66"
+
+	history={
+		owner = BAH
+		victory_points = {
+			1513 1 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			dockyard = 1
+			10440 = {
+				naval_base = 4
+			}
+			air_base = 1
+
+		}
+		add_core_of = BAH
+	}
+
+	provinces={
+		1513 10440 
+	}
+	manpower=717744
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

@@ -1,0 +1,30 @@
+
+state={
+	id=29
+	name="STATE_29"
+
+	history={
+		owner = S14
+		victory_points = {
+			5221 0 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = S14
+		add_claim_by = ZAM
+	}
+
+	provinces={
+		5221 
+	}
+	manpower=85408
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

@@ -1,0 +1,36 @@
+
+state={
+	id=685
+	name="STATE_685"
+	resources={
+		aluminium=1.000
+	}
+
+	history={
+		owner = USA
+		victory_points = {
+			4345 10 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 0
+			air_base = 6
+
+		}
+		add_core_of = USA
+		add_core_of = V87
+		add_core_of = W72
+		add_core_of = X05
+		add_claim_by = CAN
+	}
+
+	provinces={
+		1341 4345 7345 
+	}
+	manpower=623068
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

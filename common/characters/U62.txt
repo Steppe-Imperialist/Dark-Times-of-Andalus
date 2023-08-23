@@ -1,0 +1,16 @@
+characters={
+	U62_bernardo_corona={
+		name=U62_bernardo_corona
+		portraits={
+			civilian={
+				large="GFX_FOP_Alfredo_Palacios"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

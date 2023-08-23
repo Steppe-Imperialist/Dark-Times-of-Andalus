@@ -1,0 +1,37 @@
+
+state={
+	id=574
+	name="STATE_574"
+	resources={
+		aluminium=7.000
+	}
+
+	history={
+		owner = SAX
+		victory_points = {
+			6521 2 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			arms_factory = 1
+			air_base = 0
+
+		}
+		add_core_of = SAX
+		add_core_of = U16
+		add_claim_by = ENG
+		add_claim_by = T24
+		add_claim_by = T79
+		add_claim_by = V38
+	}
+
+	provinces={
+		375 478 3207 3312 3367 3499 6521 9428 9496 11219 11415 11444 11505 
+	}
+	manpower=1157424
+	buildings_max_level_factor=1.000
+	state_category=large_town
+
+	local_supplies=10.0
+}

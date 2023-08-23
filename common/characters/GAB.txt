@@ -1,0 +1,56 @@
+characters={
+	GAB_antonio_d'absburgo_toscana={
+		name=GAB_antonio_d'absburgo_toscana
+		portraits={
+			army={
+				large="GFX_Portrait_Europe_Generic_land_3"
+			}
+			army={
+				small="GFX_Portrait_Europe_Generic_land_3"
+			}
+		}
+		corps_commander={
+			skill=2
+			attack_skill=3
+			defense_skill=2
+			planning_skill=2
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	GAB_ruggiero_porro={
+		name=GAB_ruggiero_porro
+		portraits={
+			navy={
+				large="GFX_Europe_Generic_navy_new_1"
+			}
+			navy={
+				small="GFX_Europe_Generic_navy_new_1"
+			}
+		}
+		navy_leader={
+			skill=2
+			attack_skill=1
+			defense_skill=1
+			maneuvering_skill=5
+			coordination_skill=1
+			legacy_id=0
+		}
+	}
+
+	GAB_gennaro_pianelli={
+		name=GAB_gennaro_pianelli
+		portraits={
+			civilian={
+				large="GFX_Papal_State_Angelo_Cerica"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

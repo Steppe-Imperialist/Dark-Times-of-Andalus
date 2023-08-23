@@ -1,0 +1,29 @@
+
+state={
+	id=99
+	name="STATE_99"
+
+	history={
+		owner = CAN
+		victory_points = {
+			10718 1 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = CAN
+	}
+
+	provinces={
+		602 777 1299 4775 4869 7366 7899 9467 9480 10718 12278 12582 
+	}
+	manpower=10320
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

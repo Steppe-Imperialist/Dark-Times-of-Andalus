@@ -1,0 +1,36 @@
+
+state={
+	id=153
+	name="STATE_153"
+
+	history={
+		owner = W18
+		victory_points = {
+			4344 40 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+			dockyard = 1
+			12208 = {
+				naval_base = 2
+			}
+			air_base = 10
+
+		}
+		add_core_of = RAJ
+		add_core_of = V73
+		add_core_of = W18
+		add_core_of = X58
+	}
+
+	provinces={
+		1412 4278 4291 4344 7244 7250 7395 8011 8100 10190 10208 12105 12146 12208 12734 
+	}
+	manpower=7235652
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

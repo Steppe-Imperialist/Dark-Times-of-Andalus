@@ -1,0 +1,16 @@
+characters={
+	LEB_abd_al_malik_al_hamawi={
+		name=LEB_abd_al_malik_al_hamawi
+		portraits={
+			civilian={
+				large="GFX_IRQ_Sheikh_Gabdan"
+			}
+		}
+		country_leader={
+			ideology=dictatorship
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

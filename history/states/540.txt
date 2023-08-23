@@ -1,0 +1,31 @@
+
+state={
+	id=540
+	name="STATE_540"
+
+	history={
+		owner = SOV
+		victory_points = {
+			12518 0 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			10598 = {
+				naval_base = 4
+			}
+			air_base = 0
+
+		}
+	}
+
+	provinces={
+		1714 1805 1865 4455 4810 4881 7772 10572 10598 11607 12518 12551 12592 12650 12683 
+	}
+	manpower=660596
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+
+	local_supplies=10.0
+}

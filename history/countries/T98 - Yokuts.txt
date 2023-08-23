@@ -1,0 +1,214 @@
+﻿capital = 708
+set_research_slots = 2
+
+oob = "T98_OOB"
+
+# Starting tech
+# Research Bonuses
+
+set_country_flag = conv_california
+set_convoys = 0
+
+set_politics = {
+    ruling_party = absolutist
+    last_election = "1836.1.1"
+    election_frequency = 48
+    elections_allowed = no
+}
+
+set_popularities = {
+	absolutist = 90
+	democratic = 7
+	neutrality = 3
+}
+
+add_opinion_modifier = { target = ADU modifier = negative_20 }
+add_opinion_modifier = { target = BAN modifier = negative_20 }
+add_opinion_modifier = { target = BRA modifier = negative_60 }
+add_opinion_modifier = { target = BRU modifier = negative_20 }
+add_opinion_modifier = { target = BYA modifier = negative_20 }
+add_opinion_modifier = { target = CAM modifier = negative_20 }
+add_opinion_modifier = { target = CAN modifier = negative_30 }
+add_opinion_modifier = { target = ENG modifier = negative_150 }
+add_opinion_modifier = { target = HOL modifier = negative_10 }
+add_opinion_modifier = { target = HUN modifier = negative_150 }
+add_opinion_modifier = { target = ITA modifier = negative_35 }
+add_opinion_modifier = { target = JAP modifier = negative_20 }
+add_opinion_modifier = { target = KAZ modifier = negative_20 }
+add_opinion_modifier = { target = KEN modifier = negative_20 }
+add_opinion_modifier = { target = KYR modifier = negative_20 }
+add_opinion_modifier = { target = LIT modifier = negative_25 }
+add_opinion_modifier = { target = MAN modifier = negative_20 }
+add_opinion_modifier = { target = MEX modifier = negative_30 }
+add_opinion_modifier = { target = NEP modifier = negative_20 }
+add_opinion_modifier = { target = PER modifier = negative_20 }
+add_opinion_modifier = { target = S01 modifier = negative_20 }
+add_opinion_modifier = { target = S05 modifier = negative_200 }
+add_opinion_modifier = { target = SAM modifier = negative_20 }
+add_opinion_modifier = { target = SIA modifier = negative_20 }
+add_opinion_modifier = { target = SIL modifier = negative_25 }
+add_opinion_modifier = { target = SOV modifier = negative_150 }
+add_opinion_modifier = { target = SWE modifier = negative_50 }
+add_opinion_modifier = { target = SWI modifier = negative_35 }
+add_opinion_modifier = { target = T05 modifier = negative_35 }
+add_opinion_modifier = { target = T13 modifier = negative_110 }
+add_opinion_modifier = { target = T27 modifier = negative_55 }
+add_opinion_modifier = { target = T28 modifier = negative_30 }
+add_opinion_modifier = { target = T29 modifier = negative_30 }
+add_opinion_modifier = { target = T30 modifier = negative_30 }
+add_opinion_modifier = { target = T33 modifier = negative_30 }
+add_opinion_modifier = { target = T35 modifier = negative_20 }
+add_opinion_modifier = { target = T39 modifier = negative_150 }
+add_opinion_modifier = { target = T43 modifier = negative_35 }
+add_opinion_modifier = { target = T44 modifier = negative_10 }
+add_opinion_modifier = { target = T59 modifier = negative_20 }
+add_opinion_modifier = { target = T64 modifier = negative_20 }
+add_opinion_modifier = { target = T65 modifier = negative_75 }
+add_opinion_modifier = { target = T66 modifier = negative_25 }
+add_opinion_modifier = { target = T67 modifier = negative_20 }
+add_opinion_modifier = { target = T72 modifier = negative_20 }
+add_opinion_modifier = { target = T81 modifier = negative_125 }
+add_opinion_modifier = { target = T83 modifier = negative_20 }
+add_opinion_modifier = { target = T89 modifier = negative_20 }
+add_opinion_modifier = { target = T90 modifier = negative_55 }
+add_opinion_modifier = { target = T99 modifier = negative_20 }
+add_opinion_modifier = { target = TUN modifier = negative_20 }
+add_opinion_modifier = { target = U09 modifier = negative_20 }
+add_opinion_modifier = { target = U12 modifier = negative_20 }
+add_opinion_modifier = { target = U24 modifier = negative_20 }
+add_opinion_modifier = { target = U26 modifier = negative_20 }
+add_opinion_modifier = { target = U53 modifier = negative_45 }
+add_opinion_modifier = { target = U58 modifier = negative_20 }
+add_opinion_modifier = { target = U70 modifier = negative_20 }
+add_opinion_modifier = { target = U77 modifier = negative_20 }
+add_opinion_modifier = { target = U79 modifier = negative_20 }
+add_opinion_modifier = { target = U81 modifier = negative_20 }
+add_opinion_modifier = { target = U98 modifier = negative_20 }
+add_opinion_modifier = { target = URG modifier = negative_25 }
+add_opinion_modifier = { target = USA modifier = negative_10 }
+add_opinion_modifier = { target = V04 modifier = negative_20 }
+add_opinion_modifier = { target = V09 modifier = positive_5 }
+add_opinion_modifier = { target = V13 modifier = negative_25 }
+add_opinion_modifier = { target = V14 modifier = negative_20 }
+add_opinion_modifier = { target = V19 modifier = negative_20 }
+add_opinion_modifier = { target = V21 modifier = negative_20 }
+add_opinion_modifier = { target = V36 modifier = negative_20 }
+add_opinion_modifier = { target = V38 modifier = negative_25 }
+add_opinion_modifier = { target = V41 modifier = negative_10 }
+add_opinion_modifier = { target = V53 modifier = negative_20 }
+add_opinion_modifier = { target = V55 modifier = negative_20 }
+add_opinion_modifier = { target = V63 modifier = negative_20 }
+add_opinion_modifier = { target = V87 modifier = negative_35 }
+add_opinion_modifier = { target = V91 modifier = negative_20 }
+add_opinion_modifier = { target = V92 modifier = negative_20 }
+add_opinion_modifier = { target = VEN modifier = negative_10 }
+add_opinion_modifier = { target = W09 modifier = negative_75 }
+add_opinion_modifier = { target = W13 modifier = negative_20 }
+add_opinion_modifier = { target = W15 modifier = negative_20 }
+add_opinion_modifier = { target = W18 modifier = negative_20 }
+add_opinion_modifier = { target = W23 modifier = negative_100 }
+add_opinion_modifier = { target = W30 modifier = negative_20 }
+add_opinion_modifier = { target = W38 modifier = negative_25 }
+add_opinion_modifier = { target = W45 modifier = negative_20 }
+add_opinion_modifier = { target = W58 modifier = negative_20 }
+add_opinion_modifier = { target = W68 modifier = negative_20 }
+add_opinion_modifier = { target = W74 modifier = negative_20 }
+add_opinion_modifier = { target = W89 modifier = negative_20 }
+add_opinion_modifier = { target = W90 modifier = negative_20 }
+add_opinion_modifier = { target = W98 modifier = negative_20 }
+add_opinion_modifier = { target = X04 modifier = negative_45 }
+add_opinion_modifier = { target = X07 modifier = negative_20 }
+add_opinion_modifier = { target = X17 modifier = negative_20 }
+add_opinion_modifier = { target = X22 modifier = negative_150 }
+add_opinion_modifier = { target = X26 modifier = negative_20 }
+add_opinion_modifier = { target = X27 modifier = negative_30 }
+add_opinion_modifier = { target = X47 modifier = negative_20 }
+add_opinion_modifier = { target = X50 modifier = negative_20 }
+add_opinion_modifier = { target = X58 modifier = negative_20 }
+add_opinion_modifier = { target = X59 modifier = negative_20 }
+add_opinion_modifier = { target = X63 modifier = negative_45 }
+add_opinion_modifier = { target = X77 modifier = negative_125 }
+add_opinion_modifier = { target = X79 modifier = positive_5 }
+add_opinion_modifier = { target = YEM modifier = negative_20 }
+add_opinion_modifier = { target = YUG modifier = negative_175 }
+
+
+add_ideas = {
+	uncivilized
+	limited_conscription
+	civilian_economy
+	export_focus
+	culture_penutian
+}
+
+recruit_character = T98_s'hootkanam_tsleil_waututh
+
+if = {
+	limit = {
+		has_dlc = "La Resistance"
+	}
+	create_operative_leader = {
+		name = "Olahl Yoncalla"
+		GFX = "gfx/leaders/Europe/portrait_europe_generic_operative_female_8.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { T98 }
+	}
+
+	create_operative_leader = {
+		name = "Wewick Popkum"
+		GFX = "gfx/leaders/Europe/portrait_europe_generic_operative_female_10.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { T98 }
+	}
+
+	create_operative_leader = {
+		name = "Sholeetsa Chepenafa"
+		GFX = "gfx/leaders/Europe/portrait_europe_generic_operative_female_21.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { T98 }
+	}
+
+	create_operative_leader = {
+		name = "Tophor Kwantlen"
+		GFX = "gfx/leaders/Europe/portrait_europe_generic_operative_male_14.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		nationalities = { T98 }
+	}
+
+	create_operative_leader = {
+		name = "Tasyah Skagits"
+		GFX = "gfx/leaders/Europe/portrait_europe_generic_operative_male_18.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		nationalities = { T98 }
+	}
+
+}
+### VARIANTS ###
+if = {
+	limit = { not = { has_dlc = "Man the Guns" } }
+}
+if = {
+	limit = { has_dlc = "Man the Guns" }
+}
+### PLANE DESIGNS ###
+if = {
+	limit = { has_dlc = "By Blood Alone" }
+}
+### TANK DESIGNS ###
+if = {
+	limit = { has_dlc = "No Step Back" }
+}
+

@@ -1,0 +1,30 @@
+
+state={
+	id=848
+	name="STATE_848"
+
+	history={
+		owner = S01
+		victory_points = {
+			12641 1 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = S01
+		add_core_of = YAK
+	}
+
+	provinces={
+		1672 1826 7751 7786 10643 10683 12641 
+	}
+	manpower=128572
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

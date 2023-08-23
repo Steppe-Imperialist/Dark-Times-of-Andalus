@@ -1,0 +1,33 @@
+
+state={
+	id=497
+	name="STATE_497"
+
+	history={
+		owner = U12
+		victory_points = {
+			12268 15 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+			1246 = {
+				naval_base = 1
+			}
+			air_base = 5
+
+		}
+		add_core_of = MAL
+		add_core_of = U12
+	}
+
+	provinces={
+		1246 1274 1313 1342 1401 4211 4276 4320 4361 4381 7384 7396 10150 10294 10322 12165 12209 12268 12296 
+	}
+	manpower=1855324
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

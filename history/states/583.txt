@@ -1,0 +1,42 @@
+
+state={
+	id=583
+	name="STATE_583"
+	resources={
+		aluminium=29.000
+		steel=36.000
+	}
+
+	history={
+		owner = SAX
+		victory_points = {
+			6282 7 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 3
+			dockyard = 2
+			6282 = {
+				naval_base = 6
+			}
+			air_base = 4
+
+		}
+		add_core_of = GER
+		add_core_of = SAX
+		add_core_of = U16
+		add_core_of = W23
+		add_claim_by = ENG
+		add_claim_by = T79
+	}
+
+	provinces={
+		444 537 3473 3572 6236 6282 6309 6334 6390 9252 9277 9306 9334 9361 9387 11260 11288 11316 11343 11372 11478 
+	}
+	manpower=3385128
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

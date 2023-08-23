@@ -1,0 +1,33 @@
+
+state={
+	id=72
+	name="STATE_72"
+
+	history={
+		owner = BAN
+		victory_points = {
+			11929 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			4162 = {
+				naval_base = 1
+			}
+			air_base = 0
+
+		}
+		add_core_of = BAN
+		add_claim_by = RAJ
+	}
+
+	provinces={
+		2843 4162 7078 7124 7634 9935 9991 9993 10035 10416 11911 11929 11968 12010 12423 13208 
+	}
+	manpower=12403548
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

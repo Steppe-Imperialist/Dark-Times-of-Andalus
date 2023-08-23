@@ -1,0 +1,116 @@
+﻿capital = 460
+set_research_slots = 2
+
+oob = "NGA_OOB"
+if = {
+	limit = { has_dlc = "Man the Guns" }
+		set_naval_oob = "NGA_1936_naval_mtg"
+	else = { 
+		set_naval_oob = "NGA_1936_naval_legacy"
+	}
+}
+
+# Starting tech
+# Research Bonuses
+
+set_country_flag = conv_nigeria
+set_convoys = 0
+
+set_politics = {
+    ruling_party = democratic
+    last_election = "1931.12.2"
+    election_frequency = 48
+    elections_allowed = yes
+}
+
+set_popularities = {
+	absolutist = 27
+	democratic = 71
+	neutrality = 2
+}
+
+add_ideas = {
+	uncivilized
+	volunteer_only
+	civilian_economy
+	export_focus
+	culture_fang
+}
+set_stability = 0.60
+set_war_support = 0.67
+
+recruit_character = NGA_ilo_atangana
+recruit_character = NGA_guban_ndi
+recruit_character = NGA_gamba_kumong
+recruit_character = NGA_kabili_nggam
+recruit_character = NGA_chane_ndi
+
+if = {
+	limit = {
+		has_dlc = "La Resistance"
+	}
+	create_operative_leader = {
+		name = "Nkwa Atangana"
+		GFX = "gfx/leaders/Africa/portrait_africa_generic_operative_female_1.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { NGA }
+	}
+
+	create_operative_leader = {
+		name = "Nkwa Atangana"
+		GFX = "gfx/leaders/Africa/portrait_africa_generic_operative_female_2.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { NGA }
+	}
+
+	create_operative_leader = {
+		name = "Nkwa Ndi"
+		GFX = "gfx/leaders/Africa/portrait_africa_generic_operative_female_3.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { NGA }
+	}
+
+	create_operative_leader = {
+		name = "Khairi Nggam"
+		GFX = "gfx/leaders/Africa/portrait_africa_generic_operative_male_1.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		nationalities = { NGA }
+	}
+
+	create_operative_leader = {
+		name = "Davu Samba"
+		GFX = "gfx/leaders/Africa/portrait_africa_generic_operative_male_2.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		nationalities = { NGA }
+	}
+
+}
+### VARIANTS ###
+if = {
+	limit = { not = { has_dlc = "Man the Guns" } }
+}
+if = {
+	limit = { has_dlc = "Man the Guns" }
+}
+### PLANE DESIGNS ###
+if = {
+	limit = { has_dlc = "By Blood Alone" }
+}
+### TANK DESIGNS ###
+if = {
+	limit = { has_dlc = "No Step Back" }
+}
+

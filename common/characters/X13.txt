@@ -1,0 +1,16 @@
+characters={
+	X13_king_yukihisa_ii={
+		name=X13_king_yukihisa_ii
+		portraits={
+			civilian={
+				large="GFX_Japan_Yasuhito"
+			}
+		}
+		country_leader={
+			ideology=absolute_monarchy
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

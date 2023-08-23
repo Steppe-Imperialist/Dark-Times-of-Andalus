@@ -1,0 +1,31 @@
+
+state={
+	id=400
+	name="STATE_400"
+
+	history={
+		owner = V14
+		victory_points = {
+			12677 0 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = X83
+		add_claim_by = V14
+		add_claim_by = ZAM
+	}
+
+	provinces={
+		12677 
+	}
+	manpower=86520
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

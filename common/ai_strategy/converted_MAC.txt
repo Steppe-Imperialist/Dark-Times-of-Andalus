@@ -1,0 +1,133 @@
+﻿converted_war_strategies_MAC = {
+	enable = {
+		tag = MAC
+		always = no
+	}
+	
+	ai_strategy = {
+		type = conquer
+		id = "YUG"
+		value = 2842
+	}
+	ai_strategy = {
+		type = conquer
+		id = "GRE"
+		value = 366
+	}
+	ai_strategy = {
+		type = conquer
+		id = "HUN"
+		value = 156
+	}
+	ai_strategy = {
+		type = conquer
+		id = "W53"
+		value = 78
+	}
+	ai_strategy = {
+		type = conquer
+		id = "ITA"
+		value = 78
+	}
+}
+
+converted_diplo_strategies_MAC = {
+	enable = {
+		tag = MAC
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+	ai_strategy = {
+		type = contain
+		id = "YUG"
+		value = 400
+	}
+	ai_strategy = {
+		type = contain
+		id = "ITA"
+		value = 280
+	}
+	ai_strategy = {
+		type = contain
+		id = "SAX"
+		value = 147
+	}
+	ai_strategy = {
+		type = contain
+		id = "GRE"
+		value = 130
+	}
+	ai_strategy = {
+		type = contain
+		id = "HUN"
+		value = 81
+	}
+	ai_strategy = {
+		type = contain
+		id = "T36"
+		value = 81
+	}
+	ai_strategy = {
+		type = contain
+		id = "S05"
+		value = 68
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "YUG"
+		value = 400
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "GRE"
+		value = 178
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "HUN"
+		value = 74
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "ITA"
+		value = 72
+	}
+	ai_strategy = {
+		type = alliance
+		id = "ITA"
+		value = 200
+	}
+	ai_strategy = {
+		type = alliance
+		id = "T13"
+		value = 167
+	}
+	ai_strategy = {
+		type = alliance
+		id = "X77"
+		value = 155
+	}
+	ai_strategy = {
+		type = alliance
+		id = "HUN"
+		value = 131
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "X47"
+		value = 58
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "T36"
+		value = 57
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "V61"
+		value = 35
+	}
+}

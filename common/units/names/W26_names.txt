@@ -1,0 +1,58 @@
+﻿W26 = {
+	battle_cruiser = {
+		prefix = ""
+		generic = { "Battlecruiser" }
+		unique = {
+			"Trieste" "Friuli" "Aquila" "Aurora" "Azzardoso" "Beroldo" "Condottiero" "Carloforte" "Colombo" "Daino" "Eridano" "Euridice" "Falco" "Favorita" "Nereide" "Patrona" "Serpente" "Tritone" "Veloce" "Vigilante" "Zeffiro" 
+		}
+	}
+
+	battleship = {
+		prefix = ""
+		generic = { "Battleship" }
+		unique = {
+			"Trieste" "Friuli" "Aquila" "Aurora" "Azzardoso" "Beroldo" "Condottiero" "Carloforte" "Colombo" "Daino" "Eridano" "Euridice" "Falco" "Favorita" "Nereide" "Patrona" "Serpente" "Tritone" "Veloce" "Vigilante" "Zeffiro" 
+		}
+	}
+
+	carrier = {
+		prefix = ""
+		generic = { "Carrier" }
+		unique = {
+			"Trieste" "Friuli" "Aquila" "Aurora" "Azzardoso" "Beroldo" "Condottiero" "Carloforte" "Colombo" "Daino" "Eridano" "Euridice" "Falco" "Favorita" "Nereide" "Patrona" "Serpente" "Tritone" "Veloce" "Vigilante" "Zeffiro" 
+		}
+	}
+
+	destroyer = {
+		prefix = ""
+		generic = { "Destroyer" }
+		unique = {
+			"Trieste" "Friuli" "Aquila" "Aurora" "Azzardoso" "Beroldo" "Condottiero" "Carloforte" "Colombo" "Daino" "Eridano" "Euridice" "Falco" "Favorita" "Nereide" "Patrona" "Serpente" "Tritone" "Veloce" "Vigilante" "Zeffiro" 
+		}
+	}
+
+	heavy_cruiser = {
+		prefix = ""
+		generic = { "Heavy Cruiser" }
+		unique = {
+			"Trieste" "Friuli" "Aquila" "Aurora" "Azzardoso" "Beroldo" "Condottiero" "Carloforte" "Colombo" "Daino" "Eridano" "Euridice" "Falco" "Favorita" "Nereide" "Patrona" "Serpente" "Tritone" "Veloce" "Vigilante" "Zeffiro" 
+		}
+	}
+
+	light_cruiser = {
+		prefix = ""
+		generic = { "Light Cruiser" }
+		unique = {
+			"Trieste" "Friuli" "Aquila" "Aurora" "Azzardoso" "Beroldo" "Condottiero" "Carloforte" "Colombo" "Daino" "Eridano" "Euridice" "Falco" "Favorita" "Nereide" "Patrona" "Serpente" "Tritone" "Veloce" "Vigilante" "Zeffiro" 
+		}
+	}
+
+	submarine = {
+		prefix = ""
+		generic = { "Submarine" }
+		unique = {
+			"Trieste" "Friuli" "Aquila" "Aurora" "Azzardoso" "Beroldo" "Condottiero" "Carloforte" "Colombo" "Daino" "Eridano" "Euridice" "Falco" "Favorita" "Nereide" "Patrona" "Serpente" "Tritone" "Veloce" "Vigilante" "Zeffiro" 
+		}
+	}
+
+}

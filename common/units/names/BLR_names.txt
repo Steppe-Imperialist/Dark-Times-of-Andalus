@@ -1,0 +1,58 @@
+﻿BLR = {
+	battle_cruiser = {
+		prefix = ""
+		generic = { "Battlecruiser" }
+		unique = {
+			"Belarus" "Minsk" "Brest" "Hrodna" "Gomel" "Mogilev" "Vitebsk" 
+		}
+	}
+
+	battleship = {
+		prefix = ""
+		generic = { "Battleship" }
+		unique = {
+			"Belarus" "Minsk" "Brest" "Hrodna" "Gomel" "Mogilev" "Vitebsk" 
+		}
+	}
+
+	carrier = {
+		prefix = ""
+		generic = { "Carrier" }
+		unique = {
+			"Belarus" "Minsk" "Brest" "Hrodna" "Gomel" "Mogilev" "Vitebsk" 
+		}
+	}
+
+	destroyer = {
+		prefix = ""
+		generic = { "Destroyer" }
+		unique = {
+			"Belarus" "Minsk" "Brest" "Hrodna" "Gomel" "Mogilev" "Vitebsk" 
+		}
+	}
+
+	heavy_cruiser = {
+		prefix = ""
+		generic = { "Heavy Cruiser" }
+		unique = {
+			"Belarus" "Minsk" "Brest" "Hrodna" "Gomel" "Mogilev" "Vitebsk" 
+		}
+	}
+
+	light_cruiser = {
+		prefix = ""
+		generic = { "Light Cruiser" }
+		unique = {
+			"Belarus" "Minsk" "Brest" "Hrodna" "Gomel" "Mogilev" "Vitebsk" 
+		}
+	}
+
+	submarine = {
+		prefix = ""
+		generic = { "Submarine" }
+		unique = {
+			"Belarus" "Minsk" "Brest" "Hrodna" "Gomel" "Mogilev" "Vitebsk" 
+		}
+	}
+
+}

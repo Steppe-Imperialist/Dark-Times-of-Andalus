@@ -1,0 +1,18 @@
+﻿converted_war_strategies_KAR = {
+	enable = {
+		tag = KAR
+		always = no
+	}
+	
+}
+
+converted_diplo_strategies_KAR = {
+	enable = {
+		tag = KAR
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+}

@@ -1,0 +1,32 @@
+
+state={
+	id=898
+	name="STATE_898"
+
+	history={
+		owner = S30
+		victory_points = {
+			13075 0 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			1712 = {
+				naval_base = 0
+			}
+			air_base = 0
+
+		}
+		add_core_of = S30
+	}
+
+	provinces={
+		1712 2407 2947 3606 3691 7696 7813 7869 7891 7901 10527 10703 10721 13075 
+	}
+	manpower=29424
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+
+	local_supplies=10.0
+}

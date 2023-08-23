@@ -1,0 +1,35 @@
+
+state={
+	id=258
+	name="STATE_258"
+
+	history={
+		owner = W58
+		victory_points = {
+			1951 15 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			arms_factory = 0
+			1951 = {
+				naval_base = 1
+			}
+			air_base = 5
+
+		}
+		add_core_of = DAH
+		add_core_of = TOG
+		add_claim_by = W12
+		add_claim_by = W58
+	}
+
+	provinces={
+		1951 12843 13212 
+	}
+	manpower=688104
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

@@ -1,0 +1,18 @@
+﻿converted_war_strategies_KSH = {
+	enable = {
+		tag = KSH
+		always = no
+	}
+	
+}
+
+converted_diplo_strategies_KSH = {
+	enable = {
+		tag = KSH
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+}

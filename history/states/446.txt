@@ -1,0 +1,33 @@
+
+state={
+	id=446
+	name="STATE_446"
+
+	history={
+		owner = V55
+		victory_points = {
+			12299 15 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+			12299 = {
+				naval_base = 6
+			}
+			air_base = 5
+
+		}
+		add_core_of = MAL
+		add_core_of = U44
+	}
+
+	provinces={
+		4412 4424 7427 10297 10313 12299 
+	}
+	manpower=901048
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

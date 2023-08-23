@@ -1,0 +1,43 @@
+
+state={
+	id=248
+	name="STATE_248"
+	resources={
+		chromium=2.000
+	}
+
+	history={
+		owner = GRE
+		victory_points = {
+			11984 10 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			11984 = {
+				naval_base = 8
+			}
+			air_base = 6
+
+		}
+		add_core_of = CYP
+		add_core_of = ITA
+		add_core_of = T13
+		ITA = {
+			set_province_controller = 11984
+		}
+		SEN = {
+			set_province_controller = 7193
+		}
+	}
+
+	provinces={
+		7193 11984 
+	}
+	manpower=255920
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

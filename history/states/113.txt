@@ -1,0 +1,31 @@
+
+state={
+	id=113
+	name="STATE_113"
+
+	history={
+		owner = U13
+		victory_points = {
+			6280 20 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 0
+			air_base = 6
+
+		}
+		add_core_of = BLR
+		add_core_of = T81
+		add_core_of = X77
+	    }
+
+	provinces={
+		560 3556 6280 6306 6415 6579 11285 
+	}
+	manpower=746316
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

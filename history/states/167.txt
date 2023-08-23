@@ -1,0 +1,36 @@
+
+state={
+	id=167
+	name="STATE_167"
+	resources={
+		steel=18.000
+	}
+
+	history={
+		owner = ENG
+		victory_points = {
+			9297 1 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 1
+			9250 = {
+				naval_base = 2
+			}
+			air_base = 1
+
+		}
+		add_core_of = ENG
+		add_core_of = W21
+	}
+
+	provinces={
+		364 3241 3301 3353 6237 6301 7239 9250 9268 9297 9322 11279 11345 11382 
+	}
+	manpower=2072616
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

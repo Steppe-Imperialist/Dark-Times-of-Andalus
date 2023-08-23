@@ -1,0 +1,58 @@
+﻿TEX = {
+	battle_cruiser = {
+		prefix = ""
+		generic = { "Battlecruiser" }
+		unique = {
+			"Texas" "The Alamo" "San Jacinto" "Sam Houston" "James Bowie" "William Travis" "Davy Crockett" "Mirabeau Lamar" "Austin" "Goliad" "Galveston" "Anson Jones" "Cherokee" "Ranger" "San Antonio" "Yellow Rose" 
+		}
+	}
+
+	battleship = {
+		prefix = ""
+		generic = { "Battleship" }
+		unique = {
+			"Texas" "The Alamo" "San Jacinto" "Sam Houston" "James Bowie" "William Travis" "Davy Crockett" "Mirabeau Lamar" "Austin" "Goliad" "Galveston" "Anson Jones" "Cherokee" "Ranger" "San Antonio" "Yellow Rose" 
+		}
+	}
+
+	carrier = {
+		prefix = ""
+		generic = { "Carrier" }
+		unique = {
+			"Texas" "The Alamo" "San Jacinto" "Sam Houston" "James Bowie" "William Travis" "Davy Crockett" "Mirabeau Lamar" "Austin" "Goliad" "Galveston" "Anson Jones" "Cherokee" "Ranger" "San Antonio" "Yellow Rose" 
+		}
+	}
+
+	destroyer = {
+		prefix = ""
+		generic = { "Destroyer" }
+		unique = {
+			"Texas" "The Alamo" "San Jacinto" "Sam Houston" "James Bowie" "William Travis" "Davy Crockett" "Mirabeau Lamar" "Austin" "Goliad" "Galveston" "Anson Jones" "Cherokee" "Ranger" "San Antonio" "Yellow Rose" 
+		}
+	}
+
+	heavy_cruiser = {
+		prefix = ""
+		generic = { "Heavy Cruiser" }
+		unique = {
+			"Texas" "The Alamo" "San Jacinto" "Sam Houston" "James Bowie" "William Travis" "Davy Crockett" "Mirabeau Lamar" "Austin" "Goliad" "Galveston" "Anson Jones" "Cherokee" "Ranger" "San Antonio" "Yellow Rose" 
+		}
+	}
+
+	light_cruiser = {
+		prefix = ""
+		generic = { "Light Cruiser" }
+		unique = {
+			"Texas" "The Alamo" "San Jacinto" "Sam Houston" "James Bowie" "William Travis" "Davy Crockett" "Mirabeau Lamar" "Austin" "Goliad" "Galveston" "Anson Jones" "Cherokee" "Ranger" "San Antonio" "Yellow Rose" 
+		}
+	}
+
+	submarine = {
+		prefix = ""
+		generic = { "Submarine" }
+		unique = {
+			"Texas" "The Alamo" "San Jacinto" "Sam Houston" "James Bowie" "William Travis" "Davy Crockett" "Mirabeau Lamar" "Austin" "Goliad" "Galveston" "Anson Jones" "Cherokee" "Ranger" "San Antonio" "Yellow Rose" 
+		}
+	}
+
+}

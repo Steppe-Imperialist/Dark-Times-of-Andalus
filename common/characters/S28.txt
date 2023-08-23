@@ -1,0 +1,16 @@
+characters={
+	S28_abbakka_wodeyar={
+		name=S28_abbakka_wodeyar
+		portraits={
+			civilian={
+				large="GFX_PRF_Taley_Muhammed_Khan_of_Palanpur"
+			}
+		}
+		country_leader={
+			ideology=prussian_const
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

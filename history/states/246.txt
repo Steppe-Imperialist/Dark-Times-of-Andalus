@@ -1,0 +1,38 @@
+
+state={
+	id=246
+	name="STATE_246"
+
+	history={
+		owner = GRE
+		victory_points = {
+			3686 10 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			arms_factory = 0
+			3686 = {
+				naval_base = 2
+			}
+			air_base = 5
+
+		}
+		add_core_of = GRE
+		add_core_of = SER
+		add_core_of = T60
+		add_core_of = W25
+		add_claim_by = CRI
+		add_claim_by = W53
+		add_claim_by = YUG
+	}
+
+	provinces={
+		3686 6704 9677 9680 
+	}
+	manpower=322540
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

@@ -1,0 +1,36 @@
+characters={
+	X06_emiliano_cervantes={
+		name=X06_emiliano_cervantes
+		portraits={
+			army={
+				large="GFX_Portugal_Antonio_Carmona"
+			}
+			army={
+				small="GFX_Portugal_Antonio_Carmona"
+			}
+		}
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X06_andres_pedraza={
+		name=X06_andres_pedraza
+		portraits={
+			civilian={
+				large="GFX_Mexico_Lazaro_Cardenas"
+			}
+		}
+		country_leader={
+			ideology=dictatorship_neutral
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

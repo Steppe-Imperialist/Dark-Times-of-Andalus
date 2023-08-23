@@ -1,0 +1,16 @@
+characters={
+	X08_abdi_mujahid={
+		name=X08_abdi_mujahid
+		portraits={
+			civilian={
+				large="GFX_SOM_Ibrahim_Sultan_Ali"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

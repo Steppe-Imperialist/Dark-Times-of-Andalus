@@ -1,0 +1,58 @@
+﻿V35 = {
+	battle_cruiser = {
+		prefix = ""
+		generic = { "Battlecruiser" }
+		unique = {
+			"Aleutia" "Midnight Sun" "Juneau" "Fairbanks" "Anchorage" "Badger" "Knik-Fairview" "Sitka" "Lakes" "Tanaina" "Ketchikan" "Kalifornsky" "Cicely" "Wasilla" "Meadow Lakes" "Kenai" "Steele Creek" "Kodiak" "Bethel" "Chena Ridge" "Sterling" "Gateway" 
+		}
+	}
+
+	battleship = {
+		prefix = ""
+		generic = { "Battleship" }
+		unique = {
+			"Aleutia" "Midnight Sun" "Juneau" "Fairbanks" "Anchorage" "Badger" "Knik-Fairview" "Sitka" "Lakes" "Tanaina" "Ketchikan" "Kalifornsky" "Cicely" "Wasilla" "Meadow Lakes" "Kenai" "Steele Creek" "Kodiak" "Bethel" "Chena Ridge" "Sterling" "Gateway" 
+		}
+	}
+
+	carrier = {
+		prefix = ""
+		generic = { "Carrier" }
+		unique = {
+			"Aleutia" "Midnight Sun" "Juneau" "Fairbanks" "Anchorage" "Badger" "Knik-Fairview" "Sitka" "Lakes" "Tanaina" "Ketchikan" "Kalifornsky" "Cicely" "Wasilla" "Meadow Lakes" "Kenai" "Steele Creek" "Kodiak" "Bethel" "Chena Ridge" "Sterling" "Gateway" 
+		}
+	}
+
+	destroyer = {
+		prefix = ""
+		generic = { "Destroyer" }
+		unique = {
+			"Aleutia" "Midnight Sun" "Juneau" "Fairbanks" "Anchorage" "Badger" "Knik-Fairview" "Sitka" "Lakes" "Tanaina" "Ketchikan" "Kalifornsky" "Cicely" "Wasilla" "Meadow Lakes" "Kenai" "Steele Creek" "Kodiak" "Bethel" "Chena Ridge" "Sterling" "Gateway" 
+		}
+	}
+
+	heavy_cruiser = {
+		prefix = ""
+		generic = { "Heavy Cruiser" }
+		unique = {
+			"Aleutia" "Midnight Sun" "Juneau" "Fairbanks" "Anchorage" "Badger" "Knik-Fairview" "Sitka" "Lakes" "Tanaina" "Ketchikan" "Kalifornsky" "Cicely" "Wasilla" "Meadow Lakes" "Kenai" "Steele Creek" "Kodiak" "Bethel" "Chena Ridge" "Sterling" "Gateway" 
+		}
+	}
+
+	light_cruiser = {
+		prefix = ""
+		generic = { "Light Cruiser" }
+		unique = {
+			"Aleutia" "Midnight Sun" "Juneau" "Fairbanks" "Anchorage" "Badger" "Knik-Fairview" "Sitka" "Lakes" "Tanaina" "Ketchikan" "Kalifornsky" "Cicely" "Wasilla" "Meadow Lakes" "Kenai" "Steele Creek" "Kodiak" "Bethel" "Chena Ridge" "Sterling" "Gateway" 
+		}
+	}
+
+	submarine = {
+		prefix = ""
+		generic = { "Submarine" }
+		unique = {
+			"Aleutia" "Midnight Sun" "Juneau" "Fairbanks" "Anchorage" "Badger" "Knik-Fairview" "Sitka" "Lakes" "Tanaina" "Ketchikan" "Kalifornsky" "Cicely" "Wasilla" "Meadow Lakes" "Kenai" "Steele Creek" "Kodiak" "Bethel" "Chena Ridge" "Sterling" "Gateway" 
+		}
+	}
+
+}

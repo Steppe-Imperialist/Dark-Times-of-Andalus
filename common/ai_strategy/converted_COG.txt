@@ -1,0 +1,198 @@
+﻿converted_war_strategies_COG = {
+	enable = {
+		tag = COG
+		always = no
+	}
+	
+	ai_strategy = {
+		type = conquer
+		id = "V14"
+		value = 738
+	}
+	ai_strategy = {
+		type = conquer
+		id = "V04"
+		value = 388
+	}
+	ai_strategy = {
+		type = conquer
+		id = "V36"
+		value = 240
+	}
+	ai_strategy = {
+		type = conquer
+		id = "V21"
+		value = 206
+	}
+	ai_strategy = {
+		type = conquer
+		id = "CAR"
+		value = 98
+	}
+	ai_strategy = {
+		type = conquer
+		id = "U64"
+		value = 72
+	}
+	ai_strategy = {
+		type = conquer
+		id = "ITA"
+		value = 43
+	}
+}
+
+converted_diplo_strategies_COG = {
+	enable = {
+		tag = COG
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+	ai_strategy = {
+		type = contain
+		id = "ITA"
+		value = 400
+	}
+	ai_strategy = {
+		type = contain
+		id = "V36"
+		value = 158
+	}
+	ai_strategy = {
+		type = contain
+		id = "CAR"
+		value = 147
+	}
+	ai_strategy = {
+		type = contain
+		id = "V04"
+		value = 139
+	}
+	ai_strategy = {
+		type = contain
+		id = "V14"
+		value = 104
+	}
+	ai_strategy = {
+		type = contain
+		id = "U64"
+		value = 88
+	}
+	ai_strategy = {
+		type = contain
+		id = "NGA"
+		value = 52
+	}
+	ai_strategy = {
+		type = contain
+		id = "V21"
+		value = 14
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "V14"
+		value = 400
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "V36"
+		value = 286
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "V04"
+		value = 252
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "T72"
+		value = 223
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "V21"
+		value = 213
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "S01"
+		value = 126
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "ITA"
+		value = 126
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "T64"
+		value = 111
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "U64"
+		value = 68
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "KAZ"
+		value = 33
+	}
+	ai_strategy = {
+		type = alliance
+		id = "V21"
+		value = 200
+	}
+	ai_strategy = {
+		type = alliance
+		id = "KEN"
+		value = 120
+	}
+	ai_strategy = {
+		type = alliance
+		id = "X04"
+		value = 52
+	}
+	ai_strategy = {
+		type = alliance
+		id = "SAX"
+		value = 51
+	}
+	ai_strategy = {
+		type = protect
+		id = "U64"
+		value = 40
+	}
+	ai_strategy = {
+		type = protect
+		id = "UGA"
+		value = 20
+	}
+	ai_strategy = {
+		type = protect
+		id = "EQG"
+		value = 9
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "V04"
+		value = 150
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "V36"
+		value = 120
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "U64"
+		value = 78
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "V14"
+		value = 68
+	}
+}
