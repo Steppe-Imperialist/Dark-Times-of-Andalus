@@ -816,7 +816,7 @@ on_actions = {
 	}
 	on_startup = {
 		effect = {
-
+			KIE = { add_manpower = 20000 }
 			SAX = { country_event = FRA_begin_rearmament.1 }
 		}
 	}

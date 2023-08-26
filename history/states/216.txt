@@ -31,7 +31,7 @@ state={
 	}
 
 	provinces={
-		743 3740 6621 6759 6762 6777 9710 9717 9737 
+		743 6621 6762 6777 9710 9737
 	}
 	manpower=1873900
 	buildings_max_level_factor=1.000

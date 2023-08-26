@@ -20,14 +20,14 @@ state={
 		}
 		add_core_of = LIT
 		add_core_of = W39
+
 	}
 
 	provinces={
-		536 9558 11479 
+		536 6580 9558 11479 
 	}
 	manpower=505368
 	buildings_max_level_factor=1.000
 	state_category=pastoral
-
-	local_supplies=10.0
+	local_supplies=10.000
 }

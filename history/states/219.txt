@@ -4,7 +4,7 @@ state={
 	name="STATE_219"
 
 	history={
-		owner = FRA
+		owner = T00
 		victory_points = {
 			9853 0 
 		}
@@ -20,6 +20,7 @@ state={
 		}
 		add_core_of = ADU
 		add_core_of = CAT
+		add_core_of = T00
 		add_claim_by = SPR
 	}
 

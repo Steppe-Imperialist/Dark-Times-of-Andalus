@@ -7,7 +7,7 @@ state={
 	}
 
 	history={
-		owner = YUG
+		owner = T66
 		victory_points = {
 			979 0 
 		}
@@ -23,6 +23,7 @@ state={
 		}
 		add_core_of = TUR
 		add_core_of = X24
+		add_core_of = T66
 		add_claim_by = SER
 		add_claim_by = W53
 		add_claim_by = YUG
