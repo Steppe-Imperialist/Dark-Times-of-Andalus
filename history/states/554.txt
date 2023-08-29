@@ -9,7 +9,7 @@ state={
 	}
 
 	history={
-		owner = SOV
+		owner = NOV
 		victory_points = {
 			12530 0 
 		}
@@ -19,19 +19,22 @@ state={
 			arms_factory = 0
 			105 = {
 				naval_base = 1
+
 			}
 			air_base = 0
 
 		}
 		add_core_of = TRA
+		add_core_of = NOV
+		add_core_of = SOV
+
 	}
 
 	provinces={
-		105 198 6040 6177 6538 7712 9121 9205 9230 10207 10579 10723 11047 11098 11119 11182 12530 13076 
+		105 154 198 6040 6177 6538 7712 9121 9205 9230 10207 10579 10723 11047 11098 11119 11182 12530 
 	}
 	manpower=324920
 	buildings_max_level_factor=1.000
 	state_category=rural
-
-	local_supplies=10.0
+	local_supplies=10.000
 }

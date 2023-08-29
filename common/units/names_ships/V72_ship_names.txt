@@ -1,7 +1,7 @@
-﻿V72_BB_HISTORICAL = {
+﻿MUS_BB_HISTORICAL = {
 	name = NAME_THEME_HISTORICAL_BB
 
-	for_countries = { V72 }
+	for_countries = { MUS }
 
 	type = ship
 	ship_types = { ship_hull_heavy battleship }
@@ -14,10 +14,10 @@
 	}
 }
 
-V72_BC_HISTORICAL = {
+MUS_BC_HISTORICAL = {
 	name = NAME_THEME_HISTORICAL_BC
 
-	for_countries = { V72 }
+	for_countries = { MUS }
 
 	type = ship
 	ship_types = { ship_hull_heavy battle_cruiser }
@@ -30,10 +30,10 @@ V72_BC_HISTORICAL = {
 	}
 }
 
-V72_CA_HISTORICAL = {
+MUS_CA_HISTORICAL = {
 	name = NAME_THEME_HISTORICAL_CA
 
-	for_countries = { V72 }
+	for_countries = { MUS }
 
 	type = ship
 	ship_types = { ship_hull_cruiser heavy_cruiser }
@@ -46,10 +46,10 @@ V72_CA_HISTORICAL = {
 	}
 }
 
-V72_CLAA_HISTORICAL = {
+MUS_CLAA_HISTORICAL = {
 	name = NAME_THEME_HISTORICAL_CLAA
 
-	for_countries = { V72 }
+	for_countries = { MUS }
 
 	type = ship
 	ship_types = { ship_hull_cruiser light_cruiser }
@@ -62,10 +62,10 @@ V72_CLAA_HISTORICAL = {
 	}
 }
 
-V72_CL_HISTORICAL = {
+MUS_CL_HISTORICAL = {
 	name = NAME_THEME_HISTORICAL_CL
 
-	for_countries = { V72 }
+	for_countries = { MUS }
 
 	type = ship
 	ship_types = { ship_hull_cruiser light_cruiser }
@@ -78,10 +78,10 @@ V72_CL_HISTORICAL = {
 	}
 }
 
-V72_CVL_HISTORICAL = {
+MUS_CVL_HISTORICAL = {
 	name = NAME_THEME_HISTORICAL_CVL
 
-	for_countries = { V72 }
+	for_countries = { MUS }
 
 	type = ship
 	ship_types = { ship_hull_carrier carrier }
@@ -94,10 +94,10 @@ V72_CVL_HISTORICAL = {
 	}
 }
 
-V72_CV_HISTORICAL = {
+MUS_CV_HISTORICAL = {
 	name = NAME_THEME_HISTORICAL_CARRIERS
 
-	for_countries = { V72 }
+	for_countries = { MUS }
 
 	type = ship
 	ship_types = { ship_hull_carrier carrier }
@@ -110,10 +110,10 @@ V72_CV_HISTORICAL = {
 	}
 }
 
-V72_DD_HISTORICAL = {
+MUS_DD_HISTORICAL = {
 	name = NAME_THEME_HISTORICAL_DESTROYERS
 
-	for_countries = { V72 }
+	for_countries = { MUS }
 
 	type = ship
 	ship_types = { ship_hull_light destroyer }
@@ -126,10 +126,10 @@ V72_DD_HISTORICAL = {
 	}
 }
 
-V72_DE_HISTORICAL = {
+MUS_DE_HISTORICAL = {
 	name = NAME_THEME_HISTORICAL_DE
 
-	for_countries = { V72 }
+	for_countries = { MUS }
 
 	type = ship
 	ship_types = { ship_hull_light destroyer }
@@ -142,10 +142,10 @@ V72_DE_HISTORICAL = {
 	}
 }
 
-V72_MINELAYERS_HISTORICAL = {
+MUS_MINELAYERS_HISTORICAL = {
 	name = NAME_THEME_HISTORICAL_MINELAYERS
 
-	for_countries = { V72 }
+	for_countries = { MUS }
 
 	type = ship
 	ship_types = { ship_hull_cruiser light_cruiser ship_hull_light destroyer }
@@ -158,10 +158,10 @@ V72_MINELAYERS_HISTORICAL = {
 	}
 }
 
-V72_SS_HISTORICAL = {
+MUS_SS_HISTORICAL = {
 	name = NAME_THEME_HISTORICAL_SUBMARINES
 
-	for_countries = { V72 }
+	for_countries = { MUS }
 
 	type = ship
 	ship_types = { ship_hull_submarine submarine }

@@ -1,7 +1,7 @@
 ﻿capital = 523
 set_research_slots = 3
 
-oob = "V72_OOB"
+oob = "MUS_OOB"
 
 # Starting tech
 # Research Bonuses
@@ -29,7 +29,7 @@ add_ideas = {
 	culture_russian
 }
 
-recruit_character = V72_king_leonid
+recruit_character = MUS_king_leonid
 
 if = {
 	limit = {
@@ -42,7 +42,7 @@ if = {
 		bypass_recruitment = no
 		available_to_spy_master = yes
 		female = yes
-		nationalities = { V72 }
+		nationalities = { MUS }
 	}
 
 	create_operative_leader = {
@@ -52,7 +52,7 @@ if = {
 		bypass_recruitment = no
 		available_to_spy_master = yes
 		female = yes
-		nationalities = { V72 }
+		nationalities = { MUS }
 	}
 
 	create_operative_leader = {
@@ -62,7 +62,7 @@ if = {
 		bypass_recruitment = no
 		available_to_spy_master = yes
 		female = yes
-		nationalities = { V72 }
+		nationalities = { MUS }
 	}
 
 	create_operative_leader = {
@@ -71,7 +71,7 @@ if = {
 		traits = {}
 		bypass_recruitment = no
 		available_to_spy_master = yes
-		nationalities = { V72 }
+		nationalities = { MUS }
 	}
 
 	create_operative_leader = {
@@ -80,7 +80,7 @@ if = {
 		traits = {}
 		bypass_recruitment = no
 		available_to_spy_master = yes
-		nationalities = { V72 }
+		nationalities = { MUS }
 	}
 
 }

@@ -16,7 +16,6 @@ state={
 
 		}
 		add_core_of = LIT
-		add_claim_by = SOV
 		add_claim_by = T88
 	}
 

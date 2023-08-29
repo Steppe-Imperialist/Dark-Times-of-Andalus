@@ -12870,7 +12870,42 @@ V71 = {
 		"N.N."
 	}
 }
-V72 = {
+MUS = {
+	male = {
+		names = {
+			"Aleksandr" "Aleksey" "Andrey" "Anton" "Boris" "Dmitriy" "Fedor" "Gennadiy" "Giorgiy" "Grigoriy"
+			"Igor'" "Ivan" "Kiril" "Konstantin" "Lavr" "Leonid" "Lev" "Maksim" "Mikhail" "Nikita"
+			"Nikolay" "Oleg" "Pavel" "Potr" "Rotan" "Semon" "Sergey" "Valeriy" "Vasiliy" "Viktor"
+			"Vladimir" "Vladislav" "Yegor" "Yevgeniy" "Yuriy" "Alexei" "Andrei" "Dmitry" "Fyodor" "Gennady"
+			"Giorgi" "Igor" "Kirill" "Maxim" "Nikolai" "Pyotr" "Roman" "Semyon" "Sergei" "Valery"
+			"Vasily" "Yevgeny" "Yuri"
+		}
+		surnames = {
+		"Aleksseyev" "Antonov" "Azarov" "Badanov" "Brusilov" "Budonnyy" "Chibisov" "Denikin" "Dragomirov" "Frolov"
+		"Golivin" "Grishin" "Gurko" "Ivanov" "Konev" "Konstantinov" "Kornilov" "Kolchak" "Kuropatkin" "Lazarev"
+		"Makarov" "Men'shikov" "Nakhimov" "Nebogatov" "Nikolayevich" "Ostrovskiy" "Pavlov" "Putyatin" "Romanov" "Rozhestvenskiy"
+		"Skobelev" "Shuvalov" "Surkov" "Tukhachevskiy" "Yegorov" "Yudenich" "Vorontsov" "Voroshilov" "Zavoyko" "Alexseyev"
+		"Budyonny" "Menshikov" "Nikolaevich" "Ostrovsky" "Rozhestvensky" "Tukhachevsky"
+		}
+	}
+	female = {
+		names = {
+			"Jelena" "Ludmila"
+		}
+		surnames = {
+		"Aleksseyeva" "Antonova" "Azarova" "Badanova" "Brusilova" "Budonnaya" "Chibisova" "Denikina" "Dragomirova" "Frolova"
+		"Golivina" "Grishina" "Gurkova" "Ivanova" "Koneva" "Konstantinova" "Kornilova" "Kolchakova" "Kuropatkina" "Lazareva"
+		"Makarova" "Men'shikova" "Nakhimova" "Nebogatova" "Nikolayevicha" "Ostrovskaya" "Pavlova" "Putyatina" "Romanova" "Rozhestvenskaya"
+		"Skobeleva" "Shuvalova" "Surkova" "Tukhachevskaya" "Yegorova" "Yudenicha" "Vorontsova" "Voroshilova" "Zavoyko"
+	}
+	}
+	callsigns = {
+		"Anvil" "Hammer" "Fury" "Arrow" "Storm" "Bear" "White Lily" "Devil" "Eagle" "Falcon"
+		"Fox" "Snowflake" "Greasy" "Guardian" "Gunman" "Hawk" "Hardball" "Howl" "Blizzard" "Husky"
+		"Ice" "Killer" "Steel" "Iron" "Skull" "Striker" "Thunder" "Warrior" "Wardog" "Vodka"
+	}
+}
+NOV = {
 	male = {
 		names = {
 			"Aleksandr" "Aleksey" "Andrey" "Anton" "Boris" "Dmitriy" "Fedor" "Gennadiy" "Giorgiy" "Grigoriy"
@@ -16525,20 +16560,6 @@ X10 = {
 		"Muskogean" "the European" "Blood God" "Demon" "Devil" "Spirit" "Ghost"
 	}
 }
-X11 = {
-	male = {
-		names = {
-		}
-	}
-	female = {
-		names = {
-		}
-	}
-	surnames = {
-	}
-	callsigns = {
-	}
-}
 X12 = {
 	male = {
 		names = {
@@ -18973,5 +18994,39 @@ ZAM = {
 		"Stubborn" "Arrow" "The King" "Eagle" "Hangover" "Striker" "Chase" "One Wing" "Pickle" "Thief"
 		"Thunder" "Lightning" "Storm" "Target" "Hawk" "Fox" "Dog" "Sparrow" "Sunrise" "Night Owl"
 		"Butcher" "Cocky" "Hawkeye" "Killer" "Mick" "Brandy" "The Baron"
+	}
+}
+X11 = {
+		male = {
+			names = {
+				"Hadji" "Sheyh" "Rasul" "Umma" "Halil" "Gadzhimurat" "Ghazi" "Gamzat-bek" "Najmuddin" "Tapa"
+				"Ali-Khaji" "Akusha" "Haidar" "Várkony" "Shamil" "Kamil" "Magomet" "Ibrahim" "Muhammad" "Mansur"
+				"Dzhokhar" "Avshalumov" "Aliyeva" "Askerkhanov" "Gamzatov" "Puterbrot" "Abdulkhakim" "Adam" "Buvaysar" "Kuramagomed"
+				"Khabib" "Ali" "Rustam"
+			}
+			surnames = {
+			"Awaral" "Gamzatov" "Mussayassul" "Aliev" "Murad" "Ma'arulal" "X'indalal" "Andis" "Didoi" "Anchikh"
+			"Bagulal" "Bezhta" "Archin" "Chamalal" "Hinukhs" "Ratsitl" "Godoberi" "Khvarshi" "Rachabalda" "Karata"
+			"Tokita" "Tindi" "Akhvakh" "Botlikh" "Hunzib" "al-Shishani" "Dargwa" "Kumyk" "Lezgiyar" "Tabasaran"
+			"Lak" "Nogai" "Aghul" "Rutul" "al-Tsakhur" "Muhammad" "Hotso" "Bamat" "Gadzhiyev" "Fazu"
+			"Gamzatovna"
+			}
+		}
+		female = {
+			names = {
+				"Abidat" "Aizaant" "Amanat" "Aset" "Aysha" "Chovka" "Elbika" "Fariza" "Kesira" "Khafsat"
+				"Khazbika" "Kulsum" "Maryat" "Medni" "Nurbika" "Qoqa" "Raykhanat" "Rezeda" "Rovzan" "Ruvayda"
+				"Sakinat" "Shovda" "Taymaskha" "Xava" "Yakhiyta" "Zakhira" "Zalina" "Zamira" "Zargan" "Zaynap"
+				"Zelimat" "Zulay" "Zulikha"
+			}
+			surnames = {
+			"Mollaha" "Beyeha" "Abdulayeva" "Abdurakhmanova" "Akhmadova" "Alieva" "Aslanbekova" "Barayeva" "Basayeva" "Dudayeva"
+			"Dudina" "Džabrailova" "Džokharova" "Elmurzaeva" "Ibragimova" "Isaeva" "Kadyrova" "Khasanova" "Kurbanova" "Magomedova"
+			"Maskhadova" "Mayrbekova" "Murtazalieva" "Musaeva" "Otarsultanova" "Sadulaeva" "Sagaipova" "Šapieva" "Šišhani" "Taymaskhanova"
+			"Tsarnaeva" "Umarova" "Vagabova" "Vakhaeva" "Varayeva" "Yamadaeva" "Yandarbieva" "Zelimkhanova"
+		}
+	}
+		callsigns = {
+			"Urysybzé" "Adygébzé"
 	}
 }

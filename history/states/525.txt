@@ -9,7 +9,7 @@ state={
 	}
 
 	history={
-		owner = SOV
+		owner = MUS
 		victory_points = {
 			3578 2 
 		}
@@ -21,6 +21,7 @@ state={
 
 		}
 		add_core_of = SOV
+		add_core_of = MUS
 		add_core_of = T01
 		add_core_of = U35
 	}

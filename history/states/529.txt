@@ -7,7 +7,7 @@ state={
 	}
 
 	history={
-		owner = SOV
+		owner = MUS
 		victory_points = {
 			464 1 
 		}
@@ -18,7 +18,7 @@ state={
 			air_base = 0
 
 		}
-		add_core_of = SOV
+		
 		add_core_of = T01
 		add_core_of = V86
 		add_claim_by = KAZ

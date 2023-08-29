@@ -1,12 +1,12 @@
 focus_tree = {
-	id = V72_focus
+	id = MUS_focus
 	
 	country = {
 		factor = 0
 		
 		modifier = {
 			add = 10
-			tag = V72
+			tag = MUS
 		}
 	}
 	
@@ -19,7 +19,7 @@ focus_tree = {
 	shared_focus = political_effort
 
 	focus = {
-		id = reclaim_coresV72
+		id = reclaim_coresMUS
 		icon = GFX_goal_generic_more_territorial_claims
 		text = reclaim_cores
 		x = 28
@@ -53,10 +53,10 @@ focus_tree = {
 	}
 
 	focus = {
-		id = raise_matterV72SOV
+		id = raise_matterMUSSOV
 		icon = GFX_focus_generic_self_management
 		text = raise_matterSOV
-		prerequisite = { focus = reclaim_coresV72 }
+		prerequisite = { focus = reclaim_coresMUS }
 		bypass = {
 			OR = {
 				is_subject = yes
@@ -121,10 +121,10 @@ focus_tree = {
 	}
 
 	focus = {
-		id = build_public_supportV72SOV
+		id = build_public_supportMUSSOV
 		icon = GFX_goal_generic_propaganda
 		text = build_public_supportSOV
-		prerequisite = { focus = raise_matterV72SOV }
+		prerequisite = { focus = raise_matterMUSSOV }
 		bypass = {
 			OR = {
 				is_subject = yes
@@ -135,7 +135,7 @@ focus_tree = {
 		}
 		x = 0
 		y = 1
-		relative_position_id = raise_matterV72SOV
+		relative_position_id = raise_matterMUSSOV
 		cost = 10
 		available = {
 			NOT = { is_in_faction_with = SOV }
@@ -177,7 +177,7 @@ focus_tree = {
 			}
 			modifier = {
 				factor = 1.5
-				has_completed_focus = raise_matterV72SOV
+				has_completed_focus = raise_matterMUSSOV
 			}
 			modifier = {
 				factor = 5
@@ -195,10 +195,10 @@ focus_tree = {
 	}
 
 	focus = {
-		id = territory_or_warV72SOV
+		id = territory_or_warMUSSOV
 		icon = GFX_goal_generic_territory_or_war
 		text = territory_or_warSOV
-		prerequisite = { focus = build_public_supportV72SOV }
+		prerequisite = { focus = build_public_supportMUSSOV }
 		bypass = {
 			OR = {
 				is_subject = yes
@@ -210,7 +210,7 @@ focus_tree = {
 		}
 		x = 0
 		y = 1
-		relative_position_id = build_public_supportV72SOV
+		relative_position_id = build_public_supportMUSSOV
 		cost = 3
 		available = {
 			NOT = { is_in_faction_with = SOV }
@@ -257,7 +257,7 @@ focus_tree = {
 			}
 			modifier = {
 				factor = 1.5
-				has_completed_focus = build_public_supportV72SOV
+				has_completed_focus = build_public_supportMUSSOV
 			}
 			modifier = {
 				factor = 5
@@ -275,10 +275,10 @@ focus_tree = {
 	}
 
 	focus = {
-		id = war_planV72SOV
+		id = war_planMUSSOV
 		icon = GFX_goal_generic_position_armies
 		text = war_planSOV
-		prerequisite = { focus = territory_or_warV72SOV }
+		prerequisite = { focus = territory_or_warMUSSOV }
 		bypass = {
 			OR = {
 				is_subject = yes
@@ -289,7 +289,7 @@ focus_tree = {
 		}
 		x = 0
 		y = 1
-		relative_position_id = territory_or_warV72SOV
+		relative_position_id = territory_or_warMUSSOV
 		cost = 4
 		available = {
 			NOT = { is_in_faction_with = SOV }
@@ -326,7 +326,7 @@ focus_tree = {
 			}
 			modifier = {
 				factor = 2
-				has_completed_focus = territory_or_warV72SOV
+				has_completed_focus = territory_or_warMUSSOV
 			}
 			modifier = {
 				factor = 5
@@ -344,10 +344,10 @@ focus_tree = {
 	}
 
 	focus = {
-		id = declare_warV72SOV
+		id = declare_warMUSSOV
 		icon = GFX_goal_generic_army_tanks
 		text = declare_warSOV
-		prerequisite = { focus = war_planV72SOV }
+		prerequisite = { focus = war_planMUSSOV }
 		bypass = {
 			OR = {
 				is_subject = yes
@@ -358,7 +358,7 @@ focus_tree = {
 		}
 		x = 0
 		y = 1
-		relative_position_id = war_planV72SOV
+		relative_position_id = war_planMUSSOV
 		cost = 3
 		available = {
 			NOT = { is_in_faction_with = SOV }
@@ -391,7 +391,7 @@ focus_tree = {
 			}
 			modifier = {
 				factor = 2
-				has_completed_focus = war_planV72SOV
+				has_completed_focus = war_planMUSSOV
 			}
 			modifier = {
 				factor = 5
@@ -409,13 +409,13 @@ focus_tree = {
 	}
 
 	focus = {
-		id = cleanup_revanchismV72SOV
+		id = cleanup_revanchismMUSSOV
 		icon = GFX_focus_generic_treaty
 		text = cleanup_revanchismSOV
-		prerequisite = { focus = declare_warV72SOV }
+		prerequisite = { focus = declare_warMUSSOV }
 		x = 0
 		y = 1
-		relative_position_id = declare_warV72SOV
+		relative_position_id = declare_warMUSSOV
 		cost = 0
 		available = {
 			OR = {

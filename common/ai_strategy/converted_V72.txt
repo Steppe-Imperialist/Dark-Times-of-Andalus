@@ -1,14 +1,14 @@
-﻿converted_war_strategies_V72 = {
+﻿converted_war_strategies_MUS = {
 	enable = {
-		tag = V72
+		tag = MUS
 		always = no
 	}
 	
 }
 
-converted_diplo_strategies_V72 = {
+converted_diplo_strategies_MUS = {
 	enable = {
-		tag = V72
+		tag = MUS
 		always = no
 	}
 	abort = {
