@@ -17,21 +17,22 @@ state={
 			arms_factory = 0
 			3022 = {
 				naval_base = 2
+
 			}
 			air_base = 0
 
 		}
 		add_core_of = ENG
 		add_claim_by = NOR
-		add_claim_by = SCA 
+		add_claim_by = SCA
+
 	}
 
 	provinces={
-		21 102 107 115 188 3018 3022 3093 3096 3098 3180 3183 6038 6041 6116 6118 6173 9069 9127 9132 9139 9216 11100 11118 11173 11206 
+		21 102 188 3022 3093 3096 3180 3183 6118 9127 9139 9216 11100 11118 11206 
 	}
 	manpower=94676
 	buildings_max_level_factor=1.000
 	state_category=rural
-
-	local_supplies=10.0
+	local_supplies=10.000
 }

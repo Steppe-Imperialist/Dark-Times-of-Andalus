@@ -3039,8 +3039,8 @@ intelligence_agency = {
 intelligence_agency = {
 	picture = GFX_intelligence_agency_logo_sov
 	names = { "Intelligence Agency" }
-	default = { tag = V72 }
-	available = { original_tag = V72 }
+	default = { tag = MUS }
+	available = { original_tag = MUS }
 }
 
 intelligence_agency = {

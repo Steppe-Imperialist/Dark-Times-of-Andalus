@@ -82043,7 +82043,233 @@ V71 = {
 	}
 }
 
-V72 = {
+MUS = {
+	army = {
+		male = {
+			"GFX_Portrait_Europe_Generic_land_1"
+			"GFX_Portrait_Europe_Generic_land_2"
+			"GFX_Portrait_Europe_Generic_land_3"
+			"GFX_Portrait_Europe_Generic_land_4"
+			"GFX_Portrait_Europe_Generic_land_5"
+			"GFX_Portrait_europe_generic_land_6"
+			"GFX_Portrait_europe_generic_land_7"
+			"GFX_Portrait_europe_generic_land_8"
+			"GFX_Portrait_europe_generic_land_9"
+			"GFX_portrait_europe_generic_land_13"
+			"GFX_portrait_MEX_Luis_Maria_Martinez"
+			"GFX_Portrait_Soviet_Generic_land_1"
+			"GFX_Portrait_Soviet_Generic_land_2"
+			"GFX_Portrait_Soviet_Generic_land_3"
+			"GFX_Portrait_Soviet_Generic_land_4"
+			"GFX_Portrait_Soviet_Generic_land_5"
+			"GFX_Portrait_Soviet_Generic_land_6"
+			"GFX_Portrait_Soviet_Generic_land_7"
+			"GFX_Portrait_Soviet_Generic_land_8"
+			"GFX_Portrait_Soviet_Generic_land_9"
+			"GFX_portrait_SOV_aleksandr_vasilevsky"
+			"GFX_portrait_SOV_aleksandr_gorbatov"
+			"GFX_portrait_SOV_andrey_grechko"
+			"GFX_portrait_SOV_andrey_yeryomenko"
+			"GFX_portrait_SOV_boris_shaposhnikov"
+			"GFX_portrait_SOV_dmitry_lelyushenko"
+			"GFX_portrait_SOV_filipp_golikov"
+			"GFX_portrait_SOV_georgy_zakharov"
+			"GFX_portrait_SOV_georgy_zhukov"
+			"GFX_portrait_SOV_grigory_kulik"
+			"GFX_portrait_SOV_issa_pliyev"
+			"GFX_portrait_SOV_ivan_chernyakhovsky"
+			"GFX_portrait_SOV_ivan_fedyuninsky"
+			"GFX_portrait_SOV_ivan_konev"
+			"GFX_portrait_SOV_kirill_meretskov"
+			"GFX_portrait_SOV_kirill_moskalenko"
+			"GFX_portrait_SOV_kliment_voroshilov"
+			"GFX_portrait_SOV_konstantin_rokossovsky"
+			"GFX_portrait_SOV_kuzma_galitsky"
+			"GFX_portrait_SOV_leonid_govorov"
+			"GFX_portrait_SOV_maksim_purkayev"
+			"GFX_portrait_SOV_markian_popov"
+			"gfx/leaders/SOV/Portrait_Soviet_Max_Andreyevich.dds"
+			"GFX_portrait_SOV_mikhail_tukhachevsky"
+			"GFX_portrait_SOV_nikandr_chibisov"
+			"GFX_portrait_SOV_nikolay_berzarin"
+			"GFX_portrait_SOV_nikolay_vatutin"
+			"GFX_Portrait_Soviet_Magic_Winner"
+			"GFX_portrait_SOV_rodion_malinovsky"
+			"GFX_portrait_SOV_semyon_budyonny"
+			"GFX_portrait_SOV_semyon_timoshenko"
+			"GFX_portrait_SOV_vasily_chuykov"
+			"GFX_portrait_SOV_vasily_kuznetsov"
+			"GFX_portrait_SOV_yakov_cherevichenko"
+			"GFX_portrait_SOV_georgy_zhukov"
+			"GFX_portrait_SOV_boris_shaposhnikov"
+			"GFX_Belarus_Bronislav_Kaminski"
+			"GFX_Belarus_Vital_Kazlou"
+			"GFX_TRM_Baranovsky"
+			"GFX_TRM_Stark"
+			"GFX_TRM_Pepelyaev"
+			"GFX_TRM_Boris_Annenkov"
+			"GFX_Soviet_Pjotr_Nikolajewitsch_Wrangel_3"
+			"GFX_Soviet_Sergei_Markov"
+			"GFX_Soviet_Vasili_Chernetsov"
+			"GFX_Soviet_Mikhail_Levitov"
+			"GFX_Soviet_Mitrofan_Nezhentsev"
+			"GFX_Soviet_Aleksander_Kutepov"
+			"GFX_Soviet_Abram_Dragomirov"
+			"GFX_Russia_Pyotr_Wrangel_Tsar"
+		}
+		female = {
+			"GFX_AST_Elsie_Farrely"
+			"GFX_Lucie_Dujardin"
+			"GFX_Poland_Roza_Luksemburg"
+		}
+	}
+
+	navy = {
+		male = {
+			"GFX_Portrait_Europe_Generic_navy_1"
+			"GFX_Portrait_Europe_Generic_navy_2"
+			"GFX_Portrait_Europe_Generic_navy_3"
+			"GFX_portrait_europe_generic_navy_4"
+			"GFX_portrait_europe_generic_navy_5"
+			"GFX_Portrait_Soviet_Generic_navy_1"
+			"GFX_Portrait_Soviet_Generic_navy_2"
+			"GFX_Portrait_Soviet_Generic_navy_3"
+			"GFX_portrait_SOV_arseny_golovko"
+			"GFX_portrait_SOV_filipp_oktyabrsky"
+			"GFX_portrait_SOV_gordey_levchenko"
+			"GFX_portrait_SOV_sergey_gorshkov"
+			"GFX_portrait_SOV_vladimir_kasatonov"
+			"GFX_Europe_Generic_navy_new_1"
+			"GFX_Europe_Generic_navy_new_2"
+			"GFX_Europe_Generic_navy_new_3"
+			"GFX_Europe_Generic_navy_new_4"
+			"GFX_Europe_Generic_navy_new_5"
+			"GFX_Ukraine_Sviatoslav_Shramchenko"
+			"GFX_Russia_Mikhail_Berens"
+			"GFX_Russia_Alexandr_Kolchak"
+			"GFX_Soviet_Nestor_Monastyrev"
+		}
+		female = {
+			"GFX_AST_Elsie_Farrely"
+			"GFX_Lucie_Dujardin"
+			"GFX_Poland_Roza_Luksemburg"
+		}
+	}
+	political = {
+		communism = {
+			male = {
+				"gfx/leaders/Europe/Portrait_Europe_Generic_1.dds"
+				"gfx/leaders/Europe/portrait_europe_generic_8.dds"
+				"gfx/leaders/SOV/Portrait_Soviet_Generic_1.dds"
+				"gfx/leaders/SOV/Portrait_Leon_Trotsky.dds"
+				"gfx/leaders/SOV/Portrait_Soviet_Joseph_Stalin.dds"
+				"GFX_SOV_Vladimir_Lenin"
+				"GFX_Ukraine_Vladimir_Vynnychenko"
+				"GFX_Soviet_Nikolai_Iwanowitsch_Bucharin"
+			}
+			female = {
+				"GFX_AST_Elsie_Farrely"
+				"gfx/leaders/ARG/Portrait_Argentina_Fanny_Edelman.dds"
+				"GFX_HOL_Marie_Adelaide"
+				"GFX_Lucie_Dujardin"
+				"GFX_Poland_Roza_Luksemburg"
+			}
+		}
+		democratic = {
+			male = {
+				"gfx/leaders/Europe/portrait_europe_generic_5.dds"
+				"gfx/leaders/POL/Portrait_POL_Wincenty_Witos.dds"
+				"gfx/leaders/SOV/Portrait_Soviet_Victor_Baydalakov.dds"
+				"GFX_Belarus_Anton_Boryk"
+				"GFX_Belarus_Vaclau_Lastouski"
+				"GFX_Soviet_Alexander_Kerensky"
+			}
+			female = {
+				"GFX_AST_Elsie_Farrely"
+				"gfx/leaders/ARG/Portrait_Argentina_Fanny_Edelman.dds"
+				"GFX_HOL_Marie_Adelaide"
+				"GFX_Lucie_Dujardin"
+				"GFX_Poland_Roza_Luksemburg"
+			}
+		}
+		fascism = {
+			male = {
+				"gfx/leaders/Europe/portrait_europe_generic_6.dds"
+				"gfx/leaders/SOV/Portrait_Soviet_Generic_3.dds"
+				"gfx/leaders/SOV/Portrait_Soviet_Konstantin_Rodzaevsky.dds"
+				"GFX_Ukraine_Dmitri_Dontsov"
+				"GFX_DKB_Petr_Krasnov"
+			}
+			female = {
+				"GFX_AST_Elsie_Farrely"
+				"gfx/leaders/ARG/Portrait_Argentina_Fanny_Edelman.dds"
+				"GFX_HOL_Marie_Adelaide"
+				"GFX_Lucie_Dujardin"
+				"GFX_Poland_Roza_Luksemburg"
+			}
+		}
+		absolutist = {
+			male = {
+				"gfx/leaders/Europe/Portrait_europe_generic_7.dds"
+				"GFX_Belarus_Vladimir_I"
+				"GFX_Ukraine_Vasyl"
+				"GFX_UKR_Leo_Stefan_I"
+				"GFX_Soviet_Vladimir_Romanov"
+				"GFX_Soviet_Kyril_Romanov"
+				"GFX_Soviet_Dmitri_Romanov_Tsar"
+			}
+			female = {
+				"GFX_HOL_Marie_Adelaide"
+				"GFX_Holland_Wilhelmina"
+			}
+		}
+		neutrality = {
+			male = {
+				"gfx/leaders/Europe/Portrait_Europe_Generic_3.dds"
+				"gfx/leaders/SOV/Portrait_Soviet_Andrey_Vlasov.dds"
+				"GFX_Belarus_Auhien_Kalubovic"
+				"GFX_Belarus_Stanislaw_Bulak_Balachowicz"
+				"GFX_Ukraine_Mikhail_Bulgakov"
+				"GFX_Transamur_Spiridon_Merkulov"
+				"GFX_Soviet_Dmitri_Romanov"
+			}
+			female = {
+				"GFX_AST_Elsie_Farrely"
+				"gfx/leaders/ARG/Portrait_Argentina_Fanny_Edelman.dds"
+				"GFX_HOL_Marie_Adelaide"
+				"GFX_Lucie_Dujardin"
+				"GFX_Poland_Roza_Luksemburg"
+			}
+		}
+		radical = {
+			male = {
+				"gfx/leaders/Europe/Portrait_Europe_Generic_2.dds"
+				"gfx/leaders/Europe/portrait_europe_generic_4.dds"
+				"gfx/leaders/SOV/Portrait_Soviet_Generic_2.dds"
+			}
+			female = {
+				"GFX_AST_Elsie_Farrely"
+				"gfx/leaders/ARG/Portrait_Argentina_Fanny_Edelman.dds"
+				"GFX_HOL_Marie_Adelaide"
+				"GFX_Lucie_Dujardin"
+				"GFX_Poland_Roza_Luksemburg"
+			}
+		}
+	}
+	operative = {
+		male = {
+			"gfx/leaders/Europe/portrait_europe_generic_operative_male_1.dds"
+			"gfx/leaders/Europe/portrait_europe_generic_operative_male_2.dds"
+		}
+		female = {
+			"gfx/leaders/Europe/portrait_europe_generic_operative_female_1.dds"
+			"gfx/leaders/Europe/portrait_europe_generic_operative_female_2.dds"
+			"gfx/leaders/Europe/portrait_europe_generic_operative_female_3.dds"
+		}
+	}
+}
+
+NOV = {
 	army = {
 		male = {
 			"GFX_Portrait_Europe_Generic_land_1"
@@ -103643,65 +103869,6 @@ X10 = {
 	}
 }
 
-X11 = {
-	political = {
-		communism = {
-			male = {
-				"gfx/leaders/leader_unknown.dds"
-			}
-			female = {
-				"gfx/leaders/leader_unknown_female.dds"
-			}
-		}
-		democratic = {
-			male = {
-				"gfx/leaders/leader_unknown.dds"
-			}
-			female = {
-				"gfx/leaders/leader_unknown_female.dds"
-			}
-		}
-		fascism = {
-			male = {
-				"gfx/leaders/leader_unknown.dds"
-			}
-			female = {
-				"gfx/leaders/leader_unknown_female.dds"
-			}
-		}
-		absolutist = {
-			male = {
-				"gfx/leaders/leader_unknown.dds"
-			}
-			female = {
-				"gfx/leaders/leader_unknown_female.dds"
-			}
-		}
-		neutrality = {
-			male = {
-				"gfx/leaders/leader_unknown.dds"
-			}
-			female = {
-				"gfx/leaders/leader_unknown_female.dds"
-			}
-		}
-		radical = {
-			male = {
-				"gfx/leaders/leader_unknown.dds"
-			}
-			female = {
-				"gfx/leaders/leader_unknown_female.dds"
-			}
-		}
-	}
-	operative = {
-		male = {
-		}
-		female = {
-		}
-	}
-}
-
 X12 = {
 	army = {
 		male = {
@@ -116695,6 +116862,171 @@ LOT = {
 				"GFX_England_Sylvia_Pankhurst"
 				"GFX_HOL_Marie_Adelaide"
 				"GFX_Lucie_Dujardin"
+			}
+		}
+	}
+	operative = {
+		male = {
+			"gfx/leaders/Europe/portrait_europe_generic_operative_male_1.dds"
+			"gfx/leaders/Europe/portrait_europe_generic_operative_male_2.dds"
+		}
+		female = {
+			"gfx/leaders/Europe/portrait_europe_generic_operative_female_1.dds"
+			"gfx/leaders/Europe/portrait_europe_generic_operative_female_2.dds"
+			"gfx/leaders/Europe/portrait_europe_generic_operative_female_3.dds"
+		}
+	}
+}
+
+X11 = {
+	army = {
+		male = {
+			"GFX_Portrait_Europe_Generic_land_1"
+			"GFX_Portrait_Europe_Generic_land_2"
+			"GFX_Portrait_Europe_Generic_land_3"
+			"GFX_Portrait_Europe_Generic_land_4"
+			"GFX_Portrait_Europe_Generic_land_5"
+			"GFX_Portrait_europe_generic_land_6"
+			"GFX_Portrait_europe_generic_land_7"
+			"GFX_Portrait_europe_generic_land_8"
+			"GFX_Portrait_europe_generic_land_9"
+			"GFX_portrait_europe_generic_land_13"
+			"GFX_portrait_MEX_Luis_Maria_Martinez"
+			"GFX_GRE_Alexandros_Papagos"
+			"GFX_GRE_George_army"
+			"GFX_GRE_Manolis_Mantakas"
+			"GFX_GRE_Napoleon_Zervas"
+		}
+		female = {
+			"GFX_ARG_Elvira_Rawson"
+			"GFX_CNT_Dolores_Ibaurri_Gomez"
+			"GFX_Portugal_Maria_Adelaide"
+			"GFX_SRI_Ines_Donati"
+		}
+	}
+
+	navy = {
+		male = {
+			"GFX_Portrait_Europe_Generic_navy_1"
+			"GFX_Portrait_Europe_Generic_navy_2"
+			"GFX_Portrait_Europe_Generic_navy_3"
+			"GFX_portrait_europe_generic_navy_4"
+			"GFX_portrait_europe_generic_navy_5"
+			"GFX_Portrait_Italy_Generic_navy_1"
+			"GFX_Portrait_Italy_Generic_navy_2"
+			"GFX_Portrait_Italy_Generic_navy_3"
+			"GFX_portrait_ITA_ferdinando_adalberto"
+			"GFX_portrait_ITA_alberto_da_zara"
+			"GFX_portrait_ITA_angelo_iachino"
+			"GFX_portrait_ITA_carlo_bergamini"
+			"GFX_portrait_ITA_giuseppe_fioravanzo"
+			"GFX_portrait_ITA_inigo_campioni"
+			"GFX_Europe_Generic_navy_new_1"
+			"GFX_Europe_Generic_navy_new_2"
+			"GFX_Europe_Generic_navy_new_3"
+			"GFX_Europe_Generic_navy_new_4"
+			"GFX_Europe_Generic_navy_new_5"
+			"GFX_r56_generic_admiral_GRE_1"
+			"GFX_r56_generic_admiral_GRE_2"
+			"GFX_GRE_Antonis_Mezeviris"
+			"GFX_GRE_Alexandros_Sakellariou"
+			"GFX_GRE_Ioannis_Toumbas"
+			"GFX_GRE_Petros_Voulgaris"
+			"GFX_GRE_Stylianos_Lykoudis"
+		}
+		female = {
+			"GFX_ARG_Elvira_Rawson"
+			"GFX_CNT_Dolores_Ibaurri_Gomez"
+			"GFX_Portugal_Maria_Adelaide"
+			"GFX_SRI_Ines_Donati"
+		}
+	}
+	political = {
+		communism = {
+			male = {
+				"gfx/leaders/Europe/Portrait_Europe_Generic_1.dds"
+				"gfx/leaders/Europe/portrait_europe_generic_8.dds"
+				"gfx/leaders/GRE/Portrait_Greece_Markos_Vafiadis.dds"
+				"GFX_GRE_Athanasios_Klaras"
+				"GFX_GRE_Nikos_Beloyannis"
+				"GFX_GRE_Nikos_Ploumpidis"
+				"GFX_GRE_Stefanos_Sarafis"
+				"GFX_GEO_Kandid_Charkviani"
+			}
+			female = {
+				"GFX_ARG_Elvira_Rawson"
+				"GFX_CNT_Dolores_Ibaurri_Gomez"
+				"GFX_Portugal_Maria_Adelaide"
+				"GFX_SRI_Ines_Donati"
+			}
+		}
+		democratic = {
+			male = {
+				"gfx/leaders/Europe/portrait_europe_generic_5.dds"
+				"GFX_GRE_George_Santios"
+				"GFX_GRE_Konstantinos_Tsaldaris"
+				"GFX_GRE_Panagiotis_Kanellopoulos"
+				"GFX_GRE_Themistoklis_Sofoulis"
+				"GFX_Armenia_Andranik_Toros_Ozanian"
+			}
+			female = {
+				"GFX_ARG_Elvira_Rawson"
+				"GFX_CNT_Dolores_Ibaurri_Gomez"
+				"GFX_Portugal_Maria_Adelaide"
+				"GFX_SRI_Ines_Donati"
+			}
+		}
+		fascism = {
+			male = {
+				"gfx/leaders/Europe/portrait_europe_generic_6.dds"
+				"gfx/leaders/GRE/portrait_gre_adolfos_i.dds"
+			}
+			female = {
+				"GFX_ARG_Elvira_Rawson"
+				"GFX_CNT_Dolores_Ibaurri_Gomez"
+				"GFX_Portugal_Maria_Adelaide"
+				"GFX_SRI_Ines_Donati"
+			}
+		}
+		absolutist = {
+			male = {
+				"gfx/leaders/Europe/Portrait_europe_generic_7.dds"
+				"GFX_GRE_Alexander"
+				"GFX_GRE_George"
+				"GFX_GRE_Paul"
+				"GFX_Cyprus_Makarios_Third"
+			}
+			female = {
+				"GFX_Portugal_Maria_Ana"
+			}
+		}
+		neutrality = {
+			male = {
+				"gfx/leaders/Europe/Portrait_Europe_Generic_3.dds"
+				"gfx/leaders/GRE/Portrait_Greece_Ioannis_Metaxas.dds"
+				"GFX_GRE_Ioannis_Metaxas_KR"
+			}
+			female = {
+				"GFX_ARG_Elvira_Rawson"
+				"GFX_CNT_Dolores_Ibaurri_Gomez"
+				"GFX_Portugal_Maria_Adelaide"
+				"GFX_SRI_Ines_Donati"
+			}
+		}
+		radical = {
+			male = {
+				"gfx/leaders/Europe/Portrait_Europe_Generic_2.dds"
+				"gfx/leaders/Europe/portrait_europe_generic_4.dds"
+				"GFX_GRE_Alexandros_Papanastasiou"
+				"GFX_GRE_Alexandros_Svolos"
+				"GFX_GRE_Konstantinos_Tsatsos"
+				"GFX_GRE_Nikolaos_Plastiras"
+			}
+			female = {
+				"GFX_ARG_Elvira_Rawson"
+				"GFX_CNT_Dolores_Ibaurri_Gomez"
+				"GFX_Portugal_Maria_Adelaide"
+				"GFX_SRI_Ines_Donati"
 			}
 		}
 	}

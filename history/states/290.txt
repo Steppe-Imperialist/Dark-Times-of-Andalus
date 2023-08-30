@@ -19,9 +19,6 @@ state={
 
 		}
 		add_core_of = W39
-		add_claim_by = CZE
-		add_claim_by = SOV
-		add_claim_by = W09
 	}
 
 	provinces={

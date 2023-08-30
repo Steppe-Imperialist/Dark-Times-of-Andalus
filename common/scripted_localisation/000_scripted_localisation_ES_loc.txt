@@ -18944,45 +18944,45 @@ defined_text = {
 	}
 	text = {
 		trigger = {
-			OR = { tag = V72 original_tag = V72 }
+			OR = { tag = MUS original_tag = MUS }
 			has_government = absolutist
 		}
-		localization_key = V72_absolutist_ADJ_MS_ES
+		localization_key = MUS_absolutist_ADJ_MS_ES
 	}
 	text = {
 		trigger = {
-			OR = { tag = V72 original_tag = V72 }
+			OR = { tag = MUS original_tag = MUS }
 			has_government = communism
 		}
-		localization_key = V72_communism_ADJ_MS_ES
+		localization_key = MUS_communism_ADJ_MS_ES
 	}
 	text = {
 		trigger = {
-			OR = { tag = V72 original_tag = V72 }
+			OR = { tag = MUS original_tag = MUS }
 			has_government = democratic
 		}
-		localization_key = V72_democratic_ADJ_MS_ES
+		localization_key = MUS_democratic_ADJ_MS_ES
 	}
 	text = {
 		trigger = {
-			OR = { tag = V72 original_tag = V72 }
+			OR = { tag = MUS original_tag = MUS }
 			has_government = fascism
 		}
-		localization_key = V72_fascism_ADJ_MS_ES
+		localization_key = MUS_fascism_ADJ_MS_ES
 	}
 	text = {
 		trigger = {
-			OR = { tag = V72 original_tag = V72 }
+			OR = { tag = MUS original_tag = MUS }
 			has_government = neutrality
 		}
-		localization_key = V72_neutrality_ADJ_MS_ES
+		localization_key = MUS_neutrality_ADJ_MS_ES
 	}
 	text = {
 		trigger = {
-			OR = { tag = V72 original_tag = V72 }
+			OR = { tag = MUS original_tag = MUS }
 			has_government = radical
 		}
-		localization_key = V72_radical_ADJ_MS_ES
+		localization_key = MUS_radical_ADJ_MS_ES
 	}
 	text = {
 		trigger = {
@@ -46961,45 +46961,45 @@ defined_text = {
 	}
 	text = {
 		trigger = {
-			OR = { tag = V72 original_tag = V72 }
+			OR = { tag = MUS original_tag = MUS }
 			has_government = absolutist
 		}
-		localization_key = V72_absolutist_ADJ_MP_ES
+		localization_key = MUS_absolutist_ADJ_MP_ES
 	}
 	text = {
 		trigger = {
-			OR = { tag = V72 original_tag = V72 }
+			OR = { tag = MUS original_tag = MUS }
 			has_government = communism
 		}
-		localization_key = V72_communism_ADJ_MP_ES
+		localization_key = MUS_communism_ADJ_MP_ES
 	}
 	text = {
 		trigger = {
-			OR = { tag = V72 original_tag = V72 }
+			OR = { tag = MUS original_tag = MUS }
 			has_government = democratic
 		}
-		localization_key = V72_democratic_ADJ_MP_ES
+		localization_key = MUS_democratic_ADJ_MP_ES
 	}
 	text = {
 		trigger = {
-			OR = { tag = V72 original_tag = V72 }
+			OR = { tag = MUS original_tag = MUS }
 			has_government = fascism
 		}
-		localization_key = V72_fascism_ADJ_MP_ES
+		localization_key = MUS_fascism_ADJ_MP_ES
 	}
 	text = {
 		trigger = {
-			OR = { tag = V72 original_tag = V72 }
+			OR = { tag = MUS original_tag = MUS }
 			has_government = neutrality
 		}
-		localization_key = V72_neutrality_ADJ_MP_ES
+		localization_key = MUS_neutrality_ADJ_MP_ES
 	}
 	text = {
 		trigger = {
-			OR = { tag = V72 original_tag = V72 }
+			OR = { tag = MUS original_tag = MUS }
 			has_government = radical
 		}
-		localization_key = V72_radical_ADJ_MP_ES
+		localization_key = MUS_radical_ADJ_MP_ES
 	}
 	text = {
 		trigger = {
@@ -74978,45 +74978,45 @@ defined_text = {
 	}
 	text = {
 		trigger = {
-			OR = { tag = V72 original_tag = V72 }
+			OR = { tag = MUS original_tag = MUS }
 			has_government = absolutist
 		}
-		localization_key = V72_absolutist_ADJ_FS_ES
+		localization_key = MUS_absolutist_ADJ_FS_ES
 	}
 	text = {
 		trigger = {
-			OR = { tag = V72 original_tag = V72 }
+			OR = { tag = MUS original_tag = MUS }
 			has_government = communism
 		}
-		localization_key = V72_communism_ADJ_FS_ES
+		localization_key = MUS_communism_ADJ_FS_ES
 	}
 	text = {
 		trigger = {
-			OR = { tag = V72 original_tag = V72 }
+			OR = { tag = MUS original_tag = MUS }
 			has_government = democratic
 		}
-		localization_key = V72_democratic_ADJ_FS_ES
+		localization_key = MUS_democratic_ADJ_FS_ES
 	}
 	text = {
 		trigger = {
-			OR = { tag = V72 original_tag = V72 }
+			OR = { tag = MUS original_tag = MUS }
 			has_government = fascism
 		}
-		localization_key = V72_fascism_ADJ_FS_ES
+		localization_key = MUS_fascism_ADJ_FS_ES
 	}
 	text = {
 		trigger = {
-			OR = { tag = V72 original_tag = V72 }
+			OR = { tag = MUS original_tag = MUS }
 			has_government = neutrality
 		}
-		localization_key = V72_neutrality_ADJ_FS_ES
+		localization_key = MUS_neutrality_ADJ_FS_ES
 	}
 	text = {
 		trigger = {
-			OR = { tag = V72 original_tag = V72 }
+			OR = { tag = MUS original_tag = MUS }
 			has_government = radical
 		}
-		localization_key = V72_radical_ADJ_FS_ES
+		localization_key = MUS_radical_ADJ_FS_ES
 	}
 	text = {
 		trigger = {
@@ -102995,45 +102995,45 @@ defined_text = {
 	}
 	text = {
 		trigger = {
-			OR = { tag = V72 original_tag = V72 }
+			OR = { tag = MUS original_tag = MUS }
 			has_government = absolutist
 		}
-		localization_key = V72_absolutist_ADJ_FP_ES
+		localization_key = MUS_absolutist_ADJ_FP_ES
 	}
 	text = {
 		trigger = {
-			OR = { tag = V72 original_tag = V72 }
+			OR = { tag = MUS original_tag = MUS }
 			has_government = communism
 		}
-		localization_key = V72_communism_ADJ_FP_ES
+		localization_key = MUS_communism_ADJ_FP_ES
 	}
 	text = {
 		trigger = {
-			OR = { tag = V72 original_tag = V72 }
+			OR = { tag = MUS original_tag = MUS }
 			has_government = democratic
 		}
-		localization_key = V72_democratic_ADJ_FP_ES
+		localization_key = MUS_democratic_ADJ_FP_ES
 	}
 	text = {
 		trigger = {
-			OR = { tag = V72 original_tag = V72 }
+			OR = { tag = MUS original_tag = MUS }
 			has_government = fascism
 		}
-		localization_key = V72_fascism_ADJ_FP_ES
+		localization_key = MUS_fascism_ADJ_FP_ES
 	}
 	text = {
 		trigger = {
-			OR = { tag = V72 original_tag = V72 }
+			OR = { tag = MUS original_tag = MUS }
 			has_government = neutrality
 		}
-		localization_key = V72_neutrality_ADJ_FP_ES
+		localization_key = MUS_neutrality_ADJ_FP_ES
 	}
 	text = {
 		trigger = {
-			OR = { tag = V72 original_tag = V72 }
+			OR = { tag = MUS original_tag = MUS }
 			has_government = radical
 		}
-		localization_key = V72_radical_ADJ_FP_ES
+		localization_key = MUS_radical_ADJ_FP_ES
 	}
 	text = {
 		trigger = {

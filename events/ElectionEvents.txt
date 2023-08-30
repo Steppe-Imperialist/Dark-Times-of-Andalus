@@ -18295,7 +18295,7 @@ country_event = {
 	is_triggered_only = yes
 
 	trigger = {
-		tag = V72
+		tag = MUS
 		OR = {
 			democratic > 0.5
 			neutrality > 0.5
@@ -18304,21 +18304,21 @@ country_event = {
 
 	option = {
 		name = election.456a
-		set_party_name = { ideology = democratic long_name = V72_conservative_party name = V72_conservative_party }
+		set_party_name = { ideology = democratic long_name = MUS_conservative_party name = MUS_conservative_party }
 		retire_country_leader = yes
 		set_country_leader_ideology = conservatism
 	}
 
 	option = {
 		name = election.456b
-		set_party_name = { ideology = democratic long_name = V72_liberal_party name = V72_liberal_party }
+		set_party_name = { ideology = democratic long_name = MUS_liberal_party name = MUS_liberal_party }
 		retire_country_leader = yes
 		set_country_leader_ideology = liberalism
 	}
 
 	option = {
 		name = election.456c
-		set_party_name = { ideology = democratic long_name = V72_socialist_party name = V72_socialist_party }
+		set_party_name = { ideology = democratic long_name = MUS_socialist_party name = MUS_socialist_party }
 		retire_country_leader = yes
 		set_country_leader_ideology = socialism
 	}

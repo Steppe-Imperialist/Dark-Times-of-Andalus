@@ -1,0 +1,36 @@
+
+state={
+	id=912
+	name="STATE_912"
+	
+	resources={
+		steel=27.000
+	    oil=5.000
+	}
+
+	history={
+		owner = NOV
+
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			arms_factory = 0
+			2995 = {
+				naval_base = 2
+			}
+			air_base = 0
+
+		}
+		add_core_of = SOV
+		add_core_of = NOV
+		add_claim_by = SWE
+	}
+
+	provinces={
+		22 64 76 2995 3016 3040 3058 3082 6015 6079 6092 6107 9042 9064 9089 11034 11063 11077 11104 
+	}
+	manpower=263218
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=10.000
+}

@@ -1,6 +1,6 @@
 characters={
-	V72_king_leonid={
-		name=V72_king_leonid
+	MUS_king_leonid={
+		name=MUS_king_leonid
 		portraits={
 			civilian={
 				large="GFX_UKR_Leo_Stefan_I"

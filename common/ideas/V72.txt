@@ -4,12 +4,12 @@ ideas = {
 
 		designer = yes
 
-		V72_tank_manufacturer = {
+		MUS_tank_manufacturer = {
 
 			picture = generic_tank_manufacturer_1
 
 			allowed = {
-				original_tag = V72
+				original_tag = MUS
 				NOT = {
 					has_available_idea_with_traits = { idea = tank_manufacturer limit = 1 }
 				}
@@ -30,12 +30,12 @@ ideas = {
 
 		designer = yes
 
-		V72_infantry_equipment_manufacturer = {
+		MUS_infantry_equipment_manufacturer = {
 
 			picture = generic_infantry_equipment_manufacturer_2
 
 			allowed = {
-				original_tag = V72
+				original_tag = MUS
 				NOT = {
 					has_available_idea_with_traits = { idea = infantry_equipment_manufacturer limit = 1 }
 				}

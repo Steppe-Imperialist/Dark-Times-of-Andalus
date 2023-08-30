@@ -1139,11 +1139,11 @@ category = {
 		V67_infantry_neutral_combat
 		V67_infantry_positive_combat
 		V67_infantry_retreat
-		V72_infantry_idle
-		V72_infantry_move_out
-		V72_infantry_neutral_combat
-		V72_infantry_positive_combat
-		V72_infantry_retreat
+		MUS_infantry_idle
+		MUS_infantry_move_out
+		MUS_infantry_neutral_combat
+		MUS_infantry_positive_combat
+		MUS_infantry_retreat
 		V76_infantry_idle
 		V76_infantry_move_out
 		V76_infantry_neutral_combat
@@ -25246,7 +25246,7 @@ soundeffect = {
 }
 
 soundeffect = {
-	name = V72_infantry_idle
+	name = MUS_infantry_idle
 	sounds = {
 		sound = ru_Idle_001
 		sound = ru_Idle_002
@@ -25284,7 +25284,7 @@ soundeffect = {
 }
 
 soundeffect = {
-	name = V72_infantry_move_out
+	name = MUS_infantry_move_out
 	sounds = {
 		sound = ru_Positive_010
 		sound = ru_Positive_011
@@ -25298,7 +25298,7 @@ soundeffect = {
 }
 
 soundeffect = {
-	name = V72_infantry_neutral_combat
+	name = MUS_infantry_neutral_combat
 	sounds = {
 		sound = ru_Neutral_001
 		sound = ru_Neutral_002
@@ -25330,7 +25330,7 @@ soundeffect = {
 }
 
 soundeffect = {
-	name = V72_infantry_positive_combat
+	name = MUS_infantry_positive_combat
 	sounds = {
 		sound = ru_Positive_001
 		sound = ru_Positive_002
@@ -25365,7 +25365,7 @@ soundeffect = {
 }
 
 soundeffect = {
-	name = V72_infantry_retreat
+	name = MUS_infantry_retreat
 	sounds = {
 		sound = ru_Retreat_001
 		sound = ru_Retreat_002

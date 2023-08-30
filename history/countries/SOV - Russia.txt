@@ -1,4 +1,4 @@
-﻿capital = 523
+﻿capital = 534
 set_major = yes
 set_cosmetic_tag = SOV_union
 set_research_slots = 4 

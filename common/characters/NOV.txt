@@ -1,0 +1,18 @@
+characters={
+	NOV_grigoriy_rurikovich={
+	name=NOV_grigoriy_rurikovich
+	portraits={
+		civilian={
+			large="gfx/leaders/NOV/Portrait_NOV_grigoriy_rurikovich.dds"
+		}
+	}
+	country_leader={
+		desc=NOV_grigoriy_rurikovich_DESC
+		ideology=minarchism
+		expire="1965.1.1.1"
+		id=-1
+		traits = { knyaz_of_freedom }
+	}
+}
+
+}

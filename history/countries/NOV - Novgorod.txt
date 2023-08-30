@@ -1,0 +1,52 @@
+capital = 522
+set_research_slots = 3
+
+oob = "NOV_OOB"
+
+# Starting tech
+# Research Bonuses
+
+set_country_flag = conv_russia
+set_convoys = 300
+
+set_politics = {
+    ruling_party = radical
+    last_election = "1836.1.1"
+    election_frequency = 48
+    elections_allowed = no
+}
+
+set_popularities = {
+	absolutist = 10
+	democratic = 40
+	neutrality = 6
+    fascism = 3
+	radical = 41
+}
+
+add_ideas = {
+	limited_conscription
+	civilian_economy
+	export_focus
+	culture_russian
+}
+
+recruit_character = NOV_grigoriy_rurikovich
+
+### VARIANTS ###
+if = {
+	limit = { not = { has_dlc = "Man the Guns" } }
+}
+if = {
+	limit = { has_dlc = "Man the Guns" }
+}
+### PLANE DESIGNS ###
+if = {
+	limit = { has_dlc = "By Blood Alone" }
+}
+### TANK DESIGNS ###
+if = {
+	limit = { has_dlc = "No Step Back" }
+}
+
+

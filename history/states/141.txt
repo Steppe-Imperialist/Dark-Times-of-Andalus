@@ -18,10 +18,7 @@ state={
 			air_base = 0
 
 		}
-		add_core_of = CZE
-		add_core_of = W09
 		add_claim_by = LIT
-		add_claim_by = SOV
 		add_claim_by = T79
 	}
 

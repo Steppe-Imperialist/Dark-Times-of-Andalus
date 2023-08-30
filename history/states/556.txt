@@ -4,7 +4,7 @@ state={
 	name="STATE_556"
 
 	history={
-		owner = SOV
+		owner = MUS
 		victory_points = {
 			3726 10 
 		}
@@ -16,6 +16,8 @@ state={
 
 		}
 		add_core_of = KAL
+		add_core_of = MUS
+		add_core_of = SOV
 	}
 
 	provinces={

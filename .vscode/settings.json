@@ -3,5 +3,6 @@
     "search.useGlobalIgnoreFiles": false,
     "search.useParentIgnoreFiles": false,
     "cwtools.rules_version": "manual",
-    "cwtools.rules_folder": "D:\\Разработка модов на Хойку\\cwtools-hoi4-config"
+    "cwtools.rules_folder": "D:\\Git\\cwtools-hoi4-config",
+    "hoi4ModUtilities.installPath": "c:\\Program Files (x86)\\Steam\\steamapps\\common\\Hearts of Iron IV"
 }
