@@ -31,7 +31,7 @@ add_ideas = {
 	culture_russian
 }
 
-recruit_character = NOV_knyaz_grigoriy
+recruit_character = NOV_grigoriy_rurikovich
 
 ### VARIANTS ###
 if = {
