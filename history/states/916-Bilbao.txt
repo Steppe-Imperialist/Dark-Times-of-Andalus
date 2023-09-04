@@ -1,0 +1,32 @@
+
+state={
+	id=916
+	name="STATE_916"
+	provinces={
+		738 11688 
+	}
+	history={
+		owner = X28
+		victory_points = {
+			11688 15 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 1
+			11688 = {
+				naval_base = 3
+			air_base = 1w
+           
+			add_core_of = X28
+		    add_core_of = X99
+			}
+		}
+
+	}
+
+	manpower=298724
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=10.000
+}

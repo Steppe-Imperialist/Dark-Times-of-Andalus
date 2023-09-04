@@ -4,7 +4,7 @@ state={
 	name="STATE_136"
 
 	history={
-		owner = X99
+		owner = ADU
 		victory_points = {
 			9839 1 
 		}
@@ -18,15 +18,15 @@ state={
 		add_core_of = SPR
 		add_core_of = T54
 		add_core_of = X99
-		add_claim_by = ADU
+		add_core_of = ADU
+
 	}
 
 	provinces={
-		6866 6902 9839 9877 9917 11756 13230 
+		6866 6902 9839 9877 9917 13230 
 	}
 	manpower=147296
 	buildings_max_level_factor=1.000
 	state_category=rural
-
-	local_supplies=10.0
+	local_supplies=10.000
 }

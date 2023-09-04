@@ -27,7 +27,7 @@ add_ideas = {
 	limited_conscription
 	civilian_economy
 	export_focus
-	culture_dummy
+	culture_spanish
 }
 
 recruit_character = X28_j._vom_c.

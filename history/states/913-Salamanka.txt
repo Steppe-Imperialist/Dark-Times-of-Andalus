@@ -1,0 +1,27 @@
+
+state={
+	id=913
+	name="STATE_913"
+	
+	history={
+		owner = X99
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = X99
+		add_core_of = X28
+		add_claim_by = ADU
+	}
+
+	provinces={
+		794 874 918 3874 6867 6907 9770 9827 9846 11756 11825 13221 13232 
+	}
+	manpower=412814
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=10.000
+}

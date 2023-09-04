@@ -911,3 +911,7 @@
  STATE_910:0 "STATE_910"
  STATE_911:0 "STATE_911"
  STATE_912:0 "Finnmark"
+ STATE_913:1 "Salamanka"
+ STATE_914:1 "Toledo"
+ STATE_915:0 "Burgos"
+ STATE_916:0 "Bilbao"
