@@ -157,7 +157,7 @@ add_opinion_modifier = { target = YUG modifier = negative_200 }
 
 
 add_ideas = {
-	uncivilized
+	
 	volunteer_only
 	low_economic_mobilisation
 	export_focus

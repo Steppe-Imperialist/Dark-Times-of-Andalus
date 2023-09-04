@@ -194,7 +194,7 @@ add_opinion_modifier = { target = YUG modifier = negative_200 }
 
 
 add_ideas = {
-	uncivilized
+	
 	MAL_monarch
 	volunteer_only
 	civilian_economy

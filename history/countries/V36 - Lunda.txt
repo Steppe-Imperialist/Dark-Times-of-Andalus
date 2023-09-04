@@ -261,7 +261,7 @@ add_opinion_modifier = { target = ZAM modifier = positive_40 }
 
 
 add_ideas = {
-	uncivilized
+	
 	limited_conscription
 	civilian_economy
 	export_focus

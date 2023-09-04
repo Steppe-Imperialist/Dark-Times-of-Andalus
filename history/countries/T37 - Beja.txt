@@ -78,7 +78,7 @@ set_popularities = {
 }
 
 add_ideas = {
-	uncivilized
+	
 	T37_monarch
 	limited_conscription
 	civilian_economy

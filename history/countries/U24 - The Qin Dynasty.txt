@@ -71,7 +71,7 @@ set_popularities = {
 }
 
 add_ideas = {
-	uncivilized
+	
 	volunteer_only
 	civilian_economy
 	export_focus

@@ -79,7 +79,6 @@ set_popularities = {
 }
 
 add_ideas = {
-	uncivilized
 	limited_conscription
 	civilian_economy
 	export_focus

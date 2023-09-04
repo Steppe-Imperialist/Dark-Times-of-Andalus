@@ -82,7 +82,7 @@ if = {
 }
 
 add_ideas = {
-	uncivilized
+	
 	volunteer_only
 	low_economic_mobilisation
 	export_focus
