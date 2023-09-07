@@ -1,0 +1,33 @@
+
+state={
+	id=917
+	name="STATE_917"
+	resources={
+		steel=2.000
+	}
+
+	history={
+		owner = LOT
+		victory_points = {
+			6651 2
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			arms_factory = 1
+			air_base = 0
+
+		}
+		add_core_of = LOT
+		add_core_of = FRA
+	}
+
+    provinces={
+		651 3621 3626 6648 6651 9629 
+	}
+	manpower=192002
+	buildings_max_level_factor=1.000
+	state_category=town
+	
+	local_supplies=10.0
+}

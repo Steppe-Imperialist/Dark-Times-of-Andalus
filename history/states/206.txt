@@ -7,7 +7,7 @@ state={
 	}
 
 	history={
-		owner = FRA
+		owner = LOT
 		victory_points = {
 			3495 1 
 		}
@@ -21,12 +21,13 @@ state={
 			air_base = 0
 
 		}
+		add_core_of = LOT
 		add_core_of = FRA
 		add_claim_by = ADU
 	}
 
 	provinces={
-		503 527 655 3495 3523 3659 9631 9867 11600 11613 
+		503 527 655 3495 3523 3659 9631 9867 11600 11613 13260
 	}
 	manpower=1519024
 	buildings_max_level_factor=1.000

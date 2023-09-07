@@ -8,7 +8,7 @@ state={
 	}
 
 	history={
-		owner = FRA
+		owner = LOT
 		victory_points = {
 			485 30 
 		}
@@ -25,6 +25,7 @@ state={
 		}
 		add_core_of = FRA
 		add_core_of = V32
+		add_core_of = LOT
 	}
 
 	provinces={

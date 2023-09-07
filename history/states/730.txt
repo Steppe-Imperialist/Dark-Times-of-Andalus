@@ -8,7 +8,7 @@ state={
 	}
 
 	history={
-		owner = WLL
+		owner = LOT
 		victory_points = {
 			11483 15 
 		}
@@ -19,16 +19,17 @@ state={
 			air_base = 6
 
 		}
+		add_core_of = LOT
 		add_core_of = V32
 		add_core_of = WLL
+
 	}
 
 	provinces={
-		3476 3536 6504 11483 
+		3476 3536 6504 9500 11483 
 	}
 	manpower=510008
 	buildings_max_level_factor=1.000
 	state_category=rural
-
-	local_supplies=10.0
+	local_supplies=10.000
 }

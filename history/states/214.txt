@@ -20,14 +20,14 @@ state={
 		add_claim_by = ADU
 		add_claim_by = OCC
 		add_claim_by = W52
+
 	}
 
 	provinces={
-		620 625 651 3621 3626 3771 6618 6648 6651 9629 9734 9751 11720 
+		620 3771 6618 9734 9751 
 	}
 	manpower=983972
 	buildings_max_level_factor=1.000
 	state_category=town
-
-	local_supplies=10.0
+	local_supplies=10.000
 }

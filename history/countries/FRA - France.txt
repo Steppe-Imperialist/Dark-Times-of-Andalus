@@ -1,4 +1,4 @@
-﻿capital = 205
+﻿capital = 216
 set_cosmetic_tag = FRA_union
 set_research_slots = 3
 
